@@ -1,8 +1,3 @@
-# Year 2 English 2017/2018
-
-***
-***
-
 ### (3). Colours
 
 Play some games to learn the colours/Jogar alguns jogos para apreender as cores: 
