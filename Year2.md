@@ -8,7 +8,7 @@
 Play some games to learn the colours/Jogar alguns jogos para apreender as cores: 
 1. [Match the colours to their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) ![bcol](/images/bcol.PNG)
 
-2. Match the colours to their names 2 [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) ![ccol](/images/ccol.PNG)  
+2. [Match the colours to their names 2]![ccol](/images/ccol.PNG) [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)   
    Play the **beginner** level/Jogar no nível **beginner**
 
 3. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) ![cmem](/images/cmem.PNG)  
