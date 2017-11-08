@@ -56,7 +56,7 @@ Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the s
 4. [The numbers song](https://www.youtube.com/watch?v=Exa-FZ1CksI) [![numb](/images/numb.PNG)](https://www.youtube.com/watch?v=Exa-FZ1CksI)
 ***
 
-### (0). Notes/Notas
+### Notes/Notas
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. Embora alguns dos recursos são dirigidos a crianças mais novos, são utilizados devido à pronuncia lenta e clara.
 * Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and must be accessed via an internet browser on a computer. Alguns recursos, produzidos antes do uso ubíquo de tablets e smart phones, não são formatados para nem acessíveis por estes aparelhos e só funcionam num browser regular instalado num computador.
 * Some resources require the browser to launch a recent version of Adobe Flash Player as a plug-in. Vários dos recursos requerem uma versão recente de Adobe Flash Player operacional como plug-in no browser.
