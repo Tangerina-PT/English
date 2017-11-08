@@ -5,7 +5,7 @@
 
 ### (3). Colours
 
-Play some games to learn the colours/Jogar alguns jogos para apreender as cores: 
+Play some games to learn the colours/Jogar alguns jogos para aprender as cores: 
 1. [Match the colours to their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours)
 
 2. [Match the colours to their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)   
@@ -27,7 +27,7 @@ Play some games to learn the colours/Jogar alguns jogos para apreender as cores:
 
 ### (2). The Alphabet
 
-Learn to spell aloud in English./Apreender a soletrar em voz alta em inglês.
+Learn to spell aloud in English./Aprender a soletrar em voz alta em inglês.
 
 1. Sing ![sing](/images/sing.png) the [alphabet song](https://www.youtube.com/watch?v=Y88p4V_BCEU) [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU)
 
