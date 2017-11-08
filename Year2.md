@@ -1,3 +1,5 @@
+![logo](/images/logo.png)
+
 ### (3). Colours
 
 Play some games to learn the colours/Jogar alguns jogos para apreender as cores: 
