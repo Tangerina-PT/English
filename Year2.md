@@ -2,7 +2,7 @@
 ***
 ### (4). Classroom Objects
 
-1). Watch the video ![chants](“Significado de ‘chant’: repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música”) to learn the words. Say the chants as you watch. / Ver os vídeos para aprender as palavras. Repetir em voz alta.
+1). Watch the video ![chants](/images/chants.png “Significado de ‘chant’: repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música”) to learn the words. Say the chants as you watch. / Ver os vídeos para aprender as palavras. Repetir em voz alta.
 * [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ) [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ)  
 * [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4) [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4)
 * [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)
