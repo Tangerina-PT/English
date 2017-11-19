@@ -12,7 +12,7 @@ Listen to each word. Can you find the object before it appears in colour? / Escu
 2). Play the [classroom memory game](https://www.freddiesville.com/games/school-supplies-memory-game/)[![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/)  
 Play three or four times to use all the words. / Joga o jogo de memória com objectos da sala de aula. Joga três ou quatro vezes para usar todas as palavras.
 
-3). Match the words to the pictures:[Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1) [![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)[![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
+3). Match the words to the pictures: [Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1) [![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2) [![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
 
 4). Optional extra challenges / Desafios extras opcionais  
 Do you know your classroom objects and you need an extra challenge? / Já sabes os objectos da sala de aula e precisas de mais um desafio?
@@ -52,12 +52,12 @@ Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
 1. Sing ![sing](/images/sing.png) the [alphabet song](https://www.youtube.com/watch?v=Y88p4V_BCEU) [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU)
 
 2. Play the [Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics) [![aant](/images/aant.PNG)](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)
-* click on each letter to hear its name / clica em cada letra para ouvir o nome
+* click on each letter to hear its name / clica em cada letra para ouvir o seu nome
 * start with the **easy** level, then challenge yourself with the medium and hard levels / Começa com o nível **easy**.
 
 3. Practise spelling your name aloud in English – click on the letters of your name in Alphabet Antics to help. / Pratica soletrar o teu próprio nome em voz alta em inglês - clica nas letras no Alphabet Antics para ajudar.
 
-4. Extra challenge if you have time: Can you spell the names of other members of your family? / Desafio extra para quem tem tempo: Soletra os nomes dos outros membros da família.
+4. Extra challenge if you have time: Can you spell the names of other members of your family? / Desafio extra para quem tem tempo: Soletra os nomes de outros membros da família.
 
 NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’
 
