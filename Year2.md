@@ -2,19 +2,19 @@
 ***
 ### (4). Classroom Objects
 
-1). Watch the video ![chants](/images/chants.png “Significado de ‘chant’: repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música”) to learn the words. Say the chants as you watch. / Vê os vídeos para aprender as palavras. Repete em voz alta.
+1. Watch the video ![chants](/images/chants.png “Significado de ‘chant’: repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música”) to learn the words. Say the chants as you watch. / Vê os vídeos para aprender as palavras. Repete em voz alta.
 * [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ) [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ)  
 * [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4) [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4)
 * [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)
 * [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
 Listen to each word. Can you find the object before it appears in colour? / Escuta cada palavra – consegues encontrar o objecto antes do objecto ficar colorido. 
 
-2). Play the [classroom memory game](https://www.freddiesville.com/games/school-supplies-memory-game/)[![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/)  
+2. Play the [classroom memory game](https://www.freddiesville.com/games/school-supplies-memory-game/)[![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/)  
 Play three or four times to use all the words. / Joga o jogo de memória com objectos da sala de aula. Joga três ou quatro vezes para usar todas as palavras.
 
-3). Match the words to the pictures: [Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1) [![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2) [![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
+3. Match the words to the pictures: [Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1) [![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2) [![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
 
-4). Optional extra challenges / Desafios extras opcionais:  
+4. Optional extra challenges / Desafios extras opcionais:  
 Do you know your classroom objects and you need an extra challenge? / Já sabes os objectos da sala de aula e precisas de mais um desafio?
 * Play the [‘questions’](http://www.mes-games.com/classroom1.phpd) [![tcss](/images/tcss.PNG)](http://www.mes-games.com/classroom1.phpd) and [‘spelling’](http://www.mes-games.com/classroom1.phpd) [![sssp](/images/sssp.PNG)](http://www.mes-games.com/classroom1.phpd) games:/  
 Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/classroom1.phpd)
