@@ -9,7 +9,7 @@ Touch your head, shoulders, knees and toes as you sing. / Toca na cabeça, nos o
 2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
 Touch your head, shoulders, knees and toes as you sing. Teach the song to someone in your family. / Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. Ensina a canção a um familiar. 
 
-3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Canta [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
+3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Consegues cantar [a versão que salta palavras?](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
 
 
 4) Challenge: can you sing the song while you point to the pictures? / Desafio: consegues cantar ao apontar às imagens?  
