@@ -1,4 +1,4 @@
-## Year 2 English 2017/2018 - Period 1
+## Year 2 English - 2017/2018 - Period 1
 ***
 ### (4). Classroom Objects
 
@@ -7,7 +7,7 @@
 * [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4) [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4)
 * [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)
 * [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
-Listen to each word. Can you find the object before it appears in colour? / Escuta cada palavra – encontra o objecto antes do objecto ficar colorido. 
+Listen to each word. Can you find the object before it appears in colour? / Escuta cada palavra – consegues encontrar o objecto antes do objecto ficar colorido. 
 
 2). Play the [classroom memory game](https://www.freddiesville.com/games/school-supplies-memory-game/)[![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/)  
 Play three or four times to use all the words. / Joga o jogo de memória com objectos da sala de aula. Joga três ou quatro vezes para usar todas as palavras.
