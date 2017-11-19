@@ -14,7 +14,7 @@ Play three or four times to use all the words. / Joga o jogo de memória com obj
 
 3). Match the words to the pictures: [Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1) [![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2) [![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
 
-4). Optional extra challenges / Desafios extras opcionais  
+4). Optional extra challenges / Desafios extras opcionais:  
 Do you know your classroom objects and you need an extra challenge? / Já sabes os objectos da sala de aula e precisas de mais um desafio?
 * Play the [‘questions’](http://www.mes-games.com/classroom1.phpd) [![tcss](/images/tcss.PNG)](http://www.mes-games.com/classroom1.phpd) and [‘spelling’](http://www.mes-games.com/classroom1.phpd) [![sssp](/images/sssp.PNG)](http://www.mes-games.com/classroom1.phpd) games:/  
 Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/classroom1.phpd)
