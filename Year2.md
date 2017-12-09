@@ -4,7 +4,7 @@
 
 ### Christmas song / Canção de Natal
 
-[![scct](/images/santa_town.PNG)](https://www.youtube.com/watch?v=HSmsq2iq4bQ) [Practice our Christmas song: Santa Claus is coming to town. / Pratica a nossa canção de Natal: O Pai Natal vem à vila.](https://www.youtube.com/watch?v=HSmsq2iq4bQ)
+[![santa_town](/images/santa_town.PNG)](https://www.youtube.com/watch?v=HSmsq2iq4bQ) [Practice our Christmas song: Santa Claus is coming to town. / Pratica a nossa canção de Natal: O Pai Natal vem à vila.](https://www.youtube.com/watch?v=HSmsq2iq4bQ)
 
 ***
 
