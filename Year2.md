@@ -2,6 +2,12 @@
 
 ***
 
+### Christmas song / Canção de Natal
+
+[![scct](/images/santa_town.PNG)](https://www.youtube.com/watch?v=HSmsq2iq4bQ) [Practice our Christmas song: Santa Claus is coming to town. / Pratica a nossa canção de Natal: O Pai Natal vem à vila.](https://www.youtube.com/watch?v=HSmsq2iq4bQ)
+
+***
+
 ### (5). Numbers 0 to 20  / Números de 0 a 20
 
 #### 1 to 10 / 1 a 10  
