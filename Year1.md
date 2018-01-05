@@ -21,7 +21,7 @@ Touch your head, shoulders, knees and toes as you sing. Teach the song to someon
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
 ***
-### Topic 2 - Colours
+### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A)
 
 #### Games
 
