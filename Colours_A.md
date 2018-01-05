@@ -1,6 +1,4 @@
-### Year 1 English - Colours
-
-#### Games
+### Colours
 
 Play some games to learn the colours/Joga alguns jogos para aprender as cores:  
 (1). Play [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / Joga [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
@@ -12,9 +10,9 @@ First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](
 
 (4). Other colour games / outros jogos com cores:  
 [Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)   
-[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprende novas palavras...
+[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprende novas palavras...  
 
-#### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
+### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
 
 (1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song:
 [I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk)  
