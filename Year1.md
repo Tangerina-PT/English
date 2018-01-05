@@ -1,6 +1,6 @@
 ## Year 1 English - 2017/2018 - Period 1
 ***
-### Topic 3 - Body parts
+### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Bodyparts_A)
 
 #### Song: *Head, shoulders, knees and toes* (*Cabeça, ombros, joelhos e dedos dos pés*)  
 (1). [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) 
@@ -48,7 +48,7 @@ Watch the colours as you sing. / Olha para as cores ao cantar.
 
 ***
 
-### Topic 1 - Greetings
+### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)
 
 #### 'What’s your name?', 'My name is…'/'I’m…', 'How are you?', 'I’m fine, thank you.'
 
