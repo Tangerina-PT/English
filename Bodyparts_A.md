@@ -19,6 +19,9 @@ Touch your head, shoulders, knees and toes as you sing. Teach the song to someon
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
 ***
+[![home](/images/home.png)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+
+***
 
 ### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
