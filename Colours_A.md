@@ -23,7 +23,7 @@ Watch the colours as you sing. / Olha para as cores ao cantar.
 (3). Challenge: Muddle up the colours. Can you sing the song while pointing to the colours when they are out of order? / Desafio: Desarruma as cores. Consegues cantar a canção ao apontar para as cores quando estão fora de ordem?
 
 ***
-[Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
 
 ***
 
