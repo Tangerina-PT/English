@@ -24,6 +24,10 @@
    Play 0-10  ![nobi3](/images/nobi3.PNG), then 10-20 ![nobi4](/images/nobi4.PNG).  
 
 ***
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+
+***
+
 
 #### Notes for parents / Notas para os pais
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
