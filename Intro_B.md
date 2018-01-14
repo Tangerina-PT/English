@@ -11,7 +11,7 @@ Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the s
 4. [The numbers song](https://www.youtube.com/watch?v=Exa-FZ1CksI) [![numb](/images/numb.PNG)](https://www.youtube.com/watch?v=Exa-FZ1CksI)  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
 
 ***
 #### Notes for parents / Notas para os pais
