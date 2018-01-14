@@ -8,10 +8,12 @@ Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the s
 
 3. [I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk) Watch the colours as you sing.
 
-4. [The numbers song](https://www.youtube.com/watch?v=Exa-FZ1CksI) [![numb](/images/numb.PNG)](https://www.youtube.com/watch?v=Exa-FZ1CksI)
+4. [The numbers song](https://www.youtube.com/watch?v=Exa-FZ1CksI) [![numb](/images/numb.PNG)](https://www.youtube.com/watch?v=Exa-FZ1CksI)  
 
 ***
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
 
+***
 #### Notes for parents / Notas para os pais
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
 * Ensure the sound is switched on. / Certifiquem-se de que o som está ligado.
