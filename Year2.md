@@ -10,7 +10,7 @@
 
 ***
 
-### (5). Numbers 0 to 20  / Números de 0 a 20
+### [Topic 5 - Numbers 0 to 20 / Números de 0 a 20](https://tangerina-pt.github.io/English/Numbers_1_to_20)
 
 #### 1 to 10 / 1 a 10  
 
@@ -37,7 +37,7 @@
 
 ***
 
-### (4). Classroom Objects
+### [Topic 4 - Classroom Objects / Objetos da sala da aula](https://tangerina-pt.github.io/English/Classroom_Objects_B)
 
 1. Watch the video chants to learn the words. Say the chants as you watch. / Vê os vídeos para aprender as palavras. Repete em voz alta. (Significado de 'chant': repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música)  
 * [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ) [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ)  
@@ -60,7 +60,7 @@ Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/class
 
 ***
 
-### (3). Colours
+### [Topic 3 - Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
 
 Play some games to learn the colours/Joga alguns jogos para aprender as cores: 
 1. [Match the colours to their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours)
@@ -82,7 +82,7 @@ Play some games to learn the colours/Joga alguns jogos para aprender as cores:
 
 ***
 
-### (2). The Alphabet
+### [Topic 2 - The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
 
 Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
 
@@ -100,7 +100,7 @@ NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe
 
 ***
 
-### (1). Initial songs
+### [Topic 1 - Introductory songs / Canções iniciais](https://tangerina-pt.github.io/English/Intro_B)
 
 Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:
 
