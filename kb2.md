@@ -6,7 +6,7 @@
 [![kb1st2](/images/kb1st2.PNG)](https://www.youtube.com/watch?v=p7cA19q52U0) [KB 1.2](https://www.youtube.com/watch?v=p7cA19q52U0)  
 [![kb1st1](/images/kb1st1.PNG)](https://www.youtube.com/watch?v=Xy6xNFwKBPI) [KB 1.1](https://www.youtube.com/watch?v=Xy6xNFwKBPI)  
 
-#### Songs / Canções
+#### Songs and chants / Canções e cantos
 [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you? / Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
 
 
