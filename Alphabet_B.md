@@ -12,10 +12,12 @@ Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
 
 4. Extra challenge if you have time: Can you spell the names of other members of your family? / Desafio extra para quem tem tempo: Soletra os nomes de outros membros da família.
 
-NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’
+NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’  
 
 ***
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
 
+***
 #### Notes for parents / Notas para os pais
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
 * Ensure the sound is switched on. / Certifiquem-se de que o som está ligado.
