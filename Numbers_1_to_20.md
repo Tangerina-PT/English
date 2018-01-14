@@ -25,7 +25,7 @@
 
 ***
 
-### Notes for parents / Notas para os pais
+#### Notes for parents / Notas para os pais
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
 * Ensure the sound is switched on. / Certifiquem-se de que o som está ligado.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
