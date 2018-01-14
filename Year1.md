@@ -1,8 +1,8 @@
 ## Year 1 English - 2017/2018
-[![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb1)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb1)  
+[![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb1) [![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb1)  
 
 ***
-## Period 2
+## Period 2  
 
 ***
 ## Period 1
