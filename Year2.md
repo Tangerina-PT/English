@@ -2,12 +2,11 @@
 [![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb2)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb2)  
 
 ***
-## Period 2  
+## Period 2
 
 ***
 ## Period 1
 
-***
 ### Christmas song / Canção de Natal
 [![santa_town](/images/santa_town.PNG)](https://www.youtube.com/watch?v=HSmsq2iq4bQ) (Santa Claus is coming to town / O Pai Natal vem à vila.)  
 ***
