@@ -10,6 +10,6 @@
 
 ***
 
-[Official website](http://www.kidsboxapps.es/kb1.php) ![kb1ban](/images/kb1ban.PNG)  
+[![kb1ban](/images/kb1ban.PNG)](http://www.kidsboxapps.es/kb1.php) [Official website](http://www.kidsboxapps.es/kb1.php)  
 
 Click on ![kb1stic](/images/kb1stic.PNG) for stories. Click on ![kb1soic](/images/kb1soic.PNG) for songs.
