@@ -16,9 +16,13 @@ Play some games to learn the colours/Joga alguns jogos para aprender as cores:
    Choose the correct spelling then click on the red button./Escolhe a ortografia certa e clica no botão vermelho.
 
    ‘Collect the stars’ [![star](/images/star.PNG)](http://www.mes-games.com/colors.php)  
-   Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.
+   Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
 
 ***
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+
+***
+
 
 #### Notes for parents / Notas para os pais
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
