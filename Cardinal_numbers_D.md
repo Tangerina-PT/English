@@ -2,7 +2,7 @@
 
 #### 1-10
 
-1. [British pronunciation](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10) [![bc10](/images/bc10.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10)
+1. [Match the number to the word](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10) [![bc10](/images/bc10.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10)
 
 2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-1) [![lc10](/images/lc10.PNG)](http://www.learningchocolate.com/content/numbers-1)    
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
@@ -12,14 +12,14 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 
 #### 11-20
 
-1. [![bc20](/images/bc20.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-11-20) [British pronunciation](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-11-20)
+1. [Match the number to the word](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-11-20) [![bc20](/images/bc20.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-11-20) 
  
 2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-2) [![lc30](/images/lc20.png)](http://www.learningchocolate.com/content/numbers-2)    
 
 
 #### 30-100+
 
-1. [![bc30](/images/bc30.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) [British pronunciation](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10)
+1. [Match the number to the word](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) [![bc30](/images/bc30.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) 
 
 2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-3) [![lc30](/images/lc30.PNG)](http://www.learningchocolate.com/content/numbers-3)    
 
