@@ -8,7 +8,9 @@
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
 Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)
 
-3. 
+3. Can you spell the numbers 1-10? / Consegues soletrar os números 1 a 10?
+[Pop the letter balloons as they go past. / Rebenta os balões-letras na ordem certa.](https://learnenglishkids.britishcouncil.org/en/archived-word-games/balloon-burst/numbers-1-10)  
+[![bcns](/images/bcns.PNG)](https://learnenglishkids.britishcouncil.org/en/archived-word-games/balloon-burst/numbers-1-10)
 
 #### 11-20
 
@@ -16,13 +18,14 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
  
 2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-2) [![lc20](/images/lc20.PNG)](http://www.learningchocolate.com/content/numbers-2)    
 
+3. Can you spell the numbers 11-20? / Consegues soletrar os números 11 a 20?
+[Pop the letter balloons as they go past. / Rebenta os balões-letras na ordem certa.](https://learnenglishkids.britishcouncil.org/en/archived-word-games/balloon-burst/numbers-11-20)
 
 #### 30-100+
 
 1. [Match the number to the word](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) [![bc30](/images/bc30.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) 
 
 2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-3) [![lc30](/images/lc30.PNG)](http://www.learningchocolate.com/content/numbers-3)    
-
 
 #### Extra challenge
 
