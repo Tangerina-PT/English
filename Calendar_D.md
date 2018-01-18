@@ -12,7 +12,7 @@ Note the American pronunciation of Tuesday. / Nota a pronúncia Americana de 'Tu
 2. Do you know the days of the week?  / Já sabes os dias da semana?  
 [Test yourself! / Verifica!](http://www.learningchocolate.com/content/days) [![lcda](/images/lcda.png)](http://www.learningchocolate.com/content/days)  
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
-Click on / clica em: ![lcmu1](/images/lcma1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcma3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)?
+Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)?
 
 #### Months of the year
 
