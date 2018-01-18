@@ -39,7 +39,7 @@ Click on the letters to spell the word then click on ‘Check’./Clica nas letr
 [![smmn](/images/smmn.PNG)](https://www.eslgamesplus.com/months-and-ordinal-numbers-esl-vocabulary-game-activity-online/)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4) [Return to Year 4 English Site](https://tangerina-pt.github.io/English/Year4)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4_vocab) [Return to Year 4 English Vocabulary Site](https://tangerina-pt.github.io/English/Year4_vocab)
 
 ***
 #### Notes / Notas
