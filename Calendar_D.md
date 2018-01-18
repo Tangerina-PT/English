@@ -1,5 +1,7 @@
 ### Calendar
 
+*Remember, in English we write the days of the week and the months of the year with a capital letter. / Não te esqueças que em inglês, escrevemos os dias da semana e os meses do ano com uma letra maiúscula.*
+
 #### Days of the week
 
 1. Listen to ![listen](/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=2ie8BHtIh0I) [![dauk](/images/dauk.PNG)](https://www.youtube.com/watch?v=2ie8BHtIh0I). /  
@@ -27,8 +29,7 @@ Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube
 
    ‘Collect the stars’ ![star](/images/star.PNG)    
    Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
-   *Remember, in English we write the months of the year with a capital letter. / Não te esqueças, em inglês, escrevemos os meses do ano começando com uma letra maiúscula.*
-
+   
 #### Ordinal numbers
 
 [1st-10th](http://www.learningchocolate.com/content/ordinal-numbers-1)[![lcor1](/images/lcor1.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-1) [11th-20th](http://www.learningchocolate.com/content/ordinal-numbers-2) [![lcor2](/images/lcor2.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-2) [21st-30th](http://www.learningchocolate.com/content/ordinal-numbers-3) [![lcor3](/images/lcor3.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-3)
