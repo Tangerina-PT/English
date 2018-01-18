@@ -10,7 +10,7 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 
 3. Can you spell the numbers 1-10? / Consegues soletrar os números 1 a 10?
 [Pop the letter balloons as they go past. / Rebenta os balões-letras na ordem certa.](https://learnenglishkids.britishcouncil.org/en/archived-word-games/balloon-burst/numbers-1-10)  
-[![bcns](/images/bcns.PNG)](https://learnenglishkids.britishcouncil.org/en/archived-word-games/balloon-burst/numbers-1-10)
+[![bcns1](/images/bcns1.PNG)](https://learnenglishkids.britishcouncil.org/en/archived-word-games/balloon-burst/numbers-1-10)
 
 #### 11-20
 
