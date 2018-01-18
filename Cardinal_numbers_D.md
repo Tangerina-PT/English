@@ -32,12 +32,8 @@ Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as ac
 1. [![bcnd](/images/bcnd.PNG)](http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice/understanding-numbers) [Listening challenge / Desafio de compreensão oral](http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice/understanding-numbers)    
 Listen to the numbers in the recording. Can you put them in order while you are listening? Can you group them into numbers you hear and numbers you don’t hear? / Ouve os números na gravação. Consegues identificá-los e pô-los em ordem enquanto ouvires? Consegues grupar os números indicando se os ouviste ou não?  
 
-
-
-
-
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4) [Return to Year 4 English Site](https://tangerina-pt.github.io/English/Year4)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4_vocab) [Return to Year 4 English Vocabulary Site](https://tangerina-pt.github.io/English/Year4_vocab)
 
 ***
 #### Notes / Notas
