@@ -24,10 +24,10 @@ Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube
 2. Can you spell the months of the year? / Consegues soletrar os meses?  
 [![mesm](/images/mesm.PNG)](http://www.mes-games.com/months.php) [Play spelling games / Joga jogos de ortografia](http://www.mes-games.com/months.php)
 
-(Click on **‘Spelling’**-choose / clica no **Spelling**-escolha: ‘Missile defence’ ![mdef](/images/mdef.PNG)  
+((a).Click on **‘Spelling’**-choose / clica no **Spelling**-escolha: ‘Missile defence’ ![mdef](/images/mdef.PNG)  
 Choose correct spelling-click on red button./Escolhe ortografia certa-clica no botão vermelho.  
 
-Click on **‘Spelling’**-choose / clica no **Spelling**-escolha: ‘Collect the stars’ ![star](/images/star.PNG)  
+(b).Click on **‘Spelling’**-choose / clica no **Spelling**-escolha: ‘Collect the stars’ ![star](/images/star.PNG)  
 Click on the letters to spell the word then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.)
 
 #### Ordinal numbers
