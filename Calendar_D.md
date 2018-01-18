@@ -6,7 +6,7 @@
 Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=2ie8BHtIh0I).
 
 2. Do songs help you remember? / As canções ajudam-te a lembrar?  
-![sing](/images/sing.png) [the days of the week song](https://www.youtube.com/watch?v=36n93jvjkDs) [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs)  
+Sing ![sing](/images/sing.png) [the days of the week song](https://www.youtube.com/watch?v=36n93jvjkDs) [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs)  
 Note the American pronunciation of Tuesday. / Nota a pronúncia Americana de 'Tuesday'.
 
 2. Do you know the days of the week?  / Já sabes os dias da semana?  
@@ -17,7 +17,7 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 #### Months of the year
 
 1. Do songs help you remember? / As canções ajudam-te a lembrar?  
-![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
+Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
 
 #### Ordinal numbers
 
