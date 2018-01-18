@@ -19,13 +19,24 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 1. Do songs help you remember? / As canções ajudam-te a lembrar?  
 Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
 
+2. Can you spell the months of the year? / Consegues soletrar os meses?  
+   Play some [spelling games](http://www.mes-games.com/months.php)  
+   Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
+
+   ‘Missile defence’ ![mdef](/images/mdef.PNG)  
+   Choose the correct spelling then click on the red button./Escolhe a ortografia certa e clica no botão vermelho.
+
+   ‘Collect the stars’ ![star](/images/star.PNG)    
+   Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
+   Remember, in English we write the months of the year with a capital letter. / Não te esqueças, em inglês, escrevemos os meses do ano começando com uma letra maiúscula.
+
 #### Ordinal numbers
 
 [1st-10th](http://www.learningchocolate.com/content/ordinal-numbers-1)[![lcor1](/images/lcor1.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-1) [11th-20th](http://www.learningchocolate.com/content/ordinal-numbers-2) [![lcor2](/images/lcor2.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-2) [21st-30th](http://www.learningchocolate.com/content/ordinal-numbers-3) [![lcor3](/images/lcor3.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-3)
  
-#### Other calendar games
+#### Other
 
-1. [![smmn](/images/smmn.PNG)](https://www.eslgamesplus.com/months-and-ordinal-numbers-esl-vocabulary-game-activity-online/)
+[![smmn](/images/smmn.PNG)](https://www.eslgamesplus.com/months-and-ordinal-numbers-esl-vocabulary-game-activity-online/)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4) [Return to Year 4 English Site](https://tangerina-pt.github.io/English/Year4)
