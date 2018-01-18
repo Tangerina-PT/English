@@ -20,7 +20,7 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
 
 2. Can you spell the months of the year? / Consegues soletrar os meses?  
-   Play [spelling games /jogos de ortografia](http://www.mes-games.com/months.php) Click on **‘Spelling’** / clica no **Spelling**
+   [![mesm](/images/mesm.PNG)](http://www.mes-games.com/months.php) [Spelling games / Jogos de ortografia](http://www.mes-games.com/months.php) Click on **‘Spelling’** / clica no **Spelling**
 
    ‘Missile defence’ ![mdef](/images/mdef.PNG)  
    Choose correct spelling-click on red button./Escolhe ortografia certa-clica no botão vermelho.
