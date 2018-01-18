@@ -2,7 +2,7 @@
 
 #### 1-10
 
-1. [![bc10](/images/bc10.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10) [British pronunciation](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10)
+1. [British pronunciation](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10) [![bc10](/images/bc10.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10)
 
 2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-1) [![lc10](/images/lc10.PNG)](http://www.learningchocolate.com/content/numbers-1)    
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
@@ -21,10 +21,10 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 
 1. [![bc30](/images/bc30.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) [British pronunciation](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-1-10)
 
-2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-3) [![lc30](/images/lc30.png)](http://www.learningchocolate.com/content/numbers-3)    
+2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-3) [![lc30](/images/lc30.PNG)](http://www.learningchocolate.com/content/numbers-3)    
 
 
-#### Extra challenges
+#### Extra challenge
 
 1. [![bcnd](/images/bcnd.PNG)](http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice/understanding-numbers) [Listening challenge / Desafio de compreensão oral](http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice/understanding-numbers)    
 Listen to the numbers in the recording. Can you put them in order while you are listening? Can you group them into numbers you hear and numbers you don’t hear? / Ouve os números na gravação. Consegues identificá-los e pô-los em ordem enquanto ouvires? Consegues grupar os números indicando se os ouviste ou não?  
