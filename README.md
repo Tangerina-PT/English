@@ -8,10 +8,10 @@
 <a href="url">link text</a>
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="https://tangerina-pt.github.io/English/Year1">Year 1</a> |
-  <a href="#">https://tangerina-pt.github.io/English/Year2</a> |
-  <a href="#">https://tangerina-pt.github.io/English/Year3</a>
+  <a href="https://tangerina-pt.github.io/English/Year1"><h2>Year 1</h2></a>
+  <a href="https://tangerina-pt.github.io/English/Year2">Year 2</a>
+  <a href="https://tangerina-pt.github.io/English/Year3">Year 3</a>
+  <a href="https://tangerina-pt.github.io/English/Year4">Year 4</a>
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
