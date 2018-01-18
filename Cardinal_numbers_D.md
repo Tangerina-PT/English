@@ -14,7 +14,7 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 
 1. [Match the number to the word](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-11-20) [![bc20](/images/bc20.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-11-20) 
  
-2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-2) [![lc30](/images/lc20.png)](http://www.learningchocolate.com/content/numbers-2)    
+2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-2) [![lc20](/images/lc20.PNG)](http://www.learningchocolate.com/content/numbers-2)    
 
 
 #### 30-100+
