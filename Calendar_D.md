@@ -9,9 +9,9 @@ Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?
 ![sing](/images/sing.png) [the days of the week song](https://www.youtube.com/watch?v=36n93jvjkDs) [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs)  
 Note the American pronunciation of Tuesday. / Nota a pronúncia Americana de 'Tuesday'.
 
-2. Do you know the days of the week? [Test yourself!](http://www.learningchocolate.com/content/days) / Já sabes os dias da semana? [Verifica!](http://www.learningchocolate.com/content/days) [![lcda](/images/lcda.PNG)](http://www.learningchocolate.com/content/days)  
+2. Do you know the days of the week? [Test yourself!](http://www.learningchocolate.com/content/days) / Já sabes os dias da semana? [Verifica!](http://www.learningchocolate.com/content/days) [![lcda](/images/lcda.png)](http://www.learningchocolate.com/content/days)  
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
-Click on / clica em: ![lcma1](/images/lcma1.PNG), ![lcma2](/images/lcma2.PNG), ![lcma3](/images/lcma3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)?
+Click on / clica em: ![lcmu1](/images/lcma1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcma3](/images/lcma3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)?
 
 #### Months of the year
 
