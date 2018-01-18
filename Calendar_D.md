@@ -20,15 +20,14 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
 
 2. Can you spell the months of the year? / Consegues soletrar os meses?  
-   Play some [spelling games](http://www.mes-games.com/months.php)  
-   Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
+   Play [spelling games /jogos de ortografia](http://www.mes-games.com/months.php) Click on **‘Spelling’** / clica no **Spelling**
 
    ‘Missile defence’ ![mdef](/images/mdef.PNG)  
    Choose the correct spelling then click on the red button./Escolhe a ortografia certa e clica no botão vermelho.
 
    ‘Collect the stars’ ![star](/images/star.PNG)    
    Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
-   Remember, in English we write the months of the year with a capital letter. / Não te esqueças, em inglês, escrevemos os meses do ano começando com uma letra maiúscula.
+   *Remember, in English we write the months of the year with a capital letter. / Não te esqueças, em inglês, escrevemos os meses do ano começando com uma letra maiúscula.*
 
 #### Ordinal numbers
 
