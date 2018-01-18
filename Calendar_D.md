@@ -15,7 +15,8 @@ Click on / clica em: ![lcmu1](/images/lcma1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 
 #### Months of the year
 
-1. Do songs help you remember? / As canções ajudam-te a lembrar? ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
+1. Do songs help you remember? / As canções ajudam-te a lembrar?  
+![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
 
 #### Ordinal numbers
 
