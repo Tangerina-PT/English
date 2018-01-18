@@ -22,14 +22,14 @@ Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), !
 Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
 
 2. Can you spell the months of the year? / Consegues soletrar os meses?  
-   [![mesm](/images/mesm.PNG)](http://www.mes-games.com/months.php) [Spelling games / Jogos de ortografia](http://www.mes-games.com/months.php) Click on **‘Spelling’** / clica no **Spelling**
+[![mesm](/images/mesm.PNG)](http://www.mes-games.com/months.php) [Play spelling games / Joga jogos de ortografia](http://www.mes-games.com/months.php)
 
-   ‘Missile defence’ ![mdef](/images/mdef.PNG)  
-   Choose correct spelling-click on red button./Escolhe ortografia certa-clica no botão vermelho.
+(Click on **‘Spelling’** / clica no **Spelling** then choose the game: ‘Missile defence’ ![mdef](/images/mdef.PNG)  
+Choose correct spelling-click on red button./Escolhe ortografia certa-clica no botão vermelho.  
 
-   ‘Collect the stars’ ![star](/images/star.PNG)    
-   Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
-   
+Click on **‘Spelling’** / clica no **Spelling** then choose the game: ‘Collect the stars’ ![star](/images/star.PNG)  
+Click on the letters to spell the word then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.)
+
 #### Ordinal numbers
 
 [1st-10th](http://www.learningchocolate.com/content/ordinal-numbers-1)[![lcor1](/images/lcor1.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-1) [11th-20th](http://www.learningchocolate.com/content/ordinal-numbers-2) [![lcor2](/images/lcor2.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-2) [21st-30th](http://www.learningchocolate.com/content/ordinal-numbers-3) [![lcor3](/images/lcor3.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-3)
