@@ -1,6 +1,6 @@
 ### Calendar
 
-*Remember, in English we write the days of the week and the months of the year with a capital letter. / Não te esqueças que em inglês, escrevemos os dias da semana e os meses do ano com uma letra maiúscula.*
+*Remember, in English we write the days of the week and the months of the year with a capital letter... / Não te esqueças que em inglês, escrevemos os dias da semana e os meses do ano com uma letra maiúscula...*
 
 #### Days of the week
 
@@ -24,10 +24,10 @@ Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube
 2. Can you spell the months of the year? / Consegues soletrar os meses?  
 [![mesm](/images/mesm.PNG)](http://www.mes-games.com/months.php) [Play spelling games / Joga jogos de ortografia](http://www.mes-games.com/months.php)
 
-(Click on **‘Spelling’** / clica no **Spelling** then choose the game: ‘Missile defence’ ![mdef](/images/mdef.PNG)  
+(Click on **‘Spelling’**-choose / clica no **Spelling**-escolha: ‘Missile defence’ ![mdef](/images/mdef.PNG)  
 Choose correct spelling-click on red button./Escolhe ortografia certa-clica no botão vermelho.  
 
-Click on **‘Spelling’** / clica no **Spelling** then choose the game: ‘Collect the stars’ ![star](/images/star.PNG)  
+Click on **‘Spelling’**-choose / clica no **Spelling**-escolha: ‘Collect the stars’ ![star](/images/star.PNG)  
 Click on the letters to spell the word then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.)
 
 #### Ordinal numbers
