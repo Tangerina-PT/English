@@ -11,6 +11,21 @@
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
 Click on / clica em: ![lcma1](/images/lcma1.PNG), ![lcma2](/images/lcma2.PNG), ![lcma3](/images/lcma3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)?
 
+#### Months of the year
+
+1. Do songs help you remember? / As canções ajudam-te a lembrar? ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
+
+#### Ordinal numbers
+
+1. [![lcor1](/images/lcor1.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-1) [1st-10th](http://www.learningchocolate.com/content/ordinal-numbers-1)  
+
+2. [![lcor2](/images/lcor2.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-2) [11th-20th](http://www.learningchocolate.com/content/ordinal-numbers-2)  
+
+3. [![lcor3](/images/lcor3.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-3) [21st-30th](http://www.learningchocolate.com/content/ordinal-numbers-3)  
+ 
+#### Other calendar games
+
+1. [![smmn](/images/smmn.PNG)](https://www.eslgamesplus.com/months-and-ordinal-numbers-esl-vocabulary-game-activity-online/)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4) [Return to Year 4 English Site](https://tangerina-pt.github.io/English/Year4)
