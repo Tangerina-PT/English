@@ -11,15 +11,12 @@
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
 Click on / clica em: ![lcma1](/images/lcma1.PNG), ![lcma2](/images/lcma2.PNG), ![lcma3](/images/lcma3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)?
 
-4. Extra challenge if you have time: Can you spell the names of other members of your family? / Desafio extra para quem tem tempo: Soletra os nomes de outros membros da família.
-
-NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4) [Return to Year 4 English Site](https://tangerina-pt.github.io/English/Year4)
 
 ***
-#### Notes for parents / Notas para os pais
+#### Notes / Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
 * Ensure the sound is switched on. / Certifiquem-se de que o som está ligado.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
