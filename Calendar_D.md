@@ -7,7 +7,7 @@ Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?
 
 2. Do songs help you remember? / As canções ajudam-te a lembrar?  
 Sing ![sing](/images/sing.png) [the days of the week song](https://www.youtube.com/watch?v=36n93jvjkDs) [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs)  
-Note the American pronunciation of Tuesday. / Nota a pronúncia Americana de 'Tuesday'.
+Note American pronunciation of Tuesday. / Nota pronúncia Americana de 'Tuesday'.
 
 2. Do you know the days of the week?  / Já sabes os dias da semana?  
 [Test yourself! / Verifica!](http://www.learningchocolate.com/content/days) [![lcda](/images/lcda.png)](http://www.learningchocolate.com/content/days)  
