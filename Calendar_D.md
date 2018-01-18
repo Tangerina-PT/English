@@ -21,11 +21,7 @@ Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube
 
 #### Ordinal numbers
 
-1. [![lcor1](/images/lcor1.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-1) [1st-10th](http://www.learningchocolate.com/content/ordinal-numbers-1)  
-
-2. [![lcor2](/images/lcor2.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-2) [11th-20th](http://www.learningchocolate.com/content/ordinal-numbers-2)  
-
-3. [![lcor3](/images/lcor3.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-3) [21st-30th](http://www.learningchocolate.com/content/ordinal-numbers-3)  
+[1st-10th](http://www.learningchocolate.com/content/ordinal-numbers-1)[![lcor1](/images/lcor1.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-1) [11th-20th](http://www.learningchocolate.com/content/ordinal-numbers-2) [![lcor2](/images/lcor2.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-2) [21st-30th](http://www.learningchocolate.com/content/ordinal-numbers-3) [![lcor3](/images/lcor3.PNG)](http://www.learningchocolate.com/content/ordinal-numbers-3)
  
 #### Other calendar games
 
