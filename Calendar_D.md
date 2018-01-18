@@ -2,9 +2,11 @@
 
 #### Days of the week
 
-1. Listen to ![listen](/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=2ie8BHtIh0I) [![dauk](/images/dauk.PNG)](https://www.youtube.com/watch?v=2ie8BHtIh0I). / Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=2ie8BHtIh0I).
+1. Listen to ![listen](/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=2ie8BHtIh0I) [![dauk](/images/dauk.PNG)](https://www.youtube.com/watch?v=2ie8BHtIh0I). /  
+Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=2ie8BHtIh0I).
 
-2. Do songs help you remember? / As canções ajudam-te a lembrar? ![sing](/images/sing.png) [the days of the week song](https://www.youtube.com/watch?v=36n93jvjkDs) [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs)  
+2. Do songs help you remember? / As canções ajudam-te a lembrar?  
+![sing](/images/sing.png) [the days of the week song](https://www.youtube.com/watch?v=36n93jvjkDs) [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs)  
 (Notice the different American pronunciation of Tuesday. / Nota a pronúncia Americana diferente de 'Tuesday'.)
 
 2. Do you know the days of the week? [Test yourself!](http://www.learningchocolate.com/content/days) / Já sabes os dias da semana? [Verifica!](http://www.learningchocolate.com/content/days) [![lcda](/images/lcda.PNG)](http://www.learningchocolate.com/content/days)  
