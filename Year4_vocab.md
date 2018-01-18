@@ -1,7 +1,5 @@
 ## Year 4 English - Vocabulary - 2017/2018
-
 ***
-### Vocab
 Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulário?  
 #### [The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
 #### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
