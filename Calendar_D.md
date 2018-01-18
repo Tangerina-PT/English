@@ -23,7 +23,7 @@ Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube
    Play [spelling games /jogos de ortografia](http://www.mes-games.com/months.php) Click on **‘Spelling’** / clica no **Spelling**
 
    ‘Missile defence’ ![mdef](/images/mdef.PNG)  
-   Choose the correct spelling then click on the red button./Escolhe a ortografia certa e clica no botão vermelho.
+   Choose correct spelling-click on red button./Escolhe ortografia certa-clica no botão vermelho.
 
    ‘Collect the stars’ ![star](/images/star.PNG)    
    Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
