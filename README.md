@@ -1,13 +1,6 @@
 ## English 2017-2018
 
-### [Year 1](https://tangerina-pt.github.io/English/Year1)
-### [Year 2](https://tangerina-pt.github.io/English/Year2)
-### [Year 3](https://tangerina-pt.github.io/English/Year3)
-### [Year 4](https://tangerina-pt.github.io/English/Year4)
-
-<a href="url">link text</a>
-
-<h2>
+<h4>
 <p align="center">
   <a href="https://tangerina-pt.github.io/English/Year1">Year 1</a>
   <br><br>
@@ -24,4 +17,4 @@
   <a href="https://tangerina-pt.github.io/English/Year4">Year 4</a>
   <br><br>
 </p>
-</h2>
+</h4>
