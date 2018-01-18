@@ -12,11 +12,11 @@ Year 4 English
 
 <h4>
 <p align="center">
-  <a href="https://tangerina-pt.github.io/English/Year4_vocab">Learn vocabulary</a>
+  <a href="https://tangerina-pt.github.io/English/Year4_conv">Conversation</a>
   <br>
 </p>
 <p align="center">
-  <a href="https://tangerina-pt.github.io/English/Year4_conv">Conversation</a>
+  <a href="https://tangerina-pt.github.io/English/Year4_vocab">Learn vocabulary</a>
   <br>
 </p>
 </h4>
