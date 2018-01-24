@@ -20,7 +20,7 @@ Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/class
 * [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4) [Return to Year 4 English Site](https://tangerina-pt.github.io/English/Year4)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4_vocab) [Return to Year 4 English Vocabulary Site](https://tangerina-pt.github.io/English/Year4_vocab)
 
 ***
 
