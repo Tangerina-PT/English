@@ -15,7 +15,7 @@ Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
 NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4) [Return to Year 4 English Site](https://tangerina-pt.github.io/English/Year4)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4_vocab) [Return to Year 4 English Vocabulary Site](https://tangerina-pt.github.io/English/Year4_vocab)
 
 ***
 #### Notes for parents / Notas para os pais
