@@ -3,13 +3,10 @@
 
 ***
 ## Period 2
-
 ***
 ## Period 1
-
-### Christmas song / Canção de Natal
-[![santa_town](/images/santa_town.PNG)](https://www.youtube.com/watch?v=HSmsq2iq4bQ) (Santa Claus is coming to town / O Pai Natal vem à vila.)  
 ***
+### [Christmas song - Santa Claus is coming to town](https://www.youtube.com/watch?v=HSmsq2iq4bQ)
 ### [Topic 5 - Numbers 0 to 20 / Números de 0 a 20](https://tangerina-pt.github.io/English/Numbers_1_to_20)
 ### [Topic 4 - Classroom Objects / Objetos da sala da aula](https://tangerina-pt.github.io/English/Classroom_Objects_B)
 ### [Topic 3 - Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
