@@ -3,7 +3,7 @@
 (1). [Do you need to learn the parts of the body?](https://www.englishactivities.net/englishlessons?topic=Body%20-%20parts%20of%20the%20body&level=primary) [![eabp](/images/eabp.PNG)](https://www.englishactivities.net/englishlessons?topic=Body%20-%20parts%20of%20the%20body&level=primary)  
 (Click on: ![eatt](/images/eatt.PNG). At the end, the games will appear: ![eagm](/images/eagm.PNG))
 
-(2). Do you like to play 'memory'? Play [![bpme2](/images/bpme2.PNG)](https://www.eslgamesplus.com/body-parts-esl-vocabulary-memory-game/) or [![bpme](/images/bpme.PNG)](https://www.freddiesville.com/games/body-parts-memory-game/)
+(2). Do you like to play 'memory'? Play [![bpme2](/images/bpme2.PNG)](https://www.eslgamesplus.com/body-parts-esl-vocabulary-memory-game/) or [![bpme0](/images/bpme0.PNG)](https://www.freddiesville.com/games/body-parts-memory-game/)
 
 (4). [Can you label the parts of the body?](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/) [![bbod](/images/bbod.PNG)](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/)
 
