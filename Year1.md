@@ -2,17 +2,17 @@
 [![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb1)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb1)  
 
 ***
-## Period 2  
+### Period 2  
 
 ***
-## Period 1
-### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Bodyparts_A)
-### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A)
-### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)
+### Period 1
+#### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Bodyparts_A)
+#### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A)
+#### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)
 
 ***
-
-### Notes/Notas
+![notes4](/images/notes4.PNG)
+#### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
 * Ensure the sound is switched on. / Certifiquem-se de que o som está ligado.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
