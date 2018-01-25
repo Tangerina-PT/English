@@ -1,6 +1,6 @@
 ## Year 4 - English - Vocabulary - 2017/2018
 Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulário?  
-*** 
+
 #### [The Alphabet](https://tangerina-pt.github.io/English/Alphabet_D)
 #### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_D)
 #### [Cardinal Numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_D)
