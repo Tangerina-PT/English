@@ -5,15 +5,15 @@
 
 (2). Do you like to play 'memory'? Play [![bpme2](/images/bpme2.PNG)](https://www.eslgamesplus.com/body-parts-esl-vocabulary-memory-game/) or [![bpme0](/images/bpme0.PNG)](https://www.freddiesville.com/games/body-parts-memory-game/)
 
-(4). [Can you label the parts of the body?](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/) [![bbod](/images/bbod.PNG)](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/)
+(3). [Can you label the parts of the body?](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/) [![bbod](/images/bbod.PNG)](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/)
 
-(5). [How quickly can you label the parts of the body?](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html) [![lgbp](/images/lgbp.PNG)](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)  
+(4). [How quickly can you label the parts of the body?](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html) [![lgbp](/images/lgbp.PNG)](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)  
 (Play levels 1 and 2. Come back to Level 3 when you want to learn the internal organs.)
 
-(6). Check your listening comprehension of simple sentences with [sentence monkey](https://www.fredisalearns.com/games/body-parts-sentence-monkey-game/): [![smbp](/images/smbp.PNG)](https://www.fredisalearns.com/games/body-parts-sentence-monkey-game/)
+(5). [Can you complete the sentences about body parts?](https://www.fredisalearns.com/games/body-parts-sentence-monkey-game/) [![smbp](/images/smbp.PNG)](https://www.fredisalearns.com/games/body-parts-sentence-monkey-game/)
 
-(7). Test your knowledge of the parts of the face and head: [![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
-the mid-section and arms: [![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) and the leg: [![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg)  
+(6). Test your knowledge!  
+[face+head](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face); [torso+arm](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms; [leg](http://www.learningchocolate.com/content/body-parts-3-leg) [![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg)  
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
 (Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG))
 
