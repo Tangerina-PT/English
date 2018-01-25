@@ -13,7 +13,7 @@
 (5). [Can you complete the sentences about body parts?](https://www.fredisalearns.com/games/body-parts-sentence-monkey-game/) [![smbp](/images/smbp.PNG)](https://www.fredisalearns.com/games/body-parts-sentence-monkey-game/)
 
 (6). Test your knowledge!  
-[face/head](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face); [torso/arm](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms); [leg](http://www.learningchocolate.com/content/body-parts-3-leg) [![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg)  
+[face/head](http://www.learningchocolate.com/content/body-parts-1-head-and-face)[![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face); [torso/arm](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)[![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms); [leg](http://www.learningchocolate.com/content/body-parts-3-leg)[![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg)  
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
 (Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG))
 
