@@ -11,7 +11,7 @@
 #### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)
 
 ***
-![notes4](/images/notes4.PNG)
+![notes4](/images/notes5.PNG)
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
 * Ensure the sound is switched on. / Certifiquem-se de que o som está ligado.
