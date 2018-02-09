@@ -4,6 +4,9 @@
 ***
 ### Period 2  
 
+#### [Topic 5 - Toys](https://tangerina-pt.github.io/English/Toys_A)
+#### [Topic 4 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
+
 ***
 ### Period 1
 #### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Bodyparts_A)
