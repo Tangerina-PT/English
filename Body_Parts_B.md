@@ -11,7 +11,8 @@ Eu sei, eu sei - já sabes cantar a canção e ainda bem. Mas, tens a certeza do
 (4). [How quickly can you label the parts of the body?](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html) [![lgbp](/images/lgbp.PNG)](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)  
 (Play levels 1 and 2. Leave Level 3 for later when you are learning the internal organs. / Joga nivéis 1 e 2. Deixa o nível 3 para logo, quando aprenderes os orgãos internos.)
 
-(5). Read each word then click on the picture of the speaker next to the word to check your pronunciation. / Lê cada palavra, depois clica na imagem do altifalante para verificar.   
+(5). Do you want to know more? / Queres saber mais?  
+Read each word then click on the picture of the speaker next to the word to check your pronunciation. / Lê cada palavra, depois clica na imagem do altifalante para verificar.   
 [![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
 [![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [Torso and Arm / Tronco e Braço](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)  
 [![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg) [Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)  
