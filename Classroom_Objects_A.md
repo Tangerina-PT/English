@@ -7,12 +7,11 @@
 
 (2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)
 
-(3).[Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
+(3). [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
 Listen to each word. Can you find the object before it appears in colour? / Escuta cada palavra – consegues encontrar o objecto antes do objecto ficar colorido. 
  
-(4). Do you like to play memory? / Gostas de jogar 'memória'?  
-Play the [classroom memory game](https://www.freddiesville.com/games/school-supplies-memory-game/)[![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/)  
-Play three or four times to use all the words. / Joga o jogo de memória com objectos da sala de aula. Joga três ou quatro vezes para usar todas as palavras.
+(4). [![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/) Do you like to [play memory](https://www.freddiesville.com/games/school-supplies-memory-game/)? / Gostas de [jogar 'memória'](https://www.freddiesville.com/games/school-supplies-memory-game/)?  
+Play three or four times to use all the words. / Joga três ou quatro vezes para usar todas as palavras.
 
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
