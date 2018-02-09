@@ -11,7 +11,9 @@
 Listen to each word. Can you find the object before it appears in colour?  
 Escuta cada palavra – consegues encontrar o objecto antes do objecto ficar colorido. 
  
-(4). [![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/) Do you like to [play memory](https://www.freddiesville.com/games/school-supplies-memory-game/)? / Gostas de [jogar 'memória'](https://www.freddiesville.com/games/school-supplies-memory-game/)?  
+(4). Do you like to play memory? / Gostas de jogar 'memória'?  
+Game 1: [![come](/images/come.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/)  
+Game 2: [![come2](/images/come2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/)  
 Play three or four times to use all the words.  
 Joga três ou quatro vezes para usar todas as palavras.
 
