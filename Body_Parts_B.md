@@ -1,7 +1,6 @@
 ### Body parts 
 
-(1). Sing ![sing](/images/sing.png) the song: *Head, shoulders, knees and toes*  
-(*Cabeça, ombros, joelhos e dedos dos pés*)  
+(1). Sing ![sing](/images/sing.png) the song: *Head, shoulders, knees and toes* / *Cabeça, ombros, joelhos e dedos dos pés*  
 I know, I know - you can sing the song and that's great. But are you sure you know the meaning of each of the individual words that you are singing? If not, then [![clickhere](/images/clickhere.png)](https://tangerina-pt.github.io/English/HSKT)  
 Eu sei, eu sei - já sabes cantar a canção e ainda bem. Mas, tens a certeza do que sabes o significado de cada palavra que estás a cantar? Se não, [![cliqueaqui](/images/cliqueaqui.png)](https://tangerina-pt.github.io/English/HSKT)
 
@@ -10,14 +9,13 @@ Eu sei, eu sei - já sabes cantar a canção e ainda bem. Mas, tens a certeza do
 (3). [Label the parts of the body](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/) [![bbod](/images/bbod.PNG)](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/)
 
 (4). [How quickly can you label the parts of the body?](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html) [![lgbp](/images/lgbp.PNG)](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)  
-(Play levels 1 and 2. Leave Level 3 for later when you are learning the internal organs. Joga nivéis 1 e 2. Deixa o nível 3 para logo, quando aprenderes os orgãos internos.)
+(Play levels 1 and 2. Leave Level 3 for later when you are learning the internal organs. / Joga nivéis 1 e 2. Deixa o nível 3 para logo, quando aprenderes os orgãos internos.)
 
 (5). Read each word then click on the picture of the speaker next to the word to check your pronunciation. / Lê cada palavra, depois clica na imagem do altifalante para verificar.   
 [![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
 [![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [Torso and Arm / Tronco e Braço](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)  
 [![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg) [Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)  
-Optional extra challenge / Desafio opcional extra: 
-Can you do all 5 activities? / Consegues fazer todas as actividades?  
+Optional extra challenge:Can you do all 5 activities? / Desafio opcional extra: Consegues fazer todas as actividades?  
 (Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG))
 
 
