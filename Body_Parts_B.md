@@ -1,6 +1,7 @@
 ### Body parts 
 
-(1). *Head, shoulders, knees and toes* (*Cabeça, ombros, joelhos e dedos dos pés*)  
+(1). *Head, shoulders, knees and toes*  
+(*Cabeça, ombros, joelhos e dedos dos pés*)  
 I know, I know - you can sing the song and that's great. But are you sure you know the meaning of each of the individual words that you are singing? If not, then [![clickhere](/images/clickhere.png)](https://tangerina-pt.github.io/English/HSKT)  
 Eu sei, eu sei - já sabes cantar a canção e ainda bem. Mas, tens a certeza do que sabes o significado de cada palavra que estás a cantar? Se não, [![cliqueaqui](/images/cliqueaqui.png](https://tangerina-pt.github.io/English/HSKT)
 
