@@ -3,6 +3,7 @@
 
 ***
 ## Period 2
+### [Topic 7 - Toys](https://tangerina-pt.github.io/English/Toys_B)
 ### [Topic 6 - Body Parts](https://tangerina-pt.github.io/English/Body_Parts_B)
 
 ***
