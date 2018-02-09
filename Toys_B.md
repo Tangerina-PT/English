@@ -23,8 +23,9 @@ Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparece
 
 #### Other activities / Outras actividades
 
-(1). [![bcty1](/images/bcty1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/toys-1) [Match the words to the pictures 1](https://learnenglishkids.britishcouncil.org/en/word-games/toys-1)  
-[![bcty2](/images/bcty2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/toys-2) [Match the words to the pictures 2](https://learnenglishkids.britishcouncil.org/en/word-games/toys-2)
+(1). Match the words to the pictures  
+[![bcty1](/images/bcty1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/toys-1) [Part 1](https://learnenglishkids.britishcouncil.org/en/word-games/toys-1)  
+[![bcty2](/images/bcty2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/toys-2) [Part 2](https://learnenglishkids.britishcouncil.org/en/word-games/toys-2)
 
 (2). [![tyqz1](/images/tyqz1.PNG)](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)
 
