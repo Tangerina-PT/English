@@ -3,6 +3,8 @@
 
 ***
 ## Period 2
+### [Topic 6 - Body Parts](https://tangerina-pt.github.io/English/Body_Parts_B)
+
 ***
 ## Period 1
 ### [Christmas song - Santa Claus is coming to town](https://www.youtube.com/watch?v=HSmsq2iq4bQ)
