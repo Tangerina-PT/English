@@ -16,3 +16,8 @@
 [![kb2ban](/images/kb2ban.PNG)](http://www.kidsboxapps.es/kb2.php) [Official website](http://www.kidsboxapps.es/kb2.php)  
 
 Click on ![kb2stic](/images/kb2stic.PNG) for stories. Click on ![kb2soic](/images/kb2soic.PNG) for songs.
+
+***
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+
+***
