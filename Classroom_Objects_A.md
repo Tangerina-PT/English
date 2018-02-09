@@ -12,8 +12,8 @@ Listen to each word. Can you find the object before it appears in colour?
 Escuta cada palavra – consegues encontrar o objecto antes do objecto ficar colorido. 
  
 (4). Do you like to play memory? / Gostas de jogar 'memória'?  
-Game 1: [![come](/images/come.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/)  
-Game 2: [![come2](/images/come2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/)  
+Game 1: [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/)  
+Game 2: [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/)  
 Play three or four times to use all the words.  
 Joga três ou quatro vezes para usar todas as palavras.
 
