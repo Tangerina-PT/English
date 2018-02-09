@@ -12,11 +12,11 @@ Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparece
 
 #### Do you like to play memory? / Gostas de jogar 'memória'?  
 
-(1). [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) Match the **words** with the pictures.
+(1). [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [Match the **words** with the pictures.](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)
 
-(2). [![gwtme2](/images/gwtme2.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) Match the **sentences** with the pictures.  
+(2). [![gwtme2](/images/gwtme2.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [Match the **sentences** with the pictures.](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)
 
-(3). [![mety](/images/mety.PNG)](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
+(3). [![mety](/images/mety.PNG)](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/) [Match the **words** with the pictures.](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
 
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
