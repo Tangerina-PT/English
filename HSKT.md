@@ -1,19 +1,24 @@
-### *Head, shoulders, knees and toes* (*Cabeça, ombros, joelhos e dedos dos pés*)
+### *Head, shoulders, knees and toes*  
+### (*Cabeça, ombros, joelhos e dedos dos pés*)
 
 (1). [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) 
-Touch your head, shoulders, knees and toes as you sing. / Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
+Touch your head, shoulders, knees and toes as you sing.  
+Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
 
 (2). [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
-Touch your head, shoulders, knees and toes as you sing. Teach the song to someone in your family. / Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. Ensina a canção a um familiar. 
+Touch your head, shoulders, knees and toes as you sing.  
+Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. 
 
 (3). Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Consegues cantar [a versão que salta palavras?](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
 
 
-(4). Challenge: can you sing the song while you point to the pictures? / Desafio: consegues cantar ao apontar às imagens?  
+(4). Sing the song while you point to the pictures.  
+Cantar ao apontar para as imagens.  
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
-(5). Optional extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio opcional extra: consegues cantar ao apontar às imagens quando estão fora de ordem.  
+(5). The real challenge: can you sing the song and point to the correct pictures when the pictures are not in order?  
+O verdadeiro desafio: consegues cantar ao apontar para as imagens quando estão fora de ordem.  
 ![nose](/images/nose.png)![toes](/images/toes.png)![ears](/images/ears.png)![shou](/images/shou.png)  
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
