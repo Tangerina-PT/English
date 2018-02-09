@@ -13,11 +13,11 @@ Do you like to play memory? / Gostas de jogar 'memória'?
 REMEMBER - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 LEMBRA-TE - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
 
-(1). 
+(1). [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) Match the **words** with the pictures.
 
-(2). Put 7 coloured pencils or markers in the order the colours appear in the song: red, yellow, pink, green, purple, orange, blue. Can you sing the song and point to each colour as you say its name? / Põe sete lápis de cor ou marcadores na ordem em que aparecem na canção: vermelho, amarelo, cor de rosa, verde, roxo, laranja, azul. Consegues cantar a canção ao apontar para as cores na altura certa?  
+(2). [![gwtme2](/images/gwtme2.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) Match the **sentences** with the pictures.  
 
-(3). Challenge: Muddle up the colours. Can you sing the song while pointing to the colours when they are out of order? / Desafio: Desarruma as cores. Consegues cantar a canção ao apontar para as cores quando estão fora de ordem?
+(3). (https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
