@@ -13,9 +13,9 @@ Eu sei, eu sei - já sabes cantar a canção e ainda bem. Mas, tens a certeza do
 (Play levels 1 and 2. Leave Level 3 for later when you are learning the internal organs. Joga nivéis 1 e 2. Deixa o nível 3 para logo, quando aprenderes os orgãos internos.)
 
 (5). Read each word then click on the picture of the speaker next to the word to check your pronunciation. / Lê cada palavra, depois clica na imagem do altifalante para verificar.   
-[Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)[![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face);  
-[Torso and Arm / Tronco e Braço](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)[![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms);  
-[Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)[![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg) 
+[![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
+[![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [Torso and Arm / Tronco e Braço](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)  
+[![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg) [Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)  
 Optional extra challenge / Desafio opcional extra: 
 Can you do all 5 activities? / Consegues fazer todas as actividades?  
 (Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG))
