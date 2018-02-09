@@ -1,15 +1,16 @@
 ### Classroom Objects
 
-1. Watch the video chants to learn the words. Say the chants as you watch. / Vê os vídeos para aprender as palavras. Repete em voz alta. (Significado de 'chant': repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música)  
+(1). Watch the video chants to learn the words. Say the chants as you watch. / Vê os vídeos para aprender as palavras. Repete em voz alta. (Significado de 'chant': repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música)  
 * [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ) [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ)  
 * [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4) [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4)
 * [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)
-* [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
+
+(2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)
+
+(3).[Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
 Listen to each word. Can you find the object before it appears in colour? / Escuta cada palavra – consegues encontrar o objecto antes do objecto ficar colorido. 
-
-2. [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)
-
-3. Do you like to play memory? / Gostas de jogar 'memória'?  
+ 
+(4). Do you like to play memory? / Gostas de jogar 'memória'?  
 Play the [classroom memory game](https://www.freddiesville.com/games/school-supplies-memory-game/)[![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/)  
 Play three or four times to use all the words. / Joga o jogo de memória com objectos da sala de aula. Joga três ou quatro vezes para usar todas as palavras.
 
