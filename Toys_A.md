@@ -1,6 +1,6 @@
 ### Toys
 
-#### Watch some videos / Vê alguns vídeos:  
+#### Watch the videos / Vê os vídeos:  
 
 (1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 
