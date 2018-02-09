@@ -9,7 +9,7 @@
 
 ***
 ### Period 1
-#### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Bodyparts_A)
+#### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A)
 #### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A)
 #### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)
 
