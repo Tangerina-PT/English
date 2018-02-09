@@ -1,17 +1,18 @@
 ### Toys
 
-Watch the videos / Vê os vídeos:  
+#### Watch some videos / Vê alguns vídeos:  
 
-(1). [Wow English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
+(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [Wow English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 
-(2). [Wow English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck) [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck)
+(2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [Wow English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)
 
-(3). [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E) [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E)   
-Can you name the toys before the picture appears? / Consegues dizer a palavra para cada brinquedo antes da imagem aparecer?
+(3). [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E) 
 
-Do you like to play memory? / Gostas de jogar 'memória'?  
+Can you name the toys before the picture appears?
+Consegues dizer a palavra para cada brinquedo antes da imagem aparecer?
+
+#### Do you like to play memory? / Gostas de jogar 'memória'?  
 REMEMBER - There's no rush - it doesn't matter how long it takes you to find the pairs.  
-
 LEMBRA-TE - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
 
 (1). [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) Match the **words** with the pictures.
