@@ -15,7 +15,8 @@ Eu sei, eu sei - já sabes cantar a canção e ainda bem. Mas, tens a certeza do
 [![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
 [![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [Torso and Arm / Tronco e Braço](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)  
 [![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg) [Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)  
-Optional extra challenge:Can you do all 5 activities? / Desafio opcional extra: Consegues fazer todas as actividades?  
+Optional extra challenge: Can you do all 5 activities?  
+Desafio opcional extra: Consegues fazer todas as actividades?  
 (Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG))
 
 
