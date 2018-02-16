@@ -1,6 +1,6 @@
 ## Year 2 English - 2017/2018
 
-*If a link is not working, please try using Internet Explorer on a regular PC or laptop. / Se um link não está a funcionar, queira tentar usando Internet Explorer num PC ou portátil.
+*If a link is not working, please try using Internet Explorer on a regular PC or laptop. / Se um link não está a funcionar, queira tentar usando Internet Explorer num PC ou portátil.*
 
 ***
 ### Period 2
