@@ -1,5 +1,4 @@
 ## Year 2 English - 2017/2018
-[![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb2)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb2)  
 
 ***
 ## Period 2
@@ -8,14 +7,14 @@
 
 ***
 ## Period 1
-
-[//]: # (### [Christmas song - Santa Claus is coming to town](https://www.youtube.com/watch?v=HSmsq2iq4bQ))
-
 ### [Topic 5 - Numbers 0 to 20 / Números de 0 a 20](https://tangerina-pt.github.io/English/Numbers_1_to_20)
 ### [Topic 4 - Classroom Objects / Objetos da sala da aula](https://tangerina-pt.github.io/English/Classroom_Objects_B)
 ### [Topic 3 - Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
 ### [Topic 2 - The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
 ### [Topic 1 - Introductory songs / Canções iniciais](https://tangerina-pt.github.io/English/Intro_B)  
+
+***
+[![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb2)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb2)  
 
 ***
 
