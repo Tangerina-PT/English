@@ -3,17 +3,17 @@
 If any of the links are not working, please try using Internet Explorer on a regular PC or laptop. / Se algun(s) link(s) não está/ão a funcionar, queira tentar utilizando Internet Explorer num PC ou portátil.
 
 ***
-## Period 2
-### [Topic 7 - Toys](https://tangerina-pt.github.io/English/Toys_B)
-### [Topic 6 - Body Parts](https://tangerina-pt.github.io/English/Body_Parts_B)
+### Period 2
+#### [Topic 7 - Toys](https://tangerina-pt.github.io/English/Toys_B)
+#### [Topic 6 - Body Parts](https://tangerina-pt.github.io/English/Body_Parts_B)
 
 ***
-## Period 1
-### [Topic 5 - Numbers 0 to 20 / Números de 0 a 20](https://tangerina-pt.github.io/English/Numbers_1_to_20)
-### [Topic 4 - Classroom Objects / Objetos da sala da aula](https://tangerina-pt.github.io/English/Classroom_Objects_B)
-### [Topic 3 - Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
-### [Topic 2 - The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
-### [Topic 1 - Introductory songs / Canções iniciais](https://tangerina-pt.github.io/English/Intro_B)  
+### Period 1
+#### [Topic 5 - Numbers 0 to 20 / Números de 0 a 20](https://tangerina-pt.github.io/English/Numbers_1_to_20)
+#### [Topic 4 - Classroom Objects / Objetos da sala da aula](https://tangerina-pt.github.io/English/Classroom_Objects_B)
+#### [Topic 3 - Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
+#### [Topic 2 - The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
+#### [Topic 1 - Introductory songs / Canções iniciais](https://tangerina-pt.github.io/English/Intro_B)  
 
 ***
 [![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb2)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb2)  
