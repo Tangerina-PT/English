@@ -18,9 +18,7 @@
    Then challenge yourself to count down / Depois desafia-te - conta para baixo: ![bapo7](/images/bapo7.PNG)  
   
    Se já dominas 1 a 10 e queres trabalhar 1 a 20:  
-   [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  [![bapo1](/images/bapo1.PNG)]( http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  
-
-   Choose the option ‘Count to 20’ / Escolha a opção ‘Count to 20’ (contar até 20) ![bapo2](/images/bapo2.PNG)  
+   [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  [![bapo1](/images/bapo1.PNG)]( http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm) Choose ![bapo2](/images/bapo2.PNG)  
    Count aloud from 1 to 20 in English – pop the balloon for each number immediately after you have said the number and listen to check. / Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
    
 4. [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
