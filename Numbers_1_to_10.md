@@ -12,9 +12,7 @@
 
 * Nota: Podes desligar a música de fundo clicando no símbolo [![ssno4](/images/ssno4.PNG)]  
 
-3. [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](/images/bapo5.PNG)](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  
-
-   Choose the option ‘Count to 10’ / Escolha a opção ‘Count to 10’ (contar até 10) ![bapo6](/images/bapo6.PNG)  
+3. [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](/images/bapo5.PNG)](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Choose ![bapo6](/images/bapo6.PNG)  
    Count aloud from 1 to 10 in English – pop the balloon for each number immediately after you have said the number and listen to check. / Conta em voz alta de 1 a 10 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
   
    Then challenge yourself to count down / Depois desafia-te - conta para baixo: ![bapo7](/images/bapo7.PNG)  
