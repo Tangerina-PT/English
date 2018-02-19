@@ -1,6 +1,6 @@
 ### Numbers 1 to 10  / Números de 1 a 10
 
-#### Sing
+#### Sing and practice your counting
 
 * [![pmno](/images/pmno.PNG)](https://www.youtube.com/watch?v=diMJIlv-4N0) 
 
