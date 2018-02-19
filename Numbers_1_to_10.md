@@ -1,5 +1,19 @@
 ### Numbers 1 to 10  / Números de 1 a 10
 
+#### Sing
+
+* [![pmno](/images/pmno.PNG)](https://www.youtube.com/watch?v=diMJIlv-4N0) 
+
+* [![pt10](/images/pt10.PNG)](https://www.youtube.com/watch?v=KZPBpDdePO0)
+
+   Hold up the right number of fingers for each number as you count.
+   
+* [![numb](/images/numb.PNG)](https://www.youtube.com/watch?v=Exa-FZ1CksI)  
+
+   Draw the numbers in the air with your finger as you count. / Desenha cada número no ar com o dedo enquanto contas.  
+  
+#### Play some games
+
 * [![nocc1](/images/nocc1.PNG)](http://www.abcya.com/kindergarten_counting.htm ) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
 
    Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparecem vários números. Escolha o número certo. [![nocc2](/images/nocc2.PNG)](http://www.abcya.com/kindergarten_counting.htm)  
