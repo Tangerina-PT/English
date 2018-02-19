@@ -1,6 +1,6 @@
 ## Year 1 English - 2017/2018
-[![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb1)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb1)  
 
+*If a link is not working, please try using Internet Explorer on a regular PC or laptop. / Se um link não está a funcionar, por favor experimente com Internet Explorer num PC ou portátil.*
 ***
 ### Period 2  
 
@@ -13,6 +13,8 @@
 #### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A)
 #### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)
 
+***
+[![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb1)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb1)  
 ***
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
