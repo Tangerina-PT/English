@@ -1,5 +1,4 @@
 ## Year 2 English - Language Structures - 2017/2018
-
 ***
 
 **Question: 'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
@@ -8,6 +7,8 @@
 1. [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728)  
 
 2. [![frna](/images/frna.PNG)](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY) (includes spelling one's name)
+
+***
 
 **Question: 'How are you?' (Como é que estás?)**  
 **Answer:' I’m fine, thank you.' (Estou bem, obrigada.)**
@@ -58,7 +59,6 @@
 2. [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=idJYhjGyWTU)
 
 ***
-
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
