@@ -11,7 +11,7 @@
 ***
 
 ***Question:*** **'How are you?' (Como é que estás?)**  
-**Answer:' I’m fine, thank you.' (Estou bem, obrigada.)**
+***Answer:'*** **I’m fine, thank you.' (Estou bem, obrigada.)**
 
 1. [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
 
@@ -19,8 +19,8 @@
 
 ***
 
-**Question: 'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?)**  
-**Answer: 'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)**
+***Question:*** **'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?)**  
+***Answer:*** **'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)**
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
 (a). [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo)  
@@ -30,8 +30,8 @@
 
 *** 
 
-**Question: 'What is it?' (O que é?) / 'What's this?' (O que é isto?)**  
-**Answer: 'It's a...' (É um/uma...)**
+***Question:*** **'What is it?' (O que é?) / 'What's this?' (O que é isto?)**  
+***Answer:*** **'It's a...' (É um/uma...)**
 
 1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E)
 
@@ -41,8 +41,8 @@
 
 *** 
 
-**Question: 'What colour is it?' (De que cor é?) / 'What colour is this/that? (De que cor é isto/isso ou aquilo?) / 'What colour is the ..*noun*.. ?' (De que cor é a/o ..*substantivo*.. ?)**  
-**Answer: '..*Colour*.. (..*cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .) / The ..*noun*.. is ..*colour*.. . (A/O ..*substantivo*.. é ..*cor*.. .)**
+***Question:*** **'What colour is it?' (De que cor é?) / 'What colour is this/that? (De que cor é isto/isso ou aquilo?) / 'What colour is the ..*noun*.. ?' (De que cor é a/o ..*substantivo*.. ?)**  
+***Answer:*** **'..*Colour*.. (..*cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .) / The ..*noun*.. is ..*colour*.. . (A/O ..*substantivo*.. é ..*cor*.. .)**
 
 1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
@@ -52,8 +52,8 @@
 
 ***
 
-**Question: 'Where is it?' (Onde está?) / 'Where is the ..*noun*..?' (Onde está a/o ..*substantivo*..?)**  
-**Answer: Using prepositions of place - 'ON, IN, UNDER, BEHIND, NEXT TO the ..*noun*..' (usando preposições de lugar - em cima de ou colado no, dentro, por baixo, atrás, a beira de a/o ..*substantivo*.. )**
+***Question:*** **'Where is it?' (Onde está?) / 'Where is the ..*noun*..?' (Onde está a/o ..*substantivo*..?)**  
+***Answer:*** **Using prepositions of place - 'ON, IN, UNDER, BEHIND, NEXT TO the ..*noun*..' (usando preposições de lugar - em cima de ou colado no, dentro, por baixo, atrás, a beira de a/o ..*substantivo*.. )**
 
 1. [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
 2. [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=idJYhjGyWTU)
