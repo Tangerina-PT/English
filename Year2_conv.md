@@ -28,12 +28,25 @@
 
 *** 
 
-### 'What is it?' (O que é?) / What's this? (O que é isso?)
+### 'What is it?' (O que é?) / 'What's this?' (O que é isto?)
 ### 'It's a...' (É um/uma...)
 
-1. 
+1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
+
+2. [![fkea](/images/fkea.png)](https://www.youtube.com/watch?v=D_sdGxUxz_4)
+
+3. [![dewt](/images/dewt.png)](https://youtu.be/TARreOtrWUg)
 
 *** 
+
+### 'What colour is it?' (De que cor é?) / 'What colour is this/that? (De que cor é isto/isso ou aquilo?) / 'What colour is the ..*object*.. ?' (De que cor é a/o ..*objecto*.. ?) 
+### '..*Colour*.. (..*cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .) / The .. *object*.. is ..*colour*.. . (A/O .. *objecto* é ..*cor*.. .)
+
+1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
+
+2. Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
+
+***
 
 ### Notes/Notas
 * Ensure the sound is switched on. / Certifiquem-se de que o som está ligado.
