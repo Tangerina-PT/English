@@ -2,8 +2,10 @@
 
 ***
 
-#### 'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?); 'I’m…'(Sou...)/'My name is…' ('O meu nome é...' -> Chamo-me...)
-#### 'How are you?' (Como é que estás?); 'I’m fine, thank you.' (Estou bem, obrigada.)
+#### Question: 'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)
+#### Answer: 'I’m…'(Sou...)/'My name is…' ('O meu nome é...' -> Chamo-me...)
+#### Question: 'How are you?' (Como é que estás?)
+#### Answer:' I’m fine, thank you.' (Estou bem, obrigada.)
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
 (a). [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728)  
@@ -15,7 +17,8 @@
 
 ***
 
-#### 'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?); 'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)
+#### Question: 'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?)
+#### Answer: 'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
 (a). [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo)  
@@ -25,7 +28,8 @@
 
 *** 
 
-#### 'What is it?' (O que é?) / 'What's this?' (O que é isto?); 'It's a...' (É um/uma...)
+#### Question: 'What is it?' (O que é?) / 'What's this?' (O que é isto?)
+#### Answer: 'It's a...' (É um/uma...)
 
 1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E)
 
@@ -35,7 +39,8 @@
 
 *** 
 
-#### 'What colour is it?' (De que cor é?) / 'What colour is this/that? (De que cor é isto/isso ou aquilo?) / 'What colour is the ..*noun*.. ?' (De que cor é a/o ..*substantivo*.. ?); '..*Colour*.. (..*cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .) / The ..*noun*.. is ..*colour*.. . (A/O ..*substantivo*.. é ..*cor*.. .)
+#### Question: 'What colour is it?' (De que cor é?) / 'What colour is this/that? (De que cor é isto/isso ou aquilo?) / 'What colour is the ..*noun*.. ?' (De que cor é a/o ..*substantivo*.. ?)
+#### Answer: '..*Colour*.. (..*cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .) / The ..*noun*.. is ..*colour*.. . (A/O ..*substantivo*.. é ..*cor*.. .)
 
 1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
@@ -45,8 +50,8 @@
 
 ***
 
-#### 'Where is it?' (Onde está?) / 'Where is the ..*noun*..?' (Onde está a/o ..*substantivo*..?) 
-#### Prepositions of place (ON, IN, UNDER, BEHIND, NEXT TO) / preposições de lugar
+#### Question: 'Where is it?' (Onde está?) / 'Where is the ..*noun*..?' (Onde está a/o ..*substantivo*..?) 
+#### Answer: Using prepositions of place - 'ON, IN, UNDER, BEHIND, NEXT TO the ..*noun*..' (usando preposições de lugar - em cima de ou colado no, dentro, por baixo, atrás, a beira de a/o ..*substantivo*.. )
 
 1.
 2.
@@ -54,7 +59,7 @@
 
 ***
 
-### Notes/Notas
+#### Notes/Notas
 * Ensure the sound is switched on. / Certifiquem-se de que o som está ligado.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
 * Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
