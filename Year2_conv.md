@@ -44,7 +44,7 @@
 
 1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
-2 'The apple is red' song https://www.youtube.com/watch?v=1jv0Gx_q_OU
+2. [![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
 
 3. [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 
