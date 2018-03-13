@@ -46,7 +46,7 @@
 
 2 'The apple is red' song https://www.youtube.com/watch?v=1jv0Gx_q_OU
 
-3. Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
+3. Watch [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 
 ***
 
