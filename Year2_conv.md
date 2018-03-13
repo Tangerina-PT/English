@@ -11,7 +11,7 @@
 (a). [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)  
 (b). [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8) [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
 
-2. Watch [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY) (includes spelling one's name)
+2. Watch [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY) (includes spelling one's name) [![frna](/images/frna.PNG)](https://www.youtube.com/watch?v=EDmWNJ144oY)
 
 3. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)  
 
