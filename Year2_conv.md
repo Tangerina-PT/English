@@ -44,7 +44,15 @@
 
 1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
-2. Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
+2 'The apple is red' song https://www.youtube.com/watch?v=1jv0Gx_q_OU
+
+3. Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
+
+***
+
+### 'Where?' (Onde?) and
+### Prepositions of place (ON, IN, UNDER, BEHIND, NEXT TO) / preposições de lugar
+
 
 ***
 
