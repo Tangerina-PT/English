@@ -22,11 +22,11 @@
 ***Question:*** **'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?)**  
 ***Answer:*** **'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)**
 
-1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
-(a). [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo)  
-(b). [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
+1. [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo)  
 
-2. [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E)
+2. [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
+
+3. [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E)
 
 *** 
 
