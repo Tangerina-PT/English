@@ -2,10 +2,8 @@
 
 ***
 
-### 'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?),
-### 'I’m…'(Sou...)/'My name is…' ('O meu nome é...' -> Chamo-me...)
-### 'How are you?' (Como é que estás?)
-### 'I’m fine, thank you.' (Estou bem, obrigada.)
+#### 'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?); 'I’m…'(Sou...)/'My name is…' ('O meu nome é...' -> Chamo-me...)
+#### 'How are you?' (Como é que estás?); 'I’m fine, thank you.' (Estou bem, obrigada.)
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
 (a). [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728)  
@@ -17,8 +15,7 @@
 
 ***
 
-### 'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?)
-### 'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)
+#### 'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?); 'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
 (a). [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo)  
@@ -28,8 +25,7 @@
 
 *** 
 
-### 'What is it?' (O que é?) / 'What's this?' (O que é isto?)
-### 'It's a...' (É um/uma...)
+#### 'What is it?' (O que é?) / 'What's this?' (O que é isto?); 'It's a...' (É um/uma...)
 
 1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E)
 
@@ -39,8 +35,7 @@
 
 *** 
 
-### 'What colour is it?' (De que cor é?) / 'What colour is this/that? (De que cor é isto/isso ou aquilo?) / 'What colour is the ..*noun*.. ?' (De que cor é a/o ..*substantivo*.. ?) 
-### '..*Colour*.. (..*cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .) / The ..*noun*.. is ..*colour*.. . (A/O ..*substantivo*.. é ..*cor*.. .)
+#### 'What colour is it?' (De que cor é?) / 'What colour is this/that? (De que cor é isto/isso ou aquilo?) / 'What colour is the ..*noun*.. ?' (De que cor é a/o ..*substantivo*.. ?); '..*Colour*.. (..*cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .) / The ..*noun*.. is ..*colour*.. . (A/O ..*substantivo*.. é ..*cor*.. .)
 
 1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
@@ -50,13 +45,12 @@
 
 ***
 
-### 'Where is it?' (Onde está?) / 'Where is the ..*noun*..?' (Onde está a/o ..*substantivo*..?) and
-### Prepositions of place (ON, IN, UNDER, BEHIND, NEXT TO) / preposições de lugar
+#### 'Where is it?' (Onde está?) / 'Where is the ..*noun*..?' (Onde está a/o ..*substantivo*..?) 
+#### Prepositions of place (ON, IN, UNDER, BEHIND, NEXT TO) / preposições de lugar
 
 1.
 2.
 3.
-
 
 ***
 
