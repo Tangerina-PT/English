@@ -39,8 +39,8 @@
 
 *** 
 
-### 'What colour is it?' (De que cor é?) / 'What colour is this/that? (De que cor é isto/isso ou aquilo?) / 'What colour is the ..*object*.. ?' (De que cor é a/o ..*objecto*.. ?) 
-### '..*Colour*.. (..*cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .) / The .. *object*.. is ..*colour*.. . (A/O .. *objecto* é ..*cor*.. .)
+### 'What colour is it?' (De que cor é?) / 'What colour is this/that? (De que cor é isto/isso ou aquilo?) / 'What colour is the ..*noun*.. ?' (De que cor é a/o ..*substantivo*.. ?) 
+### '..*Colour*.. (..*cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .) / The ..*noun*.. is ..*colour*.. . (A/O ..*substantivo*.. é ..*cor*.. .)
 
 1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
@@ -50,8 +50,12 @@
 
 ***
 
-### 'Where?' (Onde?) and
+### 'Where is it?' (Onde está?) / 'Where is the ..*noun*..?' (Onde está a/o ..*substantivo*..?) and
 ### Prepositions of place (ON, IN, UNDER, BEHIND, NEXT TO) / preposições de lugar
+
+1.
+2.
+3.
 
 
 ***
