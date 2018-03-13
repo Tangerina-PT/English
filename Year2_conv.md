@@ -8,12 +8,12 @@
 ### 'I’m fine, thank you.' (Estou bem, obrigada.)
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
-(a). [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)  
-(b). [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8) [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
+(a). [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728)  
+(b). [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
 
-2. Watch [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY) (includes spelling one's name) [![frna](/images/frna.PNG)](https://www.youtube.com/watch?v=EDmWNJ144oY)
+2. [![frna](/images/frna.PNG)](https://www.youtube.com/watch?v=EDmWNJ144oY) Watch [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY) (includes spelling one's name)
 
-3. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)  
+3. [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E) Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) 
 
 ***
 
@@ -21,17 +21,17 @@
 ### 'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
-(a). [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo) [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo)  
-(b). [How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
+(a). [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo)  
+(b). [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
 
-2. Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E) [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E)
+2. [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E)
 
 *** 
 
 ### 'What is it?' (O que é?) / 'What's this?' (O que é isto?)
 ### 'It's a...' (É um/uma...)
 
-1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
+1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E)
 
 2. [![fkea](/images/fkea.png)](https://www.youtube.com/watch?v=D_sdGxUxz_4)
 
@@ -46,7 +46,7 @@
 
 2 'The apple is red' song https://www.youtube.com/watch?v=1jv0Gx_q_OU
 
-3. Watch [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
+3. [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 
 ***
 
