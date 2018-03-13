@@ -1,8 +1,8 @@
 ## Year 2 English - Language Structures - 2017/2018
 ***
 
-_**Question:**_ **'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
-**Answer: 'I’m…'(Sou...)/'My name is…' ('O meu nome é...' -> Chamo-me...)**
+__**Question:**__ **'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
+__**Answer:**__ **'I’m…'(Sou...)/'My name is…' ('O meu nome é...' -> Chamo-me...)**
 
 1. [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728)  
 
