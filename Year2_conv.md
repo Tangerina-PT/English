@@ -1,20 +1,28 @@
-## Year 3 English Conversation - 2017/2018 - Period 1
+## Year 2 English Conversation - 2017/2018
 
 ***
 
-### 'What's your name?' 'My name is…'/'I’m…' and
-### 'How are you?' 'I’m fine, thank you.'
+### 'What's your name?'(Qual é o teu nome?/Como é que te chamas?),
+### 'I’m…'(Sou...)/'My name is…' (O meu nome é.../Chamo-me...)
+### 'How are you?' (Como é que estás?)
+### 'I’m fine, thank you.' (Estou bem, obrigada.)
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)
 
-2. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)  
+2. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8) [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
+
+3. Watch [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY) (includes spelling one's name)
+
+4. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)  
 
 ***
 
-### 'How old are you?' 'I'm _____ .' 'I'm ____ years old.' and
-### Numbers 1-10
+### 'How old are you?' ('Quão velho és tu?'/Quantos anos tens?)
+### 'I'm _____ .' ('Sou...'/Tenho...)/'I'm ____ years old.' ('Sou ____ anos.'/Tenho ___ anos.)
 
-1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [How old are you?](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
+1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
+(a). [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo) [![hoaykb](/images/hoaykb.PNG)]((https://www.youtube.com/watch?v=P__4P20BlGo)
+(b). [How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
 
 2. Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E) [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E)
 
