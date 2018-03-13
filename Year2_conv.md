@@ -21,7 +21,7 @@
 ### 'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:  
-(a). [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo) [![hoaykb](/images/hoaykb.png)]((https://www.youtube.com/watch?v=P__4P20BlGo)  
+(a). [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo) [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo)  
 (b). [How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
 
 2. Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E) [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E)
