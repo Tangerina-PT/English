@@ -1,5 +1,5 @@
 ### Prepositions of Place 
-(Period 2: on, in, under, behind, next to; Period 3: in front of, between)
+(Period 2: on, in, under, behind, next to; Period 3: 'in front of' = 'em frente', 'between' = 'entre', 'over'/'above' = 'por cima')
 
 ***
 
@@ -17,6 +17,7 @@
 
 1. [![smpp](/images/smpp.png)](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
 2. [![efgpp](/images/efgpp.PNG)](https://englishflashgames.blogspot.pt/2008/06/prepositions-of-place-game.html)
+3. [![ppme](/images/ppme.png)](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
