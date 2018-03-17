@@ -9,7 +9,9 @@
 2. [![fvpp](/images/fvpp.PNG)](https://www.youtube.com/watch?v=YI6VAsGlk7U)
 3. [![sampp](/images/sampp.PNG)](https://www.youtube.com/watch?v=BjFZbns1ZR0)
 4. [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=idJYhjGyWTU)
-5. Period 3 [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=xERTESWbqhU)
+5. Period 3 
+
+<!--- [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=xERTESWbqhU) -->
 
 #### Other activities / Outras actividades
 
