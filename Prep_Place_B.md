@@ -7,14 +7,14 @@
 
 1. [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
 2. [![fvpp](/images/fvpp.PNG)](https://www.youtube.com/watch?v=YI6VAsGlk7U)
-3. [![sampp](/images/sampp.png)](https://www.youtube.com/watch?v=BjFZbns1ZR0)
+3. [![sampp](/images/sampp.PNG)](https://www.youtube.com/watch?v=BjFZbns1ZR0)
 4. [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=idJYhjGyWTU)
 5. Period 3 [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=xERTESWbqhU)
 
 #### Other activities / Outras actividades
 
-1. [![smpp](/images/smpp.png)](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
-2. [![efgpp](/images/efgpp.png)](https://englishflashgames.blogspot.pt/2008/06/prepositions-of-place-game.html)
+1. [![smpp](/images/smpp.PNG)](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
+2. [![efgpp](/images/efgpp.PNG)](https://englishflashgames.blogspot.pt/2008/06/prepositions-of-place-game.html)
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
