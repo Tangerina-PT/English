@@ -15,7 +15,7 @@
 
 #### Games
 
-1. [![smpp](/images/smpp.PNG)](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
+1. [![smpp](/images/smpp.png)](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
 2. [![efgpp](/images/efgpp.PNG)](https://englishflashgames.blogspot.pt/2008/06/prepositions-of-place-game.html)
 
 #### Notes/Notas
