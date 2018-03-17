@@ -13,7 +13,7 @@
 
 <!--- [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=xERTESWbqhU) -->
 
-#### Other activities / Outras actividades
+#### Games
 
 1. [![smpp](/images/smpp.PNG)](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
 2. [![efgpp](/images/efgpp.PNG)](https://englishflashgames.blogspot.pt/2008/06/prepositions-of-place-game.html)
