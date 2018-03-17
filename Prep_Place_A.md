@@ -4,6 +4,8 @@
 
 (1). [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
 
+(2). To be continued - Period 3
+
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
 
