@@ -20,6 +20,10 @@ Period 3: 'in front of' = 'em frente', 'between' = 'entre'
 2. [![efgpp](/images/efgpp.PNG)](https://englishflashgames.blogspot.pt/2008/06/prepositions-of-place-game.html)
 3. [![ppme](/images/ppme.png)](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
 
+***
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+
+***
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
 * Ensure the sound is switched on. Many activities have a voiceover, a listening comprehension component or a button with a picture of a speaker that enables the user to hear the correct pronunciation for the word or the sentence. / Certifiquem-se de que o som está ligado. Várias actividades tem um anunciado, uma componente aural ou um botão com uma imagem de um altifalante que permite ouvir a pronúncia correta da palavra ou da frase. ![spkr2](/images/spkr2.PNG)
