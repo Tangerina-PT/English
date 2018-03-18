@@ -55,7 +55,7 @@
 ***Answer:*** **'..*Colour*..' (..*Cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .)**
 
 1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
-2. (To be continued in Period 3)
+2. (To be continued)
 
 <!--- 
 3. [![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
@@ -67,7 +67,7 @@
 ***Prepositions of place*** **'ON, IN, UNDER, BEHIND, NEXT TO the ..*noun*..' (em cima de ou colado no, dentro, por baixo, atrás, a beira de a/o ..*substantivo*.. )**
 
 1. [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
-2. (To be continued in Period 3)
+2. (To be continued)
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
