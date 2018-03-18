@@ -35,8 +35,10 @@
 ***Question:*** **'What do you see?' (O que é que vês?)**  
 ***Answer:*** **'I see a ... . '**
 
-1. [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
-2. [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=idJYhjGyWTU)
+1. [![dews1](/images/dews1.png)](https://www.youtube.com/watch?v=MCjhynvMunE)
+2. [![dews2](/images/dews2.png)](https://www.youtube.com/watch?v=p5qwOxlvyhk)
+3. [![dews3](/images/dews3.png)](https://www.youtube.com/watch?v=xQTlPD4ey-4)
+4. [![bbbm](/images/bbbm.PNG)](https://www.youtube.com/watch?v=pdHCYgO9zh8) [Brown Bear, Brown Bear, What do you see?](https://www.youtube.com/watch?v=pdHCYgO9zh8)
 
 ***
 
@@ -50,17 +52,22 @@
 *** 
 
 ***Question:*** **'What colour is it?' (De que cor é?)**  
-***Answer:*** **'..*Colour*.. (..*Cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .)**
+***Answer:*** **'..*Colour*..' (..*Cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .)**
 
 1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
-5. (to be continued - Period 3)
+2. (To be continued in Period 3)
 
 <!--- 
-2. [![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
+3. [![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
 
-3. [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
+4. [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 -->
 ***
+
+***Prepositions of place*** **'ON, IN, UNDER, BEHIND, NEXT TO the ..*noun*..' (em cima de ou colado no, dentro, por baixo, atrás, a beira de a/o ..*substantivo*.. )**
+
+1. [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
+2. (To be continued in Period 3)
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil de mais ou leve à frustraçao deve ser descontinuada imediatamente.
