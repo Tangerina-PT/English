@@ -1,7 +1,5 @@
 ### Prepositions of Place 
-Period 2: on, in, under, behind, next to  
-
-Period 3: 'in front of' = 'em frente', 'between' = 'entre', 'over'/'above' = 'por cima'
+Period 2: on, in, under, behind, next to\Period 3: 'in front of' = 'em frente', 'between' = 'entre', 'over'/'above' = 'por cima'
 
 ***
 
