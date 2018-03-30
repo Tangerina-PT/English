@@ -2,7 +2,7 @@
 
 ####How do you say 'Olá' in English?    'Hi.'
 
-<audio src="audio/how_do_you_say.mp3" controls preload></audio>
+![howsay](/images/how_say.PNG) <audio src="audio/how_do_you_say.mp3" controls preload></audio>
 
 ####Can you help me, please?
 
