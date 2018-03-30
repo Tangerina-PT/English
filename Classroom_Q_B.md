@@ -14,7 +14,7 @@
 
 #### May I put this in the bin? 
 
-<audio src="audio/may_i_put_this_in_the_bin.mp3" controls preload></audio>
+![bin](/images/bin.PNG) <audio src="audio/may_i_put_this_in_the_bin.mp3" controls preload></audio>
 
 #### May I put this away? 
 
