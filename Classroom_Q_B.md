@@ -6,11 +6,11 @@
 
 #### May I drink water? 
 
-<audio src="https://github.com/Tangerina-PT/English/blob/master/audio/may_i_drink_water.mp3" controls preload></audio>
+<audio src="audio/may_i_drink_water.mp3" controls preload></audio>
 
 #### May I get my afternoon tea? 
 
-<audio src="https://github.com/Tangerina-PT/English/blob/master/audio/may_i_get_my_afternoon_tea.mp3" controls preload></audio>
+<audio src="/audio/may_i_get_my_afternoon_tea.mp3" controls preload></audio>
 
 ***
 
