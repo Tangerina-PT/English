@@ -10,7 +10,15 @@
 
 #### May I get my afternoon tea? 
 
-<audio src="/audio/may_i_get_my_afternoon_tea.mp3" controls preload></audio>
+<audio src="audio/may_i_get_my_afternoon_tea.mp3" controls preload></audio>
+
+#### May I put this in the bin? 
+
+<audio src="audio/may_i_put_this_in_the_bin.mp3" controls preload></audio>
+
+#### May I put this away? 
+
+<audio src="audio/may_i_put_this_away.mp3" controls preload></audio>
 
 ***
 
