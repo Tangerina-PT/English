@@ -14,7 +14,7 @@
 
 #### May I sharpen my pencil? 
 
-![sharp](/images/sharp.png) <audio src="audio/may_i_sharpen.mp3" controls preload></audio>
+![sharp](/images/sharp.PNG) <audio src="audio/may_i_sharpen.mp3" controls preload></audio>
 
 #### May I go to the toilet? 
 
