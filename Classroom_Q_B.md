@@ -18,7 +18,7 @@
 
 #### May I put this away? 
 
-<audio src="audio/may_i_put_this_away.mp3" controls preload></audio>
+![away](/images/away.PNG) <audio src="audio/may_i_put_this_away.mp3" controls preload></audio>
 
 ***
 
