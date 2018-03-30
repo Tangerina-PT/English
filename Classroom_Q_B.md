@@ -2,11 +2,11 @@
 
 #### May I go to the toilet? 
 
-<audio src="audio/may_i_go_to_the_toilet.mp3" controls preload></audio>
+![toilet](/images/toilet.png) <audio src="audio/may_i_go_to_the_toilet.mp3" controls preload></audio>
 
 #### May I drink water? 
 
-![h2o](/images/h2o.png) <audio src="audio/may_i_drink_water.mp3" controls preload></audio>
+![h2o](/images/h2o.jpg) <audio src="audio/may_i_drink_water.mp3" controls preload></audio>
 
 #### May I get my afternoon tea? 
 
