@@ -6,7 +6,7 @@
 
 #### May I drink water? 
 
-<audio src="audio/may_i_drink_water.mp3" controls preload></audio>
+![h2o](/images/h2o.png) <audio src="audio/may_i_drink_water.mp3" controls preload></audio>
 
 #### May I get my afternoon tea? 
 
