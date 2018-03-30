@@ -10,7 +10,7 @@
 
 #### May I get my afternoon tea? 
 
-<audio src="audio/may_i_get_my_afternoon_tea.mp3" controls preload></audio>
+![afttea](/images/afttea.PNG) <audio src="audio/may_i_get_my_afternoon_tea.mp3" controls preload></audio>
 
 #### May I put this in the bin? 
 
