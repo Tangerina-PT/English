@@ -1,45 +1,44 @@
 ### Classroom Questions
 
-**How do you say 'Olá' in English?    'Hi.'**  
+####How do you say 'Olá' in English?    'Hi.'
 
 <audio src="audio/how_do_you_say.mp3" controls preload></audio>
 
-**#### Can you help me, please?**  
+####Can you help me, please?
 
 ![help](/images/help.gif) <audio src="audio/can_you_help_me_please.mp3" controls preload></audio>
 
-**Can you repeat that, please?**  
+####Can you repeat that, please?
 
 ![repeat](/images/repeat.PNG) <audio src="audio/can_you_help_me_please.mp3" controls preload></audio>
 
-**May I sharpen my pencil?**  
+####May I sharpen my pencil?
 
 ![sharp](/images/sharp.PNG) <audio src="audio/may_i_sharpen.mp3" controls preload></audio>
 
-**May I go to the toilet?**  
+####May I go to the toilet?
 
 ![toilet](/images/toilet.png) <audio src="audio/may_i_go_to_the_toilet.mp3" controls preload></audio>
 
-**May I drink water?**  
+####May I drink water?
 
 ![h2o](/images/h2o.jpg) <audio src="audio/may_i_drink_water.mp3" controls preload></audio>
 
-**May I get my afternoon tea?**  
+####May I get my afternoon tea?
 
 ![afttea](/images/afttea.PNG) <audio src="audio/may_i_get_my_afternoon_tea.mp3" controls preload></audio>
 
-**May I put this in the bin?**  
+####May I put this in the bin?
 
 ![bin](/images/bin.PNG) <audio src="audio/may_i_put_this_in_the_bin.mp3" controls preload></audio>
 
-**May I put this away?**  
+####May I put this away?
 
 ![away](/images/away.PNG) <audio src="audio/may_i_put_this_away.mp3" controls preload></audio>
 
-**I need to leave early today.**  
+####I need to leave early today.
 
 <audio src="audio/i_need_to_leave.mp3" controls preload></audio>
-
 
 ***
 
