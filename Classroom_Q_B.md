@@ -16,6 +16,10 @@
 
 ![sharp](/images/sharp.PNG) <audio src="audio/may_i_sharpen.mp3" controls preload></audio>
 
+#### May I borrow some glue, please? (Posso pedir emprestado cola, por favor?)
+
+![glue](/images/glue.PNG) <audio src="audio/may_i_borrow.mp3" controls preload></audio>
+
 #### May I go to the toilet? (Posso ir à casa de banho?)
 
 ![toilet](/images/toilet.png) <audio src="audio/may_i_go_to_the_toilet.mp3" controls preload></audio>
