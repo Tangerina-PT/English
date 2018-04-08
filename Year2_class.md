@@ -6,12 +6,6 @@ Year 2 English
 
 <h3> 
 <p align="center">
-2017-2018
-</p>
-</h3>
-
-<h3> 
-<p align="center">
 Classroom Language
 </p>
 </h3>
