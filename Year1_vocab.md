@@ -4,6 +4,10 @@
 
 ***
 ### Period 2  
+#### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A)
+
+***
+### Period 2  
 
 #### [Topic 6 - Numbers 1-10](https://tangerina-pt.github.io/English/Numbers_1_to_10)
 #### [Topic 5 - Toys](https://tangerina-pt.github.io/English/Toys_A)
