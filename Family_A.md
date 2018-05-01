@@ -9,7 +9,7 @@ For each word, click on the speaker to hear the word. Then click on the word its
 
 
 (2). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
-This game asks e.g.(p.ex.) ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Click on the picture of the mum/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.)
+This game asks e.g.(p.ex.) ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Click on the picture of the mum/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)
 
 (3). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
 
