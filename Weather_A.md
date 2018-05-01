@@ -1,6 +1,6 @@
 ### How's the weather?
 
-Minimum vocabulary: It's sunny. It's cloudy. It's windy. It's rainy/raining. It's snowy/snowing.
+Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.
 
 #### Song
 [![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo) Sing the [weather song.](https://www.youtube.com/watch?v=I8GeA3anPdo)  
