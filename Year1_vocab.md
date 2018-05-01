@@ -3,7 +3,7 @@
 *If a link is not working, please try using Internet Explorer on a regular PC or laptop. / Se um link não está a funcionar, por favor experimente com Internet Explorer num PC ou portátil.*
 
 ***
-### Period 2  
+### Period 3  
 
 #### [Topic 8 - Weather](https://tangerina-pt.github.io/English/Weather_A)
 #### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A)
