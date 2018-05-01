@@ -4,6 +4,8 @@
 
 ***
 ### Period 2  
+
+#### [Topic 8 - Weather](https://tangerina-pt.github.io/English/Weather_A)
 #### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A)
 
 ***
