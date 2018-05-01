@@ -1,7 +1,5 @@
 ### How's the weather?
 
-Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.
-
 #### Song
 [![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo) Sing the [weather song.](https://www.youtube.com/watch?v=I8GeA3anPdo)  
 
@@ -9,7 +7,9 @@ Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.
 (1). [![bcwe1](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1)  
 For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)
 
-(2). [![weme](/images/weme.PNG)](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Play memory.](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)
+(2). [![weme](/images/weme.PNG)](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Play memory.](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  
+
+[Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.]
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
