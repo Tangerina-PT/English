@@ -1,14 +1,14 @@
 ### Family
 
 #### Song
-[![elffm1](/images/elffm1.PNG)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
+[![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
 
 #### Games
 (1). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
 For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no auscultador para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)
 
 
-(2). [![wfm1](/images/wfm1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
+(2). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
 This game asks ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Click on the picture of the mum/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.)
 
 (3). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
