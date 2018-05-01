@@ -69,6 +69,11 @@
 1. [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
 2. (To be continued)
 
+***
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+
+***
+
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil demais ou leve à frustraçao deve ser descontinuada imediatamente.
 * Ensure the sound is switched on. Many activities have a voiceover, a listening comprehension component or a button with a picture of a speaker that enables the user to hear the correct pronunciation for the word or the sentence. / Certifiquem-se de que o som está ligado. Várias actividades tem um enunciado, uma componente auditiva ou um botão com uma imagem de um altifalante que permite ouvir a pronúncia correta da palavra ou da frase. ![spkr2](/images/spkr2.PNG)
