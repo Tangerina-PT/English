@@ -13,7 +13,7 @@ This game asks e.g.(p.ex.) ‘Where’s Veronica’s mum?’(’Onde está a mã
 (3). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
 
 (4). [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
-Click on ![efgfm2](/images/efgfm2.PNG) to start. (Clica em ![efgfm](/images/efgfm2.PNG) para começar.)  
+Click on ![efgfm2](/images/efgfm2.PNG) to start. (Clica em ![efgfm2](/images/efgfm2.PNG) para começar.)  
 Then click on ![efgfm3](/images/efgfm3.PNG) to add more words: (Depois clica em ![efgfm3](/images/efgfm3.PNG) para adicionar palavras:)  
 aunt (tia); uncle (tio); cousin (primo/a)
 
