@@ -18,6 +18,7 @@ Then click on ![efgfm3](/images/efgfm3.PNG) to add more words:
 (Depois clica em ![efgfm3](/images/efgfm3.PNG) para adicionar palavras:)  
 - aunt (tia); uncle (tio); cousin (primo/a)
 
+[Minimum vocabulary: mother(mum), father(dad), brother, sister, grandmother(grandma), grandfather(grandpa)]
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
