@@ -7,10 +7,7 @@
 #### Match the words, pictures and sounds  
 
 (1). [![lcca1](/images/lcca1.PNG)](http://www.learningchocolate.com/content/lets-go-class)  
-(![spkr2](/images/spkr2.PNG) Click on the picture of the speaker to hear each expression.  
-/ Clica na imagem do altifalante para ouvir cada expressão.  
-Do the activities/faz as actividades - click on/clica em:  
-![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG) and ![lcmu3](/images/lcmu3.PNG).) 
+(![spkr2](/images/spkr2.PNG) Click on the speaker to hear each expression then do the activities./ Clica no altifalante para ouvir cada expressão. Depois, faz as actividades. ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG) and ![lcmu3](/images/lcmu3.PNG).) 
 
 (2). [![lcca2](/images/lcca2.PNG)](http://www.learningchocolate.com/content/classroom-instructions)  
 
