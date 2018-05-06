@@ -2,7 +2,7 @@
 
 #### Watch the video flashcards / Vê e ouve as expressões no vídeo:  
 
-(1). [![lcca0](/images/lcca0.PNG)](https://www.youtube.com/watch?v=UIGD9uFY-C4)
+(1). [![lcca0](/images/lcca0.png)](https://www.youtube.com/watch?v=UIGD9uFY-C4)
 
 #### Match the words, pictures and sounds  
 
