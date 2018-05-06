@@ -8,10 +8,6 @@ Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
 * click on each letter to hear its name / clica em cada letra para ouvir o seu nome
 * start with the **easy** level, then challenge yourself with the medium and hard levels / Começa com o nível **easy**.
 
-3. Practise spelling your name aloud in English – click on the letters of your name in Alphabet Antics to help. / Pratica soletrar o teu próprio nome em voz alta em inglês - clica nas letras no Alphabet Antics para ajudar.
-
-4. Extra challenge if you have time: Can you spell the names of other members of your family? / Desafio extra para quem tem tempo: Soletra os nomes de outros membros da família.
-
 NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’  
 
 ***
