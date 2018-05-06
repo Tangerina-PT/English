@@ -7,11 +7,16 @@
 (1). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
 For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)
 
-
 (2). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
 This game asks e.g.(p.ex.) ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Click on the picture of the mum/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)
 
 (3). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
+
+(4). [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
+Click on ![efgfm2](/images/efgfm2.PNG) to start. (Clica em ![efgfm](/images/efgfm2.PNG) para começar.)  
+Then click on ![efgfm3](/images/efgfm3.PNG) to add more words: (Depois clica em ![efgfm3](/images/efgfm3.PNG) para adicionar palavras:)  
+aunt (tia); uncle (tio); cousin (primo/a)
+
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
