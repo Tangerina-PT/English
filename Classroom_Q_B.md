@@ -1,6 +1,7 @@
 ### Classroom Questions
 
-Choose one or two expressions to practice at a time./Escolha uma ou duas expressões a aprender cada vez.  
+Choose one or two expressions to practice at a time./  
+Escolha uma ou duas expressões de cada vez para praticar.  
 
 #### How do you say 'Olá' in English? (Como é que se diz 'Olá' em inglês?)
 
