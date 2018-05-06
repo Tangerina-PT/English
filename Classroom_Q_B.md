@@ -1,5 +1,7 @@
 ### Classroom Questions
 
+Choose one or two expressions to practice at a time./Escolha uma ou duas expressões a aprender cada vez.  
+
 #### How do you say 'Olá' in English? (Como é que se diz 'Olá' em inglês?)
 
 ![howsay](/images/how_say.PNG) <audio src="audio/how_do_you_say.mp3" controls preload></audio>
