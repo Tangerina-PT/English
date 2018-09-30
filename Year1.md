@@ -14,7 +14,7 @@ Year 1 English
   <br>
 </p>
 <p align="center">
-  <a href="https://tangerina-pt.github.io/English/Year1_Class_A">Classroom Language</a>
+  <a href="https://tangerina-pt.github.io/English/Class_A">Classroom Language</a>
   <br>
 </p>
 </h4>
