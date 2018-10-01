@@ -1,8 +1,14 @@
 <h2> 
 <p align="center">
-Year 1 English - Language Structures - 2018/2019
-</p>
+Year 1 English
 </h2>
+
+<h3> 
+<p align="center">
+Language Structures
+</p>
+</h3>
+
 
 ### Period 1
 #### [Part 1](https://tangerina-pt.github.io/English/Y1_conv_p1)
