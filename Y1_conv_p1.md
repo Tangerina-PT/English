@@ -33,7 +33,8 @@
 ***Question:*** **'What colour is it?' (De que cor é?)**  
 ***Answer:*** **'It's ..*colour*.. .' (É ..*cor*.. .)**
 
-1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
+1. [![sar1](/images/kbcol.png)](https://www.youtube.com/watch?v=uTDJiPdz3L0)
+2. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
 ***
 
