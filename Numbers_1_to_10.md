@@ -15,6 +15,14 @@
   
 #### Play games
 
+* [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](/images/bapo5.PNG)](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Choose ![bapo6](/images/bapo6.PNG)  
+   Count aloud from 1 to 10 in English – pop the balloon for each number immediately after you have said the number and listen to check. / Conta em voz alta de 1 a 10 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
+  
+   Then challenge yourself to count down / Depois desafia-te - conta para baixo: ![bapo7](/images/bapo7.PNG)  
+
+* [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
+   Play 0-10  ![nobi3](/images/nobi3.PNG).
+
 * [![nocc1](/images/nocc1.PNG)](http://www.abcya.com/kindergarten_counting.htm ) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
 
    Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparecem vários números. Escolha o número certo. [![nocc2](/images/nocc2.PNG)](http://www.abcya.com/kindergarten_counting.htm)  
@@ -27,18 +35,10 @@
 
    Nota: Podes desligar a música de fundo clicando no símbolo [![ssno4](/images/ssno4.PNG)]-->  
 
-* [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](/images/bapo5.PNG)](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Choose ![bapo6](/images/bapo6.PNG)  
-   Count aloud from 1 to 10 in English – pop the balloon for each number immediately after you have said the number and listen to check. / Conta em voz alta de 1 a 10 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
-  
-   Then challenge yourself to count down / Depois desafia-te - conta para baixo: ![bapo7](/images/bapo7.PNG)  
-  
-   Se já dominas 1 a 10 e queres trabalhar 1 a 20:  
+* Se já dominas 1 a 10 e queres trabalhar 1 a 20:  
    [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  [![bapo1](/images/bapo1.PNG)]( http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm) Choose ![bapo2](/images/bapo2.PNG)  
    Count aloud from 1 to 20 in English – pop the balloon for each number immediately after you have said the number and listen to check. / Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
    
-* [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
-   Play 0-10  ![nobi3](/images/nobi3.PNG).
-
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
 
