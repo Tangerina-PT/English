@@ -18,7 +18,7 @@ Classroom Language
 
 ### Stand up, sit down action song
 
-[![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k) [Sing the song](https://www.youtube.com/watch?v=WsiRSWthV1k)/[Canta a canção](https://www.youtube.com/watch?v=WsiRSWthV1k)
+[![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k) [Sing the song and do the actions](https://www.youtube.com/watch?v=WsiRSWthV1k)/[Canta a canção fazendo as ações](https://www.youtube.com/watch?v=WsiRSWthV1k)
 
 ### Rock, paper, scissors
 
