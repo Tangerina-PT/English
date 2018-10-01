@@ -32,7 +32,14 @@
 
 *** 
 
-***Question:*** **'What do you see?' (O que é que vês?)**  
+***Question:*** **'What colour is it?' (De que cor é?)**  
+***Answer:*** **'It's ..*colour*.. .' (É ..*cor*.. .)**
+
+1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
+
+***
+
+<!--***Question:*** **'What do you see?' (O que é que vês?)**  
 ***Answer:*** **'I see a ... . '**
 
 1. [![dews1](/images/dews1.png)](https://www.youtube.com/watch?v=MCjhynvMunE)
@@ -47,14 +54,11 @@
 
 1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E)
 
-2. [![fkea](/images/fkea.png)](https://www.youtube.com/watch?v=D_sdGxUxz_4)
+2. [![fkea](/images/fkea.png)](https://www.youtube.com/watch?v=D_sdGxUxz_4)-->
 
 *** 
 
-***Question:*** **'What colour is it?' (De que cor é?)**  
-***Answer:*** **'..*Colour*..' (..*Cor*..) / 'It's ..*colour*.. .' (É ..*cor*.. .)**
 
-1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 2. (To be continued)
 
 <!--- 
