@@ -21,8 +21,8 @@
 #### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A)
 #### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)
 
-***
-[![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb1)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb1)  
+<!--***
+[![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb1)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb1)-->
 
 ***
 #### Notes/Notas
