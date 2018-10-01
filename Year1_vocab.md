@@ -17,9 +17,9 @@
 ***-->
 ### Period 1
 <!--#### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A)-->
-#### [Topic 3 - Numbers 1-10](https://tangerina-pt.github.io/English/Numbers_1_to_10)
-#### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A)
-#### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)
+#### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Numbers_1_to_10)
+#### [Topic 1 - Colours](https://tangerina-pt.github.io/English/Colours_A)
+<!--#### [Topic 0 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)-->
 
 <!--***
 [![kbah](/images/kbah.PNG)](https://tangerina-pt.github.io/English/kb1)[![kbtx](/images/kbtx.PNG)](https://tangerina-pt.github.io/English/kb1)-->
