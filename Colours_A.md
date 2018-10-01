@@ -6,12 +6,12 @@ Select the game ‘Colors’ / Escolhe o jogo ‘Colors’ ![cobi2](/images/cobi
 
 (2). Play [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Joga [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
 
-<!-- (3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) / [Misturador de cores](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/)  
+<!---(3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) / [Misturador de cores](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/)  
 First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](/images/comx2.PNG) to play - a voice will ask you to make a particular colour by choosing the colours to mix. / Primeiro clica em ![comx1](/images/comx1.PNG) para experimentar depois clica em ![comx2](/images/comx2.PNG) para jogar – uma voz vai pedir que faças uma cor escolhendo cores para misturar. 
 
 (4). Other colour games / outros jogos com cores:  
 [Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)   
-[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprende novas palavras... --> 
+[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprende novas palavras... ---> 
 
 ### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
 
