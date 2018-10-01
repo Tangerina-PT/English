@@ -5,6 +5,7 @@ Play some games to learn the colours/Joga alguns jogos para aprender as cores:
 Select the game ‘Colors’ / Escolhe o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
 
 (2). Play [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Joga [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
+
 <!--(3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) / [Misturador de cores](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/)  
 First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](/images/comx2.PNG) to play - a voice will ask you to make a particular colour by choosing the colours to mix. / Primeiro clica em ![comx1](/images/comx1.PNG) para experimentar depois clica em ![comx2](/images/comx2.PNG) para jogar – uma voz vai pedir que faças uma cor escolhendo cores para misturar. 
 
