@@ -4,14 +4,8 @@ Year 1 English - Language Structures - 2018/2019
 </p>
 </h2>
 
-<h4>
-<p align="center">
-  <a>Period 1</a>
-  <br>
-  <a href="https://tangerina-pt.github.io/English/Y1_conv_p1">Part 1</a>
-  <br>
-</p>
-</h4>
+### Period 1
+#### [Part 1](https://tangerina-pt.github.io/English/Y1_conv_p1)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
