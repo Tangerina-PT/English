@@ -23,3 +23,8 @@ Classroom Language
 ### Rock, paper, scissors
 
 ![rps](/images/rps.png) Play at home/Joga em casa
+
+***
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+
+***
