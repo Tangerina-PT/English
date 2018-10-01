@@ -22,4 +22,4 @@ Classroom Language
 
 ### Rock, paper, scissors
 
-![rps](/images/rps.png) Play at home./Joga em casa.
+![rps](/images/rps.png) Play at home/Joga em casa
