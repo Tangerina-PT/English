@@ -3,7 +3,7 @@
 *If a link is not working, please try using Internet Explorer on a regular PC or laptop. / Se um link não está a funcionar, por favor experimente com Internet Explorer num PC ou portátil.*
 
 ***
-### Period 3  
+<!--### Period 3  
 
 #### [Topic 8 - Weather](https://tangerina-pt.github.io/English/Weather_A)
 #### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A)
@@ -11,13 +11,13 @@
 ***
 ### Period 2  
 
-#### [Topic 6 - Numbers 1-10](https://tangerina-pt.github.io/English/Numbers_1_to_10)
 #### [Topic 5 - Toys](https://tangerina-pt.github.io/English/Toys_A)
 #### [Topic 4 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
 
-***
+***-->
 ### Period 1
-#### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A)
+<!--#### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A)-->
+#### [Topic 3 - Numbers 1-10](https://tangerina-pt.github.io/English/Numbers_1_to_10)
 #### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A)
 #### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)
 
