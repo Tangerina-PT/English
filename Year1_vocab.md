@@ -1,4 +1,15 @@
-## Year 1 English - Topics
+<h2> 
+<p align="center">
+Year 1 English
+</p>
+</h2>
+
+<h3> 
+<p align="center">
+Topics
+</p>
+</h3>
+
 *If a link is not working, please try using Internet Explorer on a regular PC or laptop. / Se um link não está a funcionar, por favor experimente com Internet Explorer num PC ou portátil.*
 
 ***
