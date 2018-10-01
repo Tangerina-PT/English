@@ -26,9 +26,7 @@
 
 1. [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo)  
 
-2. [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
-
-3. [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E)
+2. [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E)
 
 *** 
 
@@ -58,11 +56,10 @@
 
 *** 
 
-<!--- 
 3. [![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
 
 4. [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
--->
+
 ***
 
 ***Prepositions of place*** **'ON, IN, UNDER, BEHIND, NEXT TO the ..*noun*..' (em cima de ou colado no, dentro, por baixo, atrás, a beira de a/o ..*substantivo*.. )**
