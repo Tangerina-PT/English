@@ -16,7 +16,7 @@
 ***Question:*** **'How are you?' (Como é que estás?)**  
 ***Answer:'*** **I’m fine, thank you.' (Estou bem, obrigada.)**
 
-1. [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
+1. [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  [Lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit2.pdf) for parents 
 
 2. [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (What's your name?/How are you?)
 
@@ -25,7 +25,7 @@
 ***Question:*** **'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?)**  
 ***Answer:*** **'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)**
 
-1. [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo) [Lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit2.pdf) for parents  
+1. [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo)  
 
 2. [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E)
 
