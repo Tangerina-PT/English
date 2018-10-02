@@ -25,7 +25,7 @@
 ***Question:*** **'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?)**  
 ***Answer:*** **'I'm _____ .' ('Sou...' -> Tenho...)/'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)**
 
-1. [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=P__4P20BlGo) [How old are you? KB](https://www.youtube.com/watch?v=P__4P20BlGo)  
+1. [![hoaykb](/images/hoaykb.png)](https://www.youtube.com/watch?v=6qklhZ_gio0) [How old are you? KB](https://www.youtube.com/watch?v=6qklhZ_gio0)  
 
 2. [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E)
 
