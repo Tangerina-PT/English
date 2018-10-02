@@ -17,7 +17,7 @@ First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](
 
 (1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song:
 [I can sing a rainbow](https://www.youtube.com/watch?v=uTDJiPdz3L0) [![sar1](/images/kbcol.png)](https://www.youtube.com/watch?v=uTDJiPdz3L0)  
-Watch the colours as you sing. / Olha para as cores ao cantar. Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit1.pdf) for parents. 
+Watch the colours as you sing. / Olha para as cores ao cantar. [Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit1.pdf) for parents.]
 
 (2). Do you know the song already? Then sing Karaoke-style! / Já sabes a canção? Então canta estilo-Karaoke! [![sar1](/images/kbcolkar.png)](https://www.youtube.com/watch?v=neRg2DJkN40)
 
