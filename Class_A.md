@@ -14,7 +14,7 @@ Classroom Language
 
 ### Clean up song
 
-[![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M) [Sing the song](https://www.youtube.com/watch?v=RmNCryV6G_M)/[Canta a canção](https://www.youtube.com/watch?v=RmNCryV6G_M)
+[![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M) [Sing the song](https://www.youtube.com/watch?v=RmNCryV6G_M)/[Canta a canção](https://www.youtube.com/watch?v=RmNCryV6G_M) Song [lyrics](https://mapleleaflearning.com/songs/sing-and-play-green/the-clean-up-song/) for parents.
 
 ### Stand up, sit down action song
 
