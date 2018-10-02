@@ -32,7 +32,7 @@
 ***Question:*** **'What colour is it?' (De que cor é?)**  
 ***Answer:*** **'It's ..*colour*.. .' (É ..*cor*.. .)**
 
-1. [![sar1](/images/kbcol.png)](https://www.youtube.com/watch?v=uTDJiPdz3L0)
+1. [![sar1](/images/kbcol.png)](https://www.youtube.com/watch?v=uTDJiPdz3L0) Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit1.pdf) for parents. 
 2. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
 ***
