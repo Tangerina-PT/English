@@ -14,7 +14,7 @@
 ***Question:*** **'How are you?' (Como é que estás?)**  
 ***Answer:'*** **I’m fine, thank you.' (Estou bem, obrigada.)**
 
-1. [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit2.pdf) for parents 
+1. [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  [Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit2.pdf) for parents] 
 
 2. [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (What's your name?/How are you?)
 
