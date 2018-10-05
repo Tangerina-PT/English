@@ -2,15 +2,20 @@
 
 Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
 
-1. Sing ![sing](/images/sing.png) the [alphabet song](https://www.youtube.com/watch?v=Y88p4V_BCEU) [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU)
+***Question:*** **'How do you spell your name?'('Como é que te escreve o teu nome?')**  
+***Answer:*** **'It's 'S' 'A' 'L' 'L' 'Y''**  
 
-2. Play the [Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics) [![aant](/images/aant.PNG)](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)
+1. [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU)[Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
+
+2. [![aant](/images/aant.PNG)](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)
 * click on each letter to hear its name / clica em cada letra para ouvir o seu nome
 * start with the **easy** level, then challenge yourself with the medium and hard levels / Começa com o nível **easy**.
 
-3. Practise spelling your name aloud in English – click on the letters of your name in Alphabet Antics to help. / Pratica soletrar o teu próprio nome em voz alta em inglês - clica nas letras no Alphabet Antics para ajudar.
+3. [![frna](/images/frna.PNG)](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
 
-4. Extra challenge if you have time: Can you spell the names of other members of your family? / Desafio extra para quem tem tempo: Soletra os nomes de outros membros da família.
+4. Practise spelling your name aloud in English – click on the letters of your name in Alphabet Antics to help. / Pratica soletrar o teu próprio nome em voz alta em inglês - clica nas letras no Alphabet Antics para ajudar.
+
+5. Extra challenge: Can you spell the names of other members of your family? / Desafio extra: Soletra os nomes de outros membros da família.
 
 NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’  
 
