@@ -17,7 +17,7 @@
 [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (What's your name?/How are you?)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)  
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)  
 
 ***
 #### Notes/Notas
