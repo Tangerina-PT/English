@@ -8,8 +8,8 @@ Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
 1. [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
 
 2. [![aant](/images/aant.PNG)](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)
-* click on each letter to hear its name / clica em cada letra para ouvir o seu nome
-* start with the **easy** level, then challenge yourself with the medium and hard levels / Começa com o nível **easy**.
+* clica em cada letra para ouvir o seu nome / click on each letter to hear its name
+* Começa com o nível **easy** (fácil) / start with the **easy** level
 
 3. [![frna](/images/frna.PNG)](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
 
