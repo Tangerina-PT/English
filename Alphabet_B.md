@@ -5,7 +5,7 @@ Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
 ***Question:*** **'How do you spell your name?'('Como é que te escreve o teu nome?')**  
 ***Answer:*** **'It's 'S' 'A' 'L' 'L' 'Y''**  
 
-1. [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU)[Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
+1. [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
 
 2. [![aant](/images/aant.PNG)](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)
 * click on each letter to hear its name / clica em cada letra para ouvir o seu nome
