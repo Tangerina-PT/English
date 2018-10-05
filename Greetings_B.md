@@ -1,12 +1,31 @@
 ### Greetings  
 
-#### 'What’s your name?', 'My name is…'/'I’m…', 'How are you?', 'I’m fine, thank you.'
+***Question:*** **'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
+***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
 
-(1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)
+[![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)[Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) 
 
-(2). Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)  
+***Question:*** **'How do you spell your name?'('Como é que te escreve o teu nome?')**  
+***Answer:*** **'It's 'S' 'A' 'L' 'L' 'Y''**  
 
-(3). Practice asking and answering these questions with members of your family. / Pratica perguntar e responder às perguntas com membros da tua família.
+[![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU)[Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
+
+[![aant](/images/aant.PNG)](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)
+* click on each letter to hear its name / clica em cada letra para ouvir o seu nome
+* start with the **easy** level, then challenge yourself with the medium and hard levels / Começa com o nível **easy**.
+
+[![frna](/images/frna.PNG)](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
+
+***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (É um prazer conhecer-te./Igualmente.)**  
+
+[![ntmy](/images/ntmy.PNG)](https://www.youtube.com/watch?v=rSwypHirUkM) [Freddiesville - Nice to meet you.]
+
+***Question:*** **'How are you?' (Como é que estás?)**  
+***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**
+
+[![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
+
+[![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (What's your name?/How are you?)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)  
