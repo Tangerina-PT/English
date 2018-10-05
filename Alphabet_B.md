@@ -13,9 +13,9 @@ Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
 
 3. [![frna](/images/frna.PNG)](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
 
-4. Practise spelling your name aloud in English – click on the letters of your name in Alphabet Antics to help. / Pratica soletrar o teu próprio nome em voz alta em inglês - clica nas letras no Alphabet Antics para ajudar.
+4. Pratica Soletrar o teu nome em voz alta em inglês - clica nas letras no Alphabet Antics para ajudar. / Spell your name aloud in English – click on the letters in Alphabet Antics to help.
 
-5. Extra challenge: Can you spell the names of other members of your family? / Desafio extra: Soletra os nomes de outros membros da família.
+5. Desafio extra: Soletra os nomes de outros membros da família./ Extra challenge: Spell the names of other members of your family.
 
 NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’  
 
