@@ -1,6 +1,6 @@
 ### The Alphabet
 
-Learn to spell aloud in English./Aprende a soletrar em voz alta em inglês.
+Aprende a soletrar em inglês./Learn to spell aloud in English.
 
 ***Question:*** **'How do you spell your name?'('Como é que te escreve o teu nome?')**  
 ***Answer:*** **'It's 'S' 'A' 'L' 'L' 'Y''**  
