@@ -16,9 +16,9 @@
 
 #### [Topic 7 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)
 
-#### [Topic 8 Talking about my family](https://tangerina-pt.github.io/English/Family_B)
+#### [Topic 8 - Talking about my family](https://tangerina-pt.github.io/English/Family_B)
 
-#### [Topic 9 Talking about position/location](https://tangerina-pt.github.io/English/Prepositions_B)
+#### [Topic 9 - Talking about position/location](https://tangerina-pt.github.io/English/Prepositions_B)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
