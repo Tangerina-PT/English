@@ -7,7 +7,7 @@
 
 ***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (É um prazer conhecer-te./Igualmente.)**  
 
-[![ntmy](/images/ntmy.PNG)](https://www.youtube.com/watch?v=rSwypHirUkM) [Freddiesville - Nice to meet you.]
+[![ntmy](/images/ntmy.PNG)](https://www.youtube.com/watch?v=rSwypHirUkM)[Freddiesville - Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM)
 
 ***Question:*** **'How are you?' (Como é que estás?)**  
 ***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**
