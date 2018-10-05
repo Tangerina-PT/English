@@ -4,8 +4,8 @@
 
 ***
 ### Period 3  
-#### [Topic 8 - Weather](https://tangerina-pt.github.io/English/Weather_B)
-#### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_B)
+#### [Topic 10 - Weather](https://tangerina-pt.github.io/English/Weather_B)
+#### [Topic 9 - Family](https://tangerina-pt.github.io/English/Family_B)
 
 ***
 ### Period 2
