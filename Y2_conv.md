@@ -8,9 +8,9 @@
 
 #### [Topic 3 - Expressing emotions/needs](https://tangerina-pt.github.io/English/Feelings_B)
 
-#### [Topic 4 - Talking about colour](https://tangerina-pt.github.io/English/Colour_B)
+#### [Topic 4 - Talking about colour](https://tangerina-pt.github.io/English/Colours_B)
 
-#### [Topic 5 - Talking about number](https://tangerina-pt.github.io/English/Colour_B)
+#### [Topic 5 - Talking about number](https://tangerina-pt.github.io/English/Number_B)
 
 #### [Topic 6 - Talking about the weather](https://tangerina-pt.github.io/English/Weather_B)
 
