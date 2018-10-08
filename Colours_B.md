@@ -2,7 +2,7 @@
 
 ### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
 
-(1). [I can sing a rainbow](https://www.youtube.com/watch?v=T7tSN-WH96E) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=T7tSN-WH96E) Sing ![sing](/images/sing.png) the song and point to the colours./Canta e aponta às cores.  
+(1). [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=T7tSN-WH96E) Sing ![sing](/images/sing.png) and point to the colours./ Canta e aponta às cores.  
 ![colbbbc](/images/colbbbc.png)
 
 (2). Consegues cantar o nosso segundo verso? / Can you sing our second verse?  
