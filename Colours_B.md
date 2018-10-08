@@ -1,5 +1,35 @@
 ### Colours
 
+### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
+
+(1). [I can sing a rainbow](https://www.youtube.com/watch?v=T7tSN-WH96E) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=T7tSN-WH96E) Sing ![sing](/images/sing.png) the song and point to the colours./Canta e aponta às cores.  
+![colbbbc](/images/colbbbc.png)
+
+(2). Consegues cantar o nosso segundo verso? / Can you sing our second verse?  
+![spkr2](/images/spkr2.PNG) <audio src="audio/y2_v2.mp3" controls preload></audio>
+Gold and silver and brown and beige, black and white and grey. I can sing a rainbow, sing a rainbow, sing a rainbow today.  
+![colbbbc2](/images/colbbbc2.png)
+
+(3). Super desafio - Consegues cantar os dois versos, apontando às cores na ordem certa:  
+![colmix2](/images/colmix2.png)
+
+### Language structures
+
+***Question:*** **'What colour is it?' (De que cor é?)**  
+***Answer:*** **'It's ..*colour*.. .' (É ..*cor*.. .)**
+
+[![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
+
+***Answer:*** **' The ..*Object*.. is ..*Colour*..' (O ..*Objecto* é ..*Cor*..)
+
+[![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
+
+### Video
+
+[![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
+
+### Games
+
 Play some games to learn the colours/Joga alguns jogos para aprender as cores: 
 1. [Match the colours to their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours)
 
@@ -9,7 +39,8 @@ Play some games to learn the colours/Joga alguns jogos para aprender as cores:
 3. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![cmem](/images/cmem.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.
 
-4. Play some [spelling games](http://www.mes-games.com/colors.php)  
+4. Estás pronto para aprender a escrever as cores?/Are you ready to learn to spell the colours?  
+Play some [spelling games](http://www.mes-games.com/colors.php)  
    Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
 
    ‘Missile defence’ [![mdef](/images/mdef.PNG)](http://www.mes-games.com/colors.php)  
