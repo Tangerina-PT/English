@@ -11,7 +11,7 @@ Gold and silver and brown and beige, black and white and grey.
 ![colbbbc2](/images/colbbbc2.png)  
 I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
-(3). Super desafio - Consegues cantar os dois versos, apontando às cores na ordem certa:  
+(3). Super desafio - cantar e aponta agora!  
 ![colmix2](/images/colmix2.png)
 
 ### Language structures
