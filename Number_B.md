@@ -22,9 +22,9 @@
 
 ***
 
-#### [Numbers 1-10](https://tangerina-pt.github.io/English/Number_B_I)
+#### [Learn Numbers 1-10](https://tangerina-pt.github.io/English/Number_B_I)
 
-#### [Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)
+#### [Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)
 
 ***
 
