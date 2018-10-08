@@ -10,7 +10,11 @@
 
 #### [Topic 4 - Talking about colour](https://tangerina-pt.github.io/English/Colours_B)
 
-#### [Topic 5 - Talking about number](https://tangerina-pt.github.io/English/Number_B)
+#### Topic 5 - Talking about number
+
+###      [Topic 5 - Talking about number](https://tangerina-pt.github.io/English/Number_B_I)
+
+###      [Topic 5 - Talking about number](https://tangerina-pt.github.io/English/Number_B_II)
 
 #### [Topic 6 - Talking about the weather](https://tangerina-pt.github.io/English/Weather_B)
 
