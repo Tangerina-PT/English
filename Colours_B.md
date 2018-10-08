@@ -25,28 +25,29 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 [![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
 
-### Video
+***Question:*** **'What colour is this/that?' (De que cor é isto/isso?)**  
+***Answer:*** **'It's/that's ..*colour*.. .' (É ..*cor*.. .)**
 
 [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 
 ### Games
 
-[![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm)  
+1. [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm)  
 Select ‘Colors’ / Escolhe ‘Colors’ ![cobi2](/images/cobi2.PNG)
 
-Trabalhar a leitura  
+**Trabalhar a leitura** 
 
-1. [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) 
+2. [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) 
 
-2. [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)[Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
+3. [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)[Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
    Play **beginner** level/Joga no nível **beginner**
 
-3. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![cmem](/images/cmem.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
+4. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![cmem](/images/cmem.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.
 
-Extension - Aprender a escrever as cores. / Learn to spell the colours.  
+**Extension - Aprender a escrever as cores. / Learn to spell the colours.**  
 
-Play some [spelling games](http://www.mes-games.com/colors.php)  
+5). Play some [spelling games](http://www.mes-games.com/colors.php)  
    Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
 
    ‘Missile defence’ [![mdef](/images/mdef.PNG)](http://www.mes-games.com/colors.php)  
