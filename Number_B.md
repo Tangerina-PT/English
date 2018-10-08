@@ -16,7 +16,7 @@
 ***Question:*** **'How many?' (Quantos?)**  
 ***Answer:*** **'...Number..'(..Número..) [Avançado: There is one./There are ...' (Há um./Há...)]**
 
-1. [![oeuhm](/images/oeuhm.png)](https://www.youtube.com/watch?v=G3zaC5onBvM)
+1. [![oxeuhm](/images/oxeuhm.png)](https://www.youtube.com/watch?v=G3zaC5onBvM)
 
 2. [![hmanmk](/images/hmanmk.png)](https://www.youtube.com/watch?v=bUvbOtOGeUs)
 
