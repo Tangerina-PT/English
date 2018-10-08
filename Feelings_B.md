@@ -9,7 +9,7 @@
 2. [![wehay1](/images/wehay1.PNG)](https://www.youtube.com/watch?v=5su1M6NdG-I)  
 (I'm happy/sad/hot/cold)
 
-3.[![wehay2](/images/wehay2.PNG)](https://www.youtube.com/watch?v=WkswguWRJ5Q)  
+3. [![wehay2](/images/wehay2.PNG)](https://www.youtube.com/watch?v=WkswguWRJ5Q)  
 (I'm thirsty/sick/hungry)
 
 ***
