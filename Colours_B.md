@@ -6,7 +6,7 @@
 ![colbbbc](/images/colbbbc.png)
 
 (2). Consegues cantar o nosso segundo verso? / Can you sing our second verse?  
-![spkr2](/images/spkr2.PNG) <audio src="audio/y2_v2.mp3" controls preload></audio>
+![spkr2](/images/spkr2.PNG) <audio src="audio/y2_v2.mp3" controls preload></audio>  
 Gold and silver and brown and beige, black and white and grey. I can sing a rainbow, sing a rainbow, sing a rainbow today.  
 ![colbbbc2](/images/colbbbc2.png)
 
