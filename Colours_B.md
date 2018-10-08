@@ -7,8 +7,9 @@
 
 (2). Cantar o segundo verso. / Sing our second verse.  
 <audio src="audio/y2_v2.mp3" controls preload></audio>  
-Gold and silver and brown and beige, black and white and grey. I can sing a rainbow, sing a rainbow, sing a rainbow today.  
-![colbbbc2](/images/colbbbc2.png)
+Gold and silver and brown and beige, black and white and grey.  
+![colbbbc2](/images/colbbbc2.png)  
+I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 (3). Super desafio - Consegues cantar os dois versos, apontando às cores na ordem certa:  
 ![colmix2](/images/colmix2.png)
