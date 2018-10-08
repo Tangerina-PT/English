@@ -31,16 +31,21 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 ### Games
 
-Play some games to learn the colours/Joga alguns jogos para aprender as cores: 
-1. [Match the colours to their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours)
+[![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm)  
+Select ‘Colors’ / Escolhe ‘Colors’ ![cobi2](/images/cobi2.PNG)
 
-2. [Match the colours to their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)   
-   Play the **beginner** level/Joga no nível **beginner**
+Trabalhar a leitura  
+
+1. [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) 
+
+2. [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)[Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
+   Play **beginner** level/Joga no nível **beginner**
 
 3. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![cmem](/images/cmem.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.
 
-4. Estás pronto para aprender a escrever as cores?/Are you ready to learn to spell the colours?  
+Extension - Aprender a escrever as cores. / Learn to spell the colours.  
+
 Play some [spelling games](http://www.mes-games.com/colors.php)  
    Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
 
@@ -54,7 +59,6 @@ Play some [spelling games](http://www.mes-games.com/colors.php)
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
 
 ***
-
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil demais ou leve à frustraçao deve ser descontinuada imediatamente.
