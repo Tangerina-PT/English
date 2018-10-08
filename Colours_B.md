@@ -21,7 +21,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
-***Answer:*** **' The ..*Object*.. is ..*Colour*..' (O ..*Objecto* é ..*Cor*..)
+***Answer:*** **'The ..*Object*.. is ..*Colour*..' (O ..*Objecto* é ..*Cor*..)**
 
 [![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
 
