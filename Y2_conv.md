@@ -1,4 +1,4 @@
-## Year 2 English - Language Structures
+## Year 2 English
 
 ### Part 1 - Revision and extension of content from Year 1
 
