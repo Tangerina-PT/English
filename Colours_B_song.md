@@ -1,4 +1,5 @@
-### Colours - Song - *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
+### Colours - Song - *I can sing a rainbow*  
+(*Eu consigo cantar um arco-iris*)  
 
 (1). [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=T7tSN-WH96E) Sing and point. / Canta e aponta.  
 ![colbbbc](/images/colbbbc.png)
