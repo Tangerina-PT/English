@@ -32,21 +32,21 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 ### Games
 
-1. [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) (Escolha/select ‘Colors’ ![cobi2](/images/cobi2.PNG))
+- [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) (Escolha/select ‘Colors’ ![cobi2](/images/cobi2.PNG))
 
 ![readtxt](/images/readtxt.png)![read](/images/read.jpg)
 
-2. [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) 
+- [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) 
 
-3. [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)[Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
+- [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)[Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
    Play **beginner** level/Joga no nível **beginner**
 
-4. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![cmem](/images/cmem.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
+- Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![cmem](/images/cmem.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.
 
 ![writetxt](/images/writetxt.png)![write](/images/write.jpg)
 
-5). Play some [spelling games](http://www.mes-games.com/colors.php)  
+- Play some [spelling games](http://www.mes-games.com/colors.php)  
    Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
 
    ‘Missile defence’ [![mdef](/images/mdef.PNG)](http://www.mes-games.com/colors.php)  
