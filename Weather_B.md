@@ -9,14 +9,14 @@ For each word, click on the speaker to hear the word. Then click on the word its
 
 (2). [![weme](/images/weme.PNG)](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Play memory.](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  
 
-(3). [![bcwe2](/images/bcwe2.PNG)](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather) [World weather](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather)
+<!--(3). [![bcwe2](/images/bcwe2.PNG)](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather) [World weather](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather)
 
-(4). [![bbcwe](/images/bbcwe.PNG)](http://www.bbc.co.uk/schools/barnabybear/games/weather_report.shtml) [UK weather](http://www.bbc.co.uk/schools/barnabybear/games/weather_report.shtml)
+(4). [![bbcwe](/images/bbcwe.PNG)](http://www.bbc.co.uk/schools/barnabybear/games/weather_report.shtml) [UK weather](http://www.bbc.co.uk/schools/barnabybear/games/weather_report.shtml)-->
 
 [Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.]
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
 
 ***
 
