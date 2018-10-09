@@ -5,6 +5,7 @@
 ![readtxt](/images/readtxt.png)![read](/images/read.jpg)
 
 - [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) 
+Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./Click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.
 
 - Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![cmem](/images/cmem.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.
