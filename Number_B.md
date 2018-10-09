@@ -1,9 +1,11 @@
 ### Number
-
-#### Language Structures
-
 ***
+#### [Learn Numbers 1-10](https://tangerina-pt.github.io/English/Number_B_I)
 
+#### [Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)
+***
+#### Language Structures
+***
 ***Question:*** **'How old are you?' (Quantos anos tens?)**  
 ***Answer:*** **'I'm ____ years old.' (Tenho ___ anos.)**
 
@@ -19,12 +21,6 @@
 1. [![oxeuhm](/images/oxeuhm.PNG)](https://www.youtube.com/watch?v=G3zaC5onBvM)
 
 2. [![hmanmk](/images/hmanmk.png)](https://www.youtube.com/watch?v=bUvbOtOGeUs)
-
-***
-
-#### [Learn Numbers 1-10](https://tangerina-pt.github.io/English/Number_B_I)
-
-#### [Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)
 
 ***
 
