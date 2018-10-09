@@ -34,7 +34,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 1. [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) (Escolha/select ‘Colors’ ![cobi2](/images/cobi2.PNG))
 
-**Trabalhar a leitura** 
+![readtxt](/images/readtxt.png) ![read](/images/read.jpg)
 
 2. [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) 
 
@@ -44,7 +44,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 4. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![cmem](/images/cmem.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.
 
-**Extension - Aprender a escrever as cores. / Learn to spell the colours.**  
+![writetxt](/images/writetxt.png) ![write](/images/write.jpg)
 
 5). Play some [spelling games](http://www.mes-games.com/colors.php)  
    Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
