@@ -7,7 +7,7 @@ Aprende a soletrar em inglês./Learn to spell aloud in English.
 
 1. [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
 
-2. [![aant](/images/aant.PNG)](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)
+2. [![aant](/images/aant.PNG)](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)^^
 * clica em cada letra para ouvir o seu nome / click on each letter to hear its name
 * Começa com o nível **easy** (fácil) / start with the **easy** level
 
@@ -17,7 +17,7 @@ Aprende a soletrar em inglês./Learn to spell aloud in English.
 
 5. Desafio extra: Soletra os nomes de outros membros da família./ Extra challenge: Spell the names of other members of your family.
 
-NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’  
+^^ NB: É preciso Adobe Flash Player para jogar ‘Alphabet Antics. Não funciona em telemóveis e tablets. /You need Adobe Flash Player to play ‘Alphabet Antics’. It doesn't work on phones and tablets.
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
