@@ -25,7 +25,7 @@ Topics
 ***-->
 ### Period 1
 <!--#### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A)-->
-#### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Numbers_1_to_10)
+#### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Numbers_A)
 #### [Topic 1 - Colours](https://tangerina-pt.github.io/English/Colours_A)
 <!--#### [Topic 0 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)-->
 
