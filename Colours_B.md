@@ -1,19 +1,5 @@
 ## Colours
 
-### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
-
-(1). [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=T7tSN-WH96E) Sing and point. / Canta e aponta.  
-![colbbbc](/images/colbbbc.png)
-
-(2). Cantar o segundo verso. / Sing our second verse.  
-<audio src="audio/y2_v2.mp3" controls preload></audio>  
-Gold and silver and brown and beige, black and white and grey.  
-![colbbbc2](/images/colbbbc2.png)  
-I can sing a rainbow, sing a rainbow, sing a rainbow today.
-
-(3). Super desafio - cantar e aponta agora!  
-![colmix2](/images/colmix2.png)
-
 ### Language structures
 
 ***Question:*** **'What colour is it?' (De que cor é?)**  
@@ -29,6 +15,20 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 ***Answer:*** **'It's/that's ..*colour*.. .' (É/Isso é ..*cor*.. .)**
 
 [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
+
+### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
+
+(1). [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=T7tSN-WH96E) Sing and point. / Canta e aponta.  
+![colbbbc](/images/colbbbc.png)
+
+(2). Cantar o segundo verso. / Sing our second verse.  
+<audio src="audio/y2_v2.mp3" controls preload></audio>  
+Gold and silver and brown and beige, black and white and grey.  
+![colbbbc2](/images/colbbbc2.png)  
+I can sing a rainbow, sing a rainbow, sing a rainbow today.
+
+(3). Desafio - cantar e aponta agora!  
+![colmix2](/images/colmix2.png)
 
 ### Games
 
