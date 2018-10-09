@@ -15,7 +15,7 @@ For each word, click on the speaker to hear the word. Then click on the word its
 
 (4). [![bbcwe](/images/bbcwe.PNG)](http://www.bbc.co.uk/schools/barnabybear/games/weather_report.shtml) [UK weather](http://www.bbc.co.uk/schools/barnabybear/games/weather_report.shtml)-->
 
-[Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.]
+[Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.; It's hot.; It's cold.]
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
