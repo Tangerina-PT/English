@@ -26,14 +26,13 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 [![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
 
 ***Question:*** **'What colour is this/that?' (De que cor é isto/isso?)**  
-***Answer:*** **'It's/that's ..*colour*.. .' (É ..*cor*.. .)**
+***Answer:*** **'It's/that's ..*colour*.. .' (É/Isso é ..*cor*.. .)**
 
 [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 
 ### Games
 
-1. [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm)  
-Select ‘Colors’ / Escolhe ‘Colors’ ![cobi2](/images/cobi2.PNG)
+1. [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) (Escolha/select ‘Colors’ ![cobi2](/images/cobi2.PNG))
 
 **Trabalhar a leitura** 
 
