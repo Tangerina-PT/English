@@ -1,6 +1,8 @@
 ### How's the weather?
 
-#### Song
+***Question:*** **'How's the weather?' (Como está o tempo?)**  
+***Answer:*** **'It's sunny/rainy/windy/cloudy/snowy/stormy.' (Há... sol/chuva/vento/núvens/neve/tempestade.)**
+
 [![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo) Sing the [weather song.](https://www.youtube.com/watch?v=I8GeA3anPdo)  
 
 #### Games
