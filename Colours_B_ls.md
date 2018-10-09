@@ -1,6 +1,4 @@
-## Colours
-
-### Language structures
+### Colours - Language structures
 
 ***Question:*** **'What colour is it?' (De que cor é?)**  
 ***Answer:*** **'It's ..*colour*.. .' (É ..*cor*.. .)**
