@@ -87,6 +87,8 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 
 [![ican](/images/ican.png)](https://www.youtube.com/watch?v=_Ir0Mc6Qilo) [Yes, I can.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)
 
+[![gae16](/images/gae16.png)](https://www.youtube.com/watch?v=IjbKkssHkJw) [Gogo’s Adventures with English 16](https://www.youtube.com/watch?v=IjbKkssHkJw)
+
 ***
 
 ***Question:*** **'What do you want to do?' ('O que é que queres fazer?')**  
