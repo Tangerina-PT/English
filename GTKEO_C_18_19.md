@@ -51,6 +51,11 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 ***Question:*** **'Have you got any brothers and sisters?' ('Tens irmãos e irmãs?')**  
 ***Answer:*** **'Yes, I have one sister and one brother .' 'No, I haven't. I'm an only child.' ('Sim, tenho uma irmã e um irmão.' 'Não, não tenho. Sou filha/o única/o.')**
 
+***Question:*** **'Have you got a _____ ?' ('Tens um/uma _____ ?')**  
+***Answer:*** **'Yes, I have.' 'No, I haven't.' ('Sim, tenho.' 'Não, não tenho.')**  
+
+[![gae14](/images/gae14.png)](https://www.youtube.com/watch?v=rv2MD18avok) [Gogo’s Adventures with English 14](https://www.youtube.com/watch?v=rv2MD18avok)
+
 ***
 
 ***Question:*** **'What do you like?' ('O que é que gostas?')**  
