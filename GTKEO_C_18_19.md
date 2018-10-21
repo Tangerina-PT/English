@@ -34,26 +34,22 @@
 2. [![wyf2](/images/wyf2.PNG)](https://www.youtube.com/watch?v=XfFCaTgsW-I) [Where are you from? 2](https://www.youtube.com/watch?v=XfFCaTgsW-I)
 
 3. [![wyf3](/images/wyf3.PNG)](https://www.youtube.com/watch?v=Pf6jDODpZmU) ['I'm from ... .'](https://www.youtube.com/watch?v=Pf6jDODpZmU)   
-(This song is also about taking care of our planet. / Esta canção também é sobre cuidar do nosso planeta.)
+(This song is also about taking care of our planet. /  
+Esta canção também é sobre cuidar do nosso planeta.)
 
 *** 
 
-***Question:*** **'Have you got _____ ?' ('Tens ____ ?')**  
-***Answer:*** **'Yes, I have _____ .' 'No, I haven't.' ('Sim, tenho ______ .' 'Não, não tenho.')**  
-
 ***Question:*** **'Have you got a pet?' ('Tens um animal doméstico?')**  
-***Answer:*** **'Yes, I have _____ .' 'No, I haven't.' ('Sim, tenho ______ .' 'Não, não tenho.')**
+***Answer:*** **'Yes, I have a cat.' 'No, I haven't.' ('Sim, tenho um gato .' 'Não, não tenho.')**
 
 [![pet1](/images/pet1.PNG)](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)  ['Have you got a pet?'](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)
 
 Point to the animals in the picture as you sing. / Aponta para os animais na imagem enquanto cantas.  
 
-[![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Here's the same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) with a picture of each animal as you hear its name. / A mesma canção com uma imagem de cada animal a aparecer enquanto o nome do animal é cantado. (Note: the picture is incorrect for 'parrot' / Nota: a imagem para 'parrot' está errada - devia de ser um papagaio.)  
+[![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Here's the same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) / A mesma canção com imagens correspondentes. (Nota: a imagem para 'parrot' está errada - deve de ser um papagaio.)  
 
 ***Question:*** **'Have you got any brothers and sisters?' ('Tens irmãos e irmãs?')**  
-***Answer:*** **'Yes, I have _____ .' 'No, I haven't.' ('Sim, tenho ______ .' 'Não, não tenho.')**
-
-Resposta-exemplo: 'Yes, I have 1 (one) brother and 1 (one) sister.'  
+***Answer:*** **'Yes, I have one sister and one brother .' 'No, I haven't. I'm an only child.' ('Sim, tenho uma irmã e um irmão.' 'Não, não tenho. Sou filha/o única/o.')**
 
 ***
 
