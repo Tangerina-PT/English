@@ -77,11 +77,11 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 ***Question:*** **'What do you like to do?' ('O que é que gostas de fazer?')**  
 ***Answer:*** **'I like to swim./I like swimming.' ('Eu gosto de nadar./Eu gosto de natação.')**
 
-[![wdld1](/images/wdld1.png)](https://www.youtube.com/watch?v=tYNap8gVNK4) [What do you like to do](https://www.youtube.com/watch?v=tYNap8gVNK4)
+[![wdld1](/images/wdld1.png)](https://www.youtube.com/watch?v=tYNap8gVNK4) [What do you like to do?](https://www.youtube.com/watch?v=tYNap8gVNK4)
 
-[![wdld3](/images/wdld3.png)](https://www.youtube.com/watch?v=gH89yUhIAV0) [What do you like to do](https://www.youtube.com/watch?v=gH89yUhIAV0)
+[![wdld3](/images/wdld3.png)](https://www.youtube.com/watch?v=gH89yUhIAV0) [What do you like to do?](https://www.youtube.com/watch?v=gH89yUhIAV0)
 
-[![wdld4](/images/wdld4.png)](https://www.youtube.com/watch?v=OzrjgUrHuGc) [What do you like to do](https://www.youtube.com/watch?v=OzrjgUrHuGc)
+[![wdld4](/images/wdld4.png)](https://www.youtube.com/watch?v=OzrjgUrHuGc) [What do you like to do?](https://www.youtube.com/watch?v=OzrjgUrHuGc)
 
 ***Answer:*** **'I like ____ but I don't like ____ .' ('Eu gosto de ____ mas não gosto de ____ .')**
 
