@@ -56,15 +56,32 @@ Point to the animals in the picture as you sing. / Aponta para os animais na ima
 
 Resposta-exemplo: 'Yes, I have 1 (one) brother and 1 (one) sister.'  
 
+***
+
 ***Question:*** **'What do you like?' ('O que é que gostas?')**  
 ***Answer:*** **'I like _____ .' ('Eu gosto de ______ .')**
 
 ***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
-***Answer:*** **'Yes, I do.' 'No, I don't.' ('Sim, gosto.' 'Não, não gosto.')**
+***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
+
+***
 
 ***Question:*** **'What do you like to do?' ('O que é que gostas de fazer?')**  
 ***Answer:*** **'I like to swim./I like swimming.' ('Eu gosto de nadar./Eu gosto de natação.')**
 
+***
+
+***Question:*** **'Can you climb?' ('Consegues/sabes trepar/escalar?')**  
+***Answer:*** **'Yes I can.' 'No I can't.' ('Sim, consigo./Não, não consigo.')**
+
+***
+
+***Question:*** **'What do you want to do?' ('O que é que queres fazer?')**  
+***Answer:*** **'I want to play soccer.' ('Eu quero jogar futebol.')**
+***Question:*** **'Do you want to play soccer?' ('Queres jogar futebol?')**  
+***Answer:*** **'Yes, let's play soccer.' 'No.' ('Sim. Vamos jogar futebol.' 'Não.')**
+
+***
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil demais ou leve à frustraçao deve ser descontinuada imediatamente.
