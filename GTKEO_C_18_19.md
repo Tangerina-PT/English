@@ -22,7 +22,7 @@
 
 1. [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you?](https://www.youtube.com/watch?v=x2cI4ZgsYU4) 
 
-2. Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E) [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E)
+2. [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E) 
 
 *** 
 
