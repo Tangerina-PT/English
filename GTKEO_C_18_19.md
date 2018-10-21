@@ -26,7 +26,7 @@
 
 *** 
 
-***Question:*** **'Where are you from?' ('De onde vens tu?')**
+***Question:*** **'Where are you from?' ('De onde vens tu?')**  
 ***Answer:*** **'I'm from _____ .' ('Sou de Portugal.')**
 
 1. [![wyf1](/images/wyf1.PNG)](https://www.youtube.com/watch?v=l6A2EFkjXq4) [Where are you from? 1](https://www.youtube.com/watch?v=l6A2EFkjXq4) 
@@ -38,11 +38,11 @@
 
 *** 
 
-***Question:*** **'Have you got _____ ?' ('Tens ____ ?')**
+***Question:*** **'Have you got _____ ?' ('Tens ____ ?')**  
 ***Answer:*** **'Yes, I have _____ .' 'No, I haven't.' ('Sim, tenho ______ .' 'Não, não tenho.')**
 
 
-***Question:*** **'Have you got a pet?' ('Tens um animal doméstico?')**
+***Question:*** **'Have you got a pet?' ('Tens um animal doméstico?')**  
 ***Answer:*** **'Yes, I have _____ .' 'No, I haven't.' ('Sim, tenho ______ .' 'Não, não tenho.')**
 
 [![pet1](/images/pet1.PNG)](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)  ['Have you got a pet?'](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)
@@ -51,29 +51,20 @@ Point to the animals in the picture as you sing. / Aponta para os animais na ima
 
 [![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Here's the same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) with a picture of each animal as you hear its name. / A mesma canção com uma imagem de cada animal a aparecer enquanto o nome do animal é cantado. (Note: the picture is incorrect for 'parrot' / Nota: a imagem para 'parrot' está errada - devia de ser um papagaio.)  
 
-***Question:*** **'Have you got any brothers and sisters?' ('Tens irmãos e irmãs?')**
+***Question:*** **'Have you got any brothers and sisters?' ('Tens irmãos e irmãs?')**  
 ***Answer:*** **'Yes, I have _____ .' 'No, I haven't.' ('Sim, tenho ______ .' 'Não, não tenho.')**
 
 Resposta-exemplo: 'Yes, I have 1 (one) brother and 1 (one) sister.'  
 
+***Question:*** **'What do you like?' ('O que é que gostas?')**  
+***Answer:*** **'I like _____ .' ('Eu gosto de ______ .')**
 
+***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
+***Answer:*** **'Yes, I do.' 'No, I don't.' ('Sim, gosto.' 'Não, não gosto.')**
 
-1). Choose a topic and play 'Go Fish!' / Escolha um tópico e joga 'Go Fish!'
-* Print 2 sets of/Imprime 2 cópias dos [flashcards](https://learnenglishkids.britishcouncil.org/en/flashcards) [![fla1](/images/fla1.PNG)](https://learnenglishkids.britishcouncil.org/en/flashcards)
-* Cut them out to make a pack of cards and / Corta-os para criar um baralho de cartas e 
-* Teach someone at home to play 'Go Fish!' in English. / Ensina alguém em casa a jogar 'Go Fish!' em inglês. Remember/Lembra-te... 
-* 5 (five) cards each / 5 cartas por pessoa
-* ask/pergunta 'Have you got a _____ ?' 
-* answer/resposta: 'Yes, I have. Here you are.' OR/OU 'No, I haven't. Go Fish!'  
-* objective/objectivo: to make pairs/fazer pars
+***Question:*** **'What do you like to do?' ('O que é que gostas de fazer?')**  
+***Answer:*** **'I like to swim./I like swimming.' ('Eu gosto de nadar./Eu gosto de natação.')**
 
-e.g./por exemplo: ['Food flashcards'](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf) [![fla2](/images/fla2.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf). [![fla3](/images/fla3.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) If you can't remember how to say the words, click on the picture of the speaker next to each word on the [corresponding word game.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) / Se não te lembras de como dizer as palavras, clica na imagem do auscultador a beira da cada palavra no [jogo de palavras do mesmo tópico.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1)  
-
-2). 'Have you got any brothers and sisters?'  
-
-Resposta-exemplo: 'Yes, I have 1 (one) brother and 1 (one) sister.'  
-
-Practice asking this question to members of your family. / Pratica por perguntar a membros da tua família.
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil demais ou leve à frustraçao deve ser descontinuada imediatamente.
