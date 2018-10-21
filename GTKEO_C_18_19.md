@@ -58,6 +58,8 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 
 [![wdyl](/images/wdyl.png)](https://www.youtube.com/watch?v=aT9tORbbvsI) [What do you like?](https://www.youtube.com/watch?v=aT9tORbbvsI)
 
+[![gae11](/images/gae11.png)](https://www.youtube.com/watch?v=03hrZ7W8PZI) [What do you like?](https://www.youtube.com/watch?v=03hrZ7W8PZI)
+
 ***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
 ***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
 
