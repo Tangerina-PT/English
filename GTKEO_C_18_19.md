@@ -61,13 +61,28 @@ Resposta-exemplo: 'Yes, I have 1 (one) brother and 1 (one) sister.'
 ***Question:*** **'What do you like?' ('O que é que gostas?')**  
 ***Answer:*** **'I like _____ .' ('Eu gosto de ______ .')**
 
+[![wdyl](/images/wdyl.png)](https://www.youtube.com/watch?v=aT9tORbbvsI) [What do you like?](https://www.youtube.com/watch?v=aT9tORbbvsI)
+
 ***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
 ***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
+
+[![dylike](/images/dylike.png)](https://www.youtube.com/watch?v=frN3nvhIHUk) [Do you like broccoli?](https://www.youtube.com/watch?v=frN3nvhIHUk)
 
 ***
 
 ***Question:*** **'What do you like to do?' ('O que é que gostas de fazer?')**  
+
 ***Answer:*** **'I like to swim./I like swimming.' ('Eu gosto de nadar./Eu gosto de natação.')**
+
+[![wdld1](/images/wdld1.png)](https://www.youtube.com/watch?v=tYNap8gVNK4) [What do you like to do](https://www.youtube.com/watch?v=tYNap8gVNK4)
+
+[![wdld3](/images/wdld3.png)](https://www.youtube.com/watch?v=gH89yUhIAV0) [What do you like to do](https://www.youtube.com/watch?v=gH89yUhIAV0)
+
+[![wdld4](/images/wdld4.png)](https://www.youtube.com/watch?v=OzrjgUrHuGc) [What do you like to do](https://www.youtube.com/watch?v=OzrjgUrHuGc)
+
+***Answer:*** **'I like ____ but I don't like ____ .' ('Eu gosto de ____ mas não gosto de ____ .')**
+
+[![wdld2](/images/wdld2.png)](https://www.youtube.com/watch?v=nddRGDEKxA0) [What do you like to do?](https://www.youtube.com/watch?v=nddRGDEKxA0)
 
 ***
 
