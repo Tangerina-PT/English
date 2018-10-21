@@ -39,8 +39,7 @@
 *** 
 
 ***Question:*** **'Have you got _____ ?' ('Tens ____ ?')**  
-***Answer:*** **'Yes, I have _____ .' 'No, I haven't.' ('Sim, tenho ______ .' 'Não, não tenho.')**
-
+***Answer:*** **'Yes, I have _____ .' 'No, I haven't.' ('Sim, tenho ______ .' 'Não, não tenho.')**  
 
 ***Question:*** **'Have you got a pet?' ('Tens um animal doméstico?')**  
 ***Answer:*** **'Yes, I have _____ .' 'No, I haven't.' ('Sim, tenho ______ .' 'Não, não tenho.')**
@@ -89,12 +88,16 @@ Resposta-exemplo: 'Yes, I have 1 (one) brother and 1 (one) sister.'
 ***Question:*** **'Can you climb?' ('Consegues/sabes trepar/escalar?')**  
 ***Answer:*** **'Yes I can.' 'No I can't.' ('Sim, consigo./Não, não consigo.')**
 
+[![ican](/images/ican.png)](https://www.youtube.com/watch?v=_Ir0Mc6Qilo) [What do you like to do?](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)
+
 ***
 
 ***Question:*** **'What do you want to do?' ('O que é que queres fazer?')**  
 ***Answer:*** **'I want to play soccer.' ('Eu quero jogar futebol.')**
 ***Question:*** **'Do you want to play soccer?' ('Queres jogar futebol?')**  
 ***Answer:*** **'Yes, let's play soccer.' 'No.' ('Sim. Vamos jogar futebol.' 'Não.')**
+
+[![wdwd1](/images/wdwd1.png)](https://www.youtube.com/watch?v=GSph7bc8k-4) [What do you want to do?](https://www.youtube.com/watch?v=GSph7bc8k-4)
 
 ***
 
