@@ -1,4 +1,4 @@
-## Getting to know each other / Conhecer-se 
+## Getting to know each other (Conhecer-se) 
 
 ***Question:*** **'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
