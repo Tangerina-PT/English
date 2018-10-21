@@ -3,7 +3,6 @@
 ***Question:*** **'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
 ***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (É um prazer conhecer-te./Igualmente.)**  
-
 ***Question:*** **'How are you?' (Como é que estás?)**  
 ***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**
 
