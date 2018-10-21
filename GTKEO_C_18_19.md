@@ -8,7 +8,7 @@
 
 [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728)
 
-[![ntmy](/images/ntmy.PNG)](https://www.youtube.com/watch?v=rSwypHirUkM)[Freddiesville - Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM)
+[![ntmy](/images/ntmy.PNG)](https://www.youtube.com/watch?v=rSwypHirUkM) [Freddiesville - Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM)
 
 [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8) 
 
@@ -66,7 +66,6 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.
 ***
 
 ***Question:*** **'What do you like to do?' ('O que é que gostas de fazer?')**  
-
 ***Answer:*** **'I like to swim./I like swimming.' ('Eu gosto de nadar./Eu gosto de natação.')**
 
 [![wdld1](/images/wdld1.png)](https://www.youtube.com/watch?v=tYNap8gVNK4) [What do you like to do](https://www.youtube.com/watch?v=tYNap8gVNK4)
@@ -84,7 +83,7 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.
 ***Question:*** **'Can you climb?' ('Consegues/sabes trepar/escalar?')**  
 ***Answer:*** **'Yes I can.' 'No I can't.' ('Sim, consigo./Não, não consigo.')**
 
-[![ican](/images/ican.png)](https://www.youtube.com/watch?v=_Ir0Mc6Qilo) [What do you like to do?](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)
+[![ican](/images/ican.png)](https://www.youtube.com/watch?v=_Ir0Mc6Qilo) [Yes, I can.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)
 
 ***
 
