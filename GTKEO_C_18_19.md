@@ -7,33 +7,33 @@
 ***Question:*** **'How are you?' (Como é que estás?)**  
 ***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**
 
-1. [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728)
+[![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728)
 
-2. [![ntmy](/images/ntmy.PNG)](https://www.youtube.com/watch?v=rSwypHirUkM)[Freddiesville - Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM)
+[![ntmy](/images/ntmy.PNG)](https://www.youtube.com/watch?v=rSwypHirUkM)[Freddiesville - Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM)
 
-3. [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8) 
+[![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8) 
 
-4. [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E)   
+[![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E)   
 
 ***
 
 ***Question:*** **'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?)**  
 ***Answer:*** **'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)**
 
-1. [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you?](https://www.youtube.com/watch?v=x2cI4ZgsYU4) 
+[![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you?](https://www.youtube.com/watch?v=x2cI4ZgsYU4) 
 
-2. [![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E) 
+[![gae8](/images/gae8.PNG)](https://www.youtube.com/watch?v=sn4sp4YGz0E) [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E) 
 
 *** 
 
 ***Question:*** **'Where are you from?' ('De onde vens tu?')**  
 ***Answer:*** **'I'm from _____ .' ('Sou de Portugal.')**
 
-1. [![wyf1](/images/wyf1.PNG)](https://www.youtube.com/watch?v=l6A2EFkjXq4) [Where are you from? 1](https://www.youtube.com/watch?v=l6A2EFkjXq4) 
+[![wyf1](/images/wyf1.PNG)](https://www.youtube.com/watch?v=l6A2EFkjXq4) [Where are you from? 1](https://www.youtube.com/watch?v=l6A2EFkjXq4) 
 
-2. [![wyf2](/images/wyf2.PNG)](https://www.youtube.com/watch?v=XfFCaTgsW-I) [Where are you from? 2](https://www.youtube.com/watch?v=XfFCaTgsW-I)
+[![wyf2](/images/wyf2.PNG)](https://www.youtube.com/watch?v=XfFCaTgsW-I) [Where are you from? 2](https://www.youtube.com/watch?v=XfFCaTgsW-I)
 
-3. [![wyf3](/images/wyf3.PNG)](https://www.youtube.com/watch?v=Pf6jDODpZmU) ['I'm from ... .'](https://www.youtube.com/watch?v=Pf6jDODpZmU)   
+[![wyf3](/images/wyf3.PNG)](https://www.youtube.com/watch?v=Pf6jDODpZmU) ['I'm from ... .'](https://www.youtube.com/watch?v=Pf6jDODpZmU)   
 (This song is also about taking care of our planet. /  
 Esta canção também é sobre cuidar do nosso planeta.)
 
