@@ -44,9 +44,10 @@ Esta canção também é sobre cuidar do nosso planeta.)
 
 [![pet1](/images/pet1.PNG)](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)  ['Have you got a pet?'](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)
 
-Point to the animals in the picture as you sing. / Aponta para os animais na imagem enquanto cantas.  
+Point to the animals as you sing. / Aponta para os animais enquanto cantas.  
 
-[![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Here's the same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) / A mesma canção com imagens correspondentes. (Nota: a imagem para 'parrot' está errada - deve de ser um papagaio.)  
+[![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY) [The same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) / A mesma canção com imagens correspondentes.  
+(Nota: a imagem para 'parrot' está errada - deve de ser um papagaio.)  
 
 ***Question:*** **'Have you got any brothers and sisters?' ('Tens irmãos e irmãs?')**  
 ***Answer:*** **'Yes, I have one sister and one brother .' 'No, I haven't. I'm an only child.' ('Sim, tenho uma irmã e um irmão.' 'Não, não tenho. Sou filha/o única/o.')**
