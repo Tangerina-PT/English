@@ -12,13 +12,7 @@ Year 3 English
 
 <h4>
 <p align="center">
-Conversation
-</p>
-</h4>
-
-<h4>
-<p align="center">
-  <a href="https://tangerina-pt.github.io/English/GTKEO_C_18_19">Topic 1: Getting to know each other (conhecer-se)</a>
+  <a href="https://tangerina-pt.github.io/English/Year3_conv">Conversation</a>
   <br>
 </p>
 </h4>
