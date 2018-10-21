@@ -70,7 +70,7 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 
 [![dylike](/images/dylike.png)](https://www.youtube.com/watch?v=frN3nvhIHUk) [Do you like broccoli?](https://www.youtube.com/watch?v=frN3nvhIHUk)
 
-[![gae12](/images/gae12.png)](https://www.youtube.com/watch?v=f-769il9yYQ) [Gogo’s Adventures with English 11](https://www.youtube.com/watch?v=f-769il9yYQ)
+[![gae12](/images/gae12.png)](https://www.youtube.com/watch?v=f-769il9yYQ) [Gogo’s Adventures with English 12](https://www.youtube.com/watch?v=f-769il9yYQ)
 
 ***
 
