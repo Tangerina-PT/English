@@ -40,12 +40,14 @@ Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as ac
 
 #### Learn the numbers 30-100+
 
-1. [Match the number to the word](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) [![bc30](/images/bc30.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) 
+1. [![2sk10](/images/2sk10.PNG)](https://www.youtube.com/watch?v=c9eeCpPXZSQ) [Skip count by 10/Conta de 10 em 10](https://www.youtube.com/watch?v=c9eeCpPXZSQ)
 
-2. [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
+2. [Match the number to the word](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) [![bc30](/images/bc30.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) 
+
+3. [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
    Play 0-100 ![nobi5](/images/nobi5.PNG)
 
-2. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-3) [![lc30](/images/lc30.PNG)](http://www.learningchocolate.com/content/numbers-3)    
+4. [Test yourself! / Verifica!](http://www.learningchocolate.com/content/numbers-3) [![lc30](/images/lc30.PNG)](http://www.learningchocolate.com/content/numbers-3)    
 
 #### Extra challenge
 
