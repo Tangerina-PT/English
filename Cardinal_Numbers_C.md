@@ -42,7 +42,7 @@ Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as ac
 
 #### Learn the numbers 30-100+
 
-1. [![2sk10](/images/2sk10.PNG)](https://www.youtube.com/watch?v=c9eeCpPXZSQ) [Skip count by 10/Conta de 10 em 10](https://www.youtube.com/watch?v=c9eeCpPXZSQ)
+1. [![2sk10](/images/2sk10.png)](https://www.youtube.com/watch?v=c9eeCpPXZSQ) [Skip count by 10/Conta de 10 em 10](https://www.youtube.com/watch?v=c9eeCpPXZSQ)
 
 2.  [![bc30](/images/bc30.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100) [Match the number to the word](https://learnenglishkids.britishcouncil.org/en/word-games/numbers-10-100)  
 
