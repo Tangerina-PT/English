@@ -1,7 +1,19 @@
 ### Classroom instructions
 
-Coming soon...
+#### Watch the video flashcards / Vê e ouve as expressões no vídeo:  
 
+(1). [![lcca0](/images/lcca0.png)](https://www.youtube.com/watch?v=UIGD9uFY-C4)
+
+#### Match the words, pictures and sounds  
+
+(1). [![lcca1](/images/lcca1.PNG)](http://www.learningchocolate.com/content/lets-go-class)  
+(![spkr2](/images/spkr2.PNG) Click on the speaker to hear each expression then do the activities./ Clica no altifalante para ouvir cada expressão. Depois, faz as actividades. ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG) and ![lcmu3](/images/lcmu3.PNG). Can't hear the sound? Try Internet Explorer./Não consegues ouvir o som? Experimenta Internet Explorer.) 
+
+(2). [![lcca2](/images/lcca2.PNG)](http://www.learningchocolate.com/content/classroom-instructions)  
+
+(3). [![bcca1](/images/bcca1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1) [Classroom actions 1](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1)
+
+(4). [![bcca2](/images/bcca2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2) [Classroom actions 2](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2)
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year3) [Return to Year 3 English Site](https://tangerina-pt.github.io/English/Year3)
 
