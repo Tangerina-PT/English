@@ -106,6 +106,9 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 [![wdwd1](/images/wdwd1.png)](https://www.youtube.com/watch?v=GSph7bc8k-4) [What do you want to do?](https://www.youtube.com/watch?v=GSph7bc8k-4)
 
 ***
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year3) [Return to Year 3 English Site](https://tangerina-pt.github.io/English/Year3)
+
+***
 
 #### Notes/Notas
 * ![clocap](/images/clocap.png) Ao ver os vídeos, clica no botão 'CC' para ver legendas
