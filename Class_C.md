@@ -22,6 +22,11 @@ Classroom Language
   <a href="https://tangerina-pt.github.io/English/Classroom_I_C">Classroom instructions</a>
   <br>
 </p>
+<p align="center">
+  <a href="https://tangerina-pt.github.io/English/Classroom_Objects_C">Classroom objects</a>
+  <br>
+</p>
+
 </h4>
 
 ### Clean up song
