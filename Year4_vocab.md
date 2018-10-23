@@ -1,4 +1,4 @@
-## Year 4 - English - Vocabulary - 2017/2018
+## Year 4 - English - Vocabulary - 2018/2019
 Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulário?  
 
 #### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_D)
