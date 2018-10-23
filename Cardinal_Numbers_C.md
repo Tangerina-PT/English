@@ -1,6 +1,6 @@
 ### Cardinal numbers
 
-#### First make sure you can name the numbers 1-20
+#### Learn to count 1-20 / Aprender a contar (em ordem)
 
 1. [![numb](/images/numb.PNG)](https://www.youtube.com/watch?v=Exa-FZ1CksI)
 
