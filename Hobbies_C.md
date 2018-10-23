@@ -14,21 +14,21 @@
 
 2. [![bchb2](/images/bchb2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-2) [Match the picture to the word](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-2)
 
-3. [![spme1](/images/spme1.PNG)](https://www.eslgamesplus.com/sports-vocabulary-esl-memory-game/) [Play memory - sports / Jogar memória - desportos](https://www.eslgamesplus.com/sports-vocabulary-esl-memory-game/)
+3. [![lchb1](/images/lchb1.PNG)](http://www.learningchocolate.com/content/activities-0) [LC - Hobbies 1](http://www.learningchocolate.com/content/activities-0)
 
-4. [![lchb1](/images/lchb1.PNG)](http://www.learningchocolate.com/content/activities-0) [LC - Hobbies 1](http://www.learningchocolate.com/content/activities-0)
+4. [![lchb2](/images/lchb2.PNG)](http://www.learningchocolate.com/content/hobbies) [LC - Hobbies 2](http://www.learningchocolate.com/content/hobbies)
 
-5. [![lchb2](/images/lchb2.PNG)](http://www.learningchocolate.com/content/hobbies) [LC - Hobbies 2](http://www.learningchocolate.com/content/hobbies)
-
-6. [![lchb3](/images/lchb3.PNG)](http://www.learningchocolate.com/content/hobbies-1) [LC - Hobbies 3](http://www.learningchocolate.com/content/hobbies-1
+5. [![lchb3](/images/lchb3.PNG)](http://www.learningchocolate.com/content/hobbies-1) [LC - Hobbies 3](http://www.learningchocolate.com/content/hobbies-1)
 
 #### Online games and activities - sports
 
 1. [![messp](/images/messp.PNG)](https://www.mes-games.com/) [Goto MES Games](https://www.mes-games.com/) [Choose/Escolha] ![messp2](/images/messp2.PNG)
 
-2. [![lcsp1](/images/lcsp1.PNG)](http://www.learningchocolate.com/content/sports) [LC - Sports](http://www.learningchocolate.com/content/sports)
+2. [![spme1](/images/spme1.PNG)](https://www.eslgamesplus.com/sports-vocabulary-esl-memory-game/) [Play memory - sports / Jogar memória - desportos](https://www.eslgamesplus.com/sports-vocabulary-esl-memory-game/)
 
-3. [![spqu1](/images/spqu1.PNG)](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/) [Play memory - sports / Jogar memória - desportos](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/)
+3. [![lcsp1](/images/lcsp1.PNG)](http://www.learningchocolate.com/content/sports) [LC - Sports](http://www.learningchocolate.com/content/sports)
+
+4. [![spqu1](/images/spqu1.PNG)](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/) [Play memory - sports / Jogar memória - desportos](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year3_vocab) [Return to Year 3 English Vocabulary Site](https://tangerina-pt.github.io/English/Year3_vocab)
