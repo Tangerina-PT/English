@@ -1,6 +1,8 @@
 ## Year 4 - English - Vocabulary - 2017/2018
 Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulário?  
 
+#### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_D)
+#### [Classroom instructions](https://tangerina-pt.github.io/English/Classroom_I_D)
 #### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_D)
 #### [Classroom Objects / Objetos da sala da aula](https://tangerina-pt.github.io/English/Classroom_Objects_D)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_D)
