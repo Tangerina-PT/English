@@ -108,4 +108,4 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 ***
 
 #### Notes/Notas
-* ![clocap](/images/clocap.png) Ao ver os vídeos, clica no botão 'CC'-'Closed Caption' quando aparecer para ver as legendas
+* ![clocap](/images/clocap.png) Ao ver os vídeos, clica no botão 'CC' para ver legendas
