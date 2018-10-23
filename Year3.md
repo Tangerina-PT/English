@@ -23,3 +23,11 @@ Year 3 English
   <br>
 </p>
 </h4>
+
+<h4>
+<p align="center">
+  <a href="https://tangerina-pt.github.io/English/Class_C">Classroom language</a>
+  <br>
+</p>
+</h4>
+
