@@ -83,6 +83,9 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 
 [![wdld4](/images/wdld4.png)](https://www.youtube.com/watch?v=OzrjgUrHuGc) [What do you like to do?](https://www.youtube.com/watch?v=OzrjgUrHuGc)
 
+Do you know how to say what you like to do? / Sabes dizer o que gostas de fazer?  
+[Work on your vocabulary - actions and hobbies. / Trabalha o teu vocabulário - acções/actividades/passatempos.](https://tangerina-pt.github.io/English/Hobbies_D)  
+
 ***Answer:*** **'I like ____ but I don't like ____ .' ('Eu gosto de ____ mas não gosto de ____ .')**
 
 [![wdld2](/images/wdld2.png)](https://www.youtube.com/watch?v=nddRGDEKxA0) [What do you like to do?](https://www.youtube.com/watch?v=nddRGDEKxA0)
