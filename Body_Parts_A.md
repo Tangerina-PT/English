@@ -2,9 +2,9 @@
 
 Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, dedos dos pés, olhos, orelhas, boca e nariz. / Touch your head, shoulders, knees, toes, eyes, ears, mouth and nose as you sing.
 
-(1). [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
+(1). [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
   
-(2). [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
+(2). [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
 
 (3). [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) [Canta a versão salta-palavras. / Sing this version.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
 
