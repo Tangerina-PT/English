@@ -1,7 +1,6 @@
-### *Head, shoulders, knees and toes*  
-(*Cabeça, ombros, joelhos e dedos dos pés*)
+### *Head, shoulders, knees and toes* - Verse 1  
 
-Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. / Touch your head, shoulders, knees and toes as you sing.
+Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, dedos dos pés, olhos, orelhas, boca, nariz. / Touch your head, shoulders, knees, toes, eyes, ears, mouth and nose as you sing.
 
 (1). [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
   
@@ -16,6 +15,20 @@ Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. / Touch
 (5). O verdadeiro desafio: canta e aponta quando as imagens estão fora de ordem. / The real challenge: sing and point when the pictures are out of order.      
 ![nose](/images/nose.png)![toes](/images/toes.png)![ears](/images/ears.png)![shou](/images/shou.png)  
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
+
+### *Head, shoulders, knees and toes* - Verse 2  
+
+Toca nos braços, nas pernas e nos pés e bate palmas com as mãos ao cantar. / Touch your arms, legs and feet and clap your hands as you sing.  
+
+(1). Canta o segundo verso. / Sing our second verse.  
+<audio src="audio/hskt_v2.mp3" controls preload></audio>  
+Arms, legs, feet and hands, feet and hands.  
+Arms, legs, feet and hands, feet and hands.  
+And eyes and ears and mouth and nose.  
+Arms, legs, feet and hands, feet and hands.  
+
+(2). Sing and point. / Canta e aponta.   
+![colmix2](/images/colmix2.png)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
