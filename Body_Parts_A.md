@@ -12,7 +12,7 @@ Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, de
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
-(5). O verdadeiro desafio: canta e aponta quando as imagens estão fora de ordem. / The real challenge: sing and point when the pictures are out of order.      
+(5). Desafio: canta e aponta quando as imagens estão fora de ordem. / Challenge: sing and point when the pictures are out of order.      
 ![nose](/images/nose.png)![toes](/images/toes.png)![ears](/images/ears.png)![shou](/images/shou.png)  
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
@@ -28,7 +28,12 @@ And eyes and ears and mouth and nose.
 Arms, legs, feet and hands, feet and hands.  
 
 (2). Sing and point. / Canta e aponta.   
-![colmix2](/images/colmix2.png)
+![arms](/images/arms.PNG)![legs](/images/legs.PNG)![feet](/images/feet.PNG)![hands](/images/hands.PNG)  
+![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
+
+(3). Desafio: canta e aponta quando as imagens estão fora de ordem. / Challenge: sing and point when the pictures are out of order.     
+![nose](/images/nose.png)![legs](/images/legs.PNG)![hands](/images/hands.PNG)![mout](/images/mout.png)  
+![ears](/images/ears.png)![arms](/images/arms.PNG)![eyes](/images/eyes.png)![feet](/images/feet.PNG)  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
