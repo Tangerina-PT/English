@@ -3,11 +3,11 @@
 
 Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. / Touch your head, shoulders, knees and toes as you sing.
 
-(1). [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
+(1). [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
   
-(2). [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
+(2). [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
 
-(3). Canta [a versão que salta palavras?](https://www.youtube.com/watch?v=FkL8j0wIRf8) / Sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more words?
+(3). (https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) [Canta a versão que salta palavras. / Sing this version where each time we skip more and more words.]  
 
 (4). Sing and point. / Canta e aponta.  
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
