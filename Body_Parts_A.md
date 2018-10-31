@@ -7,7 +7,7 @@ Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. / Touch
   
 (2). [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
 
-(3). (https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) [Canta a versão que salta palavras. / Sing this version where each time we skip more and more words.]  
+(3). [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) [Canta a versão salta-palavras. / Sing this version.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
 
 (4). Sing and point. / Canta e aponta.  
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
