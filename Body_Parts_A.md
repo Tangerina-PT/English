@@ -1,6 +1,6 @@
 ### *Head, shoulders, knees and toes* - Verse 1  
 
-Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, dedos dos pés, olhos, orelhas, boca, nariz. / Touch your head, shoulders, knees, toes, eyes, ears, mouth and nose as you sing.
+Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, dedos dos pés, olhos, orelhas, boca e nariz. / Touch your head, shoulders, knees, toes, eyes, ears, mouth and nose as you sing.
 
 (1). [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
   
