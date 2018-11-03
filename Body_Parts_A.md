@@ -1,4 +1,4 @@
-### *"Head, shoulders, knees and toes"*  (Verse 1)  
+### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 1)  
 
 Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, dedos dos pés, olhos, orelhas, boca e nariz. / Touch your head, shoulders, knees, toes, eyes, ears, mouth and nose as you sing.
 
@@ -18,7 +18,7 @@ Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, de
 
 ***
 
-### *"Head, shoulders, knees and toes"*  (Verse 2)  
+### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 2)  
 
 Toca nos braços, nas pernas e nos pés e bate palmas com as mãos ao cantar. / Touch your arms, legs and feet and clap your hands as you sing.  
 
