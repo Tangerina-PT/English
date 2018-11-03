@@ -1,7 +1,7 @@
 ### Body parts 
 
-#### ![sing](/images/sing.png) [Songs/Vocabulary](https://tangerina-pt.github.io/English/Body_Parts_B_song)
-#### ![talk](/images/talk.png) [Language structures](https://tangerina-pt.github.io/English/Body_Parts_B_ls)
+#### ![sing](/images/sing.png) [Song/Vocabulary](https://tangerina-pt.github.io/English/Body_Parts_B_song)
+#### ![talk](/images/talk.png) [Language structures/Vocabulary](https://tangerina-pt.github.io/English/Body_Parts_B_ls)
 #### ![silh_game](/images/silh_game.jpg) [Games](https://tangerina-pt.github.io/English/Body_Parts_B_g)
 
 ***
