@@ -9,8 +9,8 @@
 
 Extensão opcional/Optional extension:  
 
-(4). Do you want to know more? / Queres saber mais?  
-Read each word then click on the picture of the speaker next to the word to check your pronunciation. / Lê cada palavra, depois clica na imagem do altifalante para verificar.   
+(4). Queres saber mais? / Do you want to know more?  
+Lê cada palavra, depois clica na imagem do altifalante para verificar a pronúncia. / Read each word then click on the picture of the speaker next to the word to check your pronunciation.     
 [![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
 [![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [Torso and Arm / Tronco e Braço](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)  
 [![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg) [Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)  
