@@ -2,9 +2,9 @@
 
 (1).[![bpme2](/images/bpme2.PNG)](https://www.eslgamesplus.com/body-parts-esl-vocabulary-memory-game/) [Play 'memory'](https://www.eslgamesplus.com/body-parts-esl-vocabulary-memory-game/)
 
-(2). [![bbod](/images/bbod.PNG)](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/)[Label the parts of the body](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/) 
+(2). [![bbod](/images/bbod.PNG)](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/) [Label the parts of the body](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/) 
 
-(3). [![lgbp](/images/lgbp.PNG)](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)[Pronto para um jogo mais rápido?/Ready for a faster game?](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)   
+(3). [![lgbp](/images/lgbp.PNG)](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html) [Pronto para um jogo mais rápido?/Ready for a faster game?](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)   
 (Play levels 1 and 2. / Joga 'levels' 1 e 2. Deixa o nível 3 para logo, quando aprenderes os orgãos internos.)
 
 Extensão opcional/Optional extension:  
