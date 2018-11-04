@@ -14,8 +14,8 @@
 
 #### [Topic 6 - Talking about the weather](https://tangerina-pt.github.io/English/Weather_B)
 
-#### Topic 7 - Talking about me
-<!--#### [Topic 7 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)-->
+<!--#### Topic 7 - Talking about me-->
+#### [Topic 7 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)
 
 #### Topic 8 - Talking about my family
 <!--#### [Topic 8 - Talking about my family](https://tangerina-pt.github.io/English/Family_B)-->
