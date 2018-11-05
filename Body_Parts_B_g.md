@@ -7,6 +7,8 @@
 (3). [![lgbp](/images/lgbp.PNG)](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html) [Pronto para um jogo mais rápido?/Ready for a faster game?](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)   
 (Play levels 1 and 2. / Joga 'levels' 1 e 2. Deixa o nível 3 para logo, quando aprenderes os orgãos internos.)
 
+***
+
 Extensão opcional/Optional extension:  
 
 (4). Queres saber mais? / Do you want to know more?  
@@ -14,7 +16,8 @@ Lê cada palavra, depois clica na imagem do altifalante para verificar a pronún
 [![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
 [![lcbp2](/images/lcbp2.PNG)](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [Torso and Arm / Tronco e Braço](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)  
 [![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg) [Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)  
-(Extra challenge: Can you do all 5 activities?  
+
+Extra challenge: Can you do all 5 activities?  
 Desafio extra: Consegues fazer todas as actividades?  
 Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG))
 
