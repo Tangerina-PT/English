@@ -48,7 +48,8 @@ NOT PUBLISHED YET 2018/2019
 ***
 
 ***Question:*** **'How many?'('Quantos?')**  
-***Answer:*** **'...Number..'(..Número..) [Avançado: There is one./There are ...' (Há um(a)./Há (vários)...)]**
+***Answer:*** **'*Number*'('**Número**')
+**[Avançado: 'There is one./There are ...' ('Há um(a)./Há (vários)...')]**
 
 1. [![oxeuhm](/images/oxeuhm.PNG)](https://www.youtube.com/watch?v=G3zaC5onBvM)
 
@@ -57,14 +58,16 @@ NOT PUBLISHED YET 2018/2019
 ***
 
 ***Question:*** **'How's the weather?' ('Como está o tempo?')**  
-***Answer:*** **'It's sunny/rainy/windy/cloudy/snowy/foggy/stormy.' ('Há sol/chuva/vento/núvens/neve/nevoeiro/tempestade.')**
+***Answer:*** **'It's sunny/rainy/windy/cloudy/snowy/foggy/stormy.'**  
+**('Há sol/chuva/vento/núvens/neve/nevoeiro/tempestade.')**  
 
 [![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo)
 
 ***
 
-***Question:*** **'What do you see?/What can you see?' ('O que é que vês?/O que é que consegues ver?')**  
-***Answer:*** **'I see a ... . ' (Eu vejo um/a .. .')**
+***Question:*** **'What do you see?/What can you see?'**  
+**('O que é que vês?/O que é que consegues ver?')**  
+***Answer:*** **'I see a ... . ' ('Eu vejo um(a) .. .')**
 
 1. [![dews1](/images/dews1.png)](https://www.youtube.com/watch?v=MCjhynvMunE)
 2. [![dews2](/images/dews2.png)](https://www.youtube.com/watch?v=p5qwOxlvyhk)
