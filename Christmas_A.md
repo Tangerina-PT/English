@@ -10,9 +10,10 @@
 
 [![ldbl](/images/ldbl.png)](https://www.youtube.com/watch?v=Tay-SDBKjnc) Aprende a canção./Learn the song.  
 
-[![ldbk](/images/ldbk.PNG)](https://www.youtube.com/watch?v=Jk-ybp6L0No)lors/colorgame.htm) Canta estilo-karaoke./Sing karaoke-style.  
+[![ldbk](/images/ldbk.png)](https://www.youtube.com/watch?v=Jk-ybp6L0No)lors/colorgame.htm) Canta estilo-karaoke./Sing karaoke-style.  
 
-![music](/images/music.png) <audio src="audio/little_drummer_boy_audio.mp3" controls preload></audio>  Só música sem vídeo./Just music without video.
+Só música sem vídeo./Just music without video.  
+![music](/images/music.png) <audio src="audio/little_drummer_boy_audio.mp3" controls preload></audio>  
 
 #### Walking in the jungle
 
