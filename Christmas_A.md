@@ -12,6 +12,8 @@
 
 [![ldbk](/images/ldbk.PNG)](https://www.youtube.com/watch?v=Jk-ybp6L0No)lors/colorgame.htm) Canta estilo-karaoke./Sing karaoke-style.  
 
+![music](/images/music.png) <audio src="audio/little_drummer_boy_audio.mp3" controls preload></audio>  Só música sem vídeo./Just music without video.
+
 #### Walking in the jungle
 
 [![wkjg](/images/wkjg.png)](https://www.youtube.com/watch?v=GoSq-yZcJ-4) Canta e faz as acções./Sing with actions. [Ir para baixo para letra./Scroll down for lyrics.]
