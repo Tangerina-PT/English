@@ -19,8 +19,8 @@ Listen. Find the object before it appears in colour.
 Escuta. Encontra o objecto antes do objecto ficar colorido. 
  
 Gostas de jogar 'memória'?  
-* [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [Game 1](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/)  
-* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/)  
+* [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [Game 1](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
+<!---* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/ "glue (cola), stapler (agrafador), tape (fita cola), school bag (mochila/saco de escola), crayon (lápis de cera), triangle (triângulo), protractor (), calculator (calculador), paper (folha de papel), scissors (tesoura), notebook (caderno)")-->  
 Play three or four times to use all the words.  
 Joga três ou quatro vezes para usar todas as palavras.
 
