@@ -1,19 +1,15 @@
 ### Classroom Objects
 
 Vocabulário prióritário: pen, pencil, pencil case, eraser, book, table, chair, scissors, glue
-* [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
-
-glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)
+* [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M) [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
 
 Video chants
-* [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)  
-pencil (lápis), book (livro), brush (pincel), ruler (régua)
-* [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4) [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4)  
-pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)  
+* [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE "pencil (lápis), book (livro), brush (pincel), ruler (régua)") 
+* [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4) [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)")
 
 Opcional - para quem queira aprender mais vocabulário:
-* [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ) [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ)  
-book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)  
+* [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ) [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")
+
 <!---(2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
 (3). [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
