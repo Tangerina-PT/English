@@ -1,10 +1,22 @@
 ### Classroom Objects
 
-(1). Watch the video chants to learn the words. Say the chants as you watch. / Vê os vídeos para aprender as palavras. Repete em voz alta. (Significado de 'chant': repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música)  
-* [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ) [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ)
-* [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4) [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4)
-* [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)
+Vocabulário prióritário: pen, pencil, pencil case, eraser, book, table, chair, scissors, glue  
 
+(1). Clean-up song
+
+[![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M)  
+Vocabulary: glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)
+
+(2). Watch the video chants to learn the words. (Vê os vídeos para aprender as palavras.) Say the chants as you watch. (Repete em voz alta.)  
+Significado de 'chant': repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música 
+* [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)  
+Vocabulary: pencil (lápis), book (livro), brush (pincel), ruler (régua)
+* [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4) [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4)  
+Vocabulary: pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)  
+
+Opcional - para quem queira aprender mais vocabulário:  
+* [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ) [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ)  
+Vocabulary: book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)  
 (2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)
 
 (3). [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
