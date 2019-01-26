@@ -1,7 +1,7 @@
 ### Classroom Objects
 
 Vocabulário prióritário: pen, pencil, pencil case, eraser, book, table, chair, scissors, glue
-* [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M) [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M) ![alt text](/images/vocab_hov.PNG) "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
+* [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
 
 glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)
 
