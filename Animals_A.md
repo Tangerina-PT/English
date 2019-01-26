@@ -1,4 +1,4 @@
-### Learn animal names in English / Aprende os nomes dos animais em inglês:  
+### Aprende os nomes dos animais em inglês   
 
 ***Question:*** **'What do you see?/What can you see?'**  
 **('O que é que vês?/O que é que consegues ver?')**  
