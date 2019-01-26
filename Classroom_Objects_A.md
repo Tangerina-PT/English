@@ -13,8 +13,8 @@ Video chants
 <!---(2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
 (3). [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
-Listen to each word. Can you find the object before it appears in colour?  
-Escuta cada palavra – consegues encontrar o objecto antes do objecto ficar colorido. 
+Listen. Find the object before it appears in colour.  
+Escuta. Encontra o objecto antes do objecto ficar colorido. 
  
 (4). Do you like to play memory? / Gostas de jogar 'memória'?  
 Game 1: [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/)  
