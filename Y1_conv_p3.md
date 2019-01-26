@@ -2,13 +2,14 @@
 ### Period 2  - Part 3
 
 ***'Put on your ...'  (Veste/calça/coloca o teu/a tua...)***  
-[![shoes](/images/shoes.png)](https://www.youtube.com/watch?v=-jBfb33_KHU) [Put on your shoes](https://www.youtube.com/watch?v=-jBfb33_KHU)  
+
+* [![shoes](/images/shoes.png)](https://www.youtube.com/watch?v=-jBfb33_KHU) [Put on your shoes](https://www.youtube.com/watch?v=-jBfb33_KHU)  
 
 ***
 
 ***Prepositions of place***  SONG  
 
-![pp_y2](/images/pp_y2.jpg) <audio src="audio/y2_pp_song.mp3" controls preload></audio>  
+![pp_y2](/images/pp_y2.jpg) <audio src="audio/pp_long.mp3" controls preload></audio>  
 
 **ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN (entre) the ..*noun*.. / (o(s)/a(s) ..*substantivo(s)*.. )**  
 
