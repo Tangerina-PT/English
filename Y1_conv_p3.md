@@ -8,8 +8,8 @@
 
 ***
 
-***Prepositions of place*** **'ON, IN, UNDER, OVER, IN FRONT OF, BEHIND, NEXT TO, BETWEEN the ..*noun*..' (em cima de ou colado no, dentro, por baixo, por cima, em frente, atrás, ao lado de o/a ..*substantivo*.. )**  
-NB Year 1 focus: ON, IN, UNDER, OVER
+***Prepositions of place*** **'ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN (entre) the ..*noun*..' (o(s)/a(s) ..*substantivo(s)*.. )**  
+***NB*** Year 1 focus (Enfoque 1o ano): ON, IN, UNDER, OVER  
 
 ***Question:*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
 ***Answer:*** **'in the box' (dentro da caixa)**
