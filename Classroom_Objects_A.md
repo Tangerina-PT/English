@@ -12,11 +12,12 @@ Video chants
 
 <!---(2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
-(3). [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
+[Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)
+[![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)   
 Listen. Find the object before it appears in colour.  
 Escuta. Encontra o objecto antes do objecto ficar colorido. 
  
-(4). Do you like to play memory? / Gostas de jogar 'memória'?  
+Gostas de jogar 'memória'?
 Game 1: [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/)  
 Game 2: [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/)  
 Play three or four times to use all the words.  
