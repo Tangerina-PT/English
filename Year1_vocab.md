@@ -17,12 +17,18 @@ Topics
 #### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A)
 
 ***
-### Period 2  
 
-#### [Topic 5 - Toys](https://tangerina-pt.github.io/English/Toys_A)
+#### [Topic 6 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A)
+#### [Topic 6 - Toys](https://tangerina-pt.github.io/English/Toys_A)
 #### [Topic 4 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
 
 ***-->
+
+### Period 2  
+
+#### [Topic 5 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
+#### [Topic 4 - Animals](https://tangerina-pt.github.io/English/Animals_A)
+
 ### Period 1
 #### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A)
 #### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A)
