@@ -5,6 +5,9 @@
 EM CONSTRUÇÃO
 ***
 
+***'Put on your ...' (Veste o teu/a tua...)***  
+[![shoes](/images/shoes.png)](https://www.youtube.com/watch?v=-jBfb33_KHU)  
+
 ***Prepositions of place***  SONG
 **ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN (entre) the ..*noun*.. / (o(s)/a(s) ..*substantivo(s)*.. )**  
 
