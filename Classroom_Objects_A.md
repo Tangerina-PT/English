@@ -2,10 +2,10 @@
 
 Vocabulário prióritário: pen, pencil, pencil case, eraser, book, table, chair, scissors, glue  
 
-(1). [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M) [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M)  
+* [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M) [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M)  
 glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)
 
-(2). Video chants (repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música)  
+Video chants   
 * [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)  
 pencil (lápis), book (livro), brush (pincel), ruler (régua)
 * [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4) [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4)  
@@ -29,11 +29,14 @@ Joga três ou quatro vezes para usar todas as palavras.
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
 
+
+Significado de 'chant': repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
+
 ***
+
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
 
 ***
-
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil demais ou leve à frustraçao deve ser descontinuada imediatamente.
