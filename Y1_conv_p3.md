@@ -30,8 +30,12 @@
 
 ***
 
+***Question:*** **'How are you?' (Como é que estás?)**  
+***Answers:*** **I’m fine, thank you. (Estou bem, obrigada.); I'm happy. (Estou feliz.); I'm sad. (Estou triste.); I'm angry. (Estou zangado.); I'm tired. (Estou cansado.); I'm hungry. (Estou com fome./Tenho fome.)**  
 
+* [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  [Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit2.pdf) for parents]  
 
+* [![hoyt](/images/hoyt.png)](https://www.youtube.com/watch?v=fMR8Hr9Xby4) [How are you today?/Como estás hoje?](https://www.youtube.com/watch?v=fMR8Hr9Xby4)  
 
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
 
