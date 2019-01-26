@@ -13,7 +13,7 @@
 
 ***NB*** Year 1 focus (Enfoque 1o ano): ON, IN, UNDER, OVER  
 
-![partitura](/images/partitura.jpg) <audio src="audio/y2_pp_song.mp3" controls preload></audio>
+![pp_y2](/images/pp_y2.jpg) <audio src="audio/y2_pp_song.mp3" controls preload></audio>
 
 ***Question:*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
 ***Answer:*** **'in the box' (dentro da caixa)**
