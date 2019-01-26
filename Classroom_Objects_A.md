@@ -20,7 +20,7 @@ Escuta. Encontra o objecto antes do objecto ficar colorido.
  
 Gostas de jogar 'memória'?  
 * [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) Game 1  
-* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) Game 2 
+* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) Game 2  
 Play three or four times to use all the words.  
 Joga três ou quatro vezes para usar todas as palavras.
 
