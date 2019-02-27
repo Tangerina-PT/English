@@ -11,7 +11,7 @@
 
 #### Watch the videos / Vê os vídeos:
 
-* ![clocap](/images/clocap.png) Ao ver os vídeos, clica no botão 'CC' para ver legendas
+* ![clocap](/images/clocap.png) Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.
 
 ***Question:*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
 ***Answer:*** **'in the box' (dentro da caixa)**
