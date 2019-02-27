@@ -1,16 +1,27 @@
 ### Prepositions of Place 
-Period 2: on, in, under, behind, next to  
-Period 3: 'in front of' = 'em frente', 'between' = 'entre'
+
+#### Canta a nossa canção... / Sing our song...  
+
+![pp_y2](/images/pp_y2.jpg) <audio src="audio/pp_long.mp3" controls preload></audio>  
+
+**ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN (entre) the ..*noun*.. / (o(s)/a(s) ..*substantivo(s)*.. )**  
+
+![prep_y1_tr](/images/prep_y1_tr.png)  
 
 ***
 
 #### Watch the videos / Vê os vídeos:
 
-1. [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
-2. [![fvpp](/images/fvpp.PNG)](https://www.youtube.com/watch?v=YI6VAsGlk7U)
-3. [![sampp](/images/sampp.PNG)](https://www.youtube.com/watch?v=BjFZbns1ZR0)
-4. [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=idJYhjGyWTU)
-5. (to be continued - Period 3)
+***Question:*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
+***Answer:*** **'in the box' (dentro da caixa)**
+
+1. [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM) (on, in, under)
+2. [![mlpp1](/images/mlpp1.png)](https://www.youtube.com/watch?v=uDGwhiwwxXA) (on, in, under)
+3. [![mlpp2](/images/mlpp2.png)](https://www.youtube.com/watch?v=xERTESWbqhU) (in front of, behind, between)
+4. [![fvpp](/images/fvpp.PNG)](https://www.youtube.com/watch?v=YI6VAsGlk7U)
+5. [![sampp](/images/sampp.PNG)](https://www.youtube.com/watch?v=BjFZbns1ZR0)
+6. [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=idJYhjGyWTU)
+7. (to be continued - Period 3)
 
 <!--- [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=xERTESWbqhU) -->
 
