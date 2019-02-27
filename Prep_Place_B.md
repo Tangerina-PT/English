@@ -5,7 +5,7 @@
 ![pp_y2](/images/pp_y2.jpg) <audio src="audio/pp_long.mp3" controls preload></audio>  
 **ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN (entre) the ..*noun*.. / (o(s)/a(s) ..*substantivo(s)*.. )**  
 
-![ball_bx_lab_tr](/images/ball_bx_lab_tr.png)  
+![prep_y2](/images/prep_y2.png)  
 
 ***
 
