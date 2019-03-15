@@ -40,6 +40,10 @@ P.ex. um indivíduo faz com as mãos, ou o grupo senta-se/arranja-se num círcul
 
 * [![ican](/images/ican.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
 
+***Classroom instructions/actions used in action games***  
+**'Jump.' (Salta.)**  
+**'Turn around.' (Dê uma voltinha.)**  
+
 ***
 
 #### Notes/Notas
