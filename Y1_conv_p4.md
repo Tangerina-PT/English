@@ -47,5 +47,10 @@ P.ex. um indivíduo faz com as mãos, ou o grupo senta-se/arranja-se num círcul
 
 ***
 
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+
+***
+
+
 #### Notes/Notas
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
