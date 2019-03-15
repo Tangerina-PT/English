@@ -17,6 +17,9 @@ Infelizmente o tempo é muito curto para este jogo. Tenta várias vezes mas não
 This game asks e.g.(Este jogo pergunta p.ex.) ‘Where’s Veronica’s mum?’(Onde está a mãe da Veronica?). Click on the picture of the mum/mummy/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)-->
 
 ***
+Vocabulário: mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô)  
+
+***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
 
 ***
