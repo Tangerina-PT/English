@@ -17,7 +17,7 @@ Ao clicar no monstro correcto, exprime o seu contentamento dizendo o nome da for
 ***
 
 Vocabulário: star, circle, square, triangle, rectangle, heart, diamond, oval, line  
-(As palavras aparecem abaixo do vídeo.)
+
 ***
 
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
