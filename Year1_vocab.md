@@ -21,11 +21,12 @@ Topics
 #### [Topic 6 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A)
 #### [Topic 6 - Toys](https://tangerina-pt.github.io/English/Toys_A)
 #### [Topic 4 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
-
+#### [Topic 7 - Actions](https://tangerina-pt.github.io/English/Actions_A)
 ***-->
 
 ### Period 2  
 
+#### [Topic 6 - Family](https://tangerina-pt.github.io/English/Family_A)
 #### [Topic 5 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
 #### [Topic 4 - Animals](https://tangerina-pt.github.io/English/Animals_A)
 
