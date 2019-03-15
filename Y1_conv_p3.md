@@ -38,6 +38,7 @@
 
 * [![hoyt](/images/hoyt.png)](https://www.youtube.com/watch?v=fMR8Hr9Xby4) [How are you today?/Como estás hoje?](https://www.youtube.com/watch?v=fMR8Hr9Xby4)  
 
+***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
 
 ***
