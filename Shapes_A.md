@@ -1,7 +1,5 @@
 ### Shapes
 
-Vocabulário: star, circle, square, triangle, rectangle, heart, diamond, oval, line  
-
 #### Learn the words  
 * [![shso1](/images/shso1.PNG)](https://www.youtube.com/watch?v=6T6tnpxxEWg)
 * [![shso2](/images/shso2.PNG)](https://www.youtube.com/watch?v=TJhfl5vdxp4) 
@@ -15,6 +13,10 @@ Escolha o 'monstro de forma' correcto para comer cada forma. Ao clicar no monstr
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares.  
 
 * [![shfi](/images/shfi.PNG)](https://www.education.com/game/summertime-spot-the-shapes/) *REQUER CRIAÇÃO DE CONTA NÃO-PAGA PELOS PAIS* 
+
+***
+
+Vocabulário: star, circle, square, triangle, rectangle, heart, diamond, oval, line  
 
 ***
 
