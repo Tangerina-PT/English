@@ -14,7 +14,7 @@ Escolha o 'monstro de forma' correcto para comer cada forma. Ao clicar no monstr
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares.  
 
-* [![shfi](/images/shfi.PNG)](https://www.education.com/game/summertime-spot-the-shapes/) *REQUER CONTA* Este jogo requer a criação de uma conta não-paga pelos pais
+* [![shfi](/images/shfi.PNG)](https://www.education.com/game/summertime-spot-the-shapes/) *REQUER CONTA* Requer criação de conta não-paga pelos pais
 
 ***
 
