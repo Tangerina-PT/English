@@ -7,7 +7,7 @@ Vocabulário: star, circle, square, triangle, rectangle, heart, diamond, oval, l
 * [![shso2](/images/shso2.PNG)](https://www.youtube.com/watch?v=TJhfl5vdxp4) 
 * [![shso3](/images/shso3.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)
 * [![shmon](/images/shmon.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)  
-Escolha o 'monstro de forma' correcto para comer cada forma. Ao clicar no monstro correcto, exprime a sua satisfação dizendo o nome da forma em inglês, p.ex.: 'Yummy, a circle.'/Delicioso(informal), um círculo.; 'Tasty, a triangle.'/Gostoso, um triângulo.; 'Delicious, a square.'/Delicioso, um quadrado.  
+Escolha o 'monstro de forma' correcto para comer cada forma. Ao clicar no monstro correcto, exprime a sua satisfação dizendo o nome da forma em inglês, p.ex.: 'Yummy, a circle.'/ Delicioso(informal), um círculo.; 'Tasty, a triangle.'/ Gostoso, um triângulo.; 'Delicious, a square.'/ Delicioso, um quadrado.  
 
 #### Play the games  
 * [![shme](/images/shme.PNG)](https://www.eslgamesplus.com/shapes-vocabulary-esl-memory-game-easy/)  
