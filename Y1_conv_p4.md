@@ -9,7 +9,7 @@
 
 * [![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)
 
-***Question:*** **'Who is it?'; 'Who's this?' (Quem é?; Quem é isto?)**
+***Question:*** **'Who is it?';'Who's this?' (Quem é?; Quem é isto?)**  
 ***Answer:*** **'My mother.';'It's my mother.';'This is my mother' (A minha mãe.; É a minha mãe.; Isto é a minha mãe.)**
 
 * [![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
@@ -17,20 +17,28 @@ No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's
 
 ***
 
+***Shape***
+
 ***Question:*** **'What shape is it?' (Que forma é?)**  
 ***Answer:*** **'It's a square.' (É um quadrado.)**  
 
 * [![shso3](/images/shso3.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)  
+
+***Classroom instructions/actions involving shape***  
+**'Draw a triangle.' (Desenha um triângulo.)**  
+**'Make a circle.' (Faz/forma um círculo.)**  
+P.ex. um indivíduo faz com as mãos, ou o grupo senta-se/arranja-se num círculo.  
+**'Find a rectangle.' (Procura/localiza um rectângulo.)**  
 
 ***
 
 ***Actions:***  
 
 ***Question:*** **'Can you swim?' (Consegues/podes nadar?)**  
-***Answer:*** **'Yes I can.';'No I can't.' (Sim, consigo.; Não, não consigo.)**
+***Answer:*** **'Yes I can.';'No I can't.' (Sim, consigo.; Não, não consigo.)**  
 ***Statement:*** **'I can swim.';'I can't swim.' (Consigo nadar.; Não consigo nadar.)**
 
-[![ican](/images/ican.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
+* [![ican](/images/ican.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
 
 ***
 
