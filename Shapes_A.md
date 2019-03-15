@@ -10,12 +10,11 @@ Learn the words
 Escolha o 'monstro de forma' correcto para comer cada forma. Ao clicar no monstro correcto, exprime a sua satisfação dizendo o nome da forma em inglês, p.ex.: 'Yummy, a circle.'/Delicioso(informal), um círculo.; 'Tasty, a triangle.'/Gostoso, um triângulo.; 'Delicious, a square.'/Delicioso, um quadrado.  
 
 Play the games  
-* [![shme](/images/shme.PNG)](https://www.eslgamesplus.com/shapes-vocabulary-esl-memory-game-easy/)
+* [![shme](/images/shme.PNG)](https://www.eslgamesplus.com/shapes-vocabulary-esl-memory-game-easy/)  
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares.  
 
-*REQUER CONTA* Este jogo requer a criação de uma conta não paga pelos pais     
-* [![shfi](/images/shfi.PNG)](https://www.education.com/game/summertime-spot-the-shapes/)
+* [![shfi](/images/shfi.PNG)](https://www.education.com/game/summertime-spot-the-shapes/) *REQUER CONTA* Este jogo requer a criação de uma conta não-paga pelos pais
 
 ***
 
