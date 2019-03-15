@@ -24,7 +24,7 @@ No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's
 
 * [![shso3](/images/shso3.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)  
 
-***Classroom instructions/actions involving shape***  
+***Classroom instructions/actions involving shape*** p.ex.:  
 **'Draw a triangle.' (Desenha um triângulo.)**  
 **'Make a circle.' (Faz/forma um círculo.)**  
 P.ex. um indivíduo faz com as mãos, ou o grupo senta-se/arranja-se num círculo.  
@@ -40,7 +40,7 @@ P.ex. um indivíduo faz com as mãos, ou o grupo senta-se/arranja-se num círcul
 
 * [![ican](/images/ican.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
 
-***Classroom instructions/actions used in action games***  
+***Classroom instructions/actions used in action games*** p.ex.:  
 **'Jump.' (Salta.)**  
 **'Turn around.' (Dê uma voltinha.)**  
 
