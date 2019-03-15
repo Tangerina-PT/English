@@ -10,7 +10,8 @@
 * [![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)
 
 ***Question:*** **'Who is it?';'Who's this?' (Quem é?; Quem é isto?)**  
-***Answer:*** **'My mother.';'It's my mother.';'This is my mother' (A minha mãe.; É a minha mãe.; Isto é a minha mãe.)**
+***Answer:*** **'My mother.';'It's my mother.';'This is my mother' (A minha mãe.; É a minha mãe.; Isto é a minha mãe.)**  
+***Context:*** **e.g. pointing at family photographs (p.ex. a apontar para fotos da família)**  
 
 * [![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
 (No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). No 1o ano a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)  
