@@ -2,7 +2,7 @@
 
 #### Learn the words  
 * [![shso1](/images/shso1.PNG)](https://www.youtube.com/watch?v=6T6tnpxxEWg)
-* [![shso2](/images/shso2.PNG)](https://www.youtube.com/watch?v=TJhfl5vdxp4) (As palavras aparecem abaixo do vídeo.)
+* [![shso2](/images/shso2.PNG)](https://www.youtube.com/watch?v=TJhfl5vdxp4) ![cc_wds](/images/cc_wds.PNG)
 * [![shso3](/images/shso3.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)
 * [![shmon](/images/shmon.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw) Escolha o 'monstro de forma' correcto para comer a forma.  
 Ao clicar no monstro correcto, exprime o seu contentamento dizendo o nome da forma em inglês, p.ex.: 'Yummy, a circle.'/ Delicioso (informal), um círculo.; 'Tasty, a triangle.'/ Gostoso, um triângulo.; 'Delicious, a square.'/ Delicioso, um quadrado.  
@@ -17,7 +17,7 @@ Ao clicar no monstro correcto, exprime o seu contentamento dizendo o nome da for
 ***
 
 Vocabulário: star, circle, square, triangle, rectangle, heart, diamond, oval, line  
-
+(As palavras aparecem abaixo do vídeo.)
 ***
 
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
