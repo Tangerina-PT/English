@@ -26,6 +26,7 @@ Topics
 
 ### Period 2  
 
+#### [Topic 7 - Shapes](https://tangerina-pt.github.io/English/Shapes_A)
 #### [Topic 6 - Family](https://tangerina-pt.github.io/English/Family_A)
 #### [Topic 5 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
 #### [Topic 4 - Animals](https://tangerina-pt.github.io/English/Animals_A)
