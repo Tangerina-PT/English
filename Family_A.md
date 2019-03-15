@@ -3,11 +3,14 @@
 #### Song
 [![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
 
+#### Video
+[![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs) Watch [Gogo's Adventures 3.](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
+
 #### Games
 (1). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
 
 (2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
-For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)
+For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento abaixo da imagem correcta.)
 
 (3). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
 Infelizmente o tempo é muito curto para este jogo. Tenta várias vezes mas não te preocupes se é difícil de mais dentro do tempo.    
