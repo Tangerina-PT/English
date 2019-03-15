@@ -12,9 +12,9 @@
 (2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
 For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento abaixo da imagem correcta.)
 
-(3). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
+<!--(3). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
 Infelizmente o tempo é muito curto para este jogo. Tenta várias vezes mas não te preocupes se é difícil de mais dentro do tempo.    
-This game asks e.g.(Este jogo pergunta p.ex.) ‘Where’s Veronica’s mum?’(Onde está a mãe da Veronica?). Click on the picture of the mum/mummy/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)
+This game asks e.g.(Este jogo pergunta p.ex.) ‘Where’s Veronica’s mum?’(Onde está a mãe da Veronica?). Click on the picture of the mum/mummy/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)-->
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
