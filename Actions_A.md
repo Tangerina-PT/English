@@ -2,7 +2,7 @@
 
 Vê quantas acções já apreendemos. Canta as canções fazendo as acções para te lembrares... 
 
-![sit_down](/images/sit_down.gif) sit down ; ![stand_up](/images/stand_up.gif)
+![sit_down](/images/sit_down.gif | width=75) sit down ; ![stand_up](/images/stand_up.gif)
 
 #### Song
 [![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
