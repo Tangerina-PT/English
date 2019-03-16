@@ -1,8 +1,10 @@
 ### Actions
 
-Vê quantas acções já apreendemos. Canta as canções fazendo as acções para te lembrares... 
+* Vê quantas acções já apreendemos.  
+* Canta as canções fazendo as acções para te lembrares.  
+* Aponta para cada imagem - diz a acção em inglês.  
 
-![sit_down](/images/sit_down.gif){:height="120px" width="120px"} sit down ; ![stand_up](/images/stand_up.gif){:height="120px" width="120px"}
+![sit_down](/images/sit_down.gif){:height="120px" width="120px"} sit down / ![stand_up](/images/stand_up.gif){:height="120px" width="120px"} stand up
 
 #### Song
 [![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
