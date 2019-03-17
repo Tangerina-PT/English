@@ -4,7 +4,7 @@
 * Canta as canções fazendo as acções para te lembrares.  
 * Aponta para cada imagem - diz a acção em inglês.  
 
-![sit_down](/images/sit_down.gif){:height="120px" width="120px"} sit down / ![stand_up](/images/stand_up.gif){:height="120px" width="120px"} stand up
+* [![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k) ![stand_up](/images/stand_up.gif){:height="120px" width="120px"} stand up / ![sit_down](/images/sit_down.gif){:height="120px" width="120px"} sit down / ![turn_around](/images/turn_around.gif){:height="120px" width="120px"} turn around / ![jump](/images/jump.gif){:height="120px" width="120px"} jump / ![hop](/images/hop.gif){:height="120px" width="120px"} hop / ![run](/images/run.gif){:height="120px" width="120px"} run / ![stop](/images/stop.gif){:height="120px" width="120px"} stop
 
 #### Song
 [![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
