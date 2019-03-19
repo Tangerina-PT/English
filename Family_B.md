@@ -21,7 +21,7 @@ Then click on ![efgfm3](/images/efgfm3.PNG) to add more words:
 [Minimum vocabulary: mother(mum), father(dad), brother, sister, grandmother(grandma), grandfather(grandpa)]
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
 
 ***
 
