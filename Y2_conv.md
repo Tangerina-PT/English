@@ -1,5 +1,7 @@
 ## Year 2 English
 
+
+
 ### Part 1 - Revision and extension of content from Year 1
 
 #### [Topic 1 - Greetings/Introductions](https://tangerina-pt.github.io/English/Greetings_B)
@@ -22,6 +24,18 @@
 
 <!--#### Topic 9 - Talking about position/location-->
 #### [Topic 9 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B)
+
+<!--#### [Topic 10 - Classroom objects] -->
+
+<!--#### [Topic 11 - Toys] -->
+
+
+<!--### Part 2 
+#### [Topic 12 - Language for playing games...] 
+#### [Topic 13 - Actions... I can...] 
+#### [Topic 14 - Actions - I can...] -->
+
+
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
