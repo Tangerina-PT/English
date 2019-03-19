@@ -17,8 +17,8 @@
 <!--#### Topic 7 - Talking about me-->
 #### [Topic 7 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)
 
-#### Topic 8 - Talking about my family
-<!--#### [Topic 8 - Talking about my family](https://tangerina-pt.github.io/English/Family_B)-->
+<!--#### Topic 8 - Talking about my family-->
+#### [Topic 8 - Talking about my family](https://tangerina-pt.github.io/English/Family_B)
 
 <!--#### Topic 9 - Talking about position/location-->
 #### [Topic 9 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B)
