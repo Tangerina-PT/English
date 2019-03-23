@@ -8,8 +8,8 @@
 (1). [![fcety](/images/fkety.PNG){:height="75px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI)  
 
 (2). [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
+Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer?  
 Can you name each toy before the picture appears?  
-Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer?
 
 #### Do you like to play memory? / Gostas de jogar 'memória'?  
 
