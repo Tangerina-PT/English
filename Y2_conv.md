@@ -10,8 +10,10 @@
 ### Part 1 - Revision and extension of content from Year 1
 
 <!--#### [Topic 11 - Toys] -->
+#### [Topic 11 - Toys](https://tangerina-pt.github.io/English/Toys_B)
 
 <!--#### [Topic 10 - Classroom objects] -->
+#### [Topic 10 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B)
 
 <!--#### Topic 9 - Talking about position/location-->
 #### [Topic 9 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B)
