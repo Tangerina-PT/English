@@ -2,12 +2,13 @@
 
 #### Watch the videos / Vê os vídeos:  
 
-* [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)  
+<!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
+(2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
 
-* [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)  
+(1). [![fcety](/images/fkety.PNG){:height="120px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI)  
 
-* [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
-Can you name the toys before the picture appears?  
+(2). [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
+Can you name each toy before the picture appears?  
 Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer?
 
 #### Do you like to play memory? / Gostas de jogar 'memória'?  
