@@ -2,7 +2,7 @@
 
 Aprende a soletrar em inglês./Learn to spell aloud in English.
 
-***Question:*** **'How do you spell your name?'('Como é que te escreve o teu nome?')**  
+***Question:*** **'How do you spell your name?'('Como é que se escreve o teu nome?')**  
 ***Answer:*** **'It's 'S' 'A' 'L' 'L' 'Y''**  
 
 1. [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
