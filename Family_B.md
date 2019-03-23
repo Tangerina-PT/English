@@ -1,6 +1,7 @@
 ### Family
 
-***Vocabulary:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô)
+***Vocabulary:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô)  
+***Minimum vocabulary:*** mummy, daddy, brother, sister, grandma, grandpa  
 
 #### Song
 
@@ -20,18 +21,17 @@
 (1). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
 
 (2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
-For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)
+Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.
 
 (3). [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
-Clica em ![efgfm2](/images/efgfm2.PNG) para começar. Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:/Click on ![efgfm2](/images/efgfm2.PNG) to start. Then click on ![efgfm3](/images/efgfm3.PNG) if you want to add more words:  
-- aunt (tia); uncle (tio); cousin (primo/a)  
+Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images/efgfm2.PNG) to start.  
 
-Extensão opcional/Optional extension:  
+Extensão opcional/Optional extensions:  
+
+Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:/Click on ![efgfm3](/images/efgfm3.PNG) if you want to add more words:  aunt (tia); uncle (tio); cousin (primo/a)  
 
 (4). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
 Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias. Este jogo é muito rápido. Infelizmente, não há forma de ajustar a velocidade./This game asks e.g. 'Where's Veronica's mum?' Click on the picture of the mum/mother in the family tree. There are 4 families. This game is very fast. Unfortunately there is no way to adjust the speed.  
-
-[Minimum vocabulary: mother(mum), father(dad), brother, sister, grandmother(grandma), grandfather(grandpa)]
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
