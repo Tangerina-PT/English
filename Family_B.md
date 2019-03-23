@@ -26,7 +26,7 @@ Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na p
 (3). [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
 Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images/efgfm2.PNG) to start.  
 
-Extensão opcional/Optional extensions:  
+***Extensões opcionais/Optional extensions:***  
 
 Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:/Click on ![efgfm3](/images/efgfm3.PNG) if you want to add more words:  aunt (tia); uncle (tio); cousin (primo/a)  
 
