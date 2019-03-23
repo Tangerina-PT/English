@@ -1,14 +1,20 @@
 ### Classroom instructions
 
-#### Vê as instruções de sala de aula que já trabalhámos...
+#### Vê as instruções de sala de aula que já trabalhámos nas canções...
 
-* [![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k) ![stand_up](/images/stand_up.gif){:height="100px" width="100px"} stand up / ![sit_down](/images/sit_down.gif){:height="100px" width="100px"} sit down / ![turn_around](/images/turn_around.gif){:height="100px" width="100px"} turn around / ![hand_up](/images/hand_up.gif){:height="100px" width="100px"} put one hand up (put your hand up.)  
+* [![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k) ![stand_up](/images/stand_up.gif){:height="100px" width="100px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="100px" width="100px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="100px" width="100px"} turn around / ![hand_up](/images/hand_up.gif){:height="100px" width="100px"} put one hand up (put your hand up) / ![jump](/images/jump.gif){:height="100px" width="100px"} jump / ![hop](/images/hop.gif){:height="100px" width="100px"} hop / ![run](/images/run.gif){:height="100px" width="100px"} run / ![stop](/images/stop.gif){:height="100px" width="100px"} stop  
 
 * [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M) ![p_away](/images/clean.gif){:height="100px" width="100px"} clean up! - arruma! / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
+
+* [![bptch](/images/bptch.png)](https://www.youtube.com/watch?v=3ZWtDfBoU-E) '***Touch your head.***' (Toca na tua cabeça.)  
 
 #### Watch the video flashcards / Vê e ouve as expressões no vídeo:  
 
 (1). [![lcca0](/images/lcca0.png)](https://www.youtube.com/watch?v=UIGD9uFY-C4)
+
+
+#### Print flashcards to play memory...  
+
 
 #### Match the words, pictures and sounds  
 
