@@ -13,7 +13,7 @@
 (1). [![lcca0](/images/lcca0.png)](https://www.youtube.com/watch?v=UIGD9uFY-C4)
 
 
-#### Print flashcards to play memory...  
+#### Print flashcards to play memory...  [![bccifc](/images/bccifc.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf)  
 
 
 #### Match the words, pictures and sounds  
