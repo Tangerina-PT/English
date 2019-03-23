@@ -1,4 +1,13 @@
+***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out /   
+e.g.classroom instructions: Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
+
 ### Classroom instructions
+
+#### Vê as instruções de sala de aula que já trabalhámos...
+
+* [![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k) ![stand_up](/images/stand_up.gif){:height="100px" width="100px"} stand up / ![sit_down](/images/sit_down.gif){:height="100px" width="100px"} sit down / ![turn_around](/images/turn_around.gif){:height="100px" width="100px"} turn around / ![jump](/images/jump.gif){:height="100px" width="100px"} / ![hand_up](/images/hand_up.gif){:height="100px" width="100px"} put one hand up (put your hand up.)  
+
+* [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M) ![p_away](/images/clean.gif){:height="100px" width="100px"} clean up! - arruma! / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
 
 #### Watch the video flashcards / Vê e ouve as expressões no vídeo:  
 
