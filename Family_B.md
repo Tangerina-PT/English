@@ -1,22 +1,35 @@
 ### Family
 
+***Vocabulary:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô)
+
 #### Song
+
 [![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
 
+#### Language
+
+***Question:*** **'Who is it?';'Who's this?' (Quem é?; Quem é isto?)**  
+***Possible answers:*** **'My mother.';'It's my mother.';'This is my mother.' (A minha mãe.; É a minha mãe.; Isto é a minha mãe.)**  
+***Context:*** **e.g. pointing at family photographs (p.ex. a apontar para fotos da família)**  
+
+* [![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
+(No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). No 1o ano a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)  
+
+
 #### Games
-(1). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
+(1). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
+
+(2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
 For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)
 
-(2). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
-This game asks e.g.(p.ex.) ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Click on the picture of the mum/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)
+(3). [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
+Clica em ![efgfm2](/images/efgfm2.PNG) para começar. Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:/Click on ![efgfm2](/images/efgfm2.PNG) to start. Then click on ![efgfm3](/images/efgfm3.PNG) if you want to add more words:  
+- aunt (tia); uncle (tio); cousin (primo/a)  
 
-(3). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
+Extensão opcional/Optional extension:  
 
-(4). [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
-Click on ![efgfm2](/images/efgfm2.PNG) to start. (Clica em ![efgfm2](/images/efgfm2.PNG) para começar.)  
-Then click on ![efgfm3](/images/efgfm3.PNG) to add more words:  
-(Depois clica em ![efgfm3](/images/efgfm3.PNG) para adicionar palavras:)  
-- aunt (tia); uncle (tio); cousin (primo/a)
+(4). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
+Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias. Este jogo é muito rápido. Infelizmente, não há forma de ajustar a velocidade./This game asks e.g. 'Where's Veronica's mum?' Click on the picture of the mum/mother in the family tree. There are 4 families. This game is very fast. Unfortunately there is no way to adjust the speed.  
 
 [Minimum vocabulary: mother(mum), father(dad), brother, sister, grandmother(grandma), grandfather(grandpa)]
 
