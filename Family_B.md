@@ -14,7 +14,7 @@ Auto-avaliação: (1). Já consegues cantar toda a canção sem o vídeo? (2). C
 ***Context:*** **e.g. pointing at family photographs (p.ex. a apontar para fotos da família)**  
 
 * [![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
-(No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). No 1o ano a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)  
+(No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)  
 
 
 #### Games
