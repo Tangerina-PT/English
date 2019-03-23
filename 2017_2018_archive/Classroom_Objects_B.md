@@ -10,14 +10,14 @@ Listen to each word. Can you find the object before it appears in colour? / Escu
 2. Play the [classroom memory game](https://www.freddiesville.com/games/school-supplies-memory-game/)[![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/)  
 Play three or four times to use all the words. / Joga o jogo de memória com objectos da sala de aula. Joga três ou quatro vezes para usar todas as palavras.
 
-3. Match the words to the pictures: [Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1) [![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2) [![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
+<!--3. Match the words to the pictures: [Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1) [![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2) [![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
 
 4. Optional extra challenges / Desafios extras opcionais:  
 Do you know your classroom objects and you need an extra challenge? / Já sabes os objectos da sala de aula e precisas de mais um desafio?
 * Play the [‘questions’](http://www.mes-games.com/classroom1.phpd) [![tcss](/images/tcss.PNG)](http://www.mes-games.com/classroom1.phpd) and [‘spelling’](http://www.mes-games.com/classroom1.phpd) [![sssp](/images/sssp.PNG)](http://www.mes-games.com/classroom1.phpd) games:/  
 Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/classroom1.phpd)
 * [Word search:](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/) [![cows](/images/cows.PNG)](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/)
-* [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)  
+* [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)-->  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
