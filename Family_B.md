@@ -4,7 +4,7 @@
 
 #### Song
 
-[![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Canta [a canção da família.](https://www.youtube.com/watch?v=GiRUF7hvWuM)./ Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
+[![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Canta [a canção da família.](https://www.youtube.com/watch?v=GiRUF7hvWuM)/ Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
 Auto-avaliação: (1). Já consegues cantar toda a canção sem o vídeo? (2). Consegues levantar as 'marionetas de pau' da família enquanto cantares?/Can you lift up the correct family stick puppets while you sing?  
 
 #### Language
