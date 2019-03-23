@@ -1,7 +1,7 @@
 ### Classroom Objects
 
 ***Vocabulário prióritário:*** pen, pencil, pencil case, eraser, book, table, chair, scissors, glue, ruler, crayon, teacher  
-***Language:*** ![t_out](/images/t_out.gif){:height="120px" width="120px"} take out (tira) / ![p_away](/images/p_away.gif){:height="120px" width="120px"} put away (guarda)  
+***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out (tira) / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away (guarda)  
 
 * [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
 
