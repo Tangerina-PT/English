@@ -14,10 +14,9 @@ Video chants
 Games  
 
 * [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)   
-Listen. Find the object before it appears in colour.  
 Escuta. Encontra o objecto antes do objecto ficar colorido.  
- 
-Gostas de jogar 'memória'?  
+Listen. Find the object before it appears in colour.  
+
 * [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [Game 1](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
 NB: Este jogo chama um estojo "pencil box" em vez do nome mais comum/actual "pencil case".  
 
