@@ -2,9 +2,11 @@
 
 #### Song
 [![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
+Auto-avaliação: (1). Já consegues cantar toda a canção sem o vídeo? (2). Consegues levantar as 'marionetas de pau' da família enquanto cantares?/Can you lift up the correct family stick puppets while you sing?  
 
 #### Video
 [![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs) Watch [Gogo's Adventures 3.](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
+Auto-avaliação: (1). Consegues responder a perguntas ao apontar para fotografias da tua família? por exemplo -'Who's this?'-'My mummy.'.  
 
 #### Games
 (1). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
