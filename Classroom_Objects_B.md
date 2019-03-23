@@ -1,6 +1,6 @@
 ### Classroom Objects
 
-Vocabulário prióritário: pen, pencil, pencil case, eraser, book, table, chair, scissors, glue
+Vocabulário prióritário: pen, pencil, pencil case, eraser, book, table, chair, scissors, glue, ruler, crayon, teacher
 * [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
 
 Video chants
@@ -19,7 +19,7 @@ Escuta. Encontra o objecto antes do objecto ficar colorido.
  
 Gostas de jogar 'memória'?  
 * [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [Game 1](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
-NB: Este jogo chama um estojo "pencil box" em vez do nome muito mais comum "pencil case".  
+NB: Este jogo chama um estojo "pencil box" em vez do nome mais comum/actual "pencil case".  
 
 <!---* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/ "glue (cola), stapler (agrafador), tape (fita cola), school bag (mochila/saco de escola), crayon (lápis de cera), triangle (triângulo), protractor (), calculator (calculador), paper (folha de papel), scissors (tesoura), notebook (caderno)")  
 Play three or four times to use all the words.  
