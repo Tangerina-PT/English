@@ -1,7 +1,6 @@
 ### Family
 
-***Vocabulary:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô)  
-***Minimum vocabulary:*** mummy, daddy, brother, sister, grandma, grandpa  
+***Vocabulary:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô) ***Minimum vocabulary:*** mummy, daddy, brother, sister, grandma, grandpa  
 
 #### Song
 
