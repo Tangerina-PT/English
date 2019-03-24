@@ -4,7 +4,7 @@
 #### [Topic 15 - Actions - I can...]
 #### [Topic 14 - Actions... I can...] 
 #### [Topic 13 - Language for playing games...] --> 
-#### [Topic 12 - Classroom instructions]
+#### [Topic 12 - Classroom instructions](https://tangerina-pt.github.io/English/Classroom_I_B)
 
 ***
 
