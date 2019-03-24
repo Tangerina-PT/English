@@ -17,13 +17,17 @@
 
 #### Match the words, pictures and sounds  
 
-* [![lcca1](/images/lcca1.PNG)](http://www.learningchocolate.com/content/lets-go-class)  
-(![spkr2](/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Se quiseres um desafio, experimenta com as actividades: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG) and ![lcmu3](/images/lcmu3.PNG). Se não consegues ouvir o som, experimenta com Internet Explorer. / Click on the speaker to hear each expression then do the activities. If you can't hear the sound - please try Internet Explorer.)  
+Instruções para as actividades de vocabulário de Learning Chocolate: ![spkr2](/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Se quiseres um desafio, experimenta com as actividades: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG) and ![lcmu3](/images/lcmu3.PNG). Se não consegues ouvir o som, experimenta com Internet Explorer. / Click on the speaker to hear each expression then do the activities. If you can't hear the sound - please try Internet Explorer.  
+
+* [![lcca1](/images/lcca1.PNG)](http://www.learningchocolate.com/content/lets-go-class)    
 
 * [![lcca2](/images/lcca2.PNG)](http://www.learningchocolate.com/content/classroom-instructions)  
 
-<!--(3). [![bcca1](/images/bcca1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1) [Classroom actions 1](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1)
-(4). [![bcca2](/images/bcca2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2) [Classroom actions 2](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2)-->
+Instruções para as actividades de vocabulário do British Council de ligar as palavras às imagens: para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento abaixo da imagem correcta. / Instructions: for each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.
+
+* [![bcca1](/images/bcca1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1) [Classroom actions 1](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1)  
+
+* [![bcca2](/images/bcca2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2) [Classroom actions 2](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
