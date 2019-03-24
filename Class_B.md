@@ -14,6 +14,10 @@ Classroom Language
 
 <h4>
 <p align="center">
+  <a href="https://tangerina-pt.github.io/English/Classroom_I_B">Classroom instructions</a>
+  <br>
+</p>
+<p align="center">
   <a href="https://tangerina-pt.github.io/English/Classroom_Q_B">Classroom questions</a>
   <br>
 </p>
