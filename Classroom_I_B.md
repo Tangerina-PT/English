@@ -10,17 +10,17 @@
 
 #### Watch the video flashcards / Vê e ouve as expressões no vídeo:  
 
-(1). [![lcca0](/images/lcca0.png)](https://www.youtube.com/watch?v=UIGD9uFY-C4)
+* [![lcca0](/images/lcca0.png)](https://www.youtube.com/watch?v=UIGD9uFY-C4)
 
 
 #### Print flashcards to play memory...  [![bccifc](/images/bccifc.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf)  
 
 #### Match the words, pictures and sounds  
 
-(1). [![lcca1](/images/lcca1.PNG)](http://www.learningchocolate.com/content/lets-go-class)  
+* [![lcca1](/images/lcca1.PNG)](http://www.learningchocolate.com/content/lets-go-class)  
 (![spkr2](/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Se quiseres um desafio, experimenta com as actividades: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG) and ![lcmu3](/images/lcmu3.PNG). Se não consegues ouvir o som, experimenta com Internet Explorer. / Click on the speaker to hear each expression then do the activities. If you can't hear the sound - please try Internet Explorer.)  
 
-(2). [![lcca2](/images/lcca2.PNG)](http://www.learningchocolate.com/content/classroom-instructions)  
+* [![lcca2](/images/lcca2.PNG)](http://www.learningchocolate.com/content/classroom-instructions)  
 
 <!--(3). [![bcca1](/images/bcca1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1) [Classroom actions 1](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1)
 (4). [![bcca2](/images/bcca2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2) [Classroom actions 2](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2)-->
