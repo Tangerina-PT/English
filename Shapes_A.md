@@ -4,11 +4,12 @@
 * [![shso1](/images/shso1.PNG)](https://www.youtube.com/watch?v=6T6tnpxxEWg)
 * [![shso2](/images/shso2.PNG)](https://www.youtube.com/watch?v=TJhfl5vdxp4) ![cc_wds3](/images/cc_wds3.PNG)
 * [![shso4](/images/shso4.PNG)](https://www.youtube.com/watch?v=03pyY9C2Pm8) ![cc_wds3](/images/cc_wds3.PNG)  
-* [![shso3](/images/shso3.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)
+* [![shso3](/images/shso3.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)  
+
+#### Play the games  
 * [![shmon](/images/shmon.PNG)](https://www.topmarks.co.uk/early-years/shape-monsters) ![shmon2](/images/shmon2.PNG)  
 Ao clicar no monstro correcto, exprime o seu contentamento dizendo o nome da forma em inglês, p.ex.: 'Yummy, a circle.'/ Delicioso (informal), um círculo.; 'Tasty, a triangle.'/ Gostoso, um triângulo.; 'Delicious, a square.'/ Delicioso, um quadrado.  
 
-#### Play the games  
 * [![shme](/images/shme.PNG)](https://www.eslgamesplus.com/shapes-vocabulary-esl-memory-game-easy/)  
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares.  
