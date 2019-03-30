@@ -1,9 +1,12 @@
 ## Year 2 English
 
 <!--### Part 2 
-#### [Topic 16 - Actions - I can...]
+#### [Topic 16 - Actions - I can...] --> 
+
 #### [Topic 15 - Actions... I can...] 
-#### [Topic 14 - Language for playing games...] --> 
+
+#### [Topic 14 - Language for playing games...]
+
 
 #### [Topic 13 - Shapes](https://tangerina-pt.github.io/English/Shapes_B)
 
