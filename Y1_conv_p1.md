@@ -32,13 +32,14 @@
 ***Question:*** **'What colour is it?' (De que cor é?)**  
 ***Answer:*** **'It's ..*colour*.. .' (É ..*cor*.. .)**
 
-1. [![sar1](/images/kbcol.png)](https://www.youtube.com/watch?v=uTDJiPdz3L0) [I can sing a rainbow (Eu consigo cantar um arco-iris)](https://www.youtube.com/watch?v=uTDJiPdz3L0) Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit1.pdf) for parents. 
-2. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
-
+1. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
+2. [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 ***
 
 <!--***Question:*** **'What do you see?' (O que é que vês?)**  
 ***Answer:*** **'I see a ... . '**
+
+1. [![sar1](/images/kbcol.png)](https://www.youtube.com/watch?v=uTDJiPdz3L0) [I can sing a rainbow (Eu consigo cantar um arco-iris)](https://www.youtube.com/watch?v=uTDJiPdz3L0) Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit1.pdf) for parents. 
 
 1. [![dews1](/images/dews1.png)](https://www.youtube.com/watch?v=MCjhynvMunE)
 2. [![dews2](/images/dews2.png)](https://www.youtube.com/watch?v=p5qwOxlvyhk)
