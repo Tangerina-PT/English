@@ -1,5 +1,7 @@
 ### Greetings  
 
+***Greetings*** **Good morning; Good afternoon; Hello; Hi**  
+
 ***Question:*** **'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
 
