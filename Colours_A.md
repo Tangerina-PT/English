@@ -15,7 +15,9 @@ First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](
 
 ### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
 
-(1). Listen to ![listen](/images/listen.png) the song:  
+(1). Listen to ![listen](/images/listen.png) <audio src="audio/V1s2.m4a" controls preload></audio> the song:  
+
+<!--![toilet](/images/toilet.png) <audio src="audio/may_i_go_to_the_toilet.mp3" controls preload></audio>-->
 
 Song lyrics:  
 Red and yellow and pink and green, orange and purple and blue.  
