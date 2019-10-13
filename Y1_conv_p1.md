@@ -29,6 +29,13 @@
 
 *** 
 
+***Question:*** **'How's the weather?' (Como é que está o tempo?)**  
+***Answer:*** **'It's sunny.'(Faz sol.)/'It's rainy'.(Está a chover.)/'It's cloudy.'(Está nublado.)/'It's windy.'(Está vento.)/'It's snowy.'(Cai neve.)**  
+
+[![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo) Sing the [weather song.](https://www.youtube.com/watch?v=I8GeA3anPdo)  
+
+***
+
 ***Question:*** **'What colour is it?' (De que cor é?)**  
 ***Answer:*** **'It's ..*colour*.. .' (É ..*cor*.. .)**
 
