@@ -36,7 +36,7 @@ Topic 14 - Language for playing games...
 
 #### [Topic 3 - Talking about number](https://tangerina-pt.github.io/English/Number_B)![pmno](/images/pmno.PNG){:height="30px"}
 
-#### [Topic 2 - Talking about colour](https://tangerina-pt.github.io/English/Colours_B)![colmix2](/images/colmix2.png){:height="30px" width="30px"}
+#### [Topic 2 - Talking about colour](https://tangerina-pt.github.io/English/Colours_B)![colmix2](/images/colmix2.png){:height="30px"}
 
 #### [Topic 1 - Greetings/Introductions](https://tangerina-pt.github.io/English/Greetings_B)![gtsym](/images/gtsym.PNG){:height="30px"}
 
