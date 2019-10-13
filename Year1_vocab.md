@@ -38,7 +38,7 @@ Topics
 ### Period 1
 #### [Topic 3 - Weather](https://tangerina-pt.github.io/English/Weather_A)
 #### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A)
-#### [Topic 1 - Colours](https://tangerina-pt.github.io/English/Colours_A) ![colmix](/images/colmix.png){:height="30px" width="30px"}
+#### [Topic 1 - Colours](https://tangerina-pt.github.io/English/Colours_A) ![colmix](/images/colmix.png){:height="30px" width="30px"}(https://tangerina-pt.github.io/English/Colours_A)
 <!--#### [Topic 0 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)-->
 
 <!--***
