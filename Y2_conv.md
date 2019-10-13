@@ -11,8 +11,6 @@ Topic 14 - Language for playing games...
 
 #### [Topic 12 - Classroom instructions](https://tangerina-pt.github.io/English/Classroom_I_B)-->
 
-***
-
 <!--#### [Topic 11 - Toys] 
 #### [Topic 11 - Toys](https://tangerina-pt.github.io/English/Toys_B)-->
 
@@ -39,7 +37,6 @@ Topic 14 - Language for playing games...
 #### [Topic 2 - Talking about colour](https://tangerina-pt.github.io/English/Colours_B)![colmix2](/images/colmix2.png){:height="30px"}
 
 #### [Topic 1 - Greetings/Introductions](https://tangerina-pt.github.io/English/Greetings_B)![gtsym](/images/gtsym.PNG){:height="30px"}
-
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
