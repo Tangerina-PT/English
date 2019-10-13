@@ -4,7 +4,7 @@
 <audio src="audio/V1s2.m4a" controls preload></audio>  
 
 Red and yellow and pink and green, orange and purple and blue.  
-![colballtr](/images/colball.tr.png)  
+![colballtr](/images/colballtr.png)  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
 (2). Canta o segundo verso e aponta às cores. / Sing our second verse and point to the colours.  
