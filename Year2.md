@@ -10,10 +10,10 @@ Year 2 English
   <br>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://tangerina-pt.github.io/English/Class_B">Classroom Language</a>
   <br>
-</p>
+</p>-->
 
 
 
