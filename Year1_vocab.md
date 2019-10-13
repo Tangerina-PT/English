@@ -11,9 +11,14 @@ Topics
 </h3>
 
 ***
-<!--### Period 3  
 
-#### [Topic 8 - Weather](https://tangerina-pt.github.io/English/Weather_A)
+### Period 3  
+
+***
+
+### Period 2  
+
+<!--#### [Topic 8 - Weather](https://tangerina-pt.github.io/English/Weather_A)
 #### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A)
 
 ***
@@ -22,17 +27,16 @@ Topics
 #### [Topic 6 - Toys](https://tangerina-pt.github.io/English/Toys_A)
 #### [Topic 4 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
 #### [Topic 7 - Actions](https://tangerina-pt.github.io/English/Actions_A)
-***-->
-
-### Period 2  
-
 #### [Topic 7 - Shapes](https://tangerina-pt.github.io/English/Shapes_A)
 #### [Topic 6 - Family](https://tangerina-pt.github.io/English/Family_A)
 #### [Topic 5 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
 #### [Topic 4 - Animals](https://tangerina-pt.github.io/English/Animals_A)
+#### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A)-->
+
+***
 
 ### Period 1
-#### [Topic 3 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A)
+#### [Topic 3 - Weather](https://tangerina-pt.github.io/English/Weather_A)
 #### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A)
 #### [Topic 1 - Colours](https://tangerina-pt.github.io/English/Colours_A)
 <!--#### [Topic 0 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)-->
