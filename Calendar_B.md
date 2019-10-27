@@ -1,12 +1,11 @@
 ### Days of the week / Months of the year
 
-*Remember, in English we write the days of the week and the months of the year with a capital letter... / Não te esqueças que em inglês, escrevemos os dias da semana e os meses do ano com uma letra maiúscula...*
+*Nota: em inglês, escrevemos os dias da semana e os meses do ano com letra maiúscula. / In English we write the days of the week and the months of the year with a capital letter.*
 
 #### Days of the week
 
-1. Canta a canção dos dias da semana / Sing the 'Days of the Week' song 
-Sing ![sing](/images/sing.png) [the days of the week song](https://www.youtube.com/watch?v=36n93jvjkDs) [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs)  
-Note American pronunciation of Tuesday. / Nota pronúncia Americana de 'Tuesday'.
+1. [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs) Canta [a canção dos dias da semana](https://www.youtube.com/watch?v=36n93jvjkDs) / Sing [the 'Days of the Week' song](https://www.youtube.com/watch?v=36n93jvjkDs)    
+Note American pronunciation of Tuesday. / Nota a pronúncia Americana de 'Tuesday'.
 
 2. Listen to ![listen](/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=onHPejy0If4) [![dauk](/images/dauk.PNG)](https://www.youtube.com/watch?v=onHPejy0If4).  
 Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=onHPejy0If4). [0:00-1:45]
