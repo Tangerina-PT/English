@@ -2,9 +2,15 @@
 
 ***Language:***  
 **'This is me.' (Este, sou eu.)**  
-**'My ..*body part(s)*..' (Meu(s)/minha(s) ..*parte(s) do corpo*.. .)**  
+**'My nose.' (O meu nariz.)**  
 
 [![bpmeelf](/images/bpmeelf.png)](https://www.youtube.com/watch?v=QkHQ0CYwjaI)
+
+***Language:***  
+**'This is my head.' (Isto é a minha cabeça.)**  
+**'These are my feet' (Estes são os meus pés.)**  
+
+[![bpch3elf](/images/bpch3elf.png)](https://www.youtube.com/watch?v=4-T9QuldVOw)
 
 ***Language (classroom game):***  
 **'Touch your ... ' (Toca no(s)/na(s) teu(s)/tua(s) ... )**  
