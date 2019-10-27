@@ -13,15 +13,14 @@ Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?
 
 #### Language Structure
 ***
-***Question:*** **'What day is it today??' (Que dia é hoje?)**  
+***Question:*** **'What day is it today?' (Que dia é hoje?)**  
 ***Answer:*** **'It's Monday.' (É segunda-feira.)**
 
 [![wdisit](/images/wdisit.png){:height="80px"}](https://www.youtube.com/watch?v=onHPejy0If4).  
 
 #### Months of the year
 
-1. [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) Canta ![sing](/images/sing.png) [a canção dos meses do ano](https://www.youtube.com/watch?v=v608v42dKeI) /   
-Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI)  
+1. [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) Canta [a canção dos meses do ano](https://www.youtube.com/watch?v=v608v42dKeI) / Sing [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI)  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year3_vocab) [Return to Year 3 English Vocabulary Site](https://tangerina-pt.github.io/English/Year3_vocab)
