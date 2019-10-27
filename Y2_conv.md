@@ -28,6 +28,8 @@ Topic 14 - Language for playing games...
 
 <!--#### [Topic 6 - Expressing emotions/needs](https://tangerina-pt.github.io/English/Feelings_B)-->
 
+#### [Topic 6 - Days of the week/Months of the year](https://tangerina-pt.github.io/English/Calendar_B)![days](/images/days.PNG){:height="30px"}
+
 #### [Topic 5 - The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)![alph](/images/alph.png){:height="30px"}
 
 #### [Topic 4 - Talking about the weather](https://tangerina-pt.github.io/English/Weather_B)![wsym](/images/wsym.PNG){:height="30px"}
