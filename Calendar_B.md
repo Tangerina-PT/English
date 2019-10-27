@@ -16,7 +16,7 @@ Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?
 ***Question:*** **'What day is it today??' (Que dia é hoje?)**  
 ***Answer:*** **'It's Monday.' (É segunda-feira.)**
 
-[![wdisit]](/images/wdisit.pdf){:height="80px"}(https://www.youtube.com/watch?v=onHPejy0If4).  
+[![wdisit]](/images/wdisit.png){:height="80px"}(https://www.youtube.com/watch?v=onHPejy0If4).  
 
 #### Months of the year
 
