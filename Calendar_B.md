@@ -1,11 +1,12 @@
 ### Days of the week / Months of the year
 
-*Nota: em inglês, escrevemos os dias da semana e os meses do ano com letra maiúscula. / In English we write the days of the week and the months of the year with a capital letter.*
+*Nota: em inglês, escrevemos os dias da semana e os meses do ano com letra maiúscula. /  
+In English we write the days of the week and the months of the year with a capital letter.*
 
 #### Days of the week
 
 1. [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs) Canta [a canção dos dias da semana](https://www.youtube.com/watch?v=36n93jvjkDs) / Sing [the 'Days of the Week' song](https://www.youtube.com/watch?v=36n93jvjkDs)    
-Note American pronunciation of Tuesday. / Nota a pronúncia Americana de 'Tuesday'.
+Ouve a pronúncia Americana de 'Tuesday'. / Listen to the American pronunciation of Tuesday. 
 
 2. Listen to ![listen](/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=onHPejy0If4) [![dauk](/images/dauk.PNG)](https://www.youtube.com/watch?v=onHPejy0If4).  
 Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=onHPejy0If4). [0:00-1:45]
@@ -15,12 +16,12 @@ Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?
 ***Question:*** **'What day is it today??' (Que dia é hoje?)**  
 ***Answer:*** **'It's Monday.' (É segunda-feira.)**
 
-[![wdisit]](/images/wdisit.png){:height="80px"}(https://www.youtube.com/watch?v=onHPejy0If4).  
+[![wdisit](/images/wdisit.png){:height="80px"}](https://www.youtube.com/watch?v=onHPejy0If4).  
 
 #### Months of the year
 
-1. Canta a canção dos meses do ano / Sing the months of the year song  
-Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI) [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) 
+1. [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) Canta ![sing](/images/sing.png) [a canção dos meses do ano](https://www.youtube.com/watch?v=v608v42dKeI) /   
+Sing ![sing](/images/sing.png) [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI)  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year3_vocab) [Return to Year 3 English Vocabulary Site](https://tangerina-pt.github.io/English/Year3_vocab)
