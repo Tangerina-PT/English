@@ -4,8 +4,8 @@
 
 #### Days of the week
 
-1. Listen to ![listen](/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=2ie8BHtIh0I) [![dauk](/images/dauk.PNG)](https://www.youtube.com/watch?v=2ie8BHtIh0I).  
-Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=2ie8BHtIh0I).
+1. Listen to ![listen](/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=onHPejy0If4) [![dauk](/images/dauk.PNG)](https://www.youtube.com/watch?v=onHPejy0If4).  
+Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=onHPejy0If4).
 
 2. Do songs help you remember? / As canções ajudam-te a lembrar?  
 Sing ![sing](/images/sing.png) [the days of the week song](https://www.youtube.com/watch?v=36n93jvjkDs) [![days](/images/days.PNG)](https://www.youtube.com/watch?v=36n93jvjkDs)  
