@@ -10,7 +10,7 @@
 **'This is my head.' (Isto é a minha cabeça.)**  
 **'These are my feet' (Estes são os meus pés.)**  
 
-[![bpch3elf](/images/bpch3elf.png)](https://www.youtube.com/watch?v=4-T9QuldVOw)
+[![bpch3elf](/images/bpch3elf.png){:height="80px"}](https://www.youtube.com/watch?v=4-T9QuldVOw)
 
 ***Language (classroom game):***  
 **'Touch your ... ' (Toca no(s)/na(s) teu(s)/tua(s) ... )**  
