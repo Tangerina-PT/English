@@ -12,30 +12,14 @@
 
 ### Actions
 
-* Vê quantas acções já apreendemos.  
-* Canta as canções fazendo as acções para te lembrares.  
-* Aponta para cada imagem - diz a acção em inglês.  
+* Vê quantas acções já apreendemos nas canções...  
+* Canta as canções fazendo as acções para te lembrares...  
+* Aponta para cada imagem - diz a acção em inglês...  
 
-* [![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k) ![stand_up](/images/stand_up.gif){:height="100px" width="100px"} stand up / ![sit_down](/images/sit_down.gif){:height="100px" width="100px"} sit down / ![turn_around](/images/turn_around.gif){:height="100px" width="100px"} turn around / ![jump](/images/jump.gif){:height="100px" width="100px"} jump / ![hop](/images/hop.gif){:height="100px" width="100px"} hop / ![run](/images/run.gif){:height="100px" width="100px"} run / ![stop](/images/stop.gif){:height="100px" width="100px"} stop
+* [![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k)  ![stand_up](/images/stand_up.gif){:height="100px" width="100px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="100px" width="100px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="100px" width="100px"} ***turn around*** / ![hand_up](/images/hand_up.gif){:height="100px" width="100px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="100px" width="100px"} ***jump*** / ![hop](/images/hop.gif){:height="100px" width="100px"} ***hop*** / ![run](/images/run.gif){:height="100px" width="100px"} ***run*** / ![stop](/images/stop.gif){:height="100px" width="100px"} ***stop***  
 
-#### Song
-[![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
+* [![ican](/images/ican.png)](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)  ![clap](/images/clap.jpg){:height="100px"} ***clap*** / ![fly](/images/fly.jpg){:height="100px"} ***fly*** / ![stomp](/images/stomp.png){:height="100px"} ***stomp*** / ![swim](/images/swim2.PNG){:height="100px"} ***swim*** / ![climb](/images/climb.PNG){:height="100px"} ***climb*** / ![run](/images/rum.PNG){:height="100px"} ***run*** / ![sing](/images/sing.PNG){:height="100px"} ***sing*** / ![dance](/images/dance.PNG){:height="100px"} ***dance***  
 
-#### Video
-[![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs) Watch [Gogo's Adventures 3.](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
-
-#### Games
-(1). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
-
-(2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
-For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento abaixo da imagem correcta.)
-
-<!--(3). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
-Infelizmente o tempo é muito curto para este jogo. Tenta várias vezes mas não te preocupes se é difícil de mais dentro do tempo.    
-This game asks e.g.(Este jogo pergunta p.ex.) ‘Where’s Veronica’s mum?’(Onde está a mãe da Veronica?). Click on the picture of the mum/mummy/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)-->
-
-***
-Vocabulário: mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô)  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English/Year1)
