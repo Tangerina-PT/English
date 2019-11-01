@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110947112-3');
+</script>
+</head>
+
 ### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 1)  
 
 Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, dedos dos pés, olhos, orelhas, boca e nariz. / Touch your head, shoulders, knees, toes, eyes, ears, mouth and nose as you sing.
@@ -38,7 +50,7 @@ Arms, legs, feet and hands, feet and hands.
 ![ears](/images/ears.png)![arms](/images/arms.PNG)![eyes](/images/eyes.png)![feet](/images/feet.PNG)  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return the Tangerina English Site](https://tangerina-pt.github.io/English)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
