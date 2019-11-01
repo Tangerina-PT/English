@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110947112-3');
+</script>
+</head>
+
 <h2> 
 <p align="center">
 Year 1 English
@@ -25,6 +37,6 @@ Classroom Language
 ![rps](/images/rps.png) Play at home./Joga em casa.
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Site](https://tangerina-pt.github.io/English)
 
 ***
