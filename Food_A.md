@@ -13,7 +13,7 @@
 ### Food
 
 #### Story - The Very Hungry Caterpillar
-[![vhc1](/images/vhc1.png){:height="100px" width="100px"}](https://www.youtube.com/watch?v=75NQK-Sm1YY)
+[![vhc1](/images/vhc1.png){:height="100px"}](https://www.youtube.com/watch?v=75NQK-Sm1YY)
 
 #### Videos
 [![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs) Watch [Gogo's Adventures 3.](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
