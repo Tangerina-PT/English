@@ -20,7 +20,7 @@ Aprende a soletrar em inglês./Learn to spell aloud in English.
 ^^ NB: É preciso Adobe Flash Player para jogar ‘Alphabet Antics. Não funciona em telemóveis e tablets. /You need Adobe Flash Player to play ‘Alphabet Antics’. It doesn't work on phones and tablets.
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Site](https://tangerina-pt.github.io/English)
 
 ***
 
