@@ -33,6 +33,6 @@
 ![howsay](/images/how_say.PNG) <audio src="audio/how_do_you_say.mp3" controls preload></audio>
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Site](https://tangerina-pt.github.io/English)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
