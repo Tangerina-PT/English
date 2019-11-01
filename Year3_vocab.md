@@ -12,17 +12,17 @@
 
 ## Year 3 - English - Vocabulary
 
-![Queres rever algum tópico do ano passado?](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) ![Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
-[![y2a](/images/y2a.PNG){:height="80px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2b](/images/y2b.PNG){:height="80px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2c](/images/y2c.PNG){:height="80px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)[![y2d](/images/y2d.PNG){:height="80px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)
+[Queres rever algum tópico do ano passado?](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
+[![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)
 
-Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulário?  
-New topics / novos tópicos  
+### New topics / novos tópicos  
 
 #### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_C)
-#### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_C)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_C)
 #### [Cardinal Numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_C)
+
 <!--#### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_C)
+#### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_C)
 #### [The Alphabet](https://tangerina-pt.github.io/English/Alphabet_C)-->
 ***
 Do you want to learn the vocabulary for another topic? Find your topic on the following websites:
