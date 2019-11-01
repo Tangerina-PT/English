@@ -45,7 +45,7 @@
 * Se já dominas 1 a 10 e queres [trabalhar 1 a 20](https://tangerina-pt.github.io/English/Number_B_II):  
    
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English/Year1)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
