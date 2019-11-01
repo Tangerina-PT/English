@@ -25,6 +25,13 @@ Year 1 English
   <a href="https://tangerina-pt.github.io/English/Year1_conv">Language Structures</a>
   <br>
 </p>
+<p align="center">
+  <img width="460" height="300" src=/images/home.PNG>
+</p>  
+<p align="center">
+  <a href="https://tangerina-pt.github.io/English">Return to the Tangerina English Homepage</a>
+  <br>
+</p>
 <!--<p align="center">
   <a href="https://tangerina-pt.github.io/English/Class_A">Classroom Language</a>
   <br>
