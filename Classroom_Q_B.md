@@ -12,6 +12,8 @@
 
 ### Classroom Questions  
 
+***
+
 #### May I go to the toilet? (Posso ir à casa de banho?)
 
 ![toilet](/images/toilet.png) <audio src="audio/may_i_go_to_the_toilet.mp3" controls preload></audio>
