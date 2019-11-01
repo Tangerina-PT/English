@@ -12,7 +12,7 @@
 
 ### Actions
 
-* Já apreendemos muitas acções nas canções. Canta as canções fazendo as acções para te lembrares. Consegues apontar para cada imagem dizendo a acção em inglês?  
+* Já aprendemos muitas acções a cantar. Canta fazendo as acções para te lembrares. Consegues apontar para cada imagem dizendo a acção em inglês?  
 
 * [![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k)  ![stand_up](/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** / ![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![hop](/images/hop.gif){:height="80px" width="80px"} ***hop*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***  
 
