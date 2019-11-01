@@ -38,7 +38,7 @@ Arms, legs, feet and hands, feet and hands.
 ![ears](/images/ears.png)![arms](/images/arms.PNG)![eyes](/images/eyes.png)![feet](/images/feet.PNG)  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return the Tangerina English Site](https://tangerina-pt.github.io/English)
 
 ***
 
