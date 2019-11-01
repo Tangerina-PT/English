@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110947112-3');
+</script>
+</head>
+
 ### Body Parts - Language structures
 
 ***Language:***  
@@ -28,7 +40,7 @@ N.B. Nos E.U.A. a estrutura mais simples 'I have...' é comum mas os currículos
 **(Adjectivos (vêm antes da palavra que descrevem) - 'grande/pequeno/comprido/curto/limpo/sujo/feio/bonito')**
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Body_Parts_B) [Return to Year 2 - Body Parts](https://tangerina-pt.github.io/English/Body_Parts_B)
 
 ***
 
