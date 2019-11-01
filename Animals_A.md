@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110947112-3');
+</script>
+</head>
+
 ### Aprende os nomes dos animais em inglês   
 
 ***Question:*** **'What do you see?/What can you see?'**  
@@ -18,7 +30,7 @@
 
 ***
 
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Site](https://tangerina-pt.github.io/English)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
