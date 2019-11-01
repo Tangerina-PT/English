@@ -32,6 +32,6 @@ Só música sem vídeo./Just music without video.
 [![wkjg](/images/wkjg.png)](https://www.youtube.com/watch?v=GoSq-yZcJ-4) Canta e faz as acções./Sing with actions. [Ir para baixo para letra./Scroll down for lyrics.]
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Site](https://tangerina-pt.github.io/English)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
