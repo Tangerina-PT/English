@@ -14,10 +14,14 @@ Play three or four times to use all the words. / Joga o jogo de memória com obj
 
 4. Optional extra challenges / Desafios extras opcionais:  
 Do you know your classroom objects and you need an extra challenge? / Já sabes os objectos da sala de aula e precisas de mais um desafio?
-* Play the [‘questions’](http://www.mes-games.com/classroom1.phpd) [![tcss](/images/tcss.PNG)](http://www.mes-games.com/classroom1.phpd) and [‘spelling’](http://www.mes-games.com/classroom1.phpd) [![sssp](/images/sssp.PNG)](http://www.mes-games.com/classroom1.phpd) games:/  
-Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/classroom1.phpd)
+* [Go to / vai para](https://www.mes-games.com/) ![mesin](https://www.mes-games.com/). Choose / Escolha ![mescl]. Play / joga ![messl] + ![mesgr].  
+NB: os jogos seguintes só funcionam no Internet Explorer:  
 * [Word search:](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/) [![cows](/images/cows.PNG)](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/)
 * [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)  
+
+<!--* [Go to / vai para](https://www.mes-games.com/) ![mesin](https://www.mes-games.com/). Choose / Escolha ![mescl]. Play the [‘questions’](http://www.mes-games.com/classroom1.phpd) [![tcss](/images/tcss.PNG)](http://www.mes-games.com/classroom1.phpd) and [‘spelling’](http://www.mes-games.com/classroom1.phpd) [![sssp](/images/sssp.PNG)](http://www.mes-games.com/classroom1.phpd) games:/Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/classroom1.phpd)-->
+  
+
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4_vocab) [Return to Year 4 English Vocabulary Site](https://tangerina-pt.github.io/English/Year4_vocab)
