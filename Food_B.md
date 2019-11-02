@@ -12,10 +12,10 @@
 
 
 #### Story - The Very Hungry Caterpillar
-[![vhc1](/images/vhc1.png){:height="70px"}](https://www.youtube.com/watch?v=75NQK-Sm1YY)
+[![vhc1](/images/vhc1.png){:height="60px"}](https://www.youtube.com/watch?v=75NQK-Sm1YY)
 
 #### Vocabulary
-[![fkefd](/images/fkefd.png){:height="70px"}](https://www.youtube.com/watch?v=YC1HfRDWwQQ)
+[![fkefd](/images/fkefd.png){:height="60px"}](https://www.youtube.com/watch?v=YC1HfRDWwQQ)
 
 #### Language and additional vocabulary
 
@@ -29,11 +29,11 @@
 ***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
 ***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
 
-[![dylml](/images/dylml.png){:height="70px"}](https://www.youtube.com/watch?v=5vpA_luo_78) [Do you like tomatoes?](https://www.youtube.com/watch?v=5vpA_luo_78)  
+[![dylml](/images/dylml.png){:height="60px"}](https://www.youtube.com/watch?v=5vpA_luo_78) [Do you like tomatoes?](https://www.youtube.com/watch?v=5vpA_luo_78)  
 
 [![dylike](/images/dylike.png)](https://www.youtube.com/watch?v=frN3nvhIHUk) [Do you like broccoli?](https://www.youtube.com/watch?v=frN3nvhIHUk)  
 
-[![dylike2](/images/dylike2.png){:height="70px"}](https://www.youtube.com/watch?v=ddDN30evKPc) [Do you like spaghetti?](https://www.youtube.com/watch?v=ddDN30evKPc)
+[![dylike2](/images/dylike2.png){:height="60px"}](https://www.youtube.com/watch?v=ddDN30evKPc) [Do you like spaghetti?](https://www.youtube.com/watch?v=ddDN30evKPc)
 
 [![gae12](/images/gae12.png)](https://www.youtube.com/watch?v=f-769il9yYQ) [Gogo’s Adventures with English 12](https://www.youtube.com/watch?v=f-769il9yYQ)
 
