@@ -26,7 +26,7 @@ Play three or four times to use all the words. / Joga o jogo de memória com obj
 
 4. Optional extra challenges / Desafios extras opcionais:  
 Do you know your classroom objects and you need an extra challenge? / Já sabes os objectos da sala de aula e precisas de mais um desafio?
-* [Go to / vai para](https://www.mes-games.com/) [![mesina](/images/mesina.PNG)].(https://www.mes-games.com/). Choose / Escolha ![mescl](/images/mescl.PNG).   
+* [Go to / vai para](https://www.mes-games.com/) [![mesina](/images/mesina.PNG)](https://www.mes-games.com/). Choose / Escolha ![mescl](/images/mescl.PNG).   
 NB: os jogos seguintes só funcionam no Internet Explorer:  
 * [Word search:](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/) [![cows](/images/cows.PNG)](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/)
 * [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)  
