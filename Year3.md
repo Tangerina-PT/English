@@ -17,6 +17,14 @@ Year 3 English
 </p>
 </h4>
 
+#### [Topic 0: Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_C)
+
+***
+
+#### [Topic 1: Getting to know each other/Conhecer-se](https://tangerina-pt.github.io/English/GTKEO_C)
+
+***
+
 <h4>
 <p align="center">
   <a href="https://tangerina-pt.github.io/English/Year3_vocab">Learn vocabulary</a>
@@ -24,10 +32,10 @@ Year 3 English
 </p>
 </h4>
 
-<h4>
+<!--<h4>
 <p align="center">
   <a href="https://tangerina-pt.github.io/English/Class_C">Classroom language</a>
   <br>
 </p>
-</h4>
+</h4>-->
 
