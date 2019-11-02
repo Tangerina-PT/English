@@ -13,10 +13,10 @@
 ### Food
 
 #### Story - The Very Hungry Caterpillar
-[![vhc1](/images/vhc1.png){:height="100px"}](https://www.youtube.com/watch?v=75NQK-Sm1YY)
+[![vhc1](/images/vhc1.png){:height="70px"}](https://www.youtube.com/watch?v=75NQK-Sm1YY)
 
 #### Vocabulary
-[![fkefd](/images/fkefd.png){:height="100px"}](https://www.youtube.com/watch?v=YC1HfRDWwQQ)
+[![fkefd](/images/fkefd.png){:height="70px"}](https://www.youtube.com/watch?v=YC1HfRDWwQQ)
 
 #### Language
 
@@ -30,7 +30,7 @@
 ***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
 ***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
 
-[![dylml](/images/dylml.png){:height="100px"}](https://www.youtube.com/watch?v=5vpA_luo_78) [Do you like tomatoes?](https://www.youtube.com/watch?v=5vpA_luo_78)  
+[![dylml](/images/dylml.png){:height="70px"}](https://www.youtube.com/watch?v=5vpA_luo_78) [Do you like tomatoes?](https://www.youtube.com/watch?v=5vpA_luo_78)  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
