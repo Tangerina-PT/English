@@ -27,6 +27,6 @@
 [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B_po) [Return to Year 2 - Colours](https://tangerina-pt.github.io/English/Colours_B_po)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B_po) [Return to Year 2 2018-2019 - Colours](https://tangerina-pt.github.io/English/Colours_B_po)
 
 ***
