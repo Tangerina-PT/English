@@ -26,15 +26,24 @@ Conversation
 
 <h3>
 <p align="center">
+Vocabulary
+</p>
+</h3>
+
+<!--<h3>
+<p align="center">
   <a href="https://tangerina-pt.github.io/English/Year3_vocab">Learn vocabulary</a>
   <br>
 </p>
 </h3>
-
-<!--<h4>
+<h4>
 <p align="center">
   <a href="https://tangerina-pt.github.io/English/Class_C">Classroom language</a>
   <br>
 </p>
 </h4>-->
 
+### [Já dominaste os tópicos do ano passado... - Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
+[![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)
+
+### [Tópicos novos - Year 3](https://tangerina-pt.github.io/English/Year3_vocab)
