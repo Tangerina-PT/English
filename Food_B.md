@@ -17,7 +17,7 @@
 #### Vocabulary
 [![fkefd](/images/fkefd.png){:height="100px"}](https://www.youtube.com/watch?v=YC1HfRDWwQQ)
 
-#### Language
+#### Language and additional vocabulary
 
 ***Question:*** **'What do you like?' ('O que é que gostas?')**  
 ***Answers:*** **'I like _____.' 'I don't like ____.' ('Eu gosto de _____.' 'Eu não gosto de _____.')**  
