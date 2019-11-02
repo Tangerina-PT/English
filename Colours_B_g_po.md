@@ -37,7 +37,7 @@ Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo
    Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B_po) [Return to Year 2 - Colours](https://tangerina-pt.github.io/English/Colours_B_po)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B_po) [Return to Year 2 2018-2019 - Colours](https://tangerina-pt.github.io/English/Colours_B_po)
 
 ***
 
