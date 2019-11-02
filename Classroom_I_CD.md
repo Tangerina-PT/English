@@ -10,7 +10,7 @@
 </script>
 </head>
 
-### Classroom instructions
+### Classroom instructions - instrucções na sala de aula
 
 #### Watch the video flashcards / Vê e ouve as expressões no vídeo:  
 
