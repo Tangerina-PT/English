@@ -12,7 +12,7 @@ Year 3 English
 
 <h3>
 <p align="center">
-Conversation
+Conversation / Conversação
 </p>
 </h3>
 
@@ -26,7 +26,7 @@ Conversation
 
 <h3>
 <p align="center">
-Vocabulary
+Vocabulary / Vocabulário
 </p>
 </h3>
 
