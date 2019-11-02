@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110947112-3');
+</script>
+</head>
+
 ### Number
 
 #### [Aprender números 1-10/Learn Numbers 1-10](https://tangerina-pt.github.io/English/Number_B_I) / [Aprender números 1-20/Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)
@@ -22,6 +34,6 @@
 
 ***
 
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
