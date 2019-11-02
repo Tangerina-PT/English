@@ -15,7 +15,7 @@ Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulár
 
 #### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_D)
 #### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_D)
-#### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_D)
+#### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
 #### [Cardinal Numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_D)
 #### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_D)
 #### [The Alphabet](https://tangerina-pt.github.io/English/Alphabet_D)
@@ -27,7 +27,7 @@ Queres aprender o vocabulário para outro tópico? Procura o tópico nos seguint
 [![bcina](/images/bcina.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games) [![lcina](/images/lcina.PNG)](http://www.learningchocolate.com/all?sort_by=monthcount) [![mesina](/images/mesina.PNG)](http://www.mes-games.com/) [![bcinta](/images/bcinta.PNG)](https://learnenglishteens.britishcouncil.org/grammar-vocabulary/vocabulary-exercises) [![eaina](/images/eaina.PNG)](https://www.englishactivities.net/english-topics-esl)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year4) [Return to Year 4 English Site](https://tangerina-pt.github.io/English/Year4)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 #### Notes/Notas
