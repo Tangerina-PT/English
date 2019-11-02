@@ -15,7 +15,7 @@
 ### [Queres rever algum tópico do ano passado?](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
 [![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)
 
-### New topics / novos tópicos  
+***
 
 #### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_C)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_C)
@@ -27,8 +27,8 @@
 #### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_C)
 #### [The Alphabet](https://tangerina-pt.github.io/English/Alphabet_C)-->
 ***
-Do you want to learn the vocabulary for another topic? Find your topic on the following websites:
-Queres aprender o vocabulário para outro tópico? Procura o tópico nos seguintes websites:
+Do you need vocabulary for another topic? Find your topic on the following websites:  
+Precisas do vocabulário para outro tópico? Procura o tópico nos seguintes websites:
 
 [![bcina](/images/bcina.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games) [![lcina](/images/lcina.PNG)](http://www.learningchocolate.com/all?sort_by=monthcount) [![mesina](/images/mesina.PNG)](http://www.mes-games.com/) [![bcinta](/images/bcinta.PNG)](https://learnenglishteens.britishcouncil.org/grammar-vocabulary/vocabulary-exercises) [![eaina](/images/eaina.PNG)](https://www.englishactivities.net/english-topics-esl)
 
