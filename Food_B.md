@@ -29,7 +29,7 @@
 ***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
 ***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
 
-[![dylml](/images/dylml.png)](https://www.youtube.com/watch?v=5vpA_luo_78) [Do you like tomatoes?](https://www.youtube.com/watch?v=5vpA_luo_78)  
+[![dylml](/images/dylml.png){:height="100px"}](https://www.youtube.com/watch?v=5vpA_luo_78) [Do you like tomatoes?](https://www.youtube.com/watch?v=5vpA_luo_78)  
 
 [![dylike](/images/dylike.png)](https://www.youtube.com/watch?v=frN3nvhIHUk) [Do you like broccoli?](https://www.youtube.com/watch?v=frN3nvhIHUk)  
 
