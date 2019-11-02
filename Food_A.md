@@ -21,7 +21,7 @@
 #### Language
 
 ***Question:*** **'What do you like?' ('O que é que gostas?')**  
-***Answer:*** **'I like _____ .' ('Eu gosto de ______ .')**
+***Answers:*** **'I like _____.' 'I don't like ____.' ('Eu gosto de _____.' 'Eu não gosto de _____.')**  
 
 [![wdyl](/images/wdyl.png)](https://www.youtube.com/watch?v=aT9tORbbvsI) [What do you like?](https://www.youtube.com/watch?v=aT9tORbbvsI)
 
