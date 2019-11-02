@@ -25,6 +25,6 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 ![colmix2](/images/colmix2.png)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B_2018_2019) [Return to Year 2 2018-2019 - Colours](https://tangerina-pt.github.io/English/Colours_B_2018_2019)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B_po) [Return to Year 2 2018-2019 - Colours](https://tangerina-pt.github.io/English/Colours_B_po)
 
 ***
