@@ -12,7 +12,7 @@
 
 ## Year 3 - English - Vocabulary
 
-### [Queres rever algum tópico do ano passado?](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
+### [Os tópico do ano passado - Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
 [![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)
 
 ***
