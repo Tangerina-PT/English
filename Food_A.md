@@ -23,9 +23,9 @@
 ***Question:*** **'What do you like?' ('O que é que gostas?')**  
 ***Answers:*** **'I like _____.' 'I don't like ____.' ('Eu gosto de _____.' 'Eu não gosto de _____.')**  
 
-[![wdyl](/images/wdyl.png)](https://www.youtube.com/watch?v=aT9tORbbvsI) [What do you like?](https://www.youtube.com/watch?v=aT9tORbbvsI)
+[![wdyl](/images/wdyl.png){:height="60px"}](https://www.youtube.com/watch?v=aT9tORbbvsI) [What do you like?](https://www.youtube.com/watch?v=aT9tORbbvsI)
 
-[![gae11](/images/gae11.png)](https://www.youtube.com/watch?v=03hrZ7W8PZI) [Gogo’s Adventures with English 11](https://www.youtube.com/watch?v=03hrZ7W8PZI)
+[![gae11](/images/gae11.png){:height="60px"}](https://www.youtube.com/watch?v=03hrZ7W8PZI) [Gogo’s Adventures with English 11](https://www.youtube.com/watch?v=03hrZ7W8PZI)
 
 ***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
 ***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
