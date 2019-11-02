@@ -12,7 +12,7 @@
 
 ## Year 3 - English - Vocabulary
 
-### [Os tópico do ano passado - Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
+### [Os tópicos do ano passado - Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
 [![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)
 
 ***
@@ -20,8 +20,8 @@
 #### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_C)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_C)
 #### [Cardinal Numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_C)
-#### [Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_C) com actividades adicionais
-#### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_C) com actividades adicionais
+#### [Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_CD) (com algumas actividades adicionais)
+#### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_C) (com algumas actividades adicionais)
 
 <!--#### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_C)
 #### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_C)
