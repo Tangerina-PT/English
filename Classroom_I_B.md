@@ -14,32 +14,32 @@
 
 #### Vê as instruções de sala de aula que já trabalhámos nas canções...
 
-* [![stand](/images/stand.png)](https://www.youtube.com/watch?v=WsiRSWthV1k)  ![stand_up](/images/stand_up.gif){:height="100px" width="100px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="100px" width="100px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="100px" width="100px"} ***turn around*** / ![hand_up](/images/hand_up.gif){:height="100px" width="100px"} ***put*** one hand up (***put*** your hand up) / ![stop](/images/stop.gif){:height="100px" width="100px"} ***stop***  
+* [![stand](/images/stand.png){:height="60px"}](https://www.youtube.com/watch?v=WsiRSWthV1k)  ![stand_up](/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** / ![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***  
 
-* [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M)  ![p_away](/images/clean.gif){:height="100px" width="100px"} ***clean up*** (arruma) / ![p_away](/images/p_away.gif){:height="100px" width="100px"} ***put away*** (guarda)  
+* [![clean](/images/clean.png){:height="60px"}](https://www.youtube.com/watch?v=RmNCryV6G_M)  ![p_away](/images/clean.gif){:height="80px" width="80px"} ***clean up*** (arruma) / ![p_away](/images/p_away.gif){:height="80px" width="80px"} ***put away*** (guarda)  
 
-* [![bptch](/images/bptch.png)](https://www.youtube.com/watch?v=3ZWtDfBoU-E)  ***Touch*** your head. (Toca na tua cabeça.)  
+* [![bptch](/images/bptch.png){:height="60px"}](https://www.youtube.com/watch?v=3ZWtDfBoU-E)  ***Touch*** your head. (Toca na tua cabeça.)  
 
 #### Watch the video flashcards / Vê e ouve as expressões no vídeo:  
 
-* [![lcca0](/images/lcca0.png)](https://www.youtube.com/watch?v=UIGD9uFY-C4)
+* [![lcca0](/images/lcca0.png){:height="60px"}](https://www.youtube.com/watch?v=UIGD9uFY-C4)
 
 
-#### [![bccifc](/images/bccifc.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf) Print flashcards to play memory/ queres imprimir cartas para jogar memória?   
+#### [![bccifc](/images/bccifc.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf) Print flashcards to play memory/Imprime cartas para jogar memória   
 
 #### Match the words, pictures and sounds  
 
 Instruções para as actividades de vocabulário de Learning Chocolate: ![spkr2](/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Se quiseres um desafio, experimenta com as actividades: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG) and ![lcmu3](/images/lcmu3.PNG). Se não consegues ouvir o som, experimenta com Internet Explorer. / Click on the speaker to hear each expression then do the activities. If you can't hear the sound - please try Internet Explorer.  
 
-* [![lcca1](/images/lcca1.PNG)](http://www.learningchocolate.com/content/lets-go-class)    
+* [![lcca1](/images/lcca1.PNG){:height="60px"}](http://www.learningchocolate.com/content/lets-go-class)    
 
-* [![lcca2](/images/lcca2.PNG)](http://www.learningchocolate.com/content/classroom-instructions)  
+* [![lcca2](/images/lcca2.PNG){:height="60px"}](http://www.learningchocolate.com/content/classroom-instructions)  
 
 Instruções para as actividades de vocabulário do British Council de ligar as palavras às imagens: para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento abaixo da imagem correcta. / Instructions: for each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.
 
-* [![bcca1](/images/bcca1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1) [Classroom actions 1](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1)  
+* [![bcca1](/images/bcca1.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1) [Classroom actions 1](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1)  
 
-* [![bcca2](/images/bcca2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2) [Classroom actions 2](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2)
+* [![bcca2](/images/bcca2.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2) [Classroom actions 2](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
