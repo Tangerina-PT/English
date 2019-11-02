@@ -23,7 +23,7 @@ Classroom Language
   <br>
 </p>
 <p align="center">
-  <a href="https://tangerina-pt.github.io/English/Classroom_Objects_D">Classroom objects</a>
+  <a href="https://tangerina-pt.github.io/English/Classroom_Objects_CD">Classroom objects</a>
   <br>
 </p>
 
