@@ -15,22 +15,22 @@
 #### Story - The Very Hungry Caterpillar
 [![vhc1](/images/vhc1.png){:height="100px"}](https://www.youtube.com/watch?v=75NQK-Sm1YY)
 
-#### Videos
-[![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs) Watch [Gogo's Adventures 3.](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
-Auto-avaliação: (1). Consegues responder a perguntas ao apontar para fotografias da tua família? por exemplo -'Who's this?'-'My mummy.'  
+#### Vocabulary
+[![fkefd](/images/fkefd.png){:height="100px"}](https://www.youtube.com/watch?v=YC1HfRDWwQQ)
 
-#### Games
-(1). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
+#### Language
 
-(2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
-For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento abaixo da imagem correcta.)
+***Question:*** **'What do you like?' ('O que é que gostas?')**  
+***Answer:*** **'I like _____ .' ('Eu gosto de ______ .')**
 
-<!--(3). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
-Infelizmente o tempo é muito curto para este jogo. Tenta várias vezes mas não te preocupes se é difícil de mais dentro do tempo.    
-This game asks e.g.(Este jogo pergunta p.ex.) ‘Where’s Veronica’s mum?’(Onde está a mãe da Veronica?). Click on the picture of the mum/mummy/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)-->
+[![wdyl](/images/wdyl.png)](https://www.youtube.com/watch?v=aT9tORbbvsI) [What do you like?](https://www.youtube.com/watch?v=aT9tORbbvsI)
 
-***
-Vocabulário: mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô)  
+[![gae11](/images/gae11.png)](https://www.youtube.com/watch?v=03hrZ7W8PZI) [Gogo’s Adventures with English 11](https://www.youtube.com/watch?v=03hrZ7W8PZI)
+
+***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
+***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
+
+[![dylml](/images/dylml.png)](https://www.youtube.com/watch?v=5vpA_luo_78) [Do you like tomatoes?](https://www.youtube.com/watch?v=5vpA_luo_78)  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
