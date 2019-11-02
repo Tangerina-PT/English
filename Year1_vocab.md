@@ -47,11 +47,11 @@ Topics
 ***
 
 ### Period 1
-#### [Topic 5 - Actions](https://tangerina-pt.github.io/English/Actions_A)
-#### [Topic 4 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A)
-#### [Topic 3 - Weather](https://tangerina-pt.github.io/English/Weather_A) ![wsym](/images/wsym.PNG){:height="30px"}
-#### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A) ![pmno](/images/pmno.PNG){:height="30px"}
-#### [Topic 1 - Colours](https://tangerina-pt.github.io/English/Colours_A) ![colmix](/images/colmix.png){:height="30px" width="30px"}
+#### [Topic 5 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)
+#### [Topic 4 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A) [![body](/images/body.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_A)
+#### [Topic 3 - Weather](https://tangerina-pt.github.io/English/Weather_A) [![wsym](/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_A)
+#### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A) [![pmno](/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_A)
+#### [Topic 1 - Colours](https://tangerina-pt.github.io/English/Colours_A) [![colmix](/images/colmix.png){:height="30px" width="30px"}](https://tangerina-pt.github.io/English/Colours_A)
 <!--#### [Topic 0 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)-->
 
 <!--***
