@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110947112-3');
+</script>
+</head>
+
 ### Colours - Language structures
 
 ***Question:*** **'What colour is it?' (De que cor é?)**  
@@ -15,6 +27,6 @@
 [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B) [Return to Year 2 - Colours](https://tangerina-pt.github.io/English/Colours_B)
 
 ***
