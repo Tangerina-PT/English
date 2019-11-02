@@ -16,11 +16,11 @@ Conversation
 </p>
 </h3>
 
-#### [Topic 0: Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_C)
+#### [Classroom questions/Perguntas na sala de aula](https://tangerina-pt.github.io/English/Classroom_Q_C)
 
 ***
 
-#### [Topic 1: Getting to know each other/Conhecer-se](https://tangerina-pt.github.io/English/GTKEO_C)
+#### [Getting to know each other/Conhecer-se](https://tangerina-pt.github.io/English/GTKEO_C)
 
 ***
 
@@ -43,7 +43,7 @@ Vocabulary
 </p>
 </h4>-->
 
-### [Já dominaste os tópicos do ano passado... - Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
+#### [Já dominaste os tópicos do ano passado?](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
 [![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)
 
-### [Tópicos novos - Year 3](https://tangerina-pt.github.io/English/Year3_vocab)
+#### [Tópicos novos - Year 3](https://tangerina-pt.github.io/English/Year3_vocab)
