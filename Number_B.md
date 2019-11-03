@@ -12,7 +12,8 @@
 
 ### Number
 
-#### [Aprender números 1-10/Learn Numbers 1-10](https://tangerina-pt.github.io/English/Number_B_I) / [Aprender números 1-20/Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)
+#### [Aprender números 1-10/Learn Numbers 1-10](https://tangerina-pt.github.io/English/Number_B_I)  
+#### [Aprender números 1-20/Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)
 
 #### Language Structures
 ***
