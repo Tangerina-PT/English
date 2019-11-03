@@ -60,6 +60,16 @@
 
 OUP Everybody up How many song?
 1. [![oxeuhm](/images/oxeuhm.PNG)](https://www.youtube.com/watch?v=G3zaC5onBvM)
+
+Translations - actions:
+**'Sit down' (Senta-te)**  
+**'Stand up' (Levante-te/põe te de pé)**  
+**'Turn around.' (Da uma volta.)**  
+**'Put your hand up' (Põe a mão no ar')**  
+**'Jump' (Salta - 2 pés)**  
+**'Hop' (Salta a pé coxinho - 1 pé)**  
+**'Run' (Corre)**  
+**'Stop' (Para)**
 -->
 
 ***Question:*** **'How many?'('Quantos?')**  
@@ -83,16 +93,7 @@ NB Esta canção é complexa. Este ano, a única parte importante é poder dizer
 * [![stand](/images/stand.png){:height="60px"}](https://www.youtube.com/watch?v=WsiRSWthV1k) [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=WsiRSWthV1k)  
 ![stand_up](/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** /  
 ![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![hop](/images/hop.gif){:height="80px" width="80px"} ***hop*** /  
-![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***
-
-**'Sit down' (Senta-te)**  
-**'Stand up' (Levante-te/põe te de pé)**  
-**'Turn around.' (Da uma volta.)**  
-**'Put your hand up' (Põe a mão no ar')**  
-**'Jump' (Salta - 2 pés)**  
-**'Hop' (Salta a pé coxinho - 1 pé)**  
-**'Run' (Corre)**  
-**'Stop' (Para)**  
+![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***  
 
 ***
 
