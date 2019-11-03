@@ -35,13 +35,13 @@ Topics
 
 ***
 
-#### [Topic 6 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A)
-#### [Topic 6 - Toys](https://tangerina-pt.github.io/English/Toys_A)
-#### [Topic 4 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
-#### [Topic 7 - Shapes](https://tangerina-pt.github.io/English/Shapes_A)
-#### [Topic 6 - Family](https://tangerina-pt.github.io/English/Family_A)
-#### [Topic 5 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
-#### [Topic 4 - Animals](https://tangerina-pt.github.io/English/Animals_A)
+#### [Topic 12 - Food](https://tangerina-pt.github.io/English/Shapes_A)
+#### [Topic 11 - Shapes](https://tangerina-pt.github.io/English/Shapes_A)
+#### [Topic 10 - Toys](https://tangerina-pt.github.io/English/Toys_A)
+#### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
+#### [Topic 8 - Family](https://tangerina-pt.github.io/English/Family_A)
+#### [Topic 7 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A)
+#### [Topic 6 - Animals](https://tangerina-pt.github.io/English/Animals_A)
 -->
 
 ***
