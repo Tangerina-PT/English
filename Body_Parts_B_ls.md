@@ -36,7 +36,8 @@
 
 N.B. Nos E.U.A. a estrutura mais simples 'I have...' é comum mas os currículos de Inglês em Portugal adoptam a estrutura mais prevalente no Reino Unido 'I have got (I've got)...'
 
-**Adjectives (come before the noun) / (Adjectivos (vêm antes da palavra que descrevem)**   **'big(grande)/small(pequeno)/long(comprido)/short(curto)/clean(limpo)/dirty(sujo)/ugly(feio)/beautiful(bonito)'**  
+**Adjectives (come before the noun) e.g. / (Adjectivos (vêm antes da palavra que descrevem) p.ex.**   **'big(grande)/small(pequeno)/long(comprido)/short(curto)/**  
+**clean(limpo)/dirty(sujo)/ugly(feio)/beautiful(bonito)'**  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Body_Parts_B) [Return to Year 2 - Body Parts](https://tangerina-pt.github.io/English/Body_Parts_B)
