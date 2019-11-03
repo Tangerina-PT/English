@@ -35,7 +35,8 @@
 
 
 
-***Shape***
+
+<!--***Shape***
 
 ***Question:*** **'What shape is it?' (Que forma é?)**  
 ***Answer:*** **'It's a square.' (É um quadrado.)**  
@@ -70,7 +71,7 @@ P.ex. um indivíduo faz com as mãos, ou o grupo senta-se/arranja-se num círcul
 **'Jump' (Salta - 2 pés)**  
 **'Hop' (Salta a pé coxinho - 1 pé)**  
 **'Run' (Corre)**  
-**'Stop' (Para)**  
+**'Stop' (Para)**  -->
 
 ***
 
