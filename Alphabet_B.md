@@ -15,21 +15,23 @@
 Aprende a soletrar em inglês./Learn to spell aloud in English.
 
 ***Question:*** **'How do you spell your name?'('Como é que se escreve o teu nome?')**  
-***Answer:*** **'It's 'S' 'A' 'L' 'L' 'Y''**  
+***Answer:*** **'It's 'ess' 'ei' 'el' 'el' 'uai''**  
 
-1. [![alph](/images/alph.png)](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
+1. [![alph](/images/alph.png){:height="60px"}](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
 
-2. [![aant](/images/aant.PNG)](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)^^
+2. [![aant](/images/aant.PNG){:height="60px"}](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)^^
 * clica em cada letra para ouvir o seu nome / click on each letter to hear its name
 * Começa com o nível **easy** (fácil) / start with the **easy** level
 
-3. [![frna](/images/frna.PNG)](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
+3. [![frna](/images/frna.PNG){:height="60px"}](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
 
 4. Pratica Soletrar o teu nome em voz alta em inglês - clica nas letras no Alphabet Antics para ajudar. / Spell your name aloud in English – click on the letters in Alphabet Antics to help.
 
 5. Desafio extra: Soletra os nomes de outros membros da família./ Extra challenge: Spell the names of other members of your family.
 
-^^ NB: É preciso Adobe Flash Player para jogar ‘Alphabet Antics. Não funciona em telemóveis e tablets. /You need Adobe Flash Player to play ‘Alphabet Antics’. It doesn't work on phones and tablets.
+^^ NB: É preciso Adobe Flash Player para jogar ‘Alphabet Antics. Não funciona em telemóveis e tablets. /You need Adobe Flash Player to play ‘Alphabet Antics’. It doesn't work on phones and tablets.  
+
+![alph_p](/images/alph_p.PNG){:width="640px"}
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
