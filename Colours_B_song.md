@@ -18,6 +18,6 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 ![colmix2](/images/colmix2.png)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B) [Return to Year 2 - Colours](https://tangerina-pt.github.io/English/Colours_B)
 
 ***
