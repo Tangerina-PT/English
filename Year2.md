@@ -2,28 +2,25 @@
 
 <!--### Part 2 
 #### [Topic 14 - Language for playing games...]
-#### [Topic 15 - Actions... I can...] 
-#### [Topic 16 - Actions - I can...]   
-Topic 15 - Actions... I can...  
 Topic 14 - Language for playing games...  
 
-#### [Topic 13 - Shapes](https://tangerina-pt.github.io/English/Shapes_B)
+#### [Topic 13 - Shapes](https://tangerina-pt.github.io/English/Shapes_B) [![shape](/images/shape.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Shapes_B)
 
-#### [Topic 12 - Classroom instructions](https://tangerina-pt.github.io/English/Classroom_I_B)-->
+#### [Topic 12 - Classroom instructions](https://tangerina-pt.github.io/English/Classroom_I_B) [![clin](/images/clin.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_I_B)-->
 
 <!--#### [Topic 11 - Toys] 
-#### [Topic 11 - Toys](https://tangerina-pt.github.io/English/Toys_B)-->
+#### [Topic 11 - Toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)-->
 
 <!--#### [Topic 10 - Classroom objects] 
-#### [Topic 10 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B)-->
+#### [Topic 10 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)-->
 
 <!--#### Topic 9 - Talking about position/location
-#### [Topic 9 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B)-->
+#### [Topic 9 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B_2018_2019) [![prep](/images/prep.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B_2018_2019)-->
 
 <!--#### Topic 8 - Talking about my family
-#### [Topic 8 - Talking about my family](https://tangerina-pt.github.io/English/Family_B)-->
+#### [Topic 8 - Talking about my family](https://tangerina-pt.github.io/English/Family_B) [![elffm1](/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_B)-->
 
-<!--#### [Topic 6 - Expressing emotions/needs](https://tangerina-pt.github.io/English/Feelings_B)-->
+<!--#### [Topic 3 - Expressing emotions/needs](https://tangerina-pt.github.io/English/Feelings_B) [![feel](/images/feel.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)-->
 
 <!--#### Topic 7 - Talking about me-->
 
