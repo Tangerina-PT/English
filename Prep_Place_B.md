@@ -14,10 +14,10 @@
 
 #### Canta a nossa canção... / Sing our song...  
 
-![pauta_10](/images/pauta_10.jpg){:width="500px"} <audio src="audio/Prep_10.m4a" controls preload></audio>  
+![pauta_10](/images/pauta_10.jpg){:width="650px"} <audio src="audio/Prep_10.m4a" controls preload></audio>  
 **ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN (entre) the ..*nouns*.. / (o(s)/a(s) ..*substantivo(s)*.. ), FAR AWAY FROM (longe de), NEAR (perto)**  
 
-![pp_10](/images/pp_10.PNG){:width="500px"}  
+![pp_10](/images/pp_10.PNG){:width="650px"}  
 
 ***
 
@@ -28,20 +28,20 @@
 ***Question:*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
 ***Answer:*** **'in the box' (dentro da caixa)**
 
-1. [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM) (on, in, under)
-2. [![mlpp1](/images/mlpp1.png)](https://www.youtube.com/watch?v=uDGwhiwwxXA) (on, in, under)
-3. [![mlpp2](/images/mlpp2.PNG)](https://www.youtube.com/watch?v=xERTESWbqhU) (in front of, behind, between)
-4. [![fvpp](/images/fvpp.PNG)](https://www.youtube.com/watch?v=YI6VAsGlk7U)
+1. [![mlpp](/images/mlpp.png){:height="60px"}](https://www.youtube.com/watch?v=8F0NYBBKczM) (on, in, under)
+2. [![mlpp1](/images/mlpp1.png){:height="60px"}](https://www.youtube.com/watch?v=uDGwhiwwxXA) (on, in, under)
+3. [![mlpp2](/images/mlpp2.PNG){:height="60px"}](https://www.youtube.com/watch?v=xERTESWbqhU) (in front of, behind, between)
+4. [![fvpp](/images/fvpp.PNG){:height="60px"}](https://www.youtube.com/watch?v=YI6VAsGlk7U)
 <!---5. [![sampp](/images/sampp.PNG)](https://www.youtube.com/watch?v=BjFZbns1ZR0) -->
-5. [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=idJYhjGyWTU)
+5. [![ktvpp](/images/ktvpp.png){:height="60px"}](https://www.youtube.com/watch?v=idJYhjGyWTU)
 
-<!--- [![ktvpp](/images/ktvpp.png)](https://www.youtube.com/watch?v=xERTESWbqhU) -->
+<!--- [![ktvpp](/images/ktvpp.png){:height="60px"}](https://www.youtube.com/watch?v=xERTESWbqhU) -->
 
 #### Games
 
-1. [![smpp](/images/smpp.png)](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
+1. [![smpp](/images/smpp.png){:height="60px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
 <!--- 2. [![efgpp](/images/efgpp.PNG)](https://englishflashgames.blogspot.pt/2008/06/prepositions-of-place-game.html) -->
-2. [![ppme](/images/ppme.png)](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
+2. [![ppme](/images/ppme.png){:height="60px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
