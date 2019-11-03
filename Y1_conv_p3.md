@@ -15,7 +15,7 @@
 
 ***'Put on your ...'  (Veste/calça/coloca o teu/a tua...)***  
 
-* [![shoes](/images/shoes.png)](https://www.youtube.com/watch?v=-jBfb33_KHU) [Put on your shoes](https://www.youtube.com/watch?v=-jBfb33_KHU)  
+* [![shoes](/images/shoes.png){:height="60px"}](https://www.youtube.com/watch?v=-jBfb33_KHU) [Put on your shoes](https://www.youtube.com/watch?v=-jBfb33_KHU)  
 
 ***
 
@@ -32,26 +32,26 @@
 ***Question:*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
 ***Answer:*** **'in the box' (dentro da caixa)**
 
-[![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
+[![mlpp](/images/mlpp.png{:height="60px"})](https://www.youtube.com/watch?v=8F0NYBBKczM)
 
 ***
 
 ***Question:*** **'What's this?' (O que é isto?)**  
 ***Answer:*** **'It's a...' (É um/uma...)**
 
-[![dewt](/images/dewt.png)](https://www.youtube.com/watch?v=TARreOtrWUg)
+[![dewt](/images/dewt.png){:height="60px"}](https://www.youtube.com/watch?v=TARreOtrWUg)
 
 ***
 
 ***Question:*** **'How are you?' (Como é que estás?)**  
 ***Answers:*** **I’m fine, thank you. (Estou bem, obrigada.); I'm happy. (Estou feliz.); I'm sad. (Estou triste.); I'm angry. (Estou zangado.); I'm tired. (Estou cansado.); I'm hungry. (Estou com fome./Tenho fome.)**  
 
-* [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  [Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit2.pdf) for parents]  
+* [![hays](/images/hays.PNG){:height="60px"}](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  [Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit2.pdf) for parents]  
 
-* [![hoyt](/images/hoyt.png)](https://www.youtube.com/watch?v=fMR8Hr9Xby4) [How are you today?/Como estás hoje?](https://www.youtube.com/watch?v=fMR8Hr9Xby4)  
+* [![hoyt](/images/hoyt.png){:height="60px"}](https://www.youtube.com/watch?v=fMR8Hr9Xby4) [How are you today?/Como estás hoje?](https://www.youtube.com/watch?v=fMR8Hr9Xby4)  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](/images/home.PNG){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
