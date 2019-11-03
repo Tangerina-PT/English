@@ -25,14 +25,14 @@
 
 ***Language:***
 ***Question:*** **'Can you clap?'; (Consegues bater palmas?)**  
-***Answers:***  
-**'Yes, I can. I can clap.' (Sim, consigo. Consigo bater palmas)**  
-**'No, I can't. I can't clap.' (Não, não consigo. Não consigo bater palmas)**  
+***Answers:***  **'Yes, I can. I can clap.' (Sim, consigo. Consigo bater palmas)**  
+**or/ou 'No, I can't. I can't clap.' (Não, não consigo. Não consigo bater palmas)**  
 
 ### Games
 
 [![acmefv](/images/acmefv.PNG){:height="60px"}](https://www.freddiesville.com/games/action-verbs-present-simple-memory-game/) [Play memory. / Joga o jogo de memória.](https://www.freddiesville.com/games/action-verbs-present-simple-memory-game/)  
-NB: Só parece funcionar com Internet Explorer  
+
+NB: Parece só funcionar com Internet Explorer  
 
 ***
 
