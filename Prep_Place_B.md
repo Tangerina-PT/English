@@ -14,10 +14,10 @@
 
 #### Canta a nossa canção... / Sing our song...  
 
-![pauta_10](/images/pauta_10.jpg) <audio src="audio/Prep_10.m4a" controls preload></audio>  
+![pauta_10](/images/pauta_10.jpg){:height="100px"} <audio src="audio/Prep_10.m4a" controls preload></audio>  
 **ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN (entre) the ..*noun*.. / (o(s)/a(s) ..*substantivo(s)*.. )**  
 
-![pp_10](/images/pp_10.PNG)  
+![pp_10](/images/pp_10.PNG){:height="140px"}  
 
 ***
 
