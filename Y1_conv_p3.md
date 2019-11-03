@@ -32,7 +32,7 @@
 ***Question:*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
 ***Answer:*** **'in the box' (dentro da caixa)**
 
-[![mlpp](/images/mlpp.png{:height="60px"})](https://www.youtube.com/watch?v=8F0NYBBKczM)
+[![mlpp](/images/mlpp.png){:height="60px"}](https://www.youtube.com/watch?v=8F0NYBBKczM)
 
 ***
 
