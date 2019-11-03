@@ -63,15 +63,14 @@ OUP Everybody up How many song?
 -->
 
 ***Question:*** **'How many?'('Quantos?')**  
-***Answer:*** **'*Number*'('**Número**')
-**[Avançado- opcional: 'There is one./There are ...' ('Há um(a)./Há (vários)...')]**  
-NB Esta canção é complexa. Este ano, a única parte importante é praticar para poder dizer e reconhecer perguntas usando a estrutura 'How many ... ?' e responder com o número em inglês.  
+***Answer:*** **'*Number*'('**Número**')    
+NB Esta canção é complexa. Este ano, a única parte importante é praticar para poder dizer e reconhecer perguntas usando a estrutura 'How many ... ?' e responder com o número em inglês. No 2º ano trabalharemos estruturas adicionais: 'There is one monkey./There are ... monkeys.' ('Há um macaco./Há (vários) macacos.')  
 
 [![hmanmk](/images/hmanmk.png){:height="60px"}](https://www.youtube.com/watch?v=bUvbOtOGeUs)
 
 ***
 
-***Language (classroom game para trabalhar o vocabulário das partes do corpo):***  
+***Language (jogo para trabalhar o vocabulário das partes do corpo):***  
 **'Touch your ... ' (Toca no(s)/na(s) teu(s)/tua(s) ... )**  
 
 [![bptch](/images/bptch.png){:height="60px"}](https://www.youtube.com/watch?v=3ZWtDfBoU-E) Canta a canção, faz as acções. Joga em casa com a tua família.  
@@ -98,24 +97,24 @@ NB Esta canção é complexa. Este ano, a única parte importante é praticar pa
 **('O que é que vês?/O que é que consegues ver?')**  
 ***Answer:*** **'I see a ... . ' ('Eu vejo um(a) .. .')**
 
-1. [![dews1](/images/dews1.png)](https://www.youtube.com/watch?v=MCjhynvMunE)
-2. [![dews2](/images/dews2.png)](https://www.youtube.com/watch?v=p5qwOxlvyhk)
-3. [![dews3](/images/dews3.png)](https://www.youtube.com/watch?v=xQTlPD4ey-4)
-4. [![bbbm](/images/bbbm.PNG)](https://www.youtube.com/watch?v=pdHCYgO9zh8) [Brown Bear, Brown Bear, What do you see?](https://www.youtube.com/watch?v=pdHCYgO9zh8)
+1. [![dews1](/images/dews1.png){:height="60px"}](https://www.youtube.com/watch?v=MCjhynvMunE)
+2. [![dews2](/images/dews2.png){:height="60px"}](https://www.youtube.com/watch?v=p5qwOxlvyhk)
+3. [![dews3](/images/dews3.png){:height="60px"}](https://www.youtube.com/watch?v=xQTlPD4ey-4)
+4. [![bbbm](/images/bbbm.PNG){:height="60px"}](https://www.youtube.com/watch?v=pdHCYgO9zh8) [Brown Bear, Brown Bear, What do you see?](https://www.youtube.com/watch?v=pdHCYgO9zh8)
 
 ***
 
 ***Question:*** **'What is it?' (O que é?) / Is it a ... ? (É um/uma ... ?)**  
 ***Answer:*** **'It's a...' (É um/uma...) / Yes.No. (Sim.Não)**
 
-[![fkea](/images/fkea.png)](https://www.youtube.com/watch?v=D_sdGxUxz_4)
+[![fkea](/images/fkea.png){:height="60px"}](https://www.youtube.com/watch?v=D_sdGxUxz_4)
 
 *** 
 
 <!--Where?
 
 What is it toys song: 
-1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E)
+1. [![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E)
 
 ***
 
