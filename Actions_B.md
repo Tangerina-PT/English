@@ -15,7 +15,8 @@
 * Já aprendemos muitas acções a cantar. Vê os vídeos e canta fazendo as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
 
 * [![stand](/images/stand.png){:height="60px"}](https://www.youtube.com/watch?v=WsiRSWthV1k) [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=WsiRSWthV1k)  
-![stand_up](/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** / ![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![hop](/images/hop.gif){:height="80px" width="80px"} ***hop*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***  
+![stand_up](/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** /  
+![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![hop](/images/hop.gif){:height="80px" width="80px"} ***hop*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***  
 
 * [![ican](/images/ican.png){:height="60px"}](https://www.youtube.com/watch?v=_Ir0Mc6Qilo) [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)  
 ![clap](/images/clap.gif){:height="80px" width="80px"} ***clap*** / ![fly](/images/fly.gif){:height="80px" width="80px"} ***fly*** / ![stomp](/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![swim2](/images/swim2.gif){:height="80px" width="80px"} ***swim*** / ![climb2](/images/climb2.gif){:height="80px" width="80px"} ***climb*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![sing2](/images/sing2.gif){:height="80px" width="80px"} ***sing*** / ![dance](/images/dance.gif){:height="80px" width="80px"} ***dance***  
@@ -25,7 +26,14 @@
 ***Answers:***  
 **'Yes, I can. I can clap.' (Sim, consigo. Consigo bater palmas)**  
 **'No, I can't. I can't clap.' (Não, não consigo. Não consigo bater palmas)**  
+
+### Games
+
+[![acmefv](/images/acmefv.PNG){:height="60px"}](https://www.freddiesville.com/games/action-verbs-present-simple-memory-game/) [Play memory. / Joga o jogo de memória.](https://www.freddiesville.com/games/action-verbs-present-simple-memory-game/)  
+NB: Só parece funcionar com Internet Explorer  
+
 ***
+
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English/Year1)
 
 ***
