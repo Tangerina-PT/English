@@ -64,9 +64,10 @@ OUP Everybody up How many song?
 
 ***Question:*** **'How many?'('Quantos?')**  
 ***Answer:*** **'*Number*'('**Número**')**     
-NB Esta canção é complexa. Este ano, a única parte importante é praticar para poder dizer e reconhecer perguntas usando a estrutura 'How many ... ?' e responder com o número em inglês. No 2º ano trabalharemos estruturas adicionais: 'There is one monkey./There are ... monkeys.' ('Há um macaco./Há (vários) macacos.')  
 
 [![hmanmk](/images/hmanmk.png){:height="60px"}](https://www.youtube.com/watch?v=bUvbOtOGeUs)
+
+NB Esta canção é complexa. Este ano, a única parte importante é poder dizer/reconhecer perguntas usando a estrutura 'How many ... ?' e responder com o número em inglês. No 2º ano trabalharemos: 'There is one monkey./There are ... monkeys.' ('Há um macaco./Há (vários) macacos.')  
 
 ***
 
