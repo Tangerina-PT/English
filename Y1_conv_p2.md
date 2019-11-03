@@ -40,40 +40,57 @@
 
 *** 
 
+***Question:*** **'How's the weather?' ('Como está o tempo?')**  
+***Answer:*** **'It's sunny/rainy/windy/cloudy/snowy/foggy/stormy.'**  
+**('Há sol/chuva/vento/núvens/neve/nevoeiro/tempestade.')**  
+
+[![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo)
+
+***
+
 ***Question:*** **'What colour is it?' (De que cor é?)**  
 ***Answer:*** **'It's ..*colour*.. .' (É ..*cor*.. .)**
 
 1. [![sar1](/images/kbcol.png)](https://www.youtube.com/watch?v=uTDJiPdz3L0) [I can sing a rainbow (Eu consigo cantar um arco-iris)](https://www.youtube.com/watch?v=uTDJiPdz3L0) Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit1.pdf) for parents. 
 2. [![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
-NOT PUBLISHED YET 2018/2019
-
 3. [![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
 
-4. [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)-->
+4. [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 
-***Language (classroom game):***  
-**'Touch your ... ' (Toca no(s)/na(s) teu(s)/tua(s) ... )**  
-
-[![bptch](/images/bptch.png)](https://www.youtube.com/watch?v=3ZWtDfBoU-E)  
-
-***
+OUP Everybody up How many song?
+1. [![oxeuhm](/images/oxeuhm.PNG)](https://www.youtube.com/watch?v=G3zaC5onBvM)
+-->
 
 ***Question:*** **'How many?'('Quantos?')**  
 ***Answer:*** **'*Number*'('**Número**')
-**[Avançado: 'There is one./There are ...' ('Há um(a)./Há (vários)...')]**
+**[Avançado- opcional: 'There is one./There are ...' ('Há um(a)./Há (vários)...')]**  
+NB Esta canção é complexa. Este ano, a única parte importante é praticar para poder dizer e reconhecer perguntas usando a estrutura 'How many ... ?' e responder com o número em inglês.  
 
-1. [![oxeuhm](/images/oxeuhm.PNG)](https://www.youtube.com/watch?v=G3zaC5onBvM)
-
-2. [![hmanmk](/images/hmanmk.png)](https://www.youtube.com/watch?v=bUvbOtOGeUs)
+[![hmanmk](/images/hmanmk.png){:height="60px"}](https://www.youtube.com/watch?v=bUvbOtOGeUs)
 
 ***
 
-***Question:*** **'How's the weather?' ('Como está o tempo?')**  
-***Answer:*** **'It's sunny/rainy/windy/cloudy/snowy/foggy/stormy.'**  
-**('Há sol/chuva/vento/núvens/neve/nevoeiro/tempestade.')**  
+***Language (classroom game para trabalhar o vocabulário das partes do corpo):***  
+**'Touch your ... ' (Toca no(s)/na(s) teu(s)/tua(s) ... )**  
 
-[![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo)
+[![bptch](/images/bptch.png){:height="60px"}](https://www.youtube.com/watch?v=3ZWtDfBoU-E) Canta a canção, faz as acções. Joga em casa com a tua família.  
+
+***
+
+***Classroom instructions and actions used in action games***  
+
+* [![stand](/images/stand.png){:height="60px"}](https://www.youtube.com/watch?v=WsiRSWthV1k) [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=WsiRSWthV1k)  
+![stand_up](/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** / ![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![hop](/images/hop.gif){:height="80px" width="80px"} ***hop*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***
+
+**'Sit down' (Senta-te)**  
+**'Stand up' (Levante-te/põe te de pé)**  
+**'Turn around.' (Da uma volta.)**  
+**'Put your hand up' (Põe a mão no ar')**  
+**'Jump' (Salta - 2 pés)**  
+**'Hop' (Salta a pé coxinho - 1 pé)**  
+**'Run' (Corre)**  
+**'Stop' (Para)**  
 
 ***
 
@@ -91,13 +108,14 @@ NOT PUBLISHED YET 2018/2019
 ***Question:*** **'What is it?' (O que é?) / Is it a ... ? (É um/uma ... ?)**  
 ***Answer:*** **'It's a...' (É um/uma...) / Yes.No. (Sim.Não)**
 
-1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E)
-
-2. [![fkea](/images/fkea.png)](https://www.youtube.com/watch?v=D_sdGxUxz_4)
+[![fkea](/images/fkea.png)](https://www.youtube.com/watch?v=D_sdGxUxz_4)
 
 *** 
 
 <!--Where?
+
+What is it toys song: 
+1. [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E)
 
 ***
 
