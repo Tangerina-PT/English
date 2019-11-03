@@ -19,13 +19,13 @@
 
 ***Vocabulary:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô)
 
-* [![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)
+* [![elffm1](/images/elffm1.png){:height="60px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)
 
 ***Question:*** **'Who is it?';'Who's this?' (Quem é?; Quem é isto?)**  
 ***Possible answers:*** **'My mother.';'It's my mother.';'This is my mother.' (A minha mãe.; É a minha mãe.; Isto é a minha mãe.)**  
 ***Context:*** **e.g. pointing at family photographs (p.ex. a apontar para fotos da família)**  
 
-* [![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
+* [![gae3](/images/gae3.PNG){:height="60px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
 (No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). No 1o ano a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)  
 
 ***
@@ -35,7 +35,7 @@
 ***Question:*** **'What shape is it?' (Que forma é?)**  
 ***Answer:*** **'It's a square.' (É um quadrado.)**  
 
-* [![shso3](/images/shso3.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)  
+* [![shso3](/images/shso3.PNG){:height="60px"}](https://www.youtube.com/watch?v=9GFEjNL0XXw)  
 
 ***Classroom instructions/actions involving shape*** p.ex.:  
 **'Draw a triangle.' (Desenha um triângulo.)**  
@@ -51,7 +51,7 @@ P.ex. um indivíduo faz com as mãos, ou o grupo senta-se/arranja-se num círcul
 ***Answer:*** **'Yes I can.';'No I can't.' (Sim, consigo.; Não, não consigo.)**  
 ***Statement:*** **'I can swim.';'I can't swim.' (Consigo nadar.; Não consigo nadar.)**
 
-* [![ican](/images/ican.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
+* [![ican](/images/ican.png){:height="60px"}](https://www.youtube.com/watch?v=8F0NYBBKczM)
 
 ***Classroom instructions/actions used in action games*** p.ex.:  
 **'Jump.' (Salta.)**  
