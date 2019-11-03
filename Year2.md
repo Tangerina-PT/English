@@ -23,11 +23,11 @@ Topic 14 - Language for playing games...
 <!--#### Topic 8 - Talking about my family
 #### [Topic 8 - Talking about my family](https://tangerina-pt.github.io/English/Family_B)-->
 
-
 <!--#### [Topic 6 - Expressing emotions/needs](https://tangerina-pt.github.io/English/Feelings_B)-->
 
-<!--#### Topic 7 - Talking about me
-#### [Topic 7 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)![hsktbw](/images/hsktbw.jpg){:height="30px"}-->
+<!--#### Topic 7 - Talking about me-->
+
+#### [Topic 7 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)![hsktbw](/images/hsktbw.jpg){:height="30px"}
 
 #### [Topic 6 - Days of the week/Months of the year](https://tangerina-pt.github.io/English/Calendar_B)![days](/images/days.PNG){:height="30px"}
 
