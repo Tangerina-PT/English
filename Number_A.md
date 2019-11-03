@@ -42,7 +42,9 @@
 
    Nota: Podes desligar a música de fundo clicando no símbolo [![ssno4](/images/ssno4.PNG)]-->  
 
-* Se já dominas 1 a 10, [trabalha 1 a 20](https://tangerina-pt.github.io/English/Number_B_II)  
+* Se já dominas 1 a 10, [trabalha 1 a 20](https://tangerina-pt.github.io/English/Number_B_II):  
+#### [Aprender números 1-20/Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)
+
    
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
