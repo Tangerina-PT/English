@@ -27,19 +27,21 @@ Topic 14 - Language for playing games...
 
 <!--#### Topic 7 - Talking about me-->
 
-#### [Topic 7 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)![hsktbw](/images/hsktbw.jpg){:height="30px"}
+#### [Topic 8 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)[![hsktbw](/images/hsktbw.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_B)
 
-#### [Topic 6 - Days of the week/Months of the year](https://tangerina-pt.github.io/English/Calendar_B)![days](/images/days.PNG){:height="30px"}
+#### [Topic 7 - Actions](https://tangerina-pt.github.io/English/Actions_B)[![stand](/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_B)
 
-#### [Topic 5 - The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)![alph](/images/alph.png){:height="30px"}
+#### [Topic 6 - Days of the week/Months of the year](https://tangerina-pt.github.io/English/Calendar_B)[![days](/images/days.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Calendar_B)
 
-#### [Topic 4 - Talking about the weather](https://tangerina-pt.github.io/English/Weather_B)![wsym](/images/wsym.PNG){:height="30px"}
+#### [Topic 5 - The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)[![alph](/images/alph.png){:height="30px"}](https://tangerina-pt.github.io/English/Alphabet_B)
 
-#### [Topic 3 - Talking about number](https://tangerina-pt.github.io/English/Number_B)![pmno](/images/pmno.PNG){:height="30px"}
+#### [Topic 4 - Talking about the weather](https://tangerina-pt.github.io/English/Weather_B)[![wsym](/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_B)
 
-#### [Topic 2 - Talking about colour](https://tangerina-pt.github.io/English/Colours_B)![colmix2](/images/colmix2.png){:height="30px"}
+#### [Topic 3 - Talking about number](https://tangerina-pt.github.io/English/Number_B)[![pmno](/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_B)
 
-#### [Topic 1 - Greetings/Introductions](https://tangerina-pt.github.io/English/Greetings_B)![gtsym](/images/gtsym.PNG){:height="30px"}
+#### [Topic 2 - Talking about colour](https://tangerina-pt.github.io/English/Colours_B)[![colmix2](/images/colmix2.png){:height="30px"}](https://tangerina-pt.github.io/English/Colours_B)
+
+#### [Topic 1 - Greetings/Introductions](https://tangerina-pt.github.io/English/Greetings_B)[![gtsym](/images/gtsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_B)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
