@@ -21,7 +21,12 @@ In English we write the days of the week and the months of the year with a capit
 Ouve a pronúncia Americana de 'Tuesday'. / Listen to the American pronunciation of Tuesday. 
 
 2. Listen to ![listen](/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=onHPejy0If4) [![dauk](/images/dauk.PNG)](https://www.youtube.com/watch?v=onHPejy0If4).  
-Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=onHPejy0If4). [0:00-1:45]
+Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=onHPejy0If4). [0:00-1:45]  
+
+3. [![damefv](/images/damefv.PNG){:height="60px"}](https://www.freddiesville.com/games/days-of-the-week-memory-game/) [Play memory. / Joga o jogo de memória.](https://www.freddiesville.com/games/days-of-the-week-memory-game/)  
+
+NB: Parece só funcionar com Internet Explorer  
+
 
 #### Language Structure
 ***
