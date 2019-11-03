@@ -12,12 +12,12 @@
 
 ### Prepositions of Place 
 
-#### Canta a nossa canção... / Sing our song...  
+#### Canta a nossa canção fazendo as acções... / Sing our song...  
 
-![pauta_10](/images/pauta_10.jpg){:width="650px"} <audio src="audio/Prep_10.m4a" controls preload></audio>  
-**ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN (entre) the ..*nouns*.. / (o(s)/a(s) ..*substantivo(s)*.. ), FAR AWAY FROM (longe de), NEAR (perto)**  
+![pauta_10](/images/pauta_10.jpg){:width="640px"} <audio src="audio/Prep_10.m4a" controls preload></audio>  
+**ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN the boxes (entre as caixas), FAR AWAY FROM (longe de), NEAR (perto)**  
 
-![pp_10](/images/pp_10.PNG){:width="650px"}  
+![pp_10](/images/pp_10.PNG){:width="640px"}  
 
 ***
 
