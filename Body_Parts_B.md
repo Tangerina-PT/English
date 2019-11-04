@@ -14,7 +14,7 @@
 
 #### ![sing](/images/sing.png) [Song/Vocabulary](https://tangerina-pt.github.io/English/Body_Parts_B_song)
 #### ![talk](/images/talk.png) [Language structures/Vocabulary](https://tangerina-pt.github.io/English/Body_Parts_B_ls)
-#### ![silh_game](/images/silh_game.jpg) [Games](https://tangerina-pt.github.io/English/Body_Parts_B_g)
+#### ![silh_game](/images/silh_game.jpg) [Games e activities](https://tangerina-pt.github.io/English/Body_Parts_B_g)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
