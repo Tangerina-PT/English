@@ -25,7 +25,7 @@ Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?
 
 3. [![damefv](/images/damefv.PNG){:height="60px"}](https://www.freddiesville.com/games/days-of-the-week-memory-game/) [Play memory. / Joga o jogo de memória.](https://www.freddiesville.com/games/days-of-the-week-memory-game/)  
 
-NB: Parece só funcionar com Internet Explorer  
+NB: Este jogo de memória parece só funcionar com Internet Explorer  
 
 
 #### Language Structure
