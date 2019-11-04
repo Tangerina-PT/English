@@ -11,6 +11,10 @@
 
 [![ntmy](/images/ntmy.PNG)](https://www.youtube.com/watch?v=rSwypHirUkM)[Freddiesville - Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM)
 
+* Queres um desafio? [![grsmfv](/images/grsmfv.PNG){:height="60px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Ouve e tenta arrastar as palavras para construir a frase.](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
+
+NB: Esta actividade parece só funcionar com Internet Explorer  
+
 ***Question:*** **'How are you?' (Como é que estás?)**  
 ***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**
 
