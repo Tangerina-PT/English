@@ -33,7 +33,7 @@ NB: Este jogo de memória parece só funcionar com Internet Explorer
 ***Question:*** **'What day is it today?' (Que dia é hoje?)**  
 ***Answer:*** **'It's Monday.' (É segunda-feira.)**
 
-[![wdisit](/images/wdisit.png){:height="80px"}](https://www.youtube.com/watch?v=onHPejy0If4).  
+* [![wdisit](/images/wdisit.png){:height="80px"}](https://www.youtube.com/watch?v=onHPejy0If4).  
 
 #### Months of the year
 1. [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) Canta [a canção dos meses do ano](https://www.youtube.com/watch?v=v608v42dKeI) / Sing [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI)  
