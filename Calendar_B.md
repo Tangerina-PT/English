@@ -36,7 +36,7 @@ NB: Este jogo de memória parece só funcionar com Internet Explorer
 * [![wdisit](/images/wdisit.png){:height="80px"}](https://www.youtube.com/watch?v=onHPejy0If4).  
 
 #### Months of the year
-1. [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) Canta [a canção dos meses do ano](https://www.youtube.com/watch?v=v608v42dKeI) / Sing [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI)  
+* [![mnth](/images/mnth.PNG)](https://www.youtube.com/watch?v=v608v42dKeI) Canta [a canção dos meses do ano](https://www.youtube.com/watch?v=v608v42dKeI) / Sing [the months of the year song](https://www.youtube.com/watch?v=v608v42dKeI)  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
