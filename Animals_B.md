@@ -40,8 +40,8 @@
 ### Jogos/games
 
 #### Jogo de memória/Memory
-1. [![anme](/images/anme.PNG){:height="60px"}](https://www.eslgamesplus.com/farm-domestic-animals-vocabulary-esl-memory-game/)
-2. [![anme2](/images/anme2.PNG){:height="60px"}](https://www.eslgamesplus.com/zoo-animals-esl-vocabulary-memory-game/)
+1. [![anme](/images/anme.PNG){:height="60px"}](https://www.eslgamesplus.com/farm-domestic-animals-vocabulary-esl-memory-game/) Farm animals / Animais da quinta  
+2. [![anme2](/images/anme2.PNG){:height="60px"}](https://www.eslgamesplus.com/zoo-animals-esl-vocabulary-memory-game/) Zoo animals / Animais do jardim zoológico  
 
 ***
 
