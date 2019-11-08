@@ -25,7 +25,7 @@ Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo
 - [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) [Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
    Play **beginner** level/Joga no nível **beginner**
 
-![writetxt](/images/writetxt.png)![write](/images/write.jpg)
+![writetxt](/images/writetxt.png)![write](/images/write.jpg) (Extensão opcional)
 
 - Play some [spelling games](http://www.mes-games.com/colors.php)  
    Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
