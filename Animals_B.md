@@ -30,6 +30,13 @@
 
 ***
 
+***Question:*** **'What's this?' (O que é isto?)**  
+***Answer:*** **'It's a...' (É um/uma...)**
+
+[![anqu1](/images/anqu1.png){:height="60px"}](https://www.youtube.com/watch?v=hJ1boWM7aZM&list=PLnClziLyHE38HkHQl64uvJMc7PZ2Cmr_w&index=12)
+
+***
+
 ### Jogos/games
 
 #### Jogo de memória/Memory
