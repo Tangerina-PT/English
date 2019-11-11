@@ -15,13 +15,18 @@
 ***Question:*** **'How's the weather?' (Como está o tempo?)**  
 ***Answer:*** **'It's sunny/rainy/windy/cloudy/snowy/stormy.' (Há... sol/chuva/vento/núvens/neve/tempestade.)**
 
-[![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo)
+[![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo)  
+
+[![mlwe2](/images/mlwe2.png)](https://www.youtube.com/watch?v=O2NwvUB41rA)  
 
 #### Games
+
 (1). [![bcwe1](/images/bcwe1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1)  
 For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)
 
 (2). [![weme](/images/weme.PNG)](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Play memory.](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  
+
+(3). [![bzwe1](/images/bzwe1.png)](https://www.baamboozle.com/game/35795)  
 
 <!--(3). [![bcwe2](/images/bcwe2.PNG)](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather) [World weather](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather)
 
