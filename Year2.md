@@ -32,7 +32,7 @@ Topic 14 - Language for playing games...
 
 #### [Topic 5 - The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)[![alph](/images/alph.png){:height="30px"}](https://tangerina-pt.github.io/English/Alphabet_B)
 
-#### [Topic 4 - Talking about the weather](https://tangerina-pt.github.io/English/Weather_B)[![wsym](/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_B)
+#### [Topic 4 - Talking about the weather](https://tangerina-pt.github.io/English/Weather_B)[![wsym](/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_B) [![new](/images/new.gif){:height="30px"}](https://tangerina-pt.github.io/English/Weather_B)  
 
 #### [Topic 3 - Talking about number](https://tangerina-pt.github.io/English/Number_B)[![pmno](/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_B)
 
