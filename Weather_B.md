@@ -26,7 +26,7 @@ For each word, click on the speaker to hear the word. Then click on the word its
 
 (2). [![weme](/images/weme.PNG){:height="60px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Play memory.](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  
 
-(3). [![bzwe1](/images/bzwe1.png){:height="60px"}](https://www.baamboozle.com/game/35795)  
+(3). [![bzwe1](/images/bzwe1.png){:height="60px"}](https://www.baamboozle.com/game/35795) [O nosso novo jogo do tempo na sala de aula](https://www.baamboozle.com/game/35795)   
 
 <!--(3). [![bcwe2](/images/bcwe2.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather) [World weather](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather)
 
