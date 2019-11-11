@@ -15,9 +15,9 @@
 ***Question:*** **'How's the weather?' (Como está o tempo?)**  
 ***Answer:*** **'It's sunny/rainy/windy/cloudy/snowy/stormy.' (Há... sol/chuva/vento/núvens/neve/tempestade.)**
 
-[![mlwe](/images/mlwe.png){:height="60px"}](https://www.youtube.com/watch?v=I8GeA3anPdo) Canta a canção fazendo as acções.
+[![mlwe](/images/mlwe.png){:height="60px"}](https://www.youtube.com/watch?v=I8GeA3anPdo) [Canta a canção fazendo as acções.](https://www.youtube.com/watch?v=I8GeA3anPdo)
 
-[![mlwe2](/images/mlwe2.png){:height="60px"}](https://www.youtube.com/watch?v=O2NwvUB41rA) Vê o vídeo. Consegues responder antes do Andy Ant?  
+[![mlwe2](/images/mlwe2.png){:height="60px"}](https://www.youtube.com/watch?v=O2NwvUB41rA) [Vê o vídeo. Consegues responder antes do Andy Ant?](https://www.youtube.com/watch?v=O2NwvUB41rA)  
 
 #### Games
 
