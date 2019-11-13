@@ -37,13 +37,15 @@
 
 ***
 
-### Jogos/games
-
-#### Jogo de memória/Memory
+### Jogo de memória/Memory
 1. [![anme](/images/anme.PNG){:height="60px"}](https://www.eslgamesplus.com/farm-domestic-animals-vocabulary-esl-memory-game/) Farm animals / Animais da quinta  
 2. [![anme2](/images/anme2.PNG){:height="60px"}](https://www.eslgamesplus.com/zoo-animals-esl-vocabulary-memory-game/) Zoo animals / Animais do jardim zoológico  
 
 ***
+
+<!--*** Desafio 
+[![anme](/images/anme.PNG){:height="60px"}](https://www.eslgamesplus.com/farm-domestic-animals-vocabulary-esl-memory-game/) Farm animals / Animais da quinta-->
+
 
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
