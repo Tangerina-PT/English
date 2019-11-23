@@ -27,7 +27,6 @@
 4. [![wehay2](/images/wehay2.PNG){:height="60px"}](https://www.youtube.com/watch?v=WkswguWRJ5Q)  
 (I'm thirsty/sick/hungry.)
 
-***
 5. [![emelf](/images/emelf.png){:height="60px"}](https://www.youtube.com/watch?v=xRlTTSpGUx4)  
 (I'm happy/sad/hungry/thirsty/hot/cold/tired/sleepy/surprised/scared/excited/bored)  
 
