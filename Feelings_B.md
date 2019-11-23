@@ -21,7 +21,7 @@
 2. [![hoyt](/images/hoyt.png){:height="60px"}](https://www.youtube.com/watch?v=fMR8Hr9Xby4) [How are you today?/Como estás hoje?](https://www.youtube.com/watch?v=fMR8Hr9Xby4)  
 (I'm happy/sad/angry/tired/hungry. I'm very happy - estou muito contente/feliz.) 
 
-3. [![wehay1](/images/wehay1.PNG{:height="60px"})](https://www.youtube.com/watch?v=5su1M6NdG-I)  
+3. [![wehay1](/images/wehay1.PNG){:height="60px"}](https://www.youtube.com/watch?v=5su1M6NdG-I)  
 (I'm happy/sad/hot/cold.)
 
 4. [![wehay2](/images/wehay2.PNG){:height="60px"}](https://www.youtube.com/watch?v=WkswguWRJ5Q)  
