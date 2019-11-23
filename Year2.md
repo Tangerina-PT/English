@@ -24,7 +24,7 @@ Topic 14 - Language for playing games...
 
 <!--#### Topic 7 - Talking about me-->
 
-<!--#### Topic 9 - Talking about position/location
+<!--#### Topic 9 - Talking about position/location-->
 
 #### [Topic 9 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](/images/prep.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)
 
