@@ -26,7 +26,7 @@
 ![clocap](/images/clocap.png) Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.
 
 ***Question:*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
-***Answer:*** **'in' (dentro); 'in the box' (dentro da caixa); 'The monkey is in the box.' (O macaco está dentro da caixa.)**
+***Answers:*** **'in' (dentro); 'in the box' (dentro da caixa); 'The monkey is in the box.' (O macaco está dentro da caixa.)**
 
 1. [![mlpp](/images/mlpp.png){:height="60px"}](https://www.youtube.com/watch?v=8F0NYBBKczM) (on, in, under)
 2. [![mlpp1](/images/mlpp1.png){:height="60px"}](https://www.youtube.com/watch?v=uDGwhiwwxXA) (on, in, under)
