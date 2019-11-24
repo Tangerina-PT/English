@@ -19,6 +19,8 @@
 
 ![pp_10](/images/pp_10.PNG){:width="640px"}  
 
+[![between](/images/between.JPG){:height="60px"}](https://youtu.be/OKvCWMRNq1I) [Canta com o vídeo... / Sing with the video](https://youtu.be/OKvCWMRNq1I)  
+
 ***
 
 #### Watch the videos / Vê os vídeos:
