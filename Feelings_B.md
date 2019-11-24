@@ -27,12 +27,13 @@
 4. [![wehay2](/images/wehay2.PNG){:height="60px"}](https://www.youtube.com/watch?v=WkswguWRJ5Q)  
 (I'm thirsty/sick/hungry.)
 
-***Extensão opcional - queres aprender mais:*** **'I'm sleepy.' (Estou sonolento.'); 'I'm surprised.' (Estou supreendido.)'; 'I'm excited.' (Estou muito entusiasmado.); 'I'm bored.' (Estou aborrecido.); 'I'm shy.' ('Estou' tímido.); 'I'm worried' (Estou preocupado.)**  
+***Extensão opcional - queres aprender mais?*** **'I'm sleepy.' (Estou sonolento.'); 'I'm surprised.' (Estou supreendido.)'; 'I'm excited.' (Estou muito entusiasmado.); 'I'm bored.' (Estou aborrecido.); 'I'm shy.' ('Estou' tímido.); 'I'm worried' (Estou preocupado.)**  
 
 [![emelf](/images/emelf.png){:height="60px"}](https://www.youtube.com/watch?v=xRlTTSpGUx4) ['Are you sad?'(Estás triste?); 'I'm so hungry.'(Tenho tanta fome.)](https://www.youtube.com/watch?v=xRlTTSpGUx4)  
 (I'm happy/sad/hungry/thirsty/hot/cold/tired/sleepy/surprised/scared/excited/bored.)  
-
+  
 [![angfepd](/images/angfepd.PNG){:height="60px"}](https://www.anglomaniacy.pl/feelingsDictionary.htm) [Clica numa imagem pequena para ouvir e ver a palavra associada à imagem.](https://www.anglomaniacy.pl/feelingsDictionary.htm)  
+(I'm happy/sad/hot/cold/angry/tired/sleepy/surprised/scared/bored/shy/worried.)  
 
 Verifica o que já sabes...  
 
@@ -44,3 +45,4 @@ Verifica o que já sabes...
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
+?
