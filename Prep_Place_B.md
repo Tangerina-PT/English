@@ -14,7 +14,7 @@
 
 #### Canta a nossa canção fazendo as acções... / Sing our song...  
 
-[![between](/images/between.JPG){:height="60px"}](https://youtu.be/OKvCWMRNq1I) [Canta com o vídeo... / Sing with the video](https://youtu.be/OKvCWMRNq1I)  
+[![between](/images/between.JPG){:height="60px"}](https://youtu.be/w0nOifIWHqs) [Canta com o vídeo... / Sing with the video](https://youtu.be/w0nOifIWHqs)  
 
 ![pauta_10](/images/pauta_10.jpg){:width="640px"} <audio src="audio/Prep_10.m4a" controls preload></audio>  
 **ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN the boxes (entre as caixas), FAR AWAY FROM (longe de), NEAR (perto)**  
