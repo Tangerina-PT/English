@@ -29,9 +29,16 @@ Can you name each toy before the picture appears?
 
 (1). [![toyslvwk1](/images/toyslvwk1.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)  
 
-#### Trabalhar a leitura - quiz
+#### Trabalhar a leitura
 
-(1). [![tyqz1](/images/tyqz1.PNG)](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)
+(1). [![toyslvwk5](/images/toyslvwk5.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)  
+ 
+(2). [![toyslvwk4](/images/toyslvwk4.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li)
+
+(3). [![toyslvwk2](/images/toyslvwk2.PNG){:height="80px"}]
+(https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud)
+
+(4). [![tyqz1](/images/tyqz1.PNG)](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)
 
 #### Do you like to play memory? / Gostas de jogar 'memória'?  
 
