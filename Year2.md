@@ -25,6 +25,13 @@ Topic 14 - Language for playing games...
 <!--#### Topic 7 - Talking about me-->
 
 <!--#### Topic 9 - Talking about position/location-->
+<!--#### [Topic 11 - Toys]-->
+
+#### [Topic 13 - Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_B) [![toilet](/images/toilet.Ppng){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_B)
+
+#### [Topic 12 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)
+
+#### [Topic 11 - Toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)
 
 #### [Topic 10 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](/images/prep.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)
 
