@@ -25,6 +25,14 @@
 Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer?  
 Can you name each toy before the picture appears?  
 
+#### Reconheces os nomes dos brinquedos ao ouvi-los em inglês? - 'Listening'
+
+(1). [![toyslvwk1](/images/toyslvwk1.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)  
+
+#### Trabalhar a leitura - quiz
+
+(1). [![tyqz1](/images/tyqz1.PNG)](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)
+
 #### Do you like to play memory? / Gostas de jogar 'memória'?  
 
 (1). [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [Liga as **palavras** com as imagens./Match the **words** with the pictures.](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)
@@ -36,23 +44,21 @@ Can you name each toy before the picture appears?
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
 
-#### Other activities / Outras actividades
+#### Extensão
 
 <!---(1). Match the words to the pictures  
 [![bcty1](/images/bcty1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/toys-1) [Part 1](https://learnenglishkids.britishcouncil.org/en/word-games/toys-1)  
 [![bcty2](/images/bcty2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/toys-2) [Part 2](https://learnenglishkids.britishcouncil.org/en/word-games/toys-2)-->
 
-(1). [![tyqz1](/images/tyqz1.PNG)](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)
+(1). [![atsc](/images/atsc.PNG)](http://www.anglomaniacy.pl/toysSpelling.htm) [Rearrange the letters to spell the words](http://www.anglomaniacy.pl/toysSpelling.htm)^^
 
-(2). [![atsc](/images/atsc.PNG)](http://www.anglomaniacy.pl/toysSpelling.htm) [Rearrange the letters to spell the words](http://www.anglomaniacy.pl/toysSpelling.htm)^^
-
-(3). [![lcty](/images/lcty.PNG)](http://www.learningchocolate.com/content/childrens-toys)  
+(2). [![lcty](/images/lcty.PNG)](http://www.learningchocolate.com/content/childrens-toys)  
 Lê cada palavra, depois clica na imagem do altifalante para verificar a tua pronûncia./Read each word then click on the picture of the speaker next to the word to check your pronunciation.   
 (Optional extra challenge: Can you do all 5 activities?  
 Desafio opcional extra: Consegues fazer todas as actividades?  
 Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG))
 
-(4). [![hmty](/images/hmty.PNG)](http://www.anglomaniacy.pl/toysHangman.htm)  
+(3). [![hmty](/images/hmty.PNG)](http://www.anglomaniacy.pl/toysHangman.htm)  
 Já consegues soletrar as palavras para brinquedos em inglês? Então estás pronto para [adivinhar as palavras mistério]/Can you spell the words? If so, you are ready to [play hangman](http://www.anglomaniacy.pl/toysHangman.htm).   (http://www.anglomaniacy.pl/toysHangman.htm). Que brinquedo será?  
 
 ^^ Funciona utilizando Internet Explorer. Infelizmente não funciona com todos os browsers.  
