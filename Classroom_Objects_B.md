@@ -52,7 +52,7 @@ Desafios 'extra'
 * [![colvwk4](/images/colvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz) [Listening/leitura/escrita/oral](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
 Nota: o reconhecimento da produção oral no último exercício nem sempre funciona bem   
 
-* [![colvwk5](/images/colvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da) [Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da) [![colvwk5b](/images/colvwk5b.PNG){:height="60px"}] 
+* [![colvwk5](/images/colvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da) [Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da) [![colvwk5b](/images/colvwk5b.PNG){:height="140px"}] 
 
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
