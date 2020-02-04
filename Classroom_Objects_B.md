@@ -39,6 +39,10 @@ NB: Este jogo chama um estojo "pencil box" em vez do nome mais comum/actual "pen
 Play three or four times to use all the words.  
 Joga três ou quatro vezes para usar todas as palavras.-->
 
+Exercícios
+
+* [![colvwk1](/images/colvwk1.PNG)](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)
+
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
 
