@@ -27,11 +27,11 @@
 
 * [![toyslvwk1](/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 
-* [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
+* [![gwtme](/images/gwtme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
 
-* [![gwtme2](/images/gwtme2.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
+* [![gwtme2](/images/gwtme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
 
-* [![mety](/images/mety.PNG)](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG){:height="35px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
+* [![mety](/images/mety.PNG){:height="60px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG){:height="35px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
 
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
