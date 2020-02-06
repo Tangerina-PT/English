@@ -20,8 +20,8 @@
 (1). [![fcety](/images/fkety.PNG){:height="60px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) Aprender os nomes dos brinquedos 
 
 (2). [![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
-Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer? 'It's a ...'/  
-Can you name each toy before the picture appears?  
+<!--Diz o nome do brinquedo em inglês antes da imagem aparecer? 'It's a ...'
+/  Can you name each toy before the picture appears?-->  
 
 #### Jogos -'Listening'/ Compreensão do Oral
 
