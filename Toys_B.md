@@ -33,7 +33,7 @@ Can you name each toy before the picture appears?-->
 
 #### Trabalhar a leitura
 
-(1). [![toyslvwk5](/images/toyslvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)[![toyslvwk5b](/images/toyslvwk5b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)   
+(1). [![toyslvwk5](/images/toyslvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu) [![toyslvwk5b](/images/toyslvwk5b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)   
  
 (2). [![toyslvwk4](/images/toyslvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li) [![toyslvwk4b](/images/toyslvwk4b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li)
 
@@ -66,7 +66,7 @@ Desafio opcional extra: Consegues fazer todas as actividades?
 Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)
 
 (3). [![hmty](/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm)  
-Já consegues soletrar as palavras para brinquedos em inglês? Então estás pronto para [adivinhar as palavras mistério]/Can you spell the words? If so, you are ready to [play hangman](http://www.anglomaniacy.pl/toysHangman.htm).   (http://www.anglomaniacy.pl/toysHangman.htm). Que brinquedo será?  
+Já consegues soletrar as palavras para brinquedos em inglês? Então estás pronto para [adivinhar as palavras mistério](http://www.anglomaniacy.pl/toysHangman.htm)/Can you spell the words? If so, you are ready to [play hangman](http://www.anglomaniacy.pl/toysHangman.htm). Que brinquedo será?  
 
 ^^ Funciona utilizando Internet Explorer. Infelizmente não funciona com todos os browsers.  
 
