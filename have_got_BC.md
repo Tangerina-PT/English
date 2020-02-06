@@ -12,8 +12,8 @@
 ### Have got / TER
 
 Have you got a pet? – Tens/tem um animal doméstico?  
-Yes, I have.  –  Sim, tenho.
-No, I haven’t.  – Não, não tenho.
+Yes, I have.  –  Sim, tenho.  
+No, I haven’t.  – Não, não tenho.  
 I’ve got a dog. – Eu tenho um cão.  
 
 #### Canta a canção / Sing the song:  
