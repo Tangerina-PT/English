@@ -17,11 +17,15 @@
 <!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 (2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
 
-(1). [![fcety](/images/fkety.PNG){:height="120px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI)  
+(1). [![fcety](/images/fkety.PNG){:height="60px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) Aprender os nomes dos brinquedos 
 
-(2). [![fket](/images/fket.PNG)](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
+(2). [![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
+Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer? 'It's a ...'/  
 Can you name each toy before the picture appears?  
-Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer?
+
+#### Reconheces os nomes dos brinquedos ao ouvi-los em inglês? - 'Listening'/ Compreensão do Oral
+
+(1). [![toyslvwk1](/images/toyslvwk1.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 
 #### Do you like to play memory? / Gostas de jogar 'memória'?  
 
