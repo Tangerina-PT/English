@@ -29,11 +29,11 @@ Can you name each toy before the picture appears?
 
 #### Do you like to play memory? / Gostas de jogar 'memória'?  
 
-* [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [Procura a palavra e a imagem correspondentes./Match the **words** with the pictures.](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
+* [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
 
-* [![gwtme2](/images/gwtme2.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [Procura a frase e a imagem correspondentes./Match the **sentences** with the pictures.](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
+* [![gwtme2](/images/gwtme2.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
 
-*[![mety](/images/mety.PNG)](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/) [Procura a palavra e imagem correspondentes./Match the **words** with the pictures.](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
+* [![mety](/images/mety.PNG)](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG)](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
 
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
