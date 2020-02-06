@@ -23,11 +23,9 @@
 Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer? 'It's a ...'/  
 Can you name each toy before the picture appears?  
 
-#### Reconheces os nomes dos brinquedos ao ouvi-los em inglês? - 'Listening'/ Compreensão do Oral
+#### Jogos -'Listening'/ Compreensão do Oral
 
-(1). [![toyslvwk1](/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
-
-#### Do you like to play memory? / Gostas de jogar 'memória'?  
+* [![toyslvwk1](/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 
 * [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
 
