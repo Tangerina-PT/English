@@ -59,11 +59,11 @@ Can you name each toy before the picture appears?-->
 
 (1). [![atsc](/images/atsc.PNG)](http://www.anglomaniacy.pl/toysSpelling.htm) [Rearrange the letters to spell the words](http://www.anglomaniacy.pl/toysSpelling.htm)^^
 
-(2). [![lcty](/images/lcty.PNG)](http://www.learningchocolate.com/content/childrens-toys)  
-Lê cada palavra, depois clica na imagem do altifalante para verificar a tua pronûncia./Read each word then click on the picture of the speaker next to the word to check your pronunciation.   
-(Optional extra challenge: Can you do all 5 activities?  
+(2). [![lcty](/images/lcty.PNG)](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1](/images/lcgen1.PNG){:height="35px"}](http://www.learningchocolate.com/content/childrens-toys)   
+<!---Lê cada palavra, depois clica na imagem do altifalante para verificar a tua pronûncia./Read each word then click on the picture of the speaker next to the word to check your pronunciation.   
+Optional extra challenge: Can you do all 5 activities?-->
 Desafio opcional extra: Consegues fazer todas as actividades?  
-Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG))
+Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)
 
 (3). [![hmty](/images/hmty.PNG)](http://www.anglomaniacy.pl/toysHangman.htm)  
 Já consegues soletrar as palavras para brinquedos em inglês? Então estás pronto para [adivinhar as palavras mistério]/Can you spell the words? If so, you are ready to [play hangman](http://www.anglomaniacy.pl/toysHangman.htm).   (http://www.anglomaniacy.pl/toysHangman.htm). Que brinquedo será?  
