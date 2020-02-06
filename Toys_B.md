@@ -17,7 +17,7 @@
 <!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 (2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
 
-(1). [![fcety](/images/fkety.PNG){:height="60px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) (2). [![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E) (3). [![fvpp](/images/fvpp.PNG){:height="60px"}](https://www.youtube.com/watch?v=YI6VAsGlk7U)  
+(1). [![fcety](/images/fkety.PNG){:height="60px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) (2). [![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) (3). [![fvpp](/images/fvpp.PNG){:height="60px"}](https://www.youtube.com/watch?v=YI6VAsGlk7U)  
 <!---Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer?  
 Can you name each toy before the picture appears?-->  
 
