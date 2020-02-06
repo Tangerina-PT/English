@@ -11,10 +11,10 @@
 
 ### Have got / TER
 
-Have you got a pet? – Tens/tem um animal doméstico?  
-Yes, I have.  –  Sim, tenho.  
-No, I haven’t.  – Não, não tenho.  
-I’ve got a dog. – Eu tenho um cão.  
+Have you got a pet? – Tens/tem um animal doméstico? <audio src="audio/hyg_pet.m4a" controls preload></audio>  
+Yes, I have.  –  Sim, tenho. <audio src="audio/yih.m4a" controls preload></audio>  
+No, I haven’t.  – Não, não tenho. <audio src="audio/nih.m4a" controls preload></audio>  
+I’ve got a dog. – Eu tenho um cão. <audio src="audio/ivg_dog.m4a" controls preload></audio>  
 
 #### Canta a canção / Sing the song:  
 * [![pet2](/images/pet2.PNG){:height="60px"}](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Have you got a pet? - Tens/tem um animal doméstico?](https://www.youtube.com/watch?v=6qh_qTOgkhY)  
@@ -25,15 +25,15 @@ Nota: a imagem para 'parrot' está errada - deve ser um papagaio.
 #### Watch the vídeos:
 
 * [![hvgt1](/images/hvgt1.PNG){:height="60px"}](https://www.youtube.com/watch?v=ibTiIaI6KsE) [I've got a ball.](https://www.youtube.com/watch?v=ibTiIaI6KsE)  
-I’ve got a ball. – Eu tenho uma bola.  
-I haven’t got a ball. – Não tenho uma bola.  
+I’ve got a ball. – Eu tenho uma bola. <audio src="audio/ivg_bal.m4a" controls preload></audio>  
+I haven’t got a ball. – Não tenho uma bola. <audio src="audio/ing_bal.m4a" controls preload></audio>  
 
 * [![gae14](/images/gae14.png){:height="60px"}](https://www.youtube.com/watch?v=SAvYKxATAmY) [Have you got a ruler?](https://www.youtube.com/watch?v=SAvYKxATAmY)  
-Have you got a ruler? – Tens/tem uma régua?  
-Yes, I have. – Sim, tenho.  
-I’ve got a ruler. – Eu tenho uma régua.  
-No, I haven’t. – Não, não tenho.  
-I haven’t got a ruler. – Não tenho uma régua.  
+Have you got a ruler? – Tens/tem uma régua? <audio src="audio/hyg_rul.m4a" controls preload></audio>  
+Yes, I have. – Sim, tenho. <audio src="audio/yih.m4a" controls preload></audio>  
+I’ve got a ruler. – Eu tenho uma régua. <audio src="audio/ivg_rul.m4a" controls preload></audio>  
+No, I haven’t. – Não, não tenho. <audio src="audio/nih.m4a" controls preload></audio>  
+I haven’t got a ruler. – Não tenho uma régua. <audio src="audio/ing_rul.m4a" controls preload></audio>  
 
 
 ***
