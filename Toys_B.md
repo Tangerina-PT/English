@@ -25,9 +25,15 @@
 Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer?  
 Can you name each toy before the picture appears?  
 
-#### Reconheces os nomes dos brinquedos ao ouvi-los em inglês? - 'Listening'
+#### Jogos -'Listening'/ Compreensão do Oral
 
-(1). [![toyslvwk1](/images/toyslvwk1.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)  
+* [![toyslvwk1](/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
+
+* [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
+
+* [![gwtme2](/images/gwtme2.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
+
+* [![mety](/images/mety.PNG)](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG){:height="35px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
 
 #### Trabalhar a leitura
 
@@ -39,13 +45,12 @@ Can you name each toy before the picture appears?
 
 (4). [![tyqz1](/images/tyqz1.PNG)](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)
 
-#### Do you like to play memory? / Gostas de jogar 'memória'?  
-
+<!---#### Do you like to play memory? / Gostas de jogar 'memória'?  
 (1). [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [Liga as **palavras** com as imagens./Match the **words** with the pictures.](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)
 
 (2). [![gwtme2](/images/gwtme2.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [Liga as **frases** com as imagens./Match the **sentences** with the pictures.](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)
 
-(3). [![mety](/images/mety.PNG)](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/) [Liga as **palavras** com as imagens./Match the **words** with the pictures.](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
+(3). [![mety](/images/mety.PNG)](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/) [Liga as **palavras** com as imagens./Match the **words** with the pictures.](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)-->  
 
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
