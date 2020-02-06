@@ -20,7 +20,7 @@ I’ve got a dog. – Eu tenho um cão.
 * [![pet2](/images/pet2.PNG){:height="60px"}](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Have you got a pet? - Tens/tem um animal doméstico?](https://www.youtube.com/watch?v=6qh_qTOgkhY)  
 (Nota: a imagem para 'parrot' está errada - deve ser uma imagem de um papagaio.)   
 
-[![pets2b](/images/pets2b.PNG){:height="100px"}]  
+![pets2b](/images/pets2b.PNG){:height="100px"}  
  
 #### Watch the vídeos:
 
@@ -29,7 +29,7 @@ I’ve got a dog. – Eu tenho um cão.
 I’ve got a ball. – Eu tenho uma bola.  
 I haven’t got a ball. – Não tenho uma bola.  
 
-* [![gae14](/images/gae14.PNG){:height="60px"}](https://www.youtube.com/watch?v=SAvYKxATAmY) [Have you got a ruler?] (https://www.youtube.com/watch?v=SAvYKxATAmY)  
+* [![gae14](/images/gae14.PNG){:height="60px"}](https://www.youtube.com/watch?v=SAvYKxATAmY) [Have you got a ruler?](https://www.youtube.com/watch?v=SAvYKxATAmY)  
 
 Have you got a ruler? – Tens/tem uma régua?  
 Yes, I have. – Sim, tenho.  
