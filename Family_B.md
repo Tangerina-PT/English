@@ -22,8 +22,8 @@ Auto-avaliação: (1). Já consegues cantar desligando o som no vídeo?
 
 #### Language
 
-***Question:*** **'Who is it?';'Who's this?' (Quem é?; Quem é isto?)**  
-***Possible answers:*** **'My mother.';'It's my mother.';'This is my mother.' (A minha mãe.; É a minha mãe.; Isto é a minha mãe.)**  
+***Question:*** **'Who is it?';'Who's this?' (Quem é?; Quem é isto?); 'Who is he/she?' (Quem é ele/ela?)**  
+***Possible answers:*** **'My mother.' (A minha mãe.);'It's my mother.' (É a minha mãe.);'This is my mother.'(Isto é a minha mãe.)**  
 ***Context:*** **e.g. pointing at family photographs (p.ex. a apontar para fotos da família)**  
 
 * [![gae3](/images/gae3.PNG){:height="60px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
