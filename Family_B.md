@@ -12,12 +12,13 @@
 
 ### Family
 
-***Vocabulary:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô) ***Minimum vocabulary:*** mummy, daddy, brother, sister, grandma, grandpa  
+***Vocabulary:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô); baby (bébé)  
+***Minimum vocabulary:*** mummy, daddy, brother, sister, grandma, grandpa  
 
 #### Song
 
-[![elffm1](/images/elffm1.png)](https://www.youtube.com/watch?v=GiRUF7hvWuM) Canta [a canção da família.](https://www.youtube.com/watch?v=GiRUF7hvWuM)/ Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
-Auto-avaliação: (1). Já consegues cantar toda a canção sem o vídeo? (2). Consegues levantar as 'marionetas de pau' da família enquanto cantares?/Can you lift up the correct family stick puppets while you sing?  
+[![elffm1](/images/elffm1.png){:height="60px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Canta [a canção da família.](https://www.youtube.com/watch?v=GiRUF7hvWuM)/ Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
+Auto-avaliação: (1). Já consegues cantar desligando o som no vídeo?    
 
 #### Language
 
@@ -25,16 +26,29 @@ Auto-avaliação: (1). Já consegues cantar toda a canção sem o vídeo? (2). C
 ***Possible answers:*** **'My mother.';'It's my mother.';'This is my mother.' (A minha mãe.; É a minha mãe.; Isto é a minha mãe.)**  
 ***Context:*** **e.g. pointing at family photographs (p.ex. a apontar para fotos da família)**  
 
-* [![gae3](/images/gae3.PNG)](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
+* [![gae3](/images/gae3.PNG){:height="60px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
 (No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)  
 
 
-#### Games
-(1). [![fmme](/images/fmme.PNG)](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
+#### Exercícios - listening (compreensão do oral)
 
-(2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
-Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.
+(1). [![fmlvwk1](/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1b](/images/fmlvwk1b.PNG)](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)   
 
+(2). [![fmme](/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
+
+
+#### Exercícios de Leitura
+
+* [![fmlvwk3](/images/fmlvwk3.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb)  
+
+* [![fmlvwk2](/images/fmlvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/My_family_al929im)
+
+* [![fmlvwk4](/images/fmlvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf)
+
+<!--(2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
+Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.-->
+
+* [![fmlvwk6](/images/fmlvwk6.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf)
 (3). [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
 Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images/efgfm2.PNG) to start.  
 
@@ -42,8 +56,10 @@ Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images
 
 Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:/Click on ![efgfm3](/images/efgfm3.PNG) if you want to add more words:  aunt (tia); uncle (tio); cousin (primo/a)  
 
-(4). [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
-Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias. Este jogo é muito rápido. Infelizmente, não há forma de ajustar a velocidade./This game asks e.g. 'Where's Veronica's mum?' Click on the picture of the mum/mother in the family tree. There are 4 families. This game is very fast. Unfortunately there is no way to adjust the speed.  
+* [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
+Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias. É muito rápido. Infelizmente, não há forma de ajustar a velocidade.
+
+<!--/This game asks e.g. 'Where's Veronica's mum?' Click on the picture of the mum/mother in the family tree. There are 4 families. This game is very fast. Unfortunately there is no way to adjust the speed.-->  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
