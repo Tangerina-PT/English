@@ -27,7 +27,7 @@
 <!--***Context:*** **e.g. pointing at family photographs (p.ex. a apontar para fotos da família)**-->  
 
 * [![gae3](/images/gae3.PNG){:height="60px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
-<!--(No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)-->  
+<!--(No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)-->
 ***Avaliação:*** Consegues responder a perguntas sobre fotografias da tua família? p.ex. 'Who's this?' - 'It's my mummy.'  
 
 #### Exercícios - listening (compreensão do oral)
