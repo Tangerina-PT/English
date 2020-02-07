@@ -18,7 +18,7 @@
 #### Song
 
 [![elffm1](/images/elffm1.png){:height="60px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Canta [a canção da família.](https://www.youtube.com/watch?v=GiRUF7hvWuM)/ Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
-Avaliação: Já consegues cantar desligando o som no vídeo?    
+***Avaliação:*** Já consegues cantar desligando o som no vídeo?    
 
 #### Language
 
@@ -28,7 +28,7 @@ Avaliação: Já consegues cantar desligando o som no vídeo?
 
 * [![gae3](/images/gae3.PNG){:height="60px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
 <!--(No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)-->  
-Avaliação: Consegues responder a perguntas sobre fotografias da tua família? p.ex. 'Who's this?' - 'It's my mummy.'  
+***Avaliação:*** Consegues responder a perguntas sobre fotografias da tua família? p.ex. 'Who's this?' - 'It's my mummy.'  
 
 #### Exercícios - listening (compreensão do oral)
 
