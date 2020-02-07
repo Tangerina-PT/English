@@ -12,13 +12,14 @@
 
 ### Classroom Objects
 
-***Vocabulário prióritário:*** pen, pencil, pencil case, eraser, book, table, chair, scissors, glue, ruler, crayon, teacher  
+***Vocab.:*** pen, pencil, pencil case, eraser, book, table, chair, scissors, glue, ruler, crayon, teacher  
 ***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
-e.g. Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
+p.ex. Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
 
 * [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
 
-Video chants
+#### Video chants
+
 * [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE "pencil (lápis), book (livro), brush (pincel), ruler (régua)") 
 * [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)")
 
@@ -26,7 +27,7 @@ Video chants
 
 <!---(2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
-Games  
+#### Games (Jogos)  
 
 * [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)   
 Escuta. Encontra o objecto antes do objecto ficar colorido.  
@@ -39,7 +40,7 @@ NB: Este jogo chama um estojo "pencil box" em vez do nome mais comum/actual "pen
 Play three or four times to use all the words.  
 Joga três ou quatro vezes para usar todas as palavras.-->
 
-Exercícios
+#### Exercises (Exercícios)
 
 * [![colvwk1](/images/colvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz) [![colvwk1b](/images/colvwk1b.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)   
 [Compreensão do oral/'Listening'](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)  
@@ -50,7 +51,7 @@ Exercícios
 * [![colvwk3](/images/colvwk3.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv) [![colvwk3b](/images/colvwk3c.PNG){:height="160px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)  
 [Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)  
 
-Desafio 'extra'
+#### Desafio 'extra'
 
 * [![colvwk4](/images/colvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz) [![colvwk4b](/images/colvwk4c.PNG){:height="120px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
 [Listening/leitura/escrita/oral](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
