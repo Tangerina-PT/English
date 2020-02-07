@@ -27,7 +27,7 @@ Auto-avaliação: (1). Já consegues cantar desligando o som no vídeo?
 ***Context:*** **e.g. pointing at family photographs (p.ex. a apontar para fotos da família)**  
 
 * [![gae3](/images/gae3.PNG){:height="60px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
-(No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)  
+<!--(No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)-->  
 
 
 #### Exercícios - listening (compreensão do oral)
@@ -43,7 +43,7 @@ Auto-avaliação: (1). Já consegues cantar desligando o som no vídeo?
 
 * [![fmlvwk2](/images/fmlvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/My_family_al929im)
 
-* [![fmlvwk4](/images/fmlvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf)
+* [![fmlvwk4](/images/fmlvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf)  
 
 <!--(2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
 Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.-->
@@ -57,9 +57,11 @@ Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images
 Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:/Click on ![efgfm3](/images/efgfm3.PNG) if you want to add more words:  aunt (tia); uncle (tio); cousin (primo/a)  
 
 * [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
-Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias. É muito rápido. Infelizmente, não há forma de ajustar a velocidade.
+Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias.  
+***NOTA*** É muito rápido. Infelizmente, não há forma de ajustar a velocidade.
 
-<!--/This game asks e.g. 'Where's Veronica's mum?' Click on the picture of the mum/mother in the family tree. There are 4 families. This game is very fast. Unfortunately there is no way to adjust the speed.-->  
+<!--/This game asks e.g. 'Where's Veronica's mum?' Click on the picture of the mum/mother in the family tree. There are 4 families.  
+ This game is very fast. Unfortunately there is no way to adjust the speed.-->  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
