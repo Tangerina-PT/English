@@ -48,8 +48,9 @@ Auto-avaliação: (1). Já consegues cantar desligando o som no vídeo?
 <!--(2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
 Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.-->
 
-* [![fmlvwk6](/images/fmlvwk6.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf)
-(3). [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
+* [![fmlvwk6](/images/fmlvwk6.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf)  
+
+* [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
 Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images/efgfm2.PNG) to start.  
 
 ***Extensões opcionais/Optional extensions:***  
