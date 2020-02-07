@@ -14,11 +14,12 @@
 
 #### Song
 [![elffm1](/images/elffm1.png){:height="60px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
-Auto-avaliação: (1). Já consegues cantar toda a canção sem o vídeo? (2). Consegues levantar as 'marionetas de pau' da família enquanto cantares?/Can you lift up the correct family stick puppets while you sing?  
+Avaliação: (1). Já consegues cantar desligando o som no vídeo?  
+<!--Auto-avaliação: (1). Já consegues cantar toda a canção sem o vídeo? (2). Consegues levantar as 'marionetas de pau' da família enquanto cantares?/Can you lift up the correct family stick puppets while you sing?-->  
 
 #### Video
 [![gae3](/images/gae3.PNG){:height="60px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs) Watch [Gogo's Adventures 3.](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
-Auto-avaliação: (1). Consegues responder a perguntas ao apontar para fotografias da tua família? por exemplo -'Who's this?'-'My mummy.'  
+Avaliação: (1). Consegues dizer quem é quem em fotografias da tua família? p.ex.'My mummy.'  
 
 #### Games
 (1). [![fmlvwk1](/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1b](/images/fmlvwk1b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
@@ -33,7 +34,8 @@ Infelizmente o tempo é muito curto para este jogo. Tenta várias vezes mas não
 This game asks e.g.(Este jogo pergunta p.ex.) ‘Where’s Veronica’s mum?’(Onde está a mãe da Veronica?). Click on the picture of the mum/mummy/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)-->
 
 ***
-Vocabulário: mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô)  
+***Vocab.:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô); baby (bébé)  
+***Vocab. min.:*** mummy, daddy, brother, sister, grandma, grandpa  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
