@@ -21,7 +21,7 @@ Auto-avaliação: (1). Já consegues cantar toda a canção sem o vídeo? (2). C
 Auto-avaliação: (1). Consegues responder a perguntas ao apontar para fotografias da tua família? por exemplo -'Who's this?'-'My mummy.'  
 
 #### Games
-(1). [![fmlvwk1](/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1b](/images/fmlvwk1b.PNG)](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
+(1). [![fmlvwk1](/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1b](/images/fmlvwk1b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
 
 (2). [![fmme](/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
 
