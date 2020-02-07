@@ -50,7 +50,7 @@ Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na p
 
 * [![fmlvwk6](/images/fmlvwk6.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf)  
 
-* [![efgfm](/images/efgfm.PNG)](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
+* [![efgfm](/images/efgfm.PNG){:height="60px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
 Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images/efgfm2.PNG) to start.  
 
 ***Extensões opcionais/Optional extensions:***  
@@ -58,7 +58,7 @@ Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images
 Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:  
 aunt (tia); uncle (tio); cousin (primo/a)  
 
-* [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
+* [![wfam1](/images/wfam1.PNG){:height="60px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
 Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’).  
 Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias diferentes.  
 ***NOTA*** É muito rápido e infelizmente, não há forma de ajustar a velocidade.
