@@ -14,12 +14,12 @@
 
 #### Song
 [![elffm1](/images/elffm1.png){:height="60px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
-Avaliação: (1). Já consegues cantar desligando o som no vídeo?  
+***Avaliação:*** Já consegues cantar desligando o som no vídeo?  
 <!--Auto-avaliação: (1). Já consegues cantar toda a canção sem o vídeo? (2). Consegues levantar as 'marionetas de pau' da família enquanto cantares?/Can you lift up the correct family stick puppets while you sing?-->  
 
 #### Video
 [![gae3](/images/gae3.PNG){:height="60px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs) Watch [Gogo's Adventures 3.](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
-Avaliação: (1). Consegues dizer quem é quem em fotografias da tua família? p.ex.'My mummy.'  
+***Avaliação:*** Consegues dizer quem é quem em fotografias da tua família? p.ex.'My mummy.'  
 
 #### Games
 (1). [![fmlvwk1](/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1b](/images/fmlvwk1b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
