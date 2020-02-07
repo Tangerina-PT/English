@@ -54,11 +54,13 @@ Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images
 
 ***Extensões opcionais/Optional extensions:***  
 
-Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:/Click on ![efgfm3](/images/efgfm3.PNG) if you want to add more words:  aunt (tia); uncle (tio); cousin (primo/a)  
+Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:  
+aunt (tia); uncle (tio); cousin (primo/a)  
 
 * [![wfam1](/images/wfam1.PNG)](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
-Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’). Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias.  
-***NOTA*** É muito rápido. Infelizmente, não há forma de ajustar a velocidade.
+Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’).  
+Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias diferentes.  
+***NOTA*** É muito rápido e infelizmente, não há forma de ajustar a velocidade.
 
 <!--/This game asks e.g. 'Where's Veronica's mum?' Click on the picture of the mum/mother in the family tree. There are 4 families.  
  This game is very fast. Unfortunately there is no way to adjust the speed.-->  
