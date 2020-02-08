@@ -12,12 +12,12 @@
 
 ### Classroom Objects
 
-***Vocab. min.:*** pen (caneta), pencil (lápis), pencil case (estojo), eraser (borracha), book (livro), table (mesa), chair (cadeira), scissors (tesoura), glue (cola)
+#### Song  
 
-#### Song
 * [![clean](/images/clean.png){:height="60px"}](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
 
-#### Video chants
+#### Video chants  
+
 * [![pbbr](/images/pbbr.PNG){:height="60px"}](https://www.youtube.com/watch?v=MuoJnFq9JwE "pencil (lápis), book (livro), brush (pincel), ruler (régua)") [![kbss](/images/kbss.PNG){:height="60px"}](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [![mlss](/images/mlss.PNG){:height="60px"}](https://www.youtube.com/watch?v=g7kK989HiRQ "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")
 
 <!---(2). [![weco](/images/weco.PNG){:height="60px"}](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
@@ -40,6 +40,7 @@ Joga três ou quatro vezes para usar todas as palavras.-->
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares ou o número de vezes é preciso fazer cada exercício.--> 
 
 ***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
+***Vocab. min.:*** pen (caneta), pencil (lápis), pencil case (estojo), eraser (borracha), book (livro), table (mesa), chair (cadeira), scissors (tesoura), glue (cola)
 
 ***
 
