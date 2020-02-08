@@ -17,29 +17,29 @@
 <!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 (2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
 
-(1). [![fcety](/images/fkety.PNG){:height="60px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) (2). [![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) (3). [![fvpp](/images/fvpp.PNG){:height="60px"}](https://www.youtube.com/watch?v=YI6VAsGlk7U)  
+[![fcety](/images/fkety.PNG){:height="60px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) [![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [![fvpp](/images/fvpp.PNG){:height="60px"}](https://www.youtube.com/watch?v=YI6VAsGlk7U)  
 <!---Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer?  
 Can you name each toy before the picture appears?-->  
 
 #### Jogos -'Listening'/ Compreensão do Oral
 
-* [![toyslvwk1](/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
+[![toyslvwk1](/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 
-* [![gwtme](/images/gwtme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
+[![gwtme](/images/gwtme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
 
-* [![gwtme2](/images/gwtme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
+[![gwtme2](/images/gwtme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
 
-* [![mety](/images/mety.PNG){:height="60px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG){:height="35px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
+[![mety](/images/mety.PNG){:height="60px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG){:height="35px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
 
 #### Trabalhar a leitura
 
-(1). [![toyslvwk5](/images/toyslvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu) [![toyslvwk5b](/images/toyslvwk5b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)   
- 
-(2). [![toyslvwk4](/images/toyslvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li) [![toyslvwk4b](/images/toyslvwk4b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li)
+[![toyslvwk5](/images/toyslvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu) [![toyslvwk5b](/images/toyslvwk5b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)   
 
-(3). [![toyslvwk2](/images/toyslvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud) [![toyslvwk4b](/images/toyslvwk4b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud)  
+[![toyslvwk4](/images/toyslvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li) [![toyslvwk4b](/images/toyslvwk4b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li)  
 
-(4). [![tyqz1](/images/tyqz1.PNG){:height="60px"}](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)
+[![toyslvwk2](/images/toyslvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud) [![toyslvwk4b](/images/toyslvwk4b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud)  
+
+[![tyqz1](/images/tyqz1.PNG){:height="60px"}](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)  
 
 <!---#### Do you like to play memory? / Gostas de jogar 'memória'?  
 (1). [![gwtme](/images/gwtme.PNG)](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [Liga as **palavras** com as imagens./Match the **words** with the pictures.](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)
@@ -57,16 +57,16 @@ Can you name each toy before the picture appears?-->
 [![bcty1](/images/bcty1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/toys-1) [Part 1](https://learnenglishkids.britishcouncil.org/en/word-games/toys-1)  
 [![bcty2](/images/bcty2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/toys-2) [Part 2](https://learnenglishkids.britishcouncil.org/en/word-games/toys-2)-->
 
-(1). [![atsc](/images/atsc.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysSpelling.htm) [Rearrange the letters to spell the words](http://www.anglomaniacy.pl/toysSpelling.htm)^^
+[![atsc](/images/atsc.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysSpelling.htm) [Rearrange the letters to spell the words](http://www.anglomaniacy.pl/toysSpelling.htm)^^  
 
-(2). [![lcty](/images/lcty.PNG){:height="60px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1](/images/lcgen1.PNG){:height="40px"}](http://www.learningchocolate.com/content/childrens-toys)   
+[![lcty](/images/lcty.PNG){:height="60px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1](/images/lcgen1.PNG){:height="40px"}](http://www.learningchocolate.com/content/childrens-toys)   
 <!---Lê cada palavra, depois clica na imagem do altifalante para verificar a tua pronûncia./Read each word then click on the picture of the speaker next to the word to check your pronunciation.   
 Optional extra challenge: Can you do all 5 activities?-->
-Desafio opcional extra: Consegues fazer todas as actividades?  
-Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG)
+Desafio opcional extra: Consegues fazer todas as actividades? Clica em  
+![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) e ![lcdi](/images/lcdi.PNG)
 
-(3). [![hmty](/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm)  
-Já consegues soletrar as palavras para brinquedos em inglês? Então estás pronto para [adivinhar as palavras mistério](http://www.anglomaniacy.pl/toysHangman.htm)/Can you spell the words? If so, you are ready to [play hangman](http://www.anglomaniacy.pl/toysHangman.htm). Que brinquedo será?  
+(3). [![hmty](/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm) [![hmtyb](/images/hmtyb.PNG){:height="40px"}](http://www.anglomaniacy.pl/toysHangman.htm)  
+<!---Já consegues soletrar as palavras para brinquedos em inglês? Então estás pronto para [adivinhar as palavras mistério](http://www.anglomaniacy.pl/toysHangman.htm)/Can you spell the words? If so, you are ready to [play hangman](http://www.anglomaniacy.pl/toysHangman.htm). Que brinquedo será?-->  
 
 ^^ Funciona utilizando Internet Explorer. Infelizmente não funciona com todos os browsers.  
 
