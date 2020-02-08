@@ -37,8 +37,8 @@ Joga três ou quatro vezes para usar todas as palavras.-->
 *REMEMBER* - There's no rush. It doesn't matter how long it takes to find the pairs or how many times you do each exercise.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares ou o número de vezes é preciso fazer cada exercício.--> 
 
-***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
 ***Vocab. min.:*** pen (caneta), pencil (lápis), pencil case (estojo), eraser (borracha), book (livro), table (mesa), chair (cadeira), scissors (tesoura), glue (cola)
+***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
 
 ***
 
