@@ -10,12 +10,7 @@
 </script>
 </head>
 
-### Classroom Objects
-
-***Vocab.:*** pen, pencil, pencil case, eraser, book, table, chair, scissors, glue, ruler, crayon, teacher  
-
-***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
-p.ex. Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
+### Classroom Objects  
 
 * [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
 
@@ -46,12 +41,12 @@ Joga três ou quatro vezes para usar todas as palavras.-->
 * [![colvwk2](/images/colvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt) [![colvwk2b](/images/colvwk2b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt)  
 <!---[Leitura/reading](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt)-->  
 
-* [![colvwk3](/images/colvwk3.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv) [![colvwk3b](/images/colvwk3b.PNG){:height="160px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)  
+* [![colvwk3](/images/colvwk3.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv) [![colvwk3b](/images/colvwk3b.PNG){:height="130px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)  
 <!---[Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)-->  
 
 #### Desafio 'extra'
 
-* [![colvwk4](/images/colvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz) [![colvwk4b](/images/colvwk4b.PNG){:height="120px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
+* [![colvwk4](/images/colvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz) [![colvwk4b](/images/colvwk4b.PNG){:height="90px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
 [Listening/leitura/escrita/oral](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
 
 * [![colvwk5](/images/colvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)  [![colvwk5b](/images/colvwk5b.PNG){:height="140px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)   
@@ -69,6 +64,9 @@ Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/class
 * [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)-->  
 
 ***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
+***Vocab.:*** pen, pencil, pencil case, eraser, book, table, chair, scissors, glue, ruler, crayon, teacher  
+***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
+***p.ex.*** Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
