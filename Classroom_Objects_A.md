@@ -12,7 +12,7 @@
 
 ### Classroom Objects
 
-***Vocab.:*** pen, pencil, pencil case, eraser, book, table, chair, scissors, glue
+***Vocab. min.:*** pen, pencil, pencil case, eraser, book, table, chair, scissors, glue
 
 #### Song
 * [![clean](/images/clean.png){:height="60px"}](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
@@ -35,9 +35,8 @@ Play three or four times to use all the words.
 Joga três ou quatro vezes para usar todas as palavras.-->
 
 * [![colvwk1](/images/colvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz) [![colvwk1b](/images/colvwk1b.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)   
-[Compreensão do oral/'Listening'](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)  
-
-<!---*REMEMBER* - There's no rush. It doesn't matter how long it takes to find the pairs or how many times you do each exercise.  
+<!--[Compreensão do oral/'Listening'](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)  
+*REMEMBER* - There's no rush. It doesn't matter how long it takes to find the pairs or how many times you do each exercise.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares ou o número de vezes é preciso fazer cada exercício.--> 
 
 ***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
