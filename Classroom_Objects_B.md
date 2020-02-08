@@ -13,6 +13,7 @@
 ### Classroom Objects
 
 ***Vocab.:*** pen, pencil, pencil case, eraser, book, table, chair, scissors, glue, ruler, crayon, teacher  
+
 ***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
 p.ex. Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
 
@@ -20,21 +21,18 @@ p.ex. Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu
 
 #### Video chants
 
-* [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE "pencil (lápis), book (livro), brush (pincel), ruler (régua)") 
-* [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)")
+* [![pbbr](/images/pbbr.PNG){:height="60px"}](https://www.youtube.com/watch?v=MuoJnFq9JwE "pencil (lápis), book (livro), brush (pincel), ruler (régua)") [![kbss](/images/kbss.PNG){:height="60px"}](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [![mlss](/images/mlss.PNG){:height="60px"}](https://www.youtube.com/watch?v=g7kK989HiRQ "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")
 
-* [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)") [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)") (Opcional: para quem queira aprender mais)
+<!---(2). [![weco](/images/weco.PNG){:height="60px"}](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
 <!---(2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
 #### Games (Jogos)  
 
-* [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)   
-Escuta. Encontra o objecto antes do objecto ficar colorido.  
-Listen. Find the object before it appears in colour.  
+* [![ssme2](/images/ssme2.PNG){:height="60px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [![ssme2b](/images/ssme2b.PNG){:height="40px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
 
-* [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [Game 1](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
-NB: Este jogo chama um estojo "pencil box" em vez do nome mais comum/actual "pencil case".  
+* [![find](/images/find.PNG){:height="60px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![findb](/images/findb.PNG){:height="40px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
+<!--Listen. Find the object before it appears in colour.-->  
 
 <!---* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/ "glue (cola), stapler (agrafador), tape (fita cola), school bag (mochila/saco de escola), crayon (lápis de cera), triangle (triângulo), protractor (), calculator (calculador), paper (folha de papel), scissors (tesoura), notebook (caderno)")  
 Play three or four times to use all the words.  
@@ -43,19 +41,18 @@ Joga três ou quatro vezes para usar todas as palavras.-->
 #### Exercises (Exercícios)
 
 * [![colvwk1](/images/colvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz) [![colvwk1b](/images/colvwk1b.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)   
-[Compreensão do oral/'Listening'](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)  
+<!---[Compreensão do oral/'Listening'](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)-->  
 
 * [![colvwk2](/images/colvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt) [![colvwk2b](/images/colvwk2b.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt)  
-[Leitura/reading](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt)  
+<!---[Leitura/reading](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt)-->  
 
 * [![colvwk3](/images/colvwk3.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv) [![colvwk3b](/images/colvwk3c.PNG){:height="160px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)  
-[Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)  
+<!---[Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)-->  
 
 #### Desafio 'extra'
 
 * [![colvwk4](/images/colvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz) [![colvwk4b](/images/colvwk4c.PNG){:height="120px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
 [Listening/leitura/escrita/oral](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
-Nota: o reconhecimento da produção oral no último exercício nem sempre funciona bem   
 
 * [![colvwk5](/images/colvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)  [![colvwk5b](/images/colvwk5c.PNG){:height="140px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)   
 [Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)  
