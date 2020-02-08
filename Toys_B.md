@@ -17,7 +17,7 @@
 <!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 (2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
 
-[![fcety](/images/fkety.PNG){:height="60px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) [![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [![fvpp](/images/fvpp.PNG){:height="60px"}](https://www.youtube.com/watch?v=YI6VAsGlk7U)  
+(1). [![fcety](/images/fkety.PNG){:height="60px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) (2). [![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) (3). [![fvpp](/images/fvpp.PNG){:height="60px"}](https://www.youtube.com/watch?v=YI6VAsGlk7U)  
 <!---Consegues dizer a palavra para cada brinquedo em inglês antes da imagem aparecer?  
 Can you name each toy before the picture appears?-->  
 
@@ -35,9 +35,9 @@ Can you name each toy before the picture appears?-->
 
 [![toyslvwk5](/images/toyslvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu) [![toyslvwk5b](/images/toyslvwk5b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)   
 
-[![toyslvwk4](/images/toyslvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li) [![toyslvwk4b](/images/toyslvwk4b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li)  
+[![toyslvwk4](/images/toyslvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li) [![toyslvwk4b](/images/toyslvwk4b.PNG){:height="56px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li)  
 
-[![toyslvwk2](/images/toyslvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud) [![toyslvwk4b](/images/toyslvwk4b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud)  
+[![toyslvwk2](/images/toyslvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud) [![toyslvwk4b](/images/toyslvwk4b.PNG){:height="58px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud)  
 
 [![tyqz1](/images/tyqz1.PNG){:height="60px"}](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)  
 
