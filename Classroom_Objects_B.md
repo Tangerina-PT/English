@@ -57,10 +57,10 @@ Joga três ou quatro vezes para usar todas as palavras.-->
 * [![colvwk5](/images/colvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)  [![colvwk5b](/images/colvwk5c.PNG){:height="140px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)   
 [Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)  
 
-*REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
+<!--*REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
 
-<!--3. Match the words to the pictures: [Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1) [![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2) [![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
+3. Match the words to the pictures: [Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1) [![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2) [![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
 4. Optional extra challenges / Desafios extras opcionais:  
 Do you know your classroom objects and you need an extra challenge? / Já sabes os objectos da sala de aula e precisas de mais um desafio?
 * Play the [‘questions’](http://www.mes-games.com/classroom1.phpd) [![tcss](/images/tcss.PNG)](http://www.mes-games.com/classroom1.phpd) and [‘spelling’](http://www.mes-games.com/classroom1.phpd) [![sssp](/images/sssp.PNG)](http://www.mes-games.com/classroom1.phpd) games:/
@@ -68,7 +68,7 @@ Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/class
 * [Word search:](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/) [![cows](/images/cows.PNG)](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/)
 * [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)-->  
 
-Significado de 'chant': repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
+***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
