@@ -27,25 +27,22 @@
 
 #### Games/Exercises (Jogos/Exercícios)  
 
-* [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)   
-Listen. Find the object before it appears in colour.  
-Escuta. Encontra o objecto antes do objecto ficar colorido.  
+* [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![findb](/images/findb.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
+<!--Listen. Find the object before it appears in colour.-->
+  
+* [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [![ssme2b](/images/ssme2b.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
 
-* [![ssme2](/images/ssme2.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [Game 1](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
-NB: Este jogo chama um estojo "pencil box" em vez do nome mais comum/actual "pencil case".  
-
-<!---* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/ "glue (cola), stapler (agrafador), tape (fita cola), school bag (mochila/saco de escola), crayon (lápis de cera), triangle (triângulo), protractor (), calculator (calculador), paper (folha de papel), scissors (tesoura), notebook (caderno)")-->  
+<!---* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/ "glue (cola), stapler (agrafador), tape (fita cola), school bag (mochila/saco de escola), crayon (lápis de cera), triangle (triângulo), protractor (), calculator (calculador), paper (folha de papel), scissors (tesoura), notebook (caderno)")
 Play three or four times to use all the words.  
-Joga três ou quatro vezes para usar todas as palavras.
+Joga três ou quatro vezes para usar todas as palavras.-->
 
 * [![colvwk1](/images/colvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz) [![colvwk1b](/images/colvwk1b.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)   
 [Compreensão do oral/'Listening'](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)  
 
-*REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
-*LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
+<!---*REMEMBER* - There's no rush. It doesn't matter how long it takes to find the pairs or how many times you do each exercise.  
+*LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares ou o número de vezes é preciso fazer cada exercício.--> 
 
-
-Significado de 'chant': repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
+***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
 
 ***
 
