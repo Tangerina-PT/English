@@ -12,7 +12,7 @@
 
 ### Classroom Objects
 
-***Vocab. min.:*** pen, pencil, pencil case, eraser, book, table, chair, scissors, glue
+***Vocab. min.:*** pen (caneta), pencil (lápis), pencil case (estojo), eraser (borracha), book (livro), table (mesa), chair (cadeira), scissors (tesoura), glue (cola)
 
 #### Song
 * [![clean](/images/clean.png){:height="60px"}](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
