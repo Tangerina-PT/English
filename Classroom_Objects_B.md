@@ -11,22 +11,19 @@
 </head>
 
 ### Classroom Objects  
-
-* [![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
+[![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
 
 #### Video chants
-
-* [![pbbr](/images/pbbr.PNG){:height="60px"}](https://www.youtube.com/watch?v=MuoJnFq9JwE "pencil (lápis), book (livro), brush (pincel), ruler (régua)") [![kbss](/images/kbss.PNG){:height="60px"}](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [![mlss](/images/mlss.PNG){:height="60px"}](https://www.youtube.com/watch?v=g7kK989HiRQ "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")
+[![pbbr](/images/pbbr.PNG){:height="60px"}](https://www.youtube.com/watch?v=MuoJnFq9JwE "pencil (lápis), book (livro), brush (pincel), ruler (régua)") [![kbss](/images/kbss.PNG){:height="60px"}](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [![mlss](/images/mlss.PNG){:height="60px"}](https://www.youtube.com/watch?v=g7kK989HiRQ "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")
 
 <!---(2). [![weco](/images/weco.PNG){:height="60px"}](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
 <!---(2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
 #### Games (Jogos)  
+[![ssme2](/images/ssme2.PNG){:height="60px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [![ssme2b](/images/ssme2b.PNG){:height="40px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
 
-* [![ssme2](/images/ssme2.PNG){:height="60px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [![ssme2b](/images/ssme2b.PNG){:height="40px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
-
-* [![find](/images/find.PNG){:height="60px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![findb](/images/findb.PNG){:height="40px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
+[![find](/images/find.PNG){:height="60px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![findb](/images/findb.PNG){:height="40px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
 <!--Listen. Find the object before it appears in colour.-->  
 
 <!---* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/ "glue (cola), stapler (agrafador), tape (fita cola), school bag (mochila/saco de escola), crayon (lápis de cera), triangle (triângulo), protractor (), calculator (calculador), paper (folha de papel), scissors (tesoura), notebook (caderno)")  
@@ -34,22 +31,20 @@ Play three or four times to use all the words.
 Joga três ou quatro vezes para usar todas as palavras.-->
 
 #### Exercises (Exercícios)
-
-* [![colvwk1](/images/colvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz) [![colvwk1b](/images/colvwk1b.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)   
+[![colvwk1](/images/colvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz) [![colvwk1b](/images/colvwk1b.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)   
 <!---[Compreensão do oral/'Listening'](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)-->  
 
-* [![colvwk2](/images/colvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt) [![colvwk2b](/images/colvwk2b.PNG){:height="55px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt)  
+[![colvwk2](/images/colvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt) [![colvwk2b](/images/colvwk2b.PNG){:height="55px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt)  
 <!---[Leitura/reading](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(drag_and_drop)_ya35264kt)-->  
 
-* [![colvwk3](/images/colvwk3.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv) [![colvwk3b](/images/colvwk3b.PNG){:height="130px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)  
+[![colvwk3](/images/colvwk3.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv) [![colvwk3b](/images/colvwk3b.PNG){:height="130px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)  
 <!---[Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_hq35966pv)-->  
 
 #### Desafio 'extra'
-
-* [![colvwk4](/images/colvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz) [![colvwk4b](/images/colvwk4b.PNG){:height="90px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
+[![colvwk4](/images/colvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz) [![colvwk4b](/images/colvwk4b.PNG){:height="90px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)  
 <!--[Listening/leitura/escrita/oral](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/School_Supplies_(drag_and_drop,_listen,_write,_speak)_jn362lz)-->  
 
-* [![colvwk5](/images/colvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)  [![colvwk5b](/images/colvwk5b.PNG){:height="120px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)   
+[![colvwk5](/images/colvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)  [![colvwk5b](/images/colvwk5b.PNG){:height="120px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)   
 <!--[Listening/leitura/escrita](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_2_ip35990da)-->  
 
 <!--*REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
