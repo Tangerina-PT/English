@@ -35,9 +35,11 @@ Topics
 
 ***
 
-#### [Topic 12 - Food](https://tangerina-pt.github.io/English/Shapes_A)
-#### [Topic 11 - Shapes](https://tangerina-pt.github.io/English/Shapes_A)
-### [Topic 7 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A)
+#### [Topic 13 - Food](https://tangerina-pt.github.io/English/Food_A)
+#### [Topic 12 - Shapes](https://tangerina-pt.github.io/English/Shapes_A) [![shape](/images/shape.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Shapes_A)
+### [Topic 11 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A) [![prep](/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_A)
+### [Topic 10 - Prepositions of Place](https://tangerina-pt.github.io/English/Prep_Place_A) [![prep](/images/prep.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_A)
+
 -->
 
 #### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A) [![classo](/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_A)
