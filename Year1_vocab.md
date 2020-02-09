@@ -40,9 +40,9 @@ Topics
 ### [Topic 7 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A)
 -->
 
-#### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A)
-#### [Topic 8 - Toys](https://tangerina-pt.github.io/English/Toys_A)
-#### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A)
+#### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A) [![classo](/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_A)
+#### [Topic 8 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)
+#### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A) [![elffm1](/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_A)
 
 ***
 
