@@ -16,10 +16,13 @@
 [![mlwe](/images/mlwe.png)](https://www.youtube.com/watch?v=I8GeA3anPdo) Sing the [weather song.](https://www.youtube.com/watch?v=I8GeA3anPdo)  
 
 #### Games
-(1). [![bcwe1](/images/bcwe1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1)  
-For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)
+(1). [![weme](/images/weme.PNG)](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Play memory.](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  
 
-(2). [![weme](/images/weme.PNG)](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Play memory.](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  
+(2). [![bcwe1](/images/bcwe1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1)  
+(Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)    
+
+
+<!-- For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. -->
 
 [Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.]
 
