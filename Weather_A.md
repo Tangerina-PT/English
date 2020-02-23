@@ -16,7 +16,7 @@
 [![mlwe](/images/mlwe.png){:height="60px"}](https://www.youtube.com/watch?v=I8GeA3anPdo) Sing the [weather song.](https://www.youtube.com/watch?v=I8GeA3anPdo)  
 
 #### Games
-(1). [![weme](/images/weme.PNG){:height="60px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Jogo de memória 1/Memory Game 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  
+(1). [![weme](/images/weme.PNG){:height="60px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Jogo de memória 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) Clicar e rolar para baixo. 
 
 (2). [![weme2](/images/weme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória 2/Memory Game 2](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)
 
