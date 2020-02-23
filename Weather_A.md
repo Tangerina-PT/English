@@ -21,7 +21,7 @@
 (2). [Jogo de memória 2](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [![weme2](/images/weme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) 
 
 (3). [Junta as palavras e as imagens.](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1) [![bcwe1](/images/bcwe1.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1)   
-(Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)    
+(Não é preciso poder ler as palavras. Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)    
 
 
 <!-- For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. -->
