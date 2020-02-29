@@ -14,24 +14,24 @@
 
 #### Canta a nossa canção do alfabeto
 
-* [![alph](/images/alph.png){:height="60px"}](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
+[![alph](/images/alph.png){:height="60px"}](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
 
 #### Joga os jogos para trabalhar os nomes das letras em inglês
 
-* [![tdalph1](/images/tdalph1.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html) [![tdalph2](/images/tdalph2.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html)  
+[![tdalph1](/images/tdalph1.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html) [![tdalph2](/images/tdalph2.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html)  
 
-* [![mmalph0](/images/mmalph0.PNG){:height="60px"}](https://www.abcya.com/games/alphabet_matching_game) [![mmalph5](/images/mmalph5.PNG){:height="110px"}](https://www.abcya.com/games/alphabet_matching_game)  
+[![mmalph0](/images/mmalph0.PNG){:height="60px"}](https://www.abcya.com/games/alphabet_matching_game) [![mmalph5](/images/mmalph5.PNG){:height="110px"}](https://www.abcya.com/games/alphabet_matching_game)  
 
 #### Pratica soletrar o teu nome em inglês
 
 ***Question:*** **'How do you spell your name?'('Como é que se escreve o teu nome?')**  
 ***Answer:*** **'It's 'ess' 'ei' 'el' 'el' 'uai'' (SALLY)**  
 
-* ![alph_p](/images/alph_p.PNG){:width="600px"}  
+![alph_p](/images/alph_p.PNG){:width="600px"}  
 
-* [![frna](/images/frna.PNG){:height="60px"}](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
+[![frna](/images/frna.PNG){:height="60px"}](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)  
 
-* Desafio extra: Consegues soletrar os nomes de outros membros da tua família? 
+Desafio extra: Consegues soletrar os nomes de outros membros da tua família? 
 
 <!--/ Extra challenge: Spell the names of other members of your family.
 [![aant](/images/aant.PNG){:height="60px"}](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)^^
