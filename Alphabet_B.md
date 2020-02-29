@@ -12,26 +12,37 @@
 
 ### The Alphabet
 
-Aprende a soletrar em inglês./Learn to spell aloud in English.
+Aprende a soletrar em voz alta em inglês./Learn to spell aloud in English.
+
+#### Canta a nossa canção do alfabeto
+
+* [![alph](/images/alph.png){:height="60px"}](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
+
+#### Joga os jogos para trabalhar os nomes das letras em inglês
+
+* [![tdalph1](/images/tdalph1.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html) [![tdalph2](/images/tdalph2.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html)  
+
+* [![mmalph0](/images/mmalph0.PNG){:height="60px"}](https://www.abcya.com/games/alphabet_matching_game)  
+[![mmalph5](/images/mmalph5.PNG){:height="60px"}]
+
+#### Pratica soletrar o teu nome em inglês
+
+![alph_p](/images/alph_p.PNG){:width="640px"}  
 
 ***Question:*** **'How do you spell your name?'('Como é que se escreve o teu nome?')**  
-***Answer:*** **'It's 'ess' 'ei' 'el' 'el' 'uai''**  
+***Answer:*** **'It's 'ess' 'ei' 'el' 'el' 'uai'' (SALLY)**  
 
-1. [![alph](/images/alph.png){:height="60px"}](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
+* [![frna](/images/frna.PNG){:height="60px"}](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
 
-2. [![aant](/images/aant.PNG){:height="60px"}](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)^^
+* Desafio extra: Consegues soletrar os nomes de outros membros da tua família? 
+
+<!--/ Extra challenge: Spell the names of other members of your family.
+[![aant](/images/aant.PNG){:height="60px"}](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)[Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)^^
 * clica em cada letra para ouvir o seu nome / click on each letter to hear its name
 * Começa com o nível **easy** (fácil) / start with the **easy** level
-
-3. [![frna](/images/frna.PNG){:height="60px"}](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
-
 4. Pratica Soletrar o teu nome em voz alta em inglês - clica nas letras no Alphabet Antics para ajudar. / Spell your name aloud in English – click on the letters in Alphabet Antics to help.
-
-5. Desafio extra: Soletra os nomes de outros membros da família./ Extra challenge: Spell the names of other members of your family.
-
 ^^ NB: É preciso Adobe Flash Player para jogar ‘Alphabet Antics. Não funciona em telemóveis e tablets. /You need Adobe Flash Player to play ‘Alphabet Antics’. It doesn't work on phones and tablets.  
-
-![alph_p](/images/alph_p.PNG){:width="640px"}
+(Nota: Infelizmente o jogo de Alphabet Antics já não está activo ![bcaa2](/images/bcaa2.PNG){:height="40px"}]-->
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
