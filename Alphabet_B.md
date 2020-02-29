@@ -12,8 +12,6 @@
 
 ### The Alphabet
 
-Aprende a soletrar em voz alta em inglês./Learn to spell aloud in English.
-
 #### Canta a nossa canção do alfabeto
 
 * [![alph](/images/alph.png){:height="60px"}](https://www.youtube.com/watch?v=Y88p4V_BCEU) [Alphabet Song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
@@ -22,15 +20,14 @@ Aprende a soletrar em voz alta em inglês./Learn to spell aloud in English.
 
 * [![tdalph1](/images/tdalph1.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html) [![tdalph2](/images/tdalph2.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html)  
 
-* [![mmalph0](/images/mmalph0.PNG){:height="60px"}](https://www.abcya.com/games/alphabet_matching_game)  
-[![mmalph5](/images/mmalph5.PNG){:height="60px"}]
+* [![mmalph0](/images/mmalph0.PNG){:height="60px"}](https://www.abcya.com/games/alphabet_matching_game) [![mmalph5](/images/mmalph5.PNG){:height="80px"}](https://www.abcya.com/games/alphabet_matching_game)  
 
 #### Pratica soletrar o teu nome em inglês
 
-![alph_p](/images/alph_p.PNG){:width="640px"}  
-
 ***Question:*** **'How do you spell your name?'('Como é que se escreve o teu nome?')**  
 ***Answer:*** **'It's 'ess' 'ei' 'el' 'el' 'uai'' (SALLY)**  
+
+* ![alph_p](/images/alph_p.PNG){:width="600px"}  
 
 * [![frna](/images/frna.PNG){:height="60px"}](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)
 
