@@ -24,7 +24,7 @@
 
 #### Pratica soletrar o teu nome em inglês
 
-***Question:*** **'How do you spell your name?'('Como é que se escreve o teu nome?')**  
+***Question:*** **'How do you spell your name?'('Como é que se soletra o teu nome?')**  
 ***Answer:*** **'It's 'ess' 'ei' 'el' 'el' 'uai'' (SALLY)**  
 
 ![alph_p](/images/alph_p.PNG){:width="600px"}  
