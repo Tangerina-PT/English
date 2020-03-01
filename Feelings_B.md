@@ -27,6 +27,9 @@
 4. [![wehay2](/images/wehay2.PNG){:height="60px"}](https://www.youtube.com/watch?v=WkswguWRJ5Q)  
 (I'm thirsty/sick/hungry.)
 
+5. [![wkjg](/images/wkjg.PNG){:height="60px"}](https://www.youtube.com/watch?v=GoSq-yZcJ-4) 
+('We're not afraid.'- 'Nós não temos medo.')  
+
 ***
 
 ***Extensão opcional - queres aprender mais?*** **'I'm sleepy.' (Estou sonolento.'); 'I'm surprised.' (Estou supreendido.)'; 'I'm excited.' (Estou muito entusiasmado.); 'I'm bored.' (Estou aborrecido.); 'I'm shy.' ('Estou' tímido.); 'I'm worried' (Estou preocupado.)**  
