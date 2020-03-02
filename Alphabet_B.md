@@ -14,7 +14,7 @@
 
 #### Canta a nossa canção do alfabeto
 
-[![alph](/images/alph.png){:height="60px"}](https://www.youtube.com/watch?v=Y88p4V_BCEU) ![alphavis](/images/alphavis.PNG){:height="40px"}
+[![alph](/images/alph.png){:height="60px"}](https://www.youtube.com/watch?v=Y88p4V_BCEU) ![alphavis](/images/alphavis.PNG){:height="60px"}
 
 #### Joga os jogos para trabalhar os nomes das letras em inglês
 
