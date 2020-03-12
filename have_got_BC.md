@@ -11,16 +11,16 @@
 
 ### Have got / TER
 
-Have you got a pet? – Tens/tem um animal doméstico? <audio src="audio/hyg_pet.m4a" controls preload></audio>  
-Yes, I have.  –  Sim, tenho. <audio src="audio/yih.m4a" controls preload></audio>  
-No, I haven’t.  – Não, não tenho. <audio src="audio/nih.m4a" controls preload></audio>  
-I’ve got a dog. – Eu tenho um cão. <audio src="audio/ivg_dog.m4a" controls preload></audio>  
-
 #### Canta a canção / Sing the song:  
 * [![pet2](/images/pet2.PNG){:height="60px"}](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Have you got a pet? - Tens/tem um animal doméstico?](https://www.youtube.com/watch?v=6qh_qTOgkhY)  
    
 ![pets2b](/images/pets2b.PNG){:height="120px"}  
 Nota: a imagem para 'parrot' está errada - deve ser um papagaio.  
+
+Have you got a pet? – Tens/tem um animal doméstico? <audio src="audio/hyg_pet.m4a" controls preload></audio>  
+Yes, I have.  –  Sim, tenho. <audio src="audio/yih.m4a" controls preload></audio>  
+No, I haven’t.  – Não, não tenho. <audio src="audio/nih.m4a" controls preload></audio>  
+I’ve got a dog. – Eu tenho um cão. <audio src="audio/ivg_dog.m4a" controls preload></audio>  
 
 #### Watch the vídeos:
 
