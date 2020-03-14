@@ -18,10 +18,10 @@
 Nota: a imagem para 'parrot' está errada - deve ser um papagaio.  
 
 <!--Have you got a pet? – Tens/tem um animal doméstico?
-![pets2b](/images/hpettxt.PNG){:height="30px"} <audio src="audio/Pet.m4a" controls preload></audio>-->
+![pets2b](/images/hpettxt.PNG){:height="30px"} <audio src="audio/Pet.m4a" controls="block" preload></audio>-->
 [Have you got a pet](/audio/Pet.m4a)  opens another page-->  
 
-![pets2b](/images/hpettxt.PNG){:height="30px"}<audio src="audio/Pet.m4a" controls=block preload></audio>  
+![pets2b](/images/hpettxt.PNG){:height="30px"}<audio src="audio/Pet.m4a" controls preload></audio>  
 Yes, I have.  –  Sim, tenho. <audio src="audio/Yes_i_have.m4a" controls preload></audio>  
 No, I haven’t.  – Não, não tenho. <audio src="audio/nih.m4a" controls preload></audio>  
 I’ve got a dog. – Eu tenho um cão. <audio src="audio/ivg_dog.m4a" controls preload></audio>  
