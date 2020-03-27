@@ -17,21 +17,21 @@ Year 1 English
 ### [Topic 11 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A) [![prep](/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_A)
 ### [Topic 10 - Prepositions of Place](https://tangerina-pt.github.io/English/Prep_Place_A) [![prep](/images/prep.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_A)-->
 
-#### [Topic 10 - Food](https://tangerina-pt.github.io/English/Food_A)  [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)  [![new](/images/new.gif){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)   
-#### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A) [![classo](/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_A)
-#### [Topic 8 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)
-#### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A) [![elffm1](/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_A)
+### [Topic 10 - Food](https://tangerina-pt.github.io/English/Food_A)  [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)  [![new](/images/new.gif){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)   
+### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A) [![classo](/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_A)
+### [Topic 8 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)
+### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A) [![elffm1](/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_A)
 
 ***
 
 ### Period 1
 
-#### [Topic 6 - Animals](https://tangerina-pt.github.io/English/Animals_A)[![anim](/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_A)
-#### [Topic 5 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)
-#### [Topic 4 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A) [![body](/images/body.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_A)
-#### [Topic 3 - Weather](https://tangerina-pt.github.io/English/Weather_A) [![wsym](/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_A)
-#### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A) [![pmno](/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_A)
-#### [Topic 1 - Colours](https://tangerina-pt.github.io/English/Colours_A) [![colmix](/images/colmix.png){:height="30px" width="30px"}](https://tangerina-pt.github.io/English/Colours_A)
+### [Topic 6 - Animals](https://tangerina-pt.github.io/English/Animals_A)[![anim](/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_A)
+### [Topic 5 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)
+### [Topic 4 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A) [![body](/images/body.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_A)
+### [Topic 3 - Weather](https://tangerina-pt.github.io/English/Weather_A) [![wsym](/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_A)
+### [Topic 2 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A) [![pmno](/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_A)
+### [Topic 1 - Colours](https://tangerina-pt.github.io/English/Colours_A) [![colmix](/images/colmix.png){:height="30px" width="30px"}](https://tangerina-pt.github.io/English/Colours_A)
 <!--#### [Topic 0 - Greetings](https://tangerina-pt.github.io/English/Greetings_A)-->
 
 <!--***
