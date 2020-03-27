@@ -8,8 +8,6 @@
 
 [![ddfd1](https://1blockatatime.github.io/English/images/ddfd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Food.htm) [![ddfd1b](https://1blockatatime.github.io/English/images/ddfd1_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Food.htm)  
 
-[![ddfd5](https://1blockatatime.github.io/English/images/ddfd5.PNG){:height="75px"}](https://www.digitaldialects.com/English/Fruit.htm) [![ddfd5b](https://1blockatatime.github.io/English/images/ddfd5_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Fruit.htm) 
-
 ![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="45px"}  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/BilStuLzW6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -17,6 +15,10 @@
 ![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="45px"} ![ftt2](https://1blockatatime.github.io/English/images/ftt2_pt.png){:height="45px"}
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/zywh6LqC6dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![ddfd5](https://1blockatatime.github.io/English/images/ddfd5.PNG){:height="75px"}](https://www.digitaldialects.com/English/Fruit.htm) [![ddfd5b](https://1blockatatime.github.io/English/images/ddfd5_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Fruit.htm)  
+
+[![ftlis](https://1blockatatime.github.io/English/images/ftlis.PNG){:height="75px"}](http://en.ver-taal.com/voc_food1_audio.htm) [![ftlisb](https://1blockatatime.github.io/English/images/ftlis_pt.png){:height="75px"}](http://en.ver-taal.com/voc_food1_audio.htm)  
 
 ![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="45px"}  
 
