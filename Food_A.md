@@ -1,46 +1,74 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+![vocab](https://1blockatatime.github.io/English/images/vocab_pt.png){:height="65px"} ![foodt](https://1blockatatime.github.io/English/images/foodt_pt.png){:height="80px"} [![target](https://1blockatatime.github.io/English/images/target.png){:height="60px"}]https://tangerina-pt.github.io/English/ObjFood)
 
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
+![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="45px"} [![lvwkfd7](https://1blockatatime.github.io/English/images/lvwkfd7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_and_drinks_xb1067pl) [![lvwkfd7b](https://1blockatatime.github.io/English/images/lvwkfd7_pt.png){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_and_drinks_xb1067pl)  
 
-### Food
+<iframe width="220" height="124" src="https://www.youtube.com/embed/YC1HfRDWwQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-#### Story - The Very Hungry Caterpillar
-[![vhc1](/images/vhc1.png){:height="60px"}](https://www.youtube.com/watch?v=75NQK-Sm1YY)
+<iframe width="220" height="124" src="https://www.youtube.com/embed/lW5TXrKbsq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
-#### Vocabulary
-[![fkefd](/images/fkefd.png){:height="60px"}](https://www.youtube.com/watch?v=YC1HfRDWwQQ)
+[![ddfd1](https://1blockatatime.github.io/English/images/ddfd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Food.htm) [![ddfd1b](https://1blockatatime.github.io/English/images/ddfd1_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Food.htm)  
 
-#### Language
+![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="45px"}  
 
-***Question:*** **'What do you like?' ('O que é que gostas?')**  
-***Answers:*** **'I like _____.' 'I don't like ____.' ('Eu gosto de _____.' 'Eu não gosto de _____.')**  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/BilStuLzW6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[![wdyl](/images/wdyl.png){:height="60px"}](https://www.youtube.com/watch?v=aT9tORbbvsI) [What do you like?](https://www.youtube.com/watch?v=aT9tORbbvsI)
+![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="45px"} ![ftt2](https://1blockatatime.github.io/English/images/ftt2_pt.png){:height="45px"}
 
-[![gae11](/images/gae11.png){:height="60px"}](https://www.youtube.com/watch?v=03hrZ7W8PZI) [Gogo’s Adventures with English 11](https://www.youtube.com/watch?v=03hrZ7W8PZI)
+<iframe width="220" height="124" src="https://www.youtube.com/embed/zywh6LqC6dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
-***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
+[![ddfd5](https://1blockatatime.github.io/English/images/ddfd5.PNG){:height="75px"}](https://www.digitaldialects.com/English/Fruit.htm) [![ddfd5b](https://1blockatatime.github.io/English/images/ddfd5_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Fruit.htm)  
 
-[![dylml](/images/dylml.png){:height="60px"}](https://www.youtube.com/watch?v=5vpA_luo_78) [Do you like tomatoes?](https://www.youtube.com/watch?v=5vpA_luo_78)  
+[![ftlis](https://1blockatatime.github.io/English/images/ftlis.PNG){:height="75px"}](http://en.ver-taal.com/voc_food1_audio.htm) [![ftlisb](https://1blockatatime.github.io/English/images/ftlis_pt.png){:height="75px"}](http://en.ver-taal.com/voc_food1_audio.htm)  
+
+![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="45px"}  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/zFGF23RbzaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/mVE9pYdwX-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***  
+
+![talk](https://1blockatatime.github.io/English/images/talk_pt.png){:height="60px"}  
+
+![fdq1](https://1blockatatime.github.io/English/images/fdq1_pt.png){:height="80px"}
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/aT9tORbbvsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/03hrZ7W8PZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
+
+![circ_like_plate](https://1blockatatime.github.io/English/images/circ_like_plate.gif){:height="215px"} ![circ_dont_plate](https://1blockatatime.github.io/English/images/circ_dont_plate.gif){:height="215px"}  
+
+![fdin1](https://1blockatatime.github.io/English/images/fdin1_pt.png){:height="60px"}  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/Iu8ZgbjTztw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/JqSmHLrCjbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+![fdin2](https://1blockatatime.github.io/English/images/fdin2_pt.png){:height="60px"}  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/VG_Fr8eOOyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/MZXbBSbd_jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+***  
+
+![fdq2](https://1blockatatime.github.io/English/images/fdq2_pt.png){:height="58px"}
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/5vpA_luo_78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/frN3nvhIHUk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/ddDN30evKPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/f-769il9yYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
+
+![fdin3](https://1blockatatime.github.io/English/images/fdin3_pt.png){:height="60px"}  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/Wf5kp_1sA10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
-#### Notes/Notas
-* Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil demais ou leve à frustraçao deve ser descontinuada imediatamente.
-* Ensure the sound is switched on. Many activities have a voiceover, a listening comprehension component or a button with a picture of a speaker that enables the user to hear the correct pronunciation for the word or the sentence. / Certifiquem-se de que o som está ligado. Várias actividades tem um enunciado, uma componente auditiva ou um botão com uma imagem de um altifalante que permite ouvir a pronúncia correta da palavra ou da frase. ![spkr2](/images/spkr2.PNG)
-* Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. / Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
-* Some resources seem only to work with Internet Explorer so if an activity doesn't load in your habitual browser try Internet Explorer. / Alguns recursos parecem só funcionar com Internet Explorer, por isso, se uma actividade não carregar no browser habitual, tente no Internet Explorer.
-* Some resources require the browser to launch a recent version of Adobe Flash Player as a plug-in. Vários dos recursos requerem uma versão recente de Adobe Flash Player operacional como plug-in no browser.
-* Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
+![note](https://1blockatatime.github.io/English/images/note.PNG){:width="638px"}
