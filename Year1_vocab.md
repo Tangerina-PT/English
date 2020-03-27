@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 <h2> 
 <p align="center">
 Year 1 English
@@ -35,13 +23,12 @@ Topics
 
 ***
 
-#### [Topic 13 - Food](https://tangerina-pt.github.io/English/Food_A)
 #### [Topic 12 - Shapes](https://tangerina-pt.github.io/English/Shapes_A) [![shape](/images/shape.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Shapes_A)
 ### [Topic 11 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A) [![prep](/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_A)
 ### [Topic 10 - Prepositions of Place](https://tangerina-pt.github.io/English/Prep_Place_A) [![prep](/images/prep.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_A)
 
 -->
-
+#### [Topic 10 - Food](https://tangerina-pt.github.io/English/Food_A)  [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)
 #### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A) [![classo](/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_A)
 #### [Topic 8 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)
 #### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A) [![elffm1](/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_A)
