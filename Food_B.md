@@ -68,6 +68,10 @@
 
 ![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
 
+![fdin4](https://1blockatatime.github.io/English/images/fdin4_pt.png){:height="60px"}  
+
+![cmcfd](https://1blockatatime.github.io/English/images/cmcfd.jpg){:height="180px"}  
+
 ![fdin3](https://1blockatatime.github.io/English/images/fdin3_pt.png){:height="60px"}  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Wf5kp_1sA10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
