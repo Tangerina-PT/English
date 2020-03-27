@@ -4,14 +4,6 @@ Year 1 English
 </p>
 </h2>
 
-<h3> 
-<p align="center">
-Topics
-</p>
-</h3>
-
-***
-
 ### Period 3  
 
 ***
