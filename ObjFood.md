@@ -9,7 +9,7 @@
 
 ***  
 
-### 2. Eu consigo dizer o que gosto ![lkeat](https://1blockatatime.github.io/English/images/lkeat.png){:height="50px"} e o que não gosto ![dslk](https://1blockatatime.github.io/English/images/dslk.png){:height="50px"}.
+### 2. Eu consigo dizer o que gosto ![lkeat](https://1blockatatime.github.io/English/images/likeeat.png){:height="50px"} e o que não gosto ![dslk](https://1blockatatime.github.io/English/images/dislike.png){:height="50px"}.
 
 ![lkckb](https://1blockatatime.github.io/English/images/lkck_pt.png){:height="50px"} ![lkck](https://1blockatatime.github.io/English/images/lkck.png){:height="40px"}  
 
