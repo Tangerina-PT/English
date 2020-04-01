@@ -76,6 +76,10 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Wf5kp_1sA10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+***OU*** se preferires, faz uma gravação audio...  
+
+<audio src="https://1blockatatime.github.io/English/audio/fdtsk.mp3" controls preload></audio>  
+
 ***  
 
 ![chall](https://1blockatatime.github.io/English/images/chall_pt.png){:height="60px"} 
