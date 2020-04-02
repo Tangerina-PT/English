@@ -42,6 +42,8 @@
 
 ![fdin1](https://1blockatatime.github.io/English/images/fdin1_pt.png){:height="60px"}  
 
+***Nota:*** **Não é obrigatório escrever os nomes dos alimentos. O importante é praticar a falar.**  
+
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Iu8ZgbjTztw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/JqSmHLrCjbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ![fdin2](https://1blockatatime.github.io/English/images/fdin2_pt.png){:height="60px"}  
