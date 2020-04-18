@@ -4,11 +4,11 @@ Year 1 English
 </p>
 </h2>
 
-### Period 3  
+<!--### Period 3-->  
 
 ***
 
-### Period 2  
+<!--### Period 2-->  
 
 <!--#### [Topic 8 - Weather](https://tangerina-pt.github.io/English/Weather_A)
 #### [Topic 7 - Family](https://tangerina-pt.github.io/English/Family_A)
@@ -24,7 +24,7 @@ Year 1 English
 
 ***
 
-### Period 1
+<!--### Period 1-->
 
 ### [Topic 6 - Animals](https://tangerina-pt.github.io/English/Animals_A)[![anim](/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_A)
 ### [Topic 5 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)
