@@ -1,4 +1,4 @@
-## Going to the doctor / Ir ao médico
+## Going to the doctor / Ir ao médico...
 
 ### Canta a canção  
 **I'm feeling ill** (Estou a sentir-me doente)  
