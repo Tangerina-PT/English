@@ -33,7 +33,7 @@ palavra 'INTERACTIVES'. Joga **'Match up'**, **'Find the match'** e **'Balloon p
 ### Pratica a leitura em inglês
 
 * Ouve e lê a história. A seguir desliga o som e tenta ler o livro sozinho.  
-[![atozedrj](https://1blockatatime.github.io/English/images/atozedrj.PNG){:height="75px"}](https://www.youtube.com/watch?v=MaDha3afoCU)  
+[![atzedrj](https://1blockatatime.github.io/English/images/atozedrj.PNG){:height="75px"}](https://www.youtube.com/watch?v=MaDha3afoCU)  
 'let's take her to Dr. Jen' = 'vamos levá-la à Dra. Jen'; 'stiff knees' = 'joelhos rígidos'; 'she can't hear well' = 'ela não consegue ouvir bem'; 'she makes us feel better' = 'ela faz-nos sentir melhor'   
 
 ### Vê os vídeo-histórias
