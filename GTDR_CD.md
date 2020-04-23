@@ -20,7 +20,7 @@ I'm feeling ill (Estou a me sentir doente)
 * Escolha a expressão certa para cada imagem.  
 [![lvwkdr3](https://1blockatatime.github.io/English/images/lvwkdr3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Illnesses_and_health_problems/Ill_cn199197cg) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Illnesses_and_health_problems/Ill_cn199197cg)  
 
-* Este link é um jogo de memória. Clica na barra vertical a direita por baixo da 
+* Este link é um jogo de memória. Clica na barra vertical a direita por baixo da  
 palavra 'INTERACTIVES'. Joga **'Match up'**, **'Find the match'** e **'Balloon pop'**:  
 [![ww2u5en](https://1blockatatime.github.io/English/images/ww2u5en.PNG){:height="75px"}](https://wordwall.net/resource/853731/angielski/tiger-2-unit-5-vocabulary) [![wwt2u5mu](https://1blockatatime.github.io/English/images/wwt2u5mu.PNG){:height="75px"}](https://wordwall.net/resource/853731/angielski/tiger-2-unit-5-vocabulary) [![wwt2u5fm](https://1blockatatime.github.io/English/images/wwt2u5fm.PNG){:height="75px"}](https://wordwall.net/resource/853731/angielski/tiger-2-unit-5-vocabulary) [![wwt2u5bp](https://1blockatatime.github.io/English/images/wwt2u5bp.PNG){:height="75px"}](https://wordwall.net/resource/853731/angielski/tiger-2-unit-5-vocabulary) 
 
