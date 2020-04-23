@@ -1,13 +1,28 @@
 
-### Aprender o vocabulário  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/tvMFHAs5dMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe src="https://player.vimeo.com/video/201019988" width="220" height="124" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/201019988">What&acute;s The Matter?</a> from <a href="https://vimeo.com/user51267003">English Teacher</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ### Canta a canção  
 I'm feeling ill (Estou a me sentir doente)  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Wmb6xZCC1WE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/Aj5zbGYhmnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Click aqui para as palavras da canção e a tradução
+
+* Agora clica na seta preta na barra cinzenta. Ouve a canção e escolha as palavras que faltam. Quando acabares, clica na barra azul em baixo que diz 'Finish' (acabar) e a seguir na lupa para corrigires o teu trabalho:     
+[![lvwkdr](/images/lvwkdr.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq)
+
+### Aprender o vocabulário  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/tvMFHAs5dMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe src="https://player.vimeo.com/video/201019988" width="220" height="124" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+* Clica no altifalante entre a imagem e a palavra. Ouve e repete.  
+[![lvwkdr0](/images/lvwkdr0.png){:height="75px"}](https://www.liveworksheets.com/ps196215vo) [Exercício de Liveworksheets](https://www.liveworksheets.com/ps196215vo) 
+
+* Faz a correspondência entre as imagens e as palavras.   
+[![lvwkdr1](/images/lvwkdr1.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_the_matter$/At_the_school._What's_the_matter$_qs15369qu) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_the_matter$/At_the_school._What's_the_matter$_qs15369qu)
+
+* Escolha a expressão certa para cada imagem.  
+[![lvwkdr3](/images/lvwkdr3.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Illnesses_and_health_problems/Ill_cn199197cg) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Illnesses_and_health_problems/Ill_cn199197cg)  
+
+* Faz a correspondência entre o diálogo e a imagem.  
+[![lvwkdr3](/images/lvwkdr3.png){:height="75px"}](https://www.liveworksheets.com/zb65954vy) [Exercício de Liveworksheets](https://www.liveworksheets.com/zb65954vy)  
 
 ### Vê os vídeos
 * Vê o Gogo's Adventures - o Gogo está doente e precia de falar com a médica...  
