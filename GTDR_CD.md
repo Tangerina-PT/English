@@ -6,7 +6,7 @@ I'm feeling ill (Estou a me sentir doente)
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Wmb6xZCC1WE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/Aj5zbGYhmnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Click aqui para as palavras da canção e a tradução
 
-* Agora clica na seta preta na barra cinzenta. Ouve a canção e escolha as palavras que faltam. Quando acabares, clica na barra azul em baixo que diz 'Finish' (acabar) e a seguir na lupa para corrigires o teu trabalho:     
+* Clica na seta preta na barra cinzenta. Ouve a canção e escolha as palavras que faltam. Ao acabar, clica na barra azul em baixo: 'Finish' (acabar) e a seguir na lupa para a correcção:     
 [![lvwkdr](https://1blockatatime.github.io/English/images/lvwkdr.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq)
 
 ### Aprender o vocabulário  
