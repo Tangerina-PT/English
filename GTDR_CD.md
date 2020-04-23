@@ -24,8 +24,17 @@ I'm feeling ill (Estou a me sentir doente)
 palavra 'INTERACTIVES'. Joga **'Match up'**, **'Find the match'** e **'Balloon pop'**:  
 [![ww2u5en](https://1blockatatime.github.io/English/images/ww2u5en.PNG){:height="75px"}](https://wordwall.net/resource/853731/angielski/tiger-2-unit-5-vocabulary) [![wwt2u5mu](https://1blockatatime.github.io/English/images/wwt2u5mu.PNG){:height="75px"}](https://wordwall.net/resource/853731/angielski/tiger-2-unit-5-vocabulary) [![wwt2u5fm](https://1blockatatime.github.io/English/images/wwt2u5fm.PNG){:height="75px"}](https://wordwall.net/resource/853731/angielski/tiger-2-unit-5-vocabulary) [![wwt2u5bp](https://1blockatatime.github.io/English/images/wwt2u5bp.PNG){:height="75px"}](https://wordwall.net/resource/853731/angielski/tiger-2-unit-5-vocabulary) 
 
+* Arrasta a frase para cima da imagem correspondente.  
+[![lahlth1](https://1blockatatime.github.io/English/images/lahlth1.PNG){:height="75px"}](https://learningapps.org/277330) [Exercício de Renee Maufroid - Learning Apps](https://learningapps.org/277330)  
+
 * Faz a correspondência entre o diálogo e a imagem.  
 [![lvwkdr4](https://1blockatatime.github.io/English/images/lvwkdr4.PNG){:height="75px"}](https://www.liveworksheets.com/zb65954vy) [Exercício de Liveworksheets](https://www.liveworksheets.com/zb65954vy)  
+
+### Pratica a leitura em inglês
+
+* Ouve e lê a história. A seguir desliga o som e tenta ler o livro sozinho.  
+[![atozedrj](https://1blockatatime.github.io/English/images/atozedrj.PNG){:height="75px"}](https://www.youtube.com/watch?v=MaDha3afoCU)  
+'let's take her to Dr. Jen' = 'vamos levá-la à Dra. Jen'; 'stiff knees' = 'joelhos rígidos'; 'she can't hear well' = 'ela não consegue ouvir bem'; 'she makes us feel better' = 'ela faz-nos sentir melhor'   
 
 ### Vê os vídeos
 * O Gogo está doente.... e o Jay e a Sue também e vão ao médico...  
