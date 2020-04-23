@@ -7,7 +7,7 @@ I'm feeling ill (Estou a me sentir doente)
 Click aqui para as palavras da canção e a tradução
 
 * Agora clica na seta preta na barra cinzenta. Ouve a canção e escolha as palavras que faltam. Quando acabares, clica na barra azul em baixo que diz 'Finish' (acabar) e a seguir na lupa para corrigires o teu trabalho:     
-[![lvwkdr](https://1blockatatime.github.io/English/images/lvwkdr.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq)
+[![lvwkdr](https://1blockatatime.github.io/English/images/lvwkdr.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq)
 
 ### Aprender o vocabulário  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/tvMFHAs5dMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe src="https://player.vimeo.com/video/201019988" width="220" height="124" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -22,7 +22,7 @@ Click aqui para as palavras da canção e a tradução
 [![lvwkdr3](https://1blockatatime.github.io/English/images/lvwkdr3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Illnesses_and_health_problems/Ill_cn199197cg) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Illnesses_and_health_problems/Ill_cn199197cg)  
 
 * Faz a correspondência entre o diálogo e a imagem.  
-[![lvwkdr3](https://1blockatatime.github.io/English/images/lvwkdr3.PNG){:height="75px"}](https://www.liveworksheets.com/zb65954vy) [Exercício de Liveworksheets](https://www.liveworksheets.com/zb65954vy)  
+[![lvwkdr4](https://1blockatatime.github.io/English/images/lvwkdr3.PNG){:height="75px"}](https://www.liveworksheets.com/zb65954vy) [Exercício de Liveworksheets](https://www.liveworksheets.com/zb65954vy)  
 
 ### Vê os vídeos
 * Vê o Gogo's Adventures - o Gogo está doente e precia de falar com a médica...  
@@ -38,8 +38,5 @@ Usa a linguagem que estamos a aprender nesta unidade. Pode ser, por exemplo:
 <iframe width="220" height="124" src="https://www.youtube.com/embed/OijZQSUunkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/ueveEtP8yvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
 ### Recursos Gerais  
-* Lembra-te, se leres uma frase que não sabes o que quer dizer, traduzo-a do inglês para português:  
-[![cambtr](https://1blockatatime.github.io/English/images/cambtr.PNG){:height="75px"}](https://dictionary.cambridge.org/translate/)  
-
-* Se não te lembras de como pronunciar uma palavra em inglês, vai ao dicionário ‘falante’:  
-[![cambld](https://1blockatatime.github.io/English/images/cambld.PNG){:height="75px"}](https://dictionary.cambridge.org/dictionary/learner-english/)  
+* Tradução PT->EN  :  Pronunciação  
+[![cambtr](https://1blockatatime.github.io/English/images/cambtr.PNG){:height="75px"}](https://dictionary.cambridge.org/translate/) [![cambld](https://1blockatatime.github.io/English/images/cambld.PNG){:height="75px"}](https://dictionary.cambridge.org/dictionary/learner-english/)  
