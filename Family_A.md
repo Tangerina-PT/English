@@ -26,7 +26,7 @@ Infelizmente o tempo é muito curto para este jogo. Tenta várias vezes mas não
 This game asks e.g.(Este jogo pergunta p.ex.) ‘Where’s Veronica’s mum?’(Onde está a mãe da Veronica?). Click on the picture of the mum/mummy/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)-->
 
 #### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <!--[![essfa1](/images/essfa1.PNG){:height="75px"}](https://www.youtube.com/watch?v=FHaObkHEkHQ)-->
 
 ***
