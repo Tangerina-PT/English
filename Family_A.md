@@ -2,32 +2,26 @@
 
 #### Song
 [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="60px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Já sabes a nossa [canção de família?](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
-***Auto-avaliação:*** Já consegues cantar desligando o som no vídeo?  
-Consegues cantar a canção levantando as marionetas que fizemos em sala de aula no momento certo?  
+***Auto-avaliação 1:*** Já consegues cantar a canção toda desligando o som no vídeo?  
+***Auto-avaliação 2:*** Consegues levantar as marionetas que fizemos em sala de aula no momento certo enquanto cantas?  
 
 #### Apreender as palavaras
 
-[![lvwkfa4](https://1blockatatime.github.io/English/images/lvwkfa4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)
+[![lvwkfa4](https://1blockatatime.github.io/English/images/lvwkfa4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)~[![lvwkfa4_pt](https://1blockatatime.github.io/English/images/lvwkfa4_pt.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)
 
-[![fmlvwk1](https://1blockatatime.github.io/English/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1b](https://1blockatatime.github.io/English/images/fmlvwk1b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
+[![fmlvwk1](https://1blockatatime.github.io/English/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1_pt](https://1blockatatime.github.io/English/images/fmlvwk1_pt.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
 
 [![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
 
-[![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
-
+[![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7_pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
 
 #### Video
 [![gae3](https://1blockatatime.github.io/English/images/gae3.PNG){:height="75px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs) Watch [Gogo's Adventures 3.](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
 ***Avaliação:*** Consegues dizer quem é quem em fotografias da tua família? p.ex.'My mummy.'  
 
 
-(3). [![wfam1](https://1blockatatime.github.io/English/images/wfam1.PNG){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
-Infelizmente o tempo é muito curto para este jogo. Tenta várias vezes mas não te preocupes se é difícil de mais dentro do tempo.    
-This game asks e.g.(Este jogo pergunta p.ex.) ‘Where’s Veronica’s mum?’(Onde está a mãe da Veronica?). Click on the picture of the mum/mummy/mother in the family tree. (Clica na imagem da mãe na árvore genealógica.) There are 4 families. (Há 4 famílias.)-->
-
 #### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
 <iframe width="220" height="124" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<!--[![essfa1](/images/essfa1.PNG){:height="75px"}](https://www.youtube.com/watch?v=FHaObkHEkHQ)-->
 
 ***
 
