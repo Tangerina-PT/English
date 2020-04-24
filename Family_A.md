@@ -1,22 +1,22 @@
 ### Family
 
 #### Song
-[![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="60px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Já sabes a nossa [canção de família?](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
+[![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="75px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Já sabes a nossa [canção de família?](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
 ***Auto-avaliação 1:*** Já consegues cantar a canção toda desligando o som no vídeo?  
 ***Auto-avaliação 2:*** Consegues levantar as marionetas que fizemos em sala de aula no momento certo enquanto cantas?  
 
 #### Apreender as palavaras
 
-[![lvwkfa4](https://1blockatatime.github.io/English/images/lvwkfa4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)~[![lvwkfa4_pt](https://1blockatatime.github.io/English/images/lvwkfa4_pt.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)
+[![lvwkfa4](https://1blockatatime.github.io/English/images/lvwkfa4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)~[![lvwkfa4_pt](https://1blockatatime.github.io/English/images/lvwkfa4_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)
 
-[![fmlvwk1](https://1blockatatime.github.io/English/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1_pt](https://1blockatatime.github.io/English/images/fmlvwk1_pt.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
+[![fmlvwk1](https://1blockatatime.github.io/English/images/fmlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1_pt](https://1blockatatime.github.io/English/images/fmlvwk1_pt.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
 
 [![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
 
-[![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7_pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
+[![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7_pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
 
 #### Video
-[![gae3](https://1blockatatime.github.io/English/images/gae3.PNG){:height="75px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs) Watch [Gogo's Adventures 3.](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/kgAPgBz90Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 ***Avaliação:*** Consegues dizer quem é quem em fotografias da tua família? p.ex.'My mummy.'  
 
 
