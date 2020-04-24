@@ -7,13 +7,13 @@ Consegues cantar a canção levantando as marionetas que fizemos em sala de aula
 
 #### Apreender as palavaras
 
-[![lvwkfa4](/images/lvwkfa4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)
+[![lvwkfa4](/images/lvwkfa4.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)
 
 [![fmlvwk1](/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1b](/images/fmlvwk1b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
 
 [![fmme](/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
 
-[![lvwkfa7](/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
+[![lvwkfa7](/images/lvwkfa7.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
 
 
 #### Video
