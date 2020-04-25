@@ -1,73 +1,62 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Family
-
-***Vocab.:*** mum, mummy (mama); mother (mãe); dad, daddy (papa); father (pai); sister (irmã); brother (irmão); grandma, grandmother (avó); grandpa, grandfather (avô); baby (bébé)  
-***Vocab. min.:*** mummy, daddy, brother, sister, grandma, grandpa  
 
 #### Song
 
-[![elffm1](/images/elffm1.png){:height="60px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Canta [a canção da família.](https://www.youtube.com/watch?v=GiRUF7hvWuM)/ Sing the [family song.](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
-***Avaliação:*** Já consegues cantar desligando o som no vídeo?    
+[![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="75px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Já sabes a nossa [canção de família?](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
+***Desafio 1:*** Já consegues cantar a canção toda desligando o som no vídeo?  
+***Desafio 2:*** Consegues levantar as marionetas que fizemos em sala de aula no momento certo enquanto cantas?  
 
-#### Language
+#### Aprender as palavras - exercícios de compreensão oral -'listening'
 
-***Question:*** **'Who is it?' (Quem é?) ; 'Who's this?' (Quem é isto?); 'Who is he?' (Quem é ele?); 'Who is she?' (Quem é ela?)**  
-***Possible answers:*** **'My mother.' (A minha mãe.);'It's my mother.' (É a minha mãe.);'This is my mother.'(Isto é a minha mãe.)**  
-<!--***Context:*** **e.g. pointing at family photographs (p.ex. a apontar para fotos da família)**-->  
+[![lvwkfa4](https://1blockatatime.github.io/English/images/lvwkfa4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue) [![lvwkfa4pt](https://1blockatatime.github.io/English/images/lvwkfa4_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)
 
-* [![gae3](/images/gae3.PNG){:height="60px"}](https://www.youtube.com/watch?v=kgAPgBz90Xs)  
-<!--(No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é reconhecer e responder à palavra 'Who?' (quem?).)-->
-***Avaliação:*** Consegues responder a perguntas sobre fotografias da tua família? p.ex. 'Who's this?' - 'It's my mummy.'  
+[![fmlvwk1](https://1blockatatime.github.io/English/images/fmlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![lvwkfa1pt](https://1blockatatime.github.io/English/images/lvwkfa1_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
 
-#### Exercícios - listening (compreensão do oral)
+[![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
 
-(1). [![fmlvwk1](/images/fmlvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![fmlvwk1b](/images/fmlvwk1b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)   
-
-(2). [![fmme](/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Play memory.](https://www.freddiesville.com/games/family-members-memory-game/)
-
+[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Joga o jogo de memória.](https://www.freddiesville.com/games/family-members-memory-game/)
 
 #### Exercícios de Leitura
 
 * [![fmlvwk3](/images/fmlvwk3.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb)  
 
-* [![fmlvwk2](/images/fmlvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/My_family_al929im)
+<!--* [![fmlvwk2](/images/fmlvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/My_family_al929im)-->
 
 * [![fmlvwk4](/images/fmlvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf)  
 
-<!--(2). [![bcfm2](/images/bcfm2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/family) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/family)  
-Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.-->
-
 * [![fmlvwk6](/images/fmlvwk6.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf)  
+
+#### Language Structures - falar da família
+
+***Perguntas:*** **'Who is it?' (Quem é?) ; 'Who's this?' (Quem é esta?); 'Who is he?' (Quem é ele?); 'Who is she?' (Quem é ela?)**  
+***Respostas potenciais:*** **'My mother.' (A minha mãe.);'It's my mother.' (É a minha mãe.);'This is my mother.'(Isto é a minha mãe.)**
+***Contexto:*** **p.ex. a apontar para fotos da família**
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/kgAPgBz90Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+***Nota***: No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é começar a reconhecer e responder à palavra 'Who?' (quem?).  
+
+***Avaliação:*** Consegues apontar a fotografias da tua família e dizer quem é quem? p.ex. 'Mummy.', 'My mummy.', 'It's my mummy.' ou 'This is my mother.'  
+
+#### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
+<iframe width="220" height="124" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 * [![efgfm](/images/efgfm.PNG){:height="60px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
 Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images/efgfm2.PNG) to start.  
-
-***Extensões opcionais/Optional extensions:***  
-
 Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:  
 aunt (tia); uncle (tio); cousin (primo/a)  
 
 * [![wfam1](/images/wfam1.PNG){:height="60px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
 Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’).  
 Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias diferentes.  
-***NOTA*** É muito rápido e infelizmente, não há forma de ajustar a velocidade.
-
-<!--/This game asks e.g. 'Where's Veronica's mum?' Click on the picture of the mum/mother in the family tree. There are 4 families.  
- This game is very fast. Unfortunately there is no way to adjust the speed.-->  
+***NOTA*** É muito rápido e infelizmente, não há forma de ajustar a velocidade.  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+
+***Vocab. min. (2º ano):*** mummy, mother, daddy, father, brother, sister, grandma, grandpa  
+***Vocab.:*** mum, mummy, mom(EUA) = mama; mother = mãe; dad, daddy = papa; father = pai; parents = pais; sister = irmã; brother = irmão; grandma, granny, grandmother = avó; grandpa, granddad, grandfather = avô; grandparents = avós; baby = bébé; aunt, aunty, auntie = tia; uncle = tio; cousin = primo/prima; family = família  
+
+***
+[![home](https://1blockatatime.github.io/English/images/home.png)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
