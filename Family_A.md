@@ -5,15 +5,15 @@
 ***Desafio 1:*** Já consegues cantar a canção toda desligando o som no vídeo?  
 ***Desafio 2:*** Consegues levantar as marionetas que fizemos em sala de aula no momento certo enquanto cantas?  
 
-#### Apreender as palavaras
+#### Aprender as palavaras
 
 [![lvwkfa4](https://1blockatatime.github.io/English/images/lvwkfa4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue) [![lvwkfa4pt](https://1blockatatime.github.io/English/images/lvwkfa4_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)
 
 [![fmlvwk1](https://1blockatatime.github.io/English/images/fmlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja) [![lvwkfa1pt](https://1blockatatime.github.io/English/images/lvwkfa1_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_words_yi15828ja)  
 
-[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Joga o jogo de memória.](https://www.freddiesville.com/games/family-members-memory-game/)
-
 [![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
+
+[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Joga o jogo de memória.](https://www.freddiesville.com/games/family-members-memory-game/)
 
 #### Video
 <iframe width="220" height="124" src="https://www.youtube.com/embed/kgAPgBz90Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
