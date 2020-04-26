@@ -45,11 +45,7 @@
 
 [![efgfm](https://1blockatatime.github.io/English/images/efgfm.PNG){:height="75px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html) [![efgfmpt](https://1blockatatime.github.io/English/images/efgfm_pt.PNG){:height="60px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
   
-
-[![wfam1](/images/wfam1.PNG){:height="60px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
-Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’).  
-Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias diferentes.  
-***NOTA*** É muito rápido e infelizmente, não há forma de ajustar a velocidade.  
+[![wfam1](https://1blockatatime.github.io/English/images/wfam1.PNG){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher) [![wfam1pt](https://1blockatatime.github.io/English/images/wfam1_pt.PNG){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
 
 ***
 
