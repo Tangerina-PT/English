@@ -39,12 +39,14 @@
 #### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
 <iframe width="220" height="124" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-* [![efgfm](/images/efgfm.PNG){:height="60px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
-Clica em ![efgfm2](/images/efgfm2.PNG) para começar./Click on ![efgfm2](/images/efgfm2.PNG) to start.  
-Depois clica em ![efgfm3](/images/efgfm3.PNG) se quiseres acrescentar mais  palavras:  
-aunt (tia); uncle (tio); cousin (primo/a)  
+[![edvfam1](https://1blockatatime.github.io/English/images/edvfam1.PNG){:height="75px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm) [![edvfam1pt](https://1blockatatime.github.io/English/images/edvfam1_pt.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm)  
 
-* [![wfam1](/images/wfam1.PNG){:height="60px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
+[![edvfam2](https://1blockatatime.github.io/English/images/edvfam2.PNG){:height="75px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm) [![edvfam2pt](https://1blockatatime.github.io/English/images/edvfam2_pt.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm)  
+
+[![efgfm](https://1blockatatime.github.io/English/images/efgfm.PNG){:height="75px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html) [![efgfmpt](https://1blockatatime.github.io/English/images/efgfm_pt.PNG){:height="60px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
+  
+
+[![wfam1](/images/wfam1.PNG){:height="60px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
 Este jogo pergunta (p.ex.): ‘Where’s Veronica’s mum?’(’Onde está a mãe da Veronica?’).  
 Clica na imagem da 'mum'(mãe) na árvore de família. Há 4 famílias diferentes.  
 ***NOTA*** É muito rápido e infelizmente, não há forma de ajustar a velocidade.  
