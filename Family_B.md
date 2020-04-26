@@ -17,11 +17,11 @@
 
 #### Exercícios de Leitura
 
-[![fmlvwk3](https://1blockatatime.github.io/English/images/fmlvwk3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb) [![fmlvwk3pt](https://1blockatatime.github.io/English/images/fmlvwk3_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb)  
+[![fmlvwk3](https://1blockatatime.github.io/English/images/fmlvwk3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb) [![fmlvwk3pt](https://1blockatatime.github.io/English/images/fmlvwk3_pt.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb)  
 
-[![fmlvwk4](https://1blockatatime.github.io/English/images/fmlvwk4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf) [![fmlvwk4pt](https://1blockatatime.github.io/English/images/fmlvwk4_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf)  
+[![fmlvwk4](https://1blockatatime.github.io/English/images/fmlvwk4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf) [![fmlvwk4pt](https://1blockatatime.github.io/English/images/fmlvwk4_pt.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf)  
 
-[![fmlvwk6](https://1blockatatime.github.io/English/images/fmlvwk6.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf) [![fmlvwk6pt](https://1blockatatime.github.io/English/images/fmlvwk6_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf)  
+[![fmlvwk6](https://1blockatatime.github.io/English/images/fmlvwk6.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf) [![fmlvwk6pt](https://1blockatatime.github.io/English/images/fmlvwk6_pt.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf)  
 
 #### Language Structures - falar da família
 
@@ -39,17 +39,17 @@
 #### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
 <iframe width="220" height="124" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[![edvfam1](https://1blockatatime.github.io/English/images/edvfam1.PNG){:height="75px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm) [![edvfam1pt](https://1blockatatime.github.io/English/images/edvfam1_pt.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm)  
+[![edvfam1](https://1blockatatime.github.io/English/images/edvfam1.PNG){:height="75px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm) [![edvfam1pt](https://1blockatatime.github.io/English/images/edvfam1_pt.png){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm)  
 
-[![edvfam2](https://1blockatatime.github.io/English/images/edvfam2.PNG){:height="75px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm) [![edvfam2pt](https://1blockatatime.github.io/English/images/edvfam2_pt.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm)  
+[![edvfam2](https://1blockatatime.github.io/English/images/edvfam2.PNG){:height="75px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm) [![edvfam2pt](https://1blockatatime.github.io/English/images/edvfam2_pt.png){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_4/no_4.htm)  
 
-[![efgfm](https://1blockatatime.github.io/English/images/efgfm.PNG){:height="75px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html) [![efgfmpt](https://1blockatatime.github.io/English/images/efgfm_pt.PNG){:height="60px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
+[![efgfm](https://1blockatatime.github.io/English/images/efgfm.PNG){:height="75px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html) [![efgfmpt](https://1blockatatime.github.io/English/images/efgfm_pt.png){:height="60px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
   
-[![wfam1](https://1blockatatime.github.io/English/images/wfam1.PNG){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher) [![wfam1pt](https://1blockatatime.github.io/English/images/wfam1_pt.PNG){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)  
+<!--[![wfam1](https://1blockatatime.github.io/English/images/wfam1.PNG){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher) [![wfam1pt](https://1blockatatime.github.io/English/images/wfam1_pt.png){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)-->  
 
 ***
 
-***Vocab. min. (2º ano):*** mummy, mother, daddy, father, brother, sister, grandma, grandpa  
+***Vocab. min. (2º ano):*** mummy=mother, daddy=father, brother, sister, grandma, grandpa  
 ***Vocab.:*** mum, mummy, mom(EUA) = mama; mother = mãe; dad, daddy = papa; father = pai; parents = pais; sister = irmã; brother = irmão; grandma, granny, grandmother = avó; grandpa, granddad, grandfather = avô; grandparents = avós; baby = bébé; aunt, aunty, auntie = tia; uncle = tio; cousin = primo/prima; family = família  
 
 ***
