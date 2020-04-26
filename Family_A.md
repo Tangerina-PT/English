@@ -13,12 +13,13 @@
 
 [![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
 
-[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Joga o jogo de memória.](https://www.freddiesville.com/games/family-members-memory-game/)
+[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [![fmmept](https://1blockatatime.github.io/English/images/fmme_pt.png){:height="65px"}](https://www.freddiesville.com/games/family-members-memory-game/)
 
 #### Video
 <iframe width="220" height="124" src="https://www.youtube.com/embed/kgAPgBz90Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 ***Avaliação:*** Consegues dizer quem é quem em fotografias da tua família? p.ex.'My mummy.'  
 
+![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
 
 #### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
 <iframe width="220" height="124" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
