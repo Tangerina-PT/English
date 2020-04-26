@@ -13,7 +13,7 @@
 
 [![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
 
-[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [![fmmept](https://1blockatatime.github.io/English/images/fmme_pt.png){:height="65px"}](https://www.freddiesville.com/games/family-members-memory-game/)
+[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="75px"}](https://www.freddiesville.com/games/family-members-memory-game/) [![fmmept](https://1blockatatime.github.io/English/images/fmme_pt.png){:height="65px"}](https://www.freddiesville.com/games/family-members-memory-game/)
 
 #### Exercícios de Leitura
 
