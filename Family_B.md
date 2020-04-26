@@ -17,13 +17,11 @@
 
 #### Exercícios de Leitura
 
-* [![fmlvwk3](/images/fmlvwk3.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb)  
+[![fmlvwk3](/images/fmlvwk3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb)  
 
-<!--* [![fmlvwk2](/images/fmlvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/My_family_al929im)-->
+[![fmlvwk4](/images/fmlvwk4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf)  
 
-* [![fmlvwk4](/images/fmlvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_match_fx37014xf)  
-
-* [![fmlvwk6](/images/fmlvwk6.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf)  
+[![fmlvwk6](/images/fmlvwk6.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_cy15880pf)  
 
 #### Language Structures - falar da família
 
