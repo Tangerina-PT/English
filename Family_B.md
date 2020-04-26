@@ -4,7 +4,6 @@
 
 [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="75px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Já sabes a nossa [canção de família?](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
 ***Desafio 1:*** Já consegues cantar a canção toda desligando o som no vídeo?  
-***Desafio 2:*** Consegues levantar as marionetas que fizemos em sala de aula no momento certo enquanto cantas?  
 
 #### Aprender as palavras - exercícios de compreensão oral -'listening'
 
@@ -14,7 +13,7 @@
 
 [![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
 
-[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [Joga o jogo de memória.](https://www.freddiesville.com/games/family-members-memory-game/)
+[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="60px"}](https://www.freddiesville.com/games/family-members-memory-game/) [![fmmept](https://1blockatatime.github.io/English/images/fmme_pt.png){:height="65px"}](https://www.freddiesville.com/games/family-members-memory-game/)
 
 #### Exercícios de Leitura
 
@@ -36,6 +35,8 @@
 ***Nota***: No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é começar a reconhecer e responder à palavra 'Who?' (quem?).  
 
 ***Avaliação:*** Consegues apontar a fotografias da tua família e dizer quem é quem? p.ex. 'Mummy.', 'My mummy.', 'It's my mummy.' ou 'This is my mother.'  
+
+![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
 
 #### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
 <iframe width="220" height="124" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
