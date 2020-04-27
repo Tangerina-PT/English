@@ -36,7 +36,7 @@
 
 ![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
 
-![fmbk2](https://1blockatatime.github.io/English/images/fmbk2.png){:height="60px"}  
+![fmbk2](https://1blockatatime.github.io/English/images/fmbk2.png){:height="85px"}  
 
 
 #### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
