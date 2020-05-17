@@ -7,12 +7,12 @@
 
 #### Objectivos
 
-* Reconhecer ao ouvir e poder usar o vocabulário mínimo: on (em cima), in (dentro), under (por baixo de)
-* Reconhecer a pergunta: '**Where** is the ...?' (**Onde** está a/o...)  
+* Reconhecer ao ouvir e poder usar o vocabulário mínimo: on (em cima), in (dentro), under (por baixo de), over (por cima)
+* Reconhecer e poder responder à pergunta: '**Where** is the ...?' (**Onde** está a/o...) usando vocabulário mínimo  
 
 #### Vocabulário extenso
 
-**ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN the boxes (entre as caixas), FAR AWAY FROM (longe de), NEAR (perto)**  
+**ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de - sem estar pousado a tocar), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN the boxes (entre as caixas), FAR AWAY FROM (longe de), NEAR (perto)**  
 
 ![pp_10](/images/pp_10.PNG){:width="640px"}  
 
