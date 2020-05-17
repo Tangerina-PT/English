@@ -1,18 +1,18 @@
 ### Prepositions of Place / Preposições de lugar
 
-#### Canta a nossa canção fazendo as acções... / Sing our song...  
+#### Canta a canção - faz as acções... / Sing the song - do the actions...  
 
 (1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/NpIfvRw3zNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/z3kV1oEbZKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/w0nOifIWHqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 #### Objectivos
 
-* Reconhecer ao ouvir e poder usar o vocabulário mínimo: on (em cima), in (dentro), under (por baixo de), over (por cima)
+* Reconhecer ao ouvir e poder usar o vocabulário mínimo: on (em cima), in (dentro), under (por baixo de), over (por cima), in front of (a frente), behind (atrás de)
 * Reconhecer e poder responder à pergunta: '**Where** is the ...?' (**Onde** está a/o...) usando vocabulário mínimo  
 
 #### Vocabulário extenso
 
-**ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de - sem estar pousado a tocar), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN the boxes (entre as caixas), FAR AWAY FROM (longe de), NEAR (perto)**  
+* ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de - sem estar pousado a tocar), IN FRONT OF (a frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN the boxes (entre as caixas), FAR AWAY FROM (longe de), NEAR (perto)  
 
 ![pp_10](/images/pp_10.PNG){:width="640px"}  
 
@@ -32,16 +32,25 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 <iframe width="198" height="112" src="https://www.youtube.com/embed/YI6VAsGlk7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/idJYhjGyWTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Games
+#### Games and exercises / Jogos e exercícios
+
+[![lvwkpp2](https://1blockatatime.github.io/English/images/lvwkpp2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_oe36807zc) [![lvwkpp2pt](https://1blockatatime.github.io/English/images/lvwkpp3_pt.png){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_oe36807zc)  
+
+[![lvwkpp3](https://1blockatatime.github.io/English/images/lvwkpp3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf) [![lvwkpp3pt](https://1blockatatime.github.io/English/images/lvwkpp3_pt.png){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf)  
+
+
+
 
 1. [![smpp](/images/smpp.png){:height="60px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
 <!--- 2. [![efgpp](/images/efgpp.PNG)](https://englishflashgames.blogspot.pt/2008/06/prepositions-of-place-game.html) -->
 2. [![ppme](/images/ppme.png){:height="60px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
 
+#### A pauta da canção para quem tem um instrumento...
+
 ![pauta_10](/images/pauta_10.jpg){:width="640px"} 
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 #### Notes/Notas
