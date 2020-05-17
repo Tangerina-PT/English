@@ -15,14 +15,17 @@
 
 ![clocap](/images/clocap.png) Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.
 
-***Question:*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
-***Answers:*** **'in' (dentro); 'in the box' (dentro da caixa); 'The monkey is in the box.' (O macaco está dentro da caixa.)**
+***Question (Pergunta):*** **'Where's the monkey?(Onde está o macaco?)/'Where is it?'(Onde está?)**  
+***Answers (Respostas):*** **'in' (dentro); 'in the box' (dentro da caixa); 'The monkey is in the box.' (O macaco está dentro da caixa.)**
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/8F0NYBBKczM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> (on, in, under - vídeo de Maple Leaf Learning)
-<iframe width="220" height="124" src="https://www.youtube.com/embed/uDGwhiwwxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> (on, in, under - vídeo de Maple Leaf Learning)
-<iframe width="220" height="124" src="https://www.youtube.com/embed/xERTESWbqhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> (in front of, behind, between - vídeo de Maple Leaf Learning)
-<iframe width="220" height="124" src="https://www.youtube.com/embed/YI6VAsGlk7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> (Vídeo de Freddiesville)
-<iframe width="220" height="124" src="https://www.youtube.com/embed/idJYhjGyWTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> (Vídeo de KidsTV123)
+Vídeos de Maple Leaf Learning: (1). on, in, under; (2). on, in, under; (3). in front of, behind, between  
+
+<iframe width="198" height="112" src="https://www.youtube.com/embed/8F0NYBBKczM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="198" height="112" src="https://www.youtube.com/embed/uDGwhiwwxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="198" height="198" src="https://www.youtube.com/embed/xERTESWbqhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+(4). Vídeo de Freddiesville; (5). Vídeo de KidsTV123   
+<iframe width="198" height="112" src="https://www.youtube.com/embed/YI6VAsGlk7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="198" height="112" src="https://www.youtube.com/embed/idJYhjGyWTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Games
 
