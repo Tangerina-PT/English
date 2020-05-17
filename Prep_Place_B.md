@@ -5,20 +5,25 @@
 (1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/NpIfvRw3zNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/z3kV1oEbZKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/w0nOifIWHqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+#### Objectivos
+
+* Reconhecer ao ouvir e poder usar o vocabulário mínimo: on (em cima), in (dentro), under (por baixo de)
+* Reconhecer a pergunta: '**Where** is the ...?' (**Onde** está a/o...)  
+
+#### Vocabulário extenso
+
 **ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN the boxes (entre as caixas), FAR AWAY FROM (longe de), NEAR (perto)**  
 
 ![pp_10](/images/pp_10.PNG){:width="640px"}  
-
-***
 
 #### Watch the videos / Vê os vídeos:
 
 ![clocap](/images/clocap.png) Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.
 
-***Question (Pergunta):*** **'Where's the monkey? (Onde está o macaco?) / 'Where is it?' (Onde está?)**  
+***Question (Pergunta):*** **'Where's the monkey?' (Onde está o macaco?) / 'Where is it?' (Onde está?)**  
 ***Answers (Respostas):*** **'in' (dentro); 'in the box' (dentro da caixa); 'The monkey is in the box.' (O macaco está dentro da caixa.)**
 
-Vídeos de Maple Leaf Learning: (1). on, in, under; (2). on, in, under; (3). in front of, behind, between  
+Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behind, between  
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/8F0NYBBKczM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/uDGwhiwwxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
