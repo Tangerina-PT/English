@@ -2,6 +2,7 @@
 
 #### Canta a nossa canção fazendo as acções... / Sing our song...  
 
+(1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/NpIfvRw3zNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/z3kV1oEbZKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/w0nOifIWHqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de), IN FRONT OF (em frente), BEHIND (atrás de), NEXT TO (ao lado de), BETWEEN the boxes (entre as caixas), FAR AWAY FROM (longe de), NEAR (perto)**  
