@@ -1,14 +1,9 @@
 ### Prepositions of Place / Preposições de lugar
 
-#### Canta a canção - faz as acções... / Sing the song - do the actions...  
+#### Objectivos ![target](https://1blockatatime.github.io/English/images/target.png){:height="40px"}
 
-(1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
-<iframe width="198" height="112" src="https://www.youtube.com/embed/NpIfvRw3zNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/z3kV1oEbZKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/w0nOifIWHqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-#### Objectivos
-
-* Reconhecer ao ouvir e poder usar o vocabulário mínimo: on (em cima), in (dentro), under (por baixo de), over (por cima), in front of (a frente), behind (atrás de)
-* Reconhecer e poder responder à pergunta: '**Where** is the ...?' (**Onde** está a/o...) usando vocabulário mínimo  
+* Reconhecer e poder usar **vocabulário mínimo**: on (em cima), in (dentro), under (por baixo de), over (por cima), in front of (a frente), behind (atrás de)
+* Reconhecer e poder responder à pergunta: '**Where** is the ...?' (**Onde** está a/o...)
 
 #### Vocabulário extenso
 
@@ -16,21 +11,25 @@
 
 ![pp_10](/images/pp_10.PNG){:width="640px"}  
 
+#### Canta a canção - faz as acções... / Sing the song - do the actions...  
+
+(1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
+<iframe width="198" height="112" src="https://www.youtube.com/embed/NpIfvRw3zNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/z3kV1oEbZKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/w0nOifIWHqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 #### Watch the videos / Vê os vídeos:
 
-![clocap](/images/clocap.png) Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.
+![clocap](https://1blockatatime.github.io/English/images/clocap.png){:height="30px"} Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.
 
 ***Question (Pergunta):*** **'Where's the monkey?' (Onde está o macaco?) / 'Where is it?' (Onde está?)**  
 ***Answers (Respostas):*** **'in' (dentro); 'in the box' (dentro da caixa); 'The monkey is in the box.' (O macaco está dentro da caixa.)**
 
-Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behind, between  
-
 <iframe width="198" height="112" src="https://www.youtube.com/embed/8F0NYBBKczM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/uDGwhiwwxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="198" height="112" src="https://www.youtube.com/embed/xERTESWbqhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-(4). Vídeo de Freddiesville; (5). Vídeo de KidsTV123   
+Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behind, between   
 <iframe width="198" height="112" src="https://www.youtube.com/embed/YI6VAsGlk7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/idJYhjGyWTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(4). Vídeo de Freddiesville; (5). Vídeo de KidsTV123  
 
 #### Games and exercises / Jogos e exercícios
 
@@ -38,19 +37,16 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 [![lvwkpp3](https://1blockatatime.github.io/English/images/lvwkpp3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf) [![lvwkpp3pt](https://1blockatatime.github.io/English/images/lvwkpp3_pt.png){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf)  
 
+[![smpp](https://1blockatatime.github.io/English/images/smpp.png){:height="75px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)  
 
-
-
-1. [![smpp](/images/smpp.png){:height="60px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)
-<!--- 2. [![efgpp](/images/efgpp.PNG)](https://englishflashgames.blogspot.pt/2008/06/prepositions-of-place-game.html) -->
-2. [![ppme](/images/ppme.png){:height="60px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
+[![ppme](https://1blockatatime.github.io/English/images/ppme.png){:height="75px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
 
 #### A pauta da canção para quem tem um instrumento...
 
 ![pauta_10](/images/pauta_10.jpg){:width="640px"} 
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="30px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 #### Notes/Notas
