@@ -1,11 +1,9 @@
-### Prepositions of Place
-
-### Prepositions of Place / Preposições de lugar
+### Prepositions of Place / Preposições (lugar)
 
 #### Canta a canção - faz as acções... / Sing the song - do the actions...  
 
 (1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
-<iframe width="198" height="112" src="https://www.youtube.com/embed/sC30GuCAdeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/1pqVj77EXiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/NTDRDluTaP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="198" height="112" src="https://www.youtube.com/embed/sC30GuCAdeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/1pqVj77EXiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/NTDRDluTaP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 #### Video-exercícios
 
