@@ -14,11 +14,6 @@
 <iframe width="198" height="112" src="https://www.youtube.com/embed/uDGwhiwwxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Vídeos de Maple Leaf Learning  
 
-#### Jogos e exercícios - 'listening' (compreensão oral)
-
-[![lvwkpp00](https://1blockatatime.github.io/English/images/lvwkpp00.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_Place_zx225512vl) [![lvwkpp00pt](https://1blockatatime.github.io/English/images/lvwkpp00_pt.png){:height="45px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_Place_zx225512vl) 
-
-
 #### Objectivos ![target](https://1blockatatime.github.io/English/images/target.png){:height="20px"}
 
 * Reconhecer e poder usar **vocabulário mínimo**: on (em cima), in (dentro), under (por baixo de)  
