@@ -1,10 +1,43 @@
 ### Prepositions of Place
 
-#### Watch the video / Vê o vídeo:  
+### Prepositions of Place / Preposições de lugar
 
-(1). [![mlpp](/images/mlpp.png)](https://www.youtube.com/watch?v=8F0NYBBKczM)
+#### Canta a canção - faz as acções... / Sing the song - do the actions...  
 
-(2). To be continued - Period 3
+(1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
+<iframe width="198" height="112" src="https://www.youtube.com/embed/sC30GuCAdeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/1pqVj77EXiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/NTDRDluTaP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+#### Video-exercícios
+
+***Question (Pergunta):*** **'Where?' (Onde?) / 'Where is it?' (Onde está?)**  
+***Answers (Respostas):*** **'in' (dentro); 'in the box' (dentro da caixa)**
+
+<iframe width="198" height="112" src="https://www.youtube.com/embed/8F0NYBBKczM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="198" height="112" src="https://www.youtube.com/embed/uDGwhiwwxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+Vídeos de Maple Leaf Learning  
+
+#### Jogos e exercícios - 'listening' (compreensão oral)
+
+[![lvwkpp00](https://1blockatatime.github.io/English/images/lvwkpp00.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_Place_zx225512vl) [![lvwkpp00pt](https://1blockatatime.github.io/English/images/lvwkpp00_pt.png){:height="45px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_Place_zx225512vl) 
+
+
+#### Objectivos ![target](https://1blockatatime.github.io/English/images/target.png){:height="20px"}
+
+* Reconhecer e poder usar **vocabulário mínimo**: on (em cima), in (dentro), under (por baixo de)  
+* Reconhecer e poder responder à pergunta: '**Where?**' (**Onde?**)  
+
+#### Vocabulário extenso
+
+* ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de - sem estar pousado a tocar), IN FRONT OF (a frente), BEHIND (atrás de)  
+
+![pp_6](/images/pp_6.PNG){:width="400px"}  
+
+#### A pauta da canção para quem tem um instrumento...
+
+![pp_y1](/images/pp_y1.jpg){:width="400px"} 
+
+***
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year1) [Return to Year 1 English Site](https://tangerina-pt.github.io/English/Year1)
