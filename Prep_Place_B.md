@@ -5,7 +5,7 @@
 (1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/NpIfvRw3zNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/z3kV1oEbZKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/w0nOifIWHqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-#### Watch the videos / Vê os vídeos:
+#### Video-exercícios
 
 ![clocap](https://1blockatatime.github.io/English/images/clocap.png){:height="20px"} Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.
 
