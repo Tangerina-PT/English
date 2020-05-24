@@ -15,13 +15,13 @@
 ***Answers - Customer:*** **'It's too small.' (Está pequeno demais.); 'It's too big.' (Está grande demais.); 'It's too short.' (Está curto demais.); 'It's too long.' (Está comprido demais.); 'It's too tight.' (Está apertado demais.)**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/OLQ5soMUZqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [![razccl_pt](https://1blockatatime.github.io/English/images2/
-razccl_pt.PNG){:height="75px"}](https://www.youtube.com/embed/OLQ5soMUZqk)    
+razccl_pt.png){:height="75px"}](https://www.youtube.com/embed/OLQ5soMUZqk)    
 'I must have grown over the summer.' = 'Devo ter crescido durante o verão.'; 'old' = velho, antigo   
 
 Se gostas de histórias ouve esta história sobre uma menina muito confundida porque os familiares estão sempre a lhe dizer que ela é pequena de mais para algumas coisas e grande de mais para outras... Pergunta-se para o que é que ela tem o tamanho certo.  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/njpc4vp1Z3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [![tbts_pt](https://1blockatatime.github.io/English/images2/
-tbts_pt.PNG){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I)  
+tbts_pt.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I)  
 [Vê aqui o texto da história e a tradução](https://tangerina-pt.github.io/English/TBTS)  
 
 ***Question - Customer:*** **'How much is it?' (Quanto é?)**  
@@ -35,7 +35,8 @@ tbts_pt.PNG){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 <iframe width="220" height="124" src="https://www.youtube.com/embed/taoCF1cKZSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/jNg3KuUFkxU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 * NB: Vídeo 2: 'I have a cap.'='I've got a cap.'= Tenho um bonet.
 
-[![cldd1](https://1blockatatime.github.io/English/images2/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm) [![clla1](https://1blockatatime.github.io/English/images2/clla1.PNG){:height="75px"}](https://learningapps.org/10043443)   
+[![cldd1](https://1blockatatime.github.io/English/images2/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm) [![cldd1pt](https://1blockatatime.github.io/English/images2/cldd1_pt.png){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm)  
+[![clla1](https://1blockatatime.github.io/English/images2/clla1.PNG){:height="75px"}](https://learningapps.org/10043443) [![clla1pt](https://1blockatatime.github.io/English/images2/clla1_pt.png){:height="75px"}](https://learningapps.org/10043443)   
 
 ### Talking about clothes
 
@@ -45,13 +46,13 @@ tbts_pt.PNG){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 **To wear (vestir)** p.ex. 'I am wearing...' (Estou vestido com...);'He is wearing...' (Ele está vestido com...); 'She is wearing...' (Ela está vestido com...)  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/_Y_fNXEu0tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
 
-[![clgtl1](https://1blockatatime.github.io/English/images2/clgtl1.PNG){:height="75px"}](https://www.gamestolearnenglish.com/clothes-game/) [![clgtl1pt](https://1blockatatime.github.io/English/images2/clgtl1_pt.PNG){:height="90px"}](https://www.gamestolearnenglish.com/clothes-game/)  
+[![clgtl1](https://1blockatatime.github.io/English/images2/clgtl1.PNG){:height="75px"}](https://www.gamestolearnenglish.com/clothes-game/) [![clgtl1pt](https://1blockatatime.github.io/English/images2/clgtl1_pt.png){:height="90px"}](https://www.gamestolearnenglish.com/clothes-game/)  
 
 ### Mais jogos e exercícios
 
-[![clelfph1](https://1blockatatime.github.io/English/images2/clelfph1.PNG){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing) [![clelfph1pt](https://1blockatatime.github.io/English/images2/clelfph1_pt.PNG){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing)  
-[![cleslgw1](https://1blockatatime.github.io/English/images2/cleslgw1.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html) [![cleslgw1pt](https://1blockatatime.github.io/English/images2/cleslgw1_pt.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html)   
-[![clsm](https://1blockatatime.github.io/English/images2/clsm.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/) [![clsmpt](https://1blockatatime.github.io/English/images2/clsm_pt.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/)  
+[![clelfph1](https://1blockatatime.github.io/English/images2/clelfph1.PNG){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing) [![clelfph1pt](https://1blockatatime.github.io/English/images2/clelfph1_pt.png){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing)  
+[![cleslgw1](https://1blockatatime.github.io/English/images2/cleslgw1.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html) [![cleslgw1pt](https://1blockatatime.github.io/English/images2/cleslgw1_pt.png){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html)   
+[![clsm](https://1blockatatime.github.io/English/images2/clsm.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/) [![clsmpt](https://1blockatatime.github.io/English/images2/clsm_pt.png){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/)  
 
 ### Tarefa principal - exercícios dos diálogos
 
