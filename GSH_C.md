@@ -58,7 +58,7 @@ tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 
 
 
-### Extensão - para quem quiser aprender mais...
+### Extensão avançado - para quem quiser aprender mais...
 
 **'What is your size?' (Qual é o seu tamanho?)** **'small' (pequeno)** **'medium' (médio)** **'large' (grande)**  
 <audio src="https://1blockatatime.github.io/English/audio/whatsize.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/small.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/medium.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/large.mp3" controls preload></audio>    
