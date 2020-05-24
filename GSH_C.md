@@ -28,8 +28,28 @@
 * No primeiro ecrã, clica em cada imagem para ouvir como pronunciar cada palavra. Ao jogar, ouve as descrições de como estão vestidos as figuras e arrasta as roupas correctas. Ouvirás '**He** is wearing...' (**Ele** está vestido com...) e '**She** is wearing...' (**Ela** está vestido com...)    
 [![clgtl1](https://1blockatatime.github.io/English/images/clgtl1.PNG){:height="75px"}](https://www.gamestolearnenglish.com/clothes-game/)  
 
-### * Faz a correspondência entre as imagens e as palavras.   
-[![lvwkdr1](https://1blockatatime.github.io/English/images/lvwkdr1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_the_matter$/At_the_school._What's_the_matter$_qs15369qu) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_the_matter$/At_the_school._What's_the_matter$_qs15369qu)
+### Extensão - para quem quiser aprender mais...
+
+***Question - Shop assistant:*** **'What is your size?' (Qual é o seu tamanho?)**  
+<audio src="https://1blockatatime.github.io/English/audio/whatsize.mp3" controls preload></audio>   
+
+***Answers - Customer:***
+**'small' (pequeno)**
+<audio src="https://1blockatatime.github.io/English/audio/small.mp3" controls preload></audio>    
+**'medium' (médio)**  
+<audio src="https://1blockatatime.github.io/English/audio/medium.mp3" controls preload></audio>      
+**'large' (grande)**  
+<audio src="https://1blockatatime.github.io/English/audio/large.mp3" controls preload></audio>    
+
+***Question - Customer:*** **'Have you got a bigger sizer?'='Do you have a bigger size?'=(Tem um tamanho maior?)**  
+<audio src="https://1blockatatime.github.io/English/audio/gotbigger.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/havebigger.mp3" controls preload></audio>    
+   
+
+
+
+
+
+[![shlvwk5](https://1blockatatime.github.io/English/images/shlvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/ox392277pt) 
 
 * Escolha a expressão certa para cada imagem.  
 [![lvwkdr3](https://1blockatatime.github.io/English/images/lvwkdr3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Illnesses_and_health_problems/Ill_cn199197cg) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Illnesses_and_health_problems/Ill_cn199197cg)  
