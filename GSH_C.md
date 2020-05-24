@@ -39,9 +39,9 @@
 
 ### Jogos e exercícios
 
-[![cldd1](https://1blockatatime.github.io/English/images/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm)   
+[![cldd1](https://1blockatatime.github.io/English/images2/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm)   
 
-[![clla1](https://1blockatatime.github.io/English/images/clla1.PNG){:height="75px"}](https://learningapps.org/10043443)   
+[![clla1](https://1blockatatime.github.io/English/images2/clla1.PNG){:height="75px"}](https://learningapps.org/10043443)   
 
 ### Talking about clothes
 
@@ -51,15 +51,15 @@
 * To wear - vestir: 'I am wearing...' (Estou vestido com...);'He is wearing...' (Ele está vestido com...); 'She is wearing...' (Ela está vestido com...)  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/_Y_fNXEu0tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[![clelfph1](https://1blockatatime.github.io/English/images/clelfph1.PNG){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing)   
+[![clelfph1](https://1blockatatime.github.io/English/images2/clelfph1.PNG){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing)   
 
 ### Jogos e exercícios
 
-[![cleslgw1](https://1blockatatime.github.io/English/images/cleslgw1.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html)   
+[![cleslgw1](https://1blockatatime.github.io/English/images2/cleslgw1.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html)   
 
-[![clsm](https://1blockatatime.github.io/English/images/clsm.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/) Nota: Infelizmente, não parece funcionar com Chrome. Funciona com Internet Explorer.     
+[![clsm](https://1blockatatime.github.io/English/images2/clsm.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/) Nota: Infelizmente, não parece funcionar com Chrome. Funciona com Internet Explorer.     
 
-[![clgtl1](https://1blockatatime.github.io/English/images/clgtl1.PNG){:height="75px"}](https://www.gamestolearnenglish.com/clothes-game/)  
+[![clgtl1](https://1blockatatime.github.io/English/images2/clgtl1.PNG){:height="75px"}](https://www.gamestolearnenglish.com/clothes-game/)  
 Instrucções: No primeiro ecrã, clica em cada imagem para ouvir como pronunciar cada palavra. Ao jogar, ouve as descrições de como estão vestidos as figuras e arrasta as roupas correctas. Ouvirás '**He** is wearing...' (**Ele** está vestido com...) e '**She** is wearing...' (**Ela** está vestido com...)    
 
 ### Tarefa principal - exercícios dos diálogos
