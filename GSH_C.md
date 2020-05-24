@@ -1,9 +1,9 @@
 ## Going shopping / Ir às compras...
 
-### Vídeo 
+### Watch the video - Vê o vídeo 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/GiD96zZhunw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-### Language structures
+### Language structures - Linguagem
 
 ***Question - Shop assistant:*** **'Can I help you?' (Posso ajudar-te?)**  
 ***Answers - Customer:*** **'Yes, I'm looking for a t-shirt.' (Sim, estou a procura de uma t-shirt.);**   
@@ -14,6 +14,17 @@
 ***Question - Customer:*** **'Can I try it on?' (Posso experimentá-lo?)**  
 ***Answers - Shop assistant:*** **'Yes.' (Sim.)**  
 
+***Question - Shop assistant:*** **'How is it?' (=Como está?)**  
+***Answers - Customer:*** **'It's too small.' (Está pequeno demais.); 'It's too big.' (Está grande demais.); 'It's too short.' (Está curto demais.); 'It's too long.' (Está comprido demais.); 'It's too tight.' (Está apertado demais.)**  
+
+* Pratica a tua leitura em inglês. Ouve e lê a história: 'My clothes are too small.' (As minhas roupas são pequenas demais.) A seguir desliga o som e tenta ler o livro sozinho em voz alta.  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/OLQ5soMUZqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+'I must have grown over the summer.' = 'Devo ter crescido durante o verão.'; 'old' = velho, antigo   
+
+* Se gostas de histórias ouve esta história sobre uma menina muito confundida porque os familiares estão sempre a dizer-lhe que ela é pequena de mais para algumas coisas e grande de mais para outras... Pergunta-se para o que é que ela tem o tamanho certo.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/njpc4vp1Z3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Vê aqui o texto da história e a tradução](https://tangerina-pt.github.io/English/TBTS)  
 
 ***Question - Customer:*** **'How much is it?' (Quanto é?)**  
 ***Answers - Shop assistant:*** **'It's 20 dollars.' (São 20 dólares.)**  
@@ -31,8 +42,6 @@
 [![cldd1](https://1blockatatime.github.io/English/images/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm)   
 
 [![clla1](https://1blockatatime.github.io/English/images/clla1.PNG){:height="75px"}](https://learningapps.org/10043443)   
-
-
 
 ### Talking about clothes
 
@@ -59,20 +68,12 @@ Instrucções: No primeiro ecrã, clica em cada imagem para ouvir como pronuncia
 
 ### Extensão - para quem quiser aprender mais...
 
-**'What is your size?' (Qual é o seu tamanho?)** <audio src="https://1blockatatime.github.io/English/audio/whatsize.mp3" controls preload></audio>   
-**'small' (pequeno)** <audio src="https://1blockatatime.github.io/English/audio/small.mp3" controls preload></audio>    
-**'medium' (médio)** <audio src="https://1blockatatime.github.io/English/audio/medium.mp3" controls preload></audio>      
-**'large' (grande)** <audio src="https://1blockatatime.github.io/English/audio/large.mp3" controls preload></audio>    
-**'Have you got a bigger sizer?'='Do you have a bigger size?'=(Tem um tamanho maior?)**
+**'What is your size?' (Qual é o seu tamanho?)** **'small' (pequeno)**  
+<audio src="https://1blockatatime.github.io/English/audio/whatsize.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/small.mp3" controls preload></audio>    
+**'medium' (médio)** **'large' (grande)** <audio src="https://1blockatatime.github.io/English/audio/medium.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/large.mp3" controls preload></audio>    
+**'Have you got a bigger sizer?' = 'Do you have a bigger size?' = (Tem um tamanho maior?)**
 <audio src="https://1blockatatime.github.io/English/audio/gotbigger.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/havebigger.mp3" controls preload></audio>    
    
-
-### Pratica a leitura em inglês
-
-* Ouve e lê a história. A seguir desliga o som e tenta ler o livro sozinho.  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/OLQ5soMUZqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-'I must have grown over the summer.' = 'Devo ter crescido durante o verão.'; 'old' = velho, antigo   
-
 ###  TPC - Trabalhos para casa...  
 
 
