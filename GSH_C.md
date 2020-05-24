@@ -14,13 +14,15 @@
 ***Question - Shop assistant:*** **'How is it?' (=Como está?)**  
 ***Answers - Customer:*** **'It's too small.' (Está pequeno demais.); 'It's too big.' (Está grande demais.); 'It's too short.' (Está curto demais.); 'It's too long.' (Está comprido demais.); 'It's too tight.' (Está apertado demais.)**  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/OLQ5soMUZqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [![razccl_pt](https://1blockatatime.github.io/English/images2/
+[![razccl](https://1blockatatime.github.io/English/images2/
+razccl.png){:height="75px"}](https://www.youtube.com/embed/OLQ5soMUZqk) [![razccl_pt](https://1blockatatime.github.io/English/images2/
 razccl_pt.png){:height="75px"}](https://www.youtube.com/embed/OLQ5soMUZqk)    
 'I must have grown over the summer.' = 'Devo ter crescido durante o verão.'; 'old' = velho, antigo   
 
 Se gostas de histórias ouve esta história sobre uma menina muito confundida porque os familiares estão sempre a lhe dizer que ela é pequena de mais para algumas coisas e grande de mais para outras... Pergunta-se para o que é que ela tem o tamanho certo.  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/njpc4vp1Z3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [![tbts_pt](https://1blockatatime.github.io/English/images2/
+[![tbts](https://1blockatatime.github.io/English/images2/
+tbts.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I) [![tbts_pt](https://1blockatatime.github.io/English/images2/
 tbts_pt.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I)  
 [Vê aqui o texto da história e a tradução](https://tangerina-pt.github.io/English/TBTS)  
 
@@ -35,8 +37,8 @@ tbts_pt.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 <iframe width="220" height="124" src="https://www.youtube.com/embed/taoCF1cKZSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/jNg3KuUFkxU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 * NB: Vídeo 2: 'I have a cap.'='I've got a cap.'= Tenho um bonet.
 
-[![cldd1](https://1blockatatime.github.io/English/images2/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm) [![cldd1pt](https://1blockatatime.github.io/English/images2/cldd1_pt.png){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm)  
-[![clla1](https://1blockatatime.github.io/English/images2/clla1.PNG){:height="75px"}](https://learningapps.org/10043443) [![clla1pt](https://1blockatatime.github.io/English/images2/clla1_pt.png){:height="75px"}](https://learningapps.org/10043443)   
+[![cldd1](https://1blockatatime.github.io/English/images2/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm) [![cldd1pt](https://1blockatatime.github.io/English/images2/cldd1_pt.png){:height="50px"}](https://www.digitaldialects.com/English/Clothes.htm)  
+[![clla1](https://1blockatatime.github.io/English/images2/clla1.PNG){:height="75px"}](https://learningapps.org/10043443) [![clla1pt](https://1blockatatime.github.io/English/images2/clla1_pt.png){:height="50px"}](https://learningapps.org/10043443)   
 
 ### Talking about clothes
 
@@ -50,9 +52,9 @@ tbts_pt.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 
 ### Mais jogos e exercícios
 
-[![clelfph1](https://1blockatatime.github.io/English/images2/clelfph1.PNG){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing) [![clelfph1pt](https://1blockatatime.github.io/English/images2/clelfph1_pt.png){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing)  
-[![cleslgw1](https://1blockatatime.github.io/English/images2/cleslgw1.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html) [![cleslgw1pt](https://1blockatatime.github.io/English/images2/cleslgw1_pt.png){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html)   
-[![clsm](https://1blockatatime.github.io/English/images2/clsm.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/) [![clsmpt](https://1blockatatime.github.io/English/images2/clsm_pt.png){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/)  
+[![clelfph1](https://1blockatatime.github.io/English/images2/clelfph1.PNG){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing) [![clelfph1pt](https://1blockatatime.github.io/English/images2/clelfph1_pt.png){:height="85px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing)  
+[![cleslgw1](https://1blockatatime.github.io/English/images2/cleslgw1.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html) [![cleslgw1pt](https://1blockatatime.github.io/English/images2/cleslgw1_pt.png){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html)   
+[![clsm](https://1blockatatime.github.io/English/images2/clsm.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/) [![clsmpt](https://1blockatatime.github.io/English/images2/clsm_pt.png){:height="85px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/)  
 
 ### Tarefa principal - exercícios dos diálogos
 
