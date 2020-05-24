@@ -1,5 +1,6 @@
-Too big! Too small! (Grande demais! Pequeno demais!)  
+**Too big! Too small!** (Grande demais! Pequeno demais!)  
 By Lavanya Karthik (Por Lavanya Karthik)   
+
 “I can’t lift you up, Shanu!”  (Não consigo pegar em ti.)  
 says Ammi. (diz Ammi.)  
 “You are too big!” (És grande demais!)  
