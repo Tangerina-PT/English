@@ -1,27 +1,34 @@
 ## Going shopping / Ir às compras...
 
+### Vídeo 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GiD96zZhunw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+### Language structures
+
 ***Question - Shop assistant:*** **'Can I help you?' (Posso ajudar-te?)**  
 ***Answers - Customer:*** **'Yes, I'm looking for a t-shirt.' (Sim, estou a procura de uma t-shirt.); 'No thank you. I'm just looking.' (Não obrigada, só estou a ver.)**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-qaHrzxuphU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
+***Question - Customer:*** **'Can I try it on?' (Posso experimentá-lo?)**  
+***Answers - Shop assistant:*** **'Yes.' (Sim.)**  
 
 
-### Canta a canção  
-**How much is it?** (Quanto é?)  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MLyFZyh7mM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+***Question - Customer:*** **'How much is it?' (Quanto é?)**  
+***Answers - Shop assistant:*** **'It's 20 dollars.' (São 20 dólares.)**  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/MLyFZyh7mM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Vê aqui a letra da canção e a tradução](https://tangerina-pt.github.io/English/ILLSW)  
 
-* Clica na seta preta na barra cinzenta. Ouve a canção e escolha as palavras que faltam. Ao acabar, clica na barra azul em baixo: 'Finish' (acabar) e a seguir na lupa para a correcção:     
-[![lvwkdr](https://1blockatatime.github.io/English/images/lvwkdr.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq)
+### Aprender o vocabulário - roupa 
 
-### Aprender o vocabulário  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/tvMFHAs5dMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe src="https://player.vimeo.com/video/201019988" width="220" height="124" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/taoCF1cKZSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="560" height="315" src="https://www.youtube.com/embed/jNg3KuUFkxU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+* NB: Vídeo 2: 'I have a cap.'='I've got a cap.'= Tenho um bonet.
 
-* Clica no altifalante entre a imagem e a palavra. Ouve e repete.  
-[![lvwkdr0](https://1blockatatime.github.io/English/images/lvwkdr0.PNG){:height="75px"}](https://www.liveworksheets.com/ps196215vo) [Exercício de Liveworksheets](https://www.liveworksheets.com/ps196215vo) 
+* No primeiro ecrã, clica em cada imagem para ouvir como pronunciar cada palavra. Ao jogar, ouve as descrições de como estão vestidos as figuras e arrasta as roupas correctas. Ouvirás '**He** is wearing...' (**Ele** está vestido com...) e '**She** is wearing...' (**Ela** está vestido com...)    
+[![clgtl1](https://1blockatatime.github.io/English/images/clgtl1.PNG){:height="75px"}](https://www.gamestolearnenglish.com/clothes-game/)  
 
-* Faz a correspondência entre as imagens e as palavras.   
+### * Faz a correspondência entre as imagens e as palavras.   
 [![lvwkdr1](https://1blockatatime.github.io/English/images/lvwkdr1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_the_matter$/At_the_school._What's_the_matter$_qs15369qu) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_the_matter$/At_the_school._What's_the_matter$_qs15369qu)
 
 * Escolha a expressão certa para cada imagem.  
