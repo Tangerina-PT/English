@@ -61,14 +61,14 @@ Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer o
 [![clsm](https://1blockatatime.github.io/English/images2/clsm.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/) [![clsmpt](https://1blockatatime.github.io/English/images2/clsm_pt.png){:height="85px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/)  
 
 ***
-<--### Extensão avançado - para quem quiser aprender mais...
 
+<!--### Extensão avançado - para quem quiser aprender mais...
 **'What is your size?' (Qual é o seu tamanho?)** **'small' (pequeno)** **'medium' (médio)** **'large' (grande)**  
 <audio src="https://1blockatatime.github.io/English/audio/whatsize.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/small.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/medium.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/large.mp3" controls preload></audio>    
 **'Have you got a bigger sizer?' = 'Do you have a bigger size?' = (Tem um tamanho maior?)**
 <audio src="https://1blockatatime.github.io/English/audio/gotbigger.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/havebigger.mp3" controls preload></audio>    
 
-[![shlvwk5](https://1blockatatime.github.io/English/images2/shlvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/ox392277pt) [![shlvwk5pt](https://1blockatatime.github.io/English/images2/shlvwk5_pt.png){:height="75px"}](https://www.liveworksheets.com/ox392277pt)-->
+[![shlvwk5](https://1blockatatime.github.io/English/images2/shlvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/ox392277pt) [![shlvwk5pt](https://1blockatatime.github.io/English/images2/shlvwk5_pt.png){:height="75px"}](https://www.liveworksheets.com/ox392277pt) -->
 
 ### Recursos Gerais  
 * Tradução PT->EN  :  Pronunciação  
