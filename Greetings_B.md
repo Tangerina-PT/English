@@ -20,24 +20,29 @@
 
 [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
 
-[![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (What's your name?/How are you?)
+[Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E)    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+
+Extensão:  
+[![grsmfv](/images/grsmfv.PNG){:height="60px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [![grsmfv](/images/grsmfv.PNG){:height="60px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
 
 #### Introducing others (Apresentar os outros)
 
-**'This is my mother.' (Este é a minha mãe.); 'This is my friend.' (Este é a minha amiga/o meu amigo.)**
+***Question:*** **'Who is it?' (Quem é?); 'Who is this?' (Quem é este?)**
+***Answer:*** **'This is my mother.' (Este é a minha mãe.); 'This is my friend.' (Este é a minha amiga/o meu amigo.)**
 
+[![lvwkfa39](https://1blockatatime.github.io/English/images2/lvwkfa39.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq) [![lvwkfa39pt](https://1blockatatime.github.io/English/images2/lvwkfa39_pt.png){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq)  
+
+[![lvwkfa41](https://1blockatatime.github.io/English/images2/lvwkfa41.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de) [![lvwkfa41pt](https://1blockatatime.github.io/English/images2/lvwkfa41_pt.png){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de)   
 
 ***Question:*** **'What's her name?' ('O que é o nome dela?' -> Como é que ela se-chama?); 'What's his name?' ('O que é o nome dele?' -> Como é que ele se-chama?)**  
-***Answer:*** **'Her name is Jane.' (O nome dela é Jane.); 'His name is Greg.' (O nome dele é Greg.)**
+***Answer:*** **'Her name is Jane.' (O nome dela é Jane.); 'His name is Greg.' (O nome dele é Greg.)**  
 
-[![whnlvwk1](https://1blockatatime.github.io/English/images/whnlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo) [![whnlvwk1pt](https://1blockatatime.github.io/English/images/whnlvwk1_pt.png){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J84KsvFmkoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+[![lvwkfa42](https://1blockatatime.github.io/English/images2/lvwkfa42.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de) [![lvwkfa42pt](https://1blockatatime.github.io/English/images2/lvwkfa42_pt.png){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de)  
 
-
-* Queres um desafio? [![grsmfv](/images/grsmfv.PNG){:height="60px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Ouve e tenta arrastar as palavras para construir a frase.](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
-
-NB: Esta actividade parece só funcionar com Internet Explorer  
-
+[![whnlvwk1](https://1blockatatime.github.io/English/images2/whnlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo) [![whnlvwk1pt](https://1blockatatime.github.io/English/images2/whnlvwk1_pt.png){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo)
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)  
