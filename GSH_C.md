@@ -34,7 +34,7 @@ tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 
 Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer os exercícios dos diálogos. Primeiro podes ver e ouvir. Verás que algumas falas no diálogo demoram a aparecer - mas que há dicas visuais para te dar a ideia sobre o que a personagem vai dizer a seguir. Desafia-te a ver se consegues lembrar o que é para dizer quando as falas demoram. Bom trabalho!   
 
-<iframe width="198" height="112" src="https://www.youtube.com/embed/tDM3D8D_Ljg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/8VPb81y6ZWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/m3XyZad9ZBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="198" height="112" src="https://www.youtube.com/embed/tDM3D8D_Ljg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/8VPb81y6ZWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/Kh-somlGSqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ### Trabalhar o vocabulário - Clothes (roupa) 
 
