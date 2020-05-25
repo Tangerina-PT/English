@@ -56,7 +56,9 @@ tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 
 ### Tarefa principal - exercícios dos diálogos
 
+<iframe width="198" height="112" src="https://www.youtube.com/embed/tDM3D8D_Ljg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/8VPb81y6ZWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/m3XyZad9ZBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+***
 
 ### Extensão avançado - para quem quiser aprender mais...
 
