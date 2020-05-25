@@ -24,14 +24,14 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
 ***Extensão:***  
-[![grsmfv](https://1blockatatime.github.io/English/images/grsmfv.PNG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [![grsmfvpt](https://1blockatatime.github.io/English/images2/grsmfv.PNG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
+[![grsmfv](https://1blockatatime.github.io/English/images/grsmfv.PNG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [![grsmfvpt](https://1blockatatime.github.io/English/images2/grsmfv_pt.PNG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
 
 #### Introducing others (apresentar os outros)
 
 ***Question:*** **'Who is it?' (Quem é?); 'Who is this?' (Quem é este?)**
 ***Answer:*** **'This is my mother.' (Este é a minha mãe.); 'This is my friend.' (Este é a minha amiga/o meu amigo.)**
 
-[![lvwkfa39](https://1blockatatime.github.io/English/images2/lvwkfa39.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq) [![lvwkfa39pt](https://1blockatatime.github.io/English/images2/lvwkfa39_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq)  
+[![lvwkfa39](https://1blockatatime.github.io/English/images2/lvwkfa39.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq) [![lvwkfa39pt](https://1blockatatime.github.io/English/images2/lvwkfa39_pt.png){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq)  
 
 [![lvwkfa41](https://1blockatatime.github.io/English/images2/lvwkfa41.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de) [![lvwkfa41pt](https://1blockatatime.github.io/English/images2/lvwkfa41_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de)   
 
@@ -41,9 +41,9 @@
 [Gogo’s Adventures with English 2](https://www.youtube.com/embed/J84KsvFmkoo)
 <iframe width="220" height="124" src="https://www.youtube.com/embed/J84KsvFmkoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[![lvwkfa42](https://1blockatatime.github.io/English/images2/lvwkfa42.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de) [![lvwkfa42pt](https://1blockatatime.github.io/English/images2/lvwkfa42_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de)  
+[![lvwkfa42](https://1blockatatime.github.io/English/images2/lvwkfa42.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de) [![lvwkfa42pt](https://1blockatatime.github.io/English/images2/lvwkfa42_pt.png){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de)  
 
-[![whnlvwk1](https://1blockatatime.github.io/English/images2/whnlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo) [![whnlvwk1pt](https://1blockatatime.github.io/English/images2/whnlvwk1_pt.PNG){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo)
+[![whnlvwk1](https://1blockatatime.github.io/English/images2/whnlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo) [![whnlvwk1pt](https://1blockatatime.github.io/English/images2/whnlvwk1_pt.PNG){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo)
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
