@@ -19,11 +19,6 @@ razccl.png){:height="75px"}](https://www.youtube.com/embed/OLQ5soMUZqk) [![razcc
 razccl_pt.png){:height="80px"}](https://www.youtube.com/embed/OLQ5soMUZqk)    
 'I must have grown over the summer.' = 'Devo ter crescido durante o verão.'; 'old' = velho, antigo   
 
-[![tbts](https://1blockatatime.github.io/English/images2/
-tbts.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I) [![tbts_pt](https://1blockatatime.github.io/English/images2/
-tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)  
-[Vê aqui o texto da história e a tradução](https://tangerina-pt.github.io/English/TBTS)  
-
 ***Question - Customer:*** **'How much is it?' (Quanto é?)**  
 ***Answers - Shop assistant:*** **'It's 20 dollars.' (São 20 dólares.)**  
 
@@ -63,6 +58,10 @@ Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer o
 ***
 
 <!--### Extensão avançado - para quem quiser aprender mais...
+[![tbts](https://1blockatatime.github.io/English/images2/
+tbts.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I) [![tbts_pt](https://1blockatatime.github.io/English/images2/
+tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)  
+[Vê aqui o texto da história e a tradução](https://tangerina-pt.github.io/English/TBTS)  
 **'What is your size?' (Qual é o seu tamanho?)** **'small' (pequeno)** **'medium' (médio)** **'large' (grande)**  
 <audio src="https://1blockatatime.github.io/English/audio/whatsize.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/small.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/medium.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/large.mp3" controls preload></audio>    
 **'Have you got a bigger sizer?' = 'Do you have a bigger size?' = (Tem um tamanho maior?)**
