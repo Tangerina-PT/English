@@ -56,7 +56,7 @@
 ***Vocab.:*** mum, mummy, mom(EUA) = mama; mother = mãe; dad, daddy = papa; father = pai; parents = pais; sister = irmã; brother = irmão; grandma, granny, grandmother = avó; grandpa, granddad, grandfather = avô; grandparents = avós; baby = bébé; aunt, aunty, auntie = tia; uncle = tio; cousin = primo/prima; family = família  
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
