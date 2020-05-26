@@ -1,8 +1,6 @@
 ### Greetings and introducing others   
 
-#### Initial greetings (cumprimentos iniciais)
-
-**Good morning ('Boa manhã' -> Bom dia); Good afternoon (Boa tarde); Hello ('Olá' - mais formal); Hi ('Olá' - informal)**  
+***Initial greetings (cumprimentos iniciais)*** **Good morning ('Boa manhã' -> Bom dia); Good afternoon (Boa tarde); Hello ('Olá' - mais formal); Hi ('Olá' - informal)**  
 
 #### Getting to know each other (conhecer-se)
 
@@ -46,7 +44,7 @@
 [![whnlvwk1](https://1blockatatime.github.io/English/images2/whnlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo) [![whnlvwk1pt](https://1blockatatime.github.io/English/images2/whnlvwk1_pt.PNG){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo)
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
