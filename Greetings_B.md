@@ -1,8 +1,8 @@
 ### Greetings and introducing others   
 
-***Initial greetings (cumprimentos iniciais)*** **Good morning ('Boa manhã' -> Bom dia); Good afternoon (Boa tarde); Hello ('Olá' - mais formal); Hi ('Olá' - informal)**  
-
 #### Getting to know each other (conhecer-se)
+
+**Initial greetings (cumprimentos iniciais): Good morning ('Boa manhã' -> Bom dia); Good afternoon (Boa tarde); Hello ('Olá' - mais formal); Hi ('Olá' - informal)**  
 
 ***Question:*** **'What's your name?'('O que é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
@@ -29,6 +29,9 @@
 ***Question:*** **'Who is it?' (Quem é?); 'Who is this?' (Quem é este?)**
 ***Answer:*** **'This is my mother.' (Este é a minha mãe.); 'This is my friend.' (Este é a minha amiga/o meu amigo.)**
 
+https://www.liveworksheets.com/pn517808gd
+[![grlvwk10](https://1blockatatime.github.io/English/images2/grlvwk10.PNG){:height="75px"}](https://www.liveworksheets.com/pn517808gd) [![grlvwk10pt](https://1blockatatime.github.io/English/images2/grlvwk10_pt.png){:height="50px"}](https://www.liveworksheets.com/pn517808gd)  
+
 [![lvwkfa39](https://1blockatatime.github.io/English/images2/lvwkfa39.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq) [![lvwkfa39pt](https://1blockatatime.github.io/English/images2/lvwkfa39_pt.png){:height="90px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq)  
 
 [![lvwkfa41](https://1blockatatime.github.io/English/images2/lvwkfa41.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de) [![lvwkfa41pt](https://1blockatatime.github.io/English/images2/lvwkfa41_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de)   
@@ -39,9 +42,9 @@
 [Gogo’s Adventures with English 2](https://www.youtube.com/embed/J84KsvFmkoo)
 <iframe width="220" height="124" src="https://www.youtube.com/embed/J84KsvFmkoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[![lvwkfa42](https://1blockatatime.github.io/English/images2/lvwkfa42.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de) [![lvwkfa42pt](https://1blockatatime.github.io/English/images2/lvwkfa42_pt.png){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de)  
-
 [![whnlvwk1](https://1blockatatime.github.io/English/images2/whnlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo) [![whnlvwk1pt](https://1blockatatime.github.io/English/images2/whnlvwk1_pt.PNG){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo)
+
+[![lvwkfa42](https://1blockatatime.github.io/English/images2/lvwkfa42.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de) [![lvwkfa42pt](https://1blockatatime.github.io/English/images2/lvwkfa42_pt.png){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
