@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ## Getting to know each other (Conhecer-se) 
 
 ***Question:*** **'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
@@ -128,7 +116,7 @@ Can you say what you like to do? / Sabes dizer o que gostas de fazer?
 [![wdwd1](/images/wdwd1.png){:height="60px"}](https://www.youtube.com/watch?v=GSph7bc8k-4) [What do you want to do?](https://www.youtube.com/watch?v=GSph7bc8k-4)
 
 ***
-[![home](/images/home.PNG){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
