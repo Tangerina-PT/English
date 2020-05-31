@@ -43,6 +43,8 @@ tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 
 [![shlvwk5](https://1blockatatime.github.io/English/images2/shlvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/ox392277pt) [![shlvwk5pt](https://1blockatatime.github.io/English/images2/shlvwk5_pt.png){:height="75px"}](https://www.liveworksheets.com/ox392277pt)-->  
 
+[![cltag](https://1blockatatime.github.io/English/images2/images/cltag.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Clothes_CD)  
+
 ***
 
 ### Recursos Gerais  
@@ -51,4 +53,4 @@ tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 
 ***
 
-[![home](https://1blockatatime.github.io/English/images/home.PNG){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
