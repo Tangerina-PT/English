@@ -11,3 +11,5 @@
 #### [Getting to know each other/Conhecer-se](https://tangerina-pt.github.io/English/GTKEO_CD)
 
 ***
+
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
