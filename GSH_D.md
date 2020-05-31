@@ -31,7 +31,7 @@ Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer o
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/tDM3D8D_Ljg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/8VPb81y6ZWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/Kh-somlGSqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-### Extensão avançado - para quem quiser aprender mais...
+<!--### Extensão avançado - para quem quiser aprender mais...
 [![tbts](https://1blockatatime.github.io/English/images2/
 tbts.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I) [![tbts_pt](https://1blockatatime.github.io/English/images2/
 tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)  
@@ -41,7 +41,7 @@ tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 **'Have you got a bigger sizer?' = 'Do you have a bigger size?' = (Tem um tamanho maior?)**
 <audio src="https://1blockatatime.github.io/English/audio/gotbigger.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/havebigger.mp3" controls preload></audio>    
 
-[![shlvwk5](https://1blockatatime.github.io/English/images2/shlvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/ox392277pt) [![shlvwk5pt](https://1blockatatime.github.io/English/images2/shlvwk5_pt.png){:height="75px"}](https://www.liveworksheets.com/ox392277pt)  
+[![shlvwk5](https://1blockatatime.github.io/English/images2/shlvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/ox392277pt) [![shlvwk5pt](https://1blockatatime.github.io/English/images2/shlvwk5_pt.png){:height="75px"}](https://www.liveworksheets.com/ox392277pt)-->  
 
 ***
 
