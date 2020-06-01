@@ -1,6 +1,6 @@
 ### Giving and following directions / Dar e seguir indicações...
 
-![constr](https://1blockatatime.github.io/English/images2/images/constr.PNG){:height="100px"}  
+![constr](https://1blockatatime.github.io/English/images2/images/constr.jpg){:height="100px"}  
 
 #### Part I - Where is the public library? / Onde está a biblioteca pública?
 
