@@ -1,12 +1,14 @@
 ### Giving and following directions / Dar e seguir indicações...
 
+![constr](https://1blockatatime.github.io/English/images2/images/constr.PNG){:height="100px"}  
+
 #### Part I - Where is the public library? / Onde está a biblioteca pública?
 
 ##### (A) Estuda os nomes dos lugares na cidade...
 
-[![plwkbk](https://1blockatatime.github.io/English/images2/images/plwkbk.PNG){:height="75px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html)
+[![plwkbk](https://1blockatatime.github.io/English/images2/images/plwkbk.png){:height="75px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html)
 
-[![pltag](https://1blockatatime.github.io/English/images2/images/pltag.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Places_D)   
+[![pltag](https://1blockatatime.github.io/English/images2/images/pltag.png){:height="60px"}](https://tangerina-pt.github.io/English/Places_D)   
 
 ##### (B) Estuda as preposições (de lugar)...
 
@@ -41,7 +43,7 @@ Este é um pouco mais difícil, consegues seguir as indicações dados nos cená
 Nota: a palavra 'through' (através) está mal escrito neste vídeo - falta o primeiro 'h'  
 
 
-[![cltag](https://1blockatatime.github.io/English/images2/images/cltag.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Clothes_CD)  
+[![cltag](https://1blockatatime.github.io/English/images2/images/cltag.png){:height="60px"}](https://tangerina-pt.github.io/English/Clothes_CD)  
 
 ***
 
