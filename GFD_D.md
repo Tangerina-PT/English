@@ -14,6 +14,8 @@ Já sabes os nomes dos lugares na cidade e as preposições? Então responde à 
 
 ##### (C) Where is the pharmacy/chemist? / Onde está a farmácia?
 
+<iframe width="220" height="124" src="https://www.youtube.com/embed/Hk0A-L9aB94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***Question:*** **'Where is the pharmacy/chemist?' (Onde está a farmácia?)**  
 
 [![lvwkgd10](https://1blockatatime.github.io/English/images2/lvwkgd10.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_-_reading_comprehension_tz14279fj) [![lvwkgd10_pt](https://1blockatatime.github.io/English/images2/lvwkgd10_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_-_reading_comprehension_tz14279fj)  
@@ -26,7 +28,18 @@ Já sabes os nomes dos lugares na cidade e as preposições? Então responde à 
 
 ##### (D) Estuda as preposições (de movimento)...
 
+Watch the videos to learn the prepositions of movement...  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/PAC0qY2lnAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/ZYl5WQCvLoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 ##### (E) How do you get to the hospital?
+
+More advanced video:  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/-_YoeEY8FPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Este é um pouco mais difícil, consegues seguir as indicações dados nos cenários no fim?  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/NvMbJjpF-94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+Nota: a palavra 'through' (através) está mal escrito neste vídeo - falta o primeiro 'h'  
+
 
 [![cltag](https://1blockatatime.github.io/English/images2/images/cltag.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Clothes_CD)  
 
