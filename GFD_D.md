@@ -8,9 +8,15 @@
 
 [![plwkbk](https://1blockatatime.github.io/English/images2/plwkbk.PNG){:height="75px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html)
 
-[![pltag](https://1blockatatime.github.io/English/images2/pltag.png){:height="60px"}](https://tangerina-pt.github.io/English/Places_D)   
+<!--[![pltag](https://1blockatatime.github.io/English/images2/pltag.png){:height="60px"}](https://tangerina-pt.github.io/English/Places_D)-->   
 
 ##### (B) Estuda as preposições (de lugar)...
+
+
+[![lvwkgd8](https://1blockatatime.github.io/English/images2/lvwkgd8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um) <!--[![lvwkgd8pt](https://1blockatatime.github.io/English/images2/lvwkgd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um)-->  
+
+[![lvwkgd9](https://1blockatatime.github.io/English/images2/lvwkgd9.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc) <!--[![lvwkgd8pt](https://1blockatatime.github.io/English/images2/lvwkgd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc)-->  
+
 
 Já sabes os nomes dos lugares na cidade e as preposições? Então responde à pergunta...
 
@@ -32,9 +38,7 @@ Já sabes os nomes dos lugares na cidade e as preposições? Então responde à 
 
 Watch the videos to learn the prepositions of movement...  
 <iframe width="198" height="112" src="https://www.youtube.com/embed/AWrx-ScpWnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/PAC0qY2lnAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/ZYl5WQCvLoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[Vê aqui a letra da canção e a tradução](https://tangerina-pt.github.io/English/preptr)  
-
-[![prmvma](https://1blockatatime.github.io/English/images2/prmvma.png){:height="75px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html)  
+[Vê aqui a letra e a tradução](https://tangerina-pt.github.io/English/preptr) [Vê aqui a letra e a tradução](https://tangerina-pt.github.io/English/preptr) [Vê aqui o texto e a tradução](https://tangerina-pt.github.io/English/preptr)    
 
 [![prmvla](https://1blockatatime.github.io/English/images2/prmvla.PNG){:height="75px"}](https://learningapps.org/506484)  
 
@@ -46,10 +50,7 @@ More advanced video:
 Este é um pouco mais difícil, consegues seguir as indicações dados nos cenários no fim?  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/NvMbJjpF-94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-Nota: a palavra 'through' (através) está mal escrito neste vídeo - falta o primeiro 'h'  
-
-
-[![cltag](https://1blockatatime.github.io/English/images2/cltag.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Clothes_CD)  
+Nota: a palavra 'through' (através) está mal escrito neste vídeo - falta o primeiro 'h'   
 
 ***
 
