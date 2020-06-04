@@ -6,17 +6,15 @@
 
 ##### (A) Estuda os nomes dos lugares na cidade...
 
-[![plwkbk](https://1blockatatime.github.io/English/images2/plwkbk.PNG){:height="75px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html)
+[![plwkbk](https://1blockatatime.github.io/English/images2/plwkbk.PNG){:height="75px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html) [![plwkbkpt](https://1blockatatime.github.io/English/images2/plwkbk_pt.png){:height="90px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html)  
 
 <!--[![pltag](https://1blockatatime.github.io/English/images2/pltag.png){:height="60px"}](https://tangerina-pt.github.io/English/Places_D)-->   
 
 ##### (B) Estuda as preposições (de lugar)...
 
+[![lvwkgd8](https://1blockatatime.github.io/English/images2/lvwkgd8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um) [![lvwkgd8pt](https://1blockatatime.github.io/English/images2/lvwkgd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um)  
 
-[![lvwkgd8](https://1blockatatime.github.io/English/images2/lvwkgd8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um) <!--[![lvwkgd8pt](https://1blockatatime.github.io/English/images2/lvwkgd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um)-->  
-
-[![lvwkgd9](https://1blockatatime.github.io/English/images2/lvwkgd9.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc) <!--[![lvwkgd8pt](https://1blockatatime.github.io/English/images2/lvwkgd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc)-->  
-
+[![lvwkgd9](https://1blockatatime.github.io/English/images2/lvwkgd9.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc) [![lvwkgd8pt](https://1blockatatime.github.io/English/images2/lvwkgd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc)  
 
 Já sabes os nomes dos lugares na cidade e as preposições? Então responde à pergunta...
 
@@ -26,9 +24,9 @@ Já sabes os nomes dos lugares na cidade e as preposições? Então responde à 
 
 ***Question:*** **'Where is the pharmacy/chemist?' (Onde está a farmácia?)**  
 
-[![lvwkgd10](https://1blockatatime.github.io/English/images2/lvwkgd10.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_-_reading_comprehension_tz14279fj) [![lvwkgd10pt](https://1blockatatime.github.io/English/images2/lvwkgd10_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_-_reading_comprehension_tz14279fj)  
+[![lvwkgd10](https://1blockatatime.github.io/English/images2/lvwkgd10.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_-_reading_comprehension_tz14279fj) [![lvwkgd10pt](https://1blockatatime.github.io/English/images2/lvwkgd10_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_-_reading_comprehension_tz14279fj)  
 
-[![lvwkgd12](https://1blockatatime.github.io/English/images2/lvwkgd12.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Reading_worksheets_xi14374yr) [![lvwkgd12pt](https://1blockatatime.github.io/English/images2/lvwkgd12_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Reading_worksheets_xi14374yr)  
+[![lvwkgd12](https://1blockatatime.github.io/English/images2/lvwkgd12.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Reading_worksheets_xi14374yr) [![lvwkgd12pt](https://1blockatatime.github.io/English/images2/lvwkgd12_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Reading_worksheets_xi14374yr)  
 
 #### Part II - How do you get to the sports' centre? / Como é que se vai para o centro de desporto?
 
@@ -37,10 +35,10 @@ Já sabes os nomes dos lugares na cidade e as preposições? Então responde à 
 ##### (D) Estuda as preposições (de movimento)...
 
 Watch the videos to learn the prepositions of movement...  
-<iframe width="198" height="112" src="https://www.youtube.com/embed/AWrx-ScpWnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/PAC0qY2lnAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/ZYl5WQCvLoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[Vê aqui a letra e a tradução](https://tangerina-pt.github.io/English/preptr) [Vê aqui a letra e a tradução](https://tangerina-pt.github.io/English/preptr) [Vê aqui o texto e a tradução](https://tangerina-pt.github.io/English/preptr)    
+ <iframe width="220 height="124" src="https://www.youtube.com/embed/PAC0qY2lnAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/ZYl5WQCvLoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Vê aqui a letra e a tradução da canção](https://tangerina-pt.github.io/English/PRMV)      
 
-[![prmvla](https://1blockatatime.github.io/English/images2/prmvla.PNG){:height="75px"}](https://learningapps.org/506484)  
+[![prmvla](https://1blockatatime.github.io/English/images2/prmvla.PNG){:height="75px"}](https://learningapps.org/506484) [![prmvlapt](https://1blockatatime.github.io/English/images2/prmvla_pt.png){:height="65px"}](https://learningapps.org/506484)  
 
 
 ##### (E) How do you get to the hospital?
