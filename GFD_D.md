@@ -52,8 +52,11 @@ Nota: a palavra 'through' (através) está mal escrito neste vídeo - falta o pr
 
 #### (G) How do you get to the hospital?
 
+Vê os vídeos. Consegues seguir as indicações? Lanço o desafio - faz o teu próprio vídeo. Podes usar uma fotografia ou desenho de uma cidade ou criar uma mini-cidade. Pode ser um vídeo simples com várias personagens a perguntar por exemplo 'Where is the pharmacy?' (Onde está a farmácia?) com uma resposta usando preposições, p.ex. 'The pharmacy is between the post office and the bank.' (A farmácia está entre os correios e o banco.) ou um usando indicações onde alguém pergunta como chegar a um determinado sítio...    
 
-
+<iframe width="220" height="124" src="https://www.youtube.com/embed/g7X-X1Sxb1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/0f9ewJ5MQ-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/ns3X5TuyvhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/o-4FjPe0M8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***
 
