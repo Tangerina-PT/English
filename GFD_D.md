@@ -10,15 +10,22 @@
 
 ##### (B) Work on prepositions of place / Estuda as preposições (de lugar)...
 
+
+[![lvwkgd14](https://1blockatatime.github.io/English/images2/lvwkgd14.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_co257254tv) [![lvwkgd14pt](https://1blockatatime.github.io/English/images2/lvwkgd14_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_co257254tv) 
+
+[![lvwkgd15](https://1blockatatime.github.io/English/images2/lvwkgd15.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Town_2_vc535645si) [![lvwkgd15pt](https://1blockatatime.github.io/English/images2/lvwkgd15_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Town_2_vc535645si)   
+
 [![lvwkgd8](https://1blockatatime.github.io/English/images2/lvwkgd8.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um) [![lvwkgd8pt](https://1blockatatime.github.io/English/images2/lvwkgd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um)  
 
-[![lvwkgd9](https://1blockatatime.github.io/English/images2/lvwkgd9.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc) [![lvwkgd8pt](https://1blockatatime.github.io/English/images2/lvwkgd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc)  
+[![lvwkgd9](https://1blockatatime.github.io/English/images2/lvwkgd9.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc) [![lvwkgd9pt](https://1blockatatime.github.io/English/images2/lvwkgd9_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc)  
 
 You already know the names of places in a city and the prepositions (of place)? OK, then answer the question... / Já sabes os nomes dos lugares na cidade e as preposições? OK, então responde à pergunta...
 
 ##### (C) Where is the church? / Onde está a igreja?
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Hk0A-L9aB94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[![lvwkgd13](https://1blockatatime.github.io/English/images2/lvwkgd13.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Preposition_of_place_on_a_map__fa8032ei) [![lvwkgd13pt](https://1blockatatime.github.io/English/images2/lvwkgd13_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Preposition_of_place_on_a_map__fa8032ei)  
 
 [![lvwkgd10](https://1blockatatime.github.io/English/images2/lvwkgd10.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_-_reading_comprehension_tz14279fj) [![lvwkgd10pt](https://1blockatatime.github.io/English/images2/lvwkgd10_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_-_reading_comprehension_tz14279fj)  
 
