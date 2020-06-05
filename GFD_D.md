@@ -17,7 +17,7 @@
 
 [![lvwkgd8](https://1blockatatime.github.io/English/images2/lvwkgd8.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um) [![lvwkgd8pt](https://1blockatatime.github.io/English/images2/lvwkgd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Shops-prepositions_of_place_bd298095um)  
 
-[![lvwkgd9](https://1blockatatime.github.io/English/images2/lvwkgd9.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc) [![lvwkgd9pt](https://1blockatatime.github.io/English/images2/lvwkgd9_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc)  
+[![lvwkgd9](https://1blockatatime.github.io/English/images2/lvwkgd9.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc) [![lvwkgd9pt](https://1blockatatime.github.io/English/images2/lvwkgd9_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Places_in_town_iq101581gc)  
 
 You already know the names of places in a city and the prepositions (of place)? OK, then answer the question... / Já sabes os nomes dos lugares na cidade e as preposições? OK, então responde à pergunta...
 
