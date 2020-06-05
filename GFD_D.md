@@ -16,7 +16,7 @@
 
 You already know the names of places in a city and the prepositions (of place)? OK, then answer the question... / Já sabes os nomes dos lugares na cidade e as preposições? OK, então responde à pergunta...
 
-##### (C) Where is the pharmacy/chemist? / Onde está a farmácia?
+##### (C) Where is the church? / Onde está a igreja?
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Hk0A-L9aB94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -24,9 +24,7 @@ You already know the names of places in a city and the prepositions (of place)? 
 
 [![lvwkgd12](https://1blockatatime.github.io/English/images2/lvwkgd12.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Reading_worksheets_xi14374yr) [![lvwkgd12pt](https://1blockatatime.github.io/English/images2/lvwkgd12_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Reading_worksheets_xi14374yr)  
 
-#### Part II - How do you get to the sports' centre? / Como é que se vai para o centro de desporto?
-
-
+#### Part II - How do you get to the bank? / Como é que se vai para o banco?
 
 ##### (D) Estuda as preposições (de movimento)...
 
@@ -36,17 +34,18 @@ Watch the videos to learn the prepositions of movement...
 
 [![prmvla](https://1blockatatime.github.io/English/images2/prmvla.PNG){:height="75px"}](https://learningapps.org/506484) [![prmvlapt](https://1blockatatime.github.io/English/images2/prmvla_pt.png){:height="70px"}](https://learningapps.org/506484)  
 
-
 ##### (F) Directions in the street / Indicações na rua 
 
-More advanced video:  
+<!--More advanced video:  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-_YoeEY8FPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Este é um pouco mais difícil, consegues seguir as indicações dados nos cenários no fim?  
+Este é um pouco mais difícil, consegues seguir as indicações dados nos cenários no fim?-->  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/NvMbJjpF-94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Nota: a palavra 'through' (através) está mal escrito neste vídeo - falta o primeiro 'h'   
 
 #### (G) How do you get to the hospital?
+
+
 
 
 ***
