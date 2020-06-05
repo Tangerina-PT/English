@@ -49,7 +49,7 @@ Este é um pouco mais difícil, consegues seguir as indicações dados nos cená
 <iframe width="220" height="124" src="https://www.youtube.com/embed/OPL9LrqzA4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/NvMbJjpF-94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Nota: a palavra 'through' (através) está mal escrito no segundo vídeo - falta o primeiro 'h'   
 
-##### (G) How do you get to the hospital?
+##### (G) Trabalho: How do you get to the hospital?
 
 Vê os vídeos. Consegues seguir as indicações? Desafio - faz o teu próprio vídeo. Podes usar uma fotografia ou desenho de uma cidade, um mapa desenhado ou criar uma mini-cidade. Pode ser simples com várias personagens a perguntar por exemplo 'Where is the pharmacy?' (Onde está a farmácia?) com respostas usando preposições, p.ex. 'The pharmacy is between the post office and the bank.' (A farmácia está entre os correios e o banco.) ou um vídeo dando indicações.     
 
