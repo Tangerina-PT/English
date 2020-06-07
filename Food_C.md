@@ -1,4 +1,4 @@
-![vocab](https://1blockatatime.github.io/English/images/vocab_pt.png){:height="65px"} [![target](https://1blockatatime.github.io/English/images/target.png){:height="60px"}](https://tangerina-pt.github.io/English/ObjFood)
+![vocab](https://1blockatatime.github.io/English/images/vocab_pt.png){:height="65px"}
 
 ![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="45px"} [![lvwkfd7](https://1blockatatime.github.io/English/images/lvwkfd7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_and_drinks_xb1067pl) [![lvwkfd7b](https://1blockatatime.github.io/English/images/lvwkfd7_pt.png){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_and_drinks_xb1067pl)  
 
@@ -58,12 +58,18 @@
 
 ***  
 
-![chall](https://1blockatatime.github.io/English/images/chall_pt.png){:height="60px"} 
-![extopt](https://1blockatatime.github.io/English/images/extopt_pt.png){:height="60px"}   
+### Ler e escrever
 
 [![lvwkfd8](https://1blockatatime.github.io/English/images/lvwkfd8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_multiple_choice_ik7569ip)[![lvwkfd8b](https://1blockatatime.github.io/English/images/lvwkfd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_multiple_choice_ik7569ip)  
 
+[![efgfo](https://1blockatatime.github.io/English/images/efgfo.PNG){:height="75px"}](https://englishflashgames.blogspot.com/2008/09/food-game.html) Procura e clica nos alimentos na ordem em que aparecem na lista.  
+
+<!--[![efgfo](https://1blockatatime.github.io/English/images/efgfo_pt.png){:height="75px"}](https://englishflashgames.blogspot.com/2008/09/food-game.html)--> 
+
 [![eexfd1](https://1blockatatime.github.io/English/images/eexfd1.PNG){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a) [![eexfd1b](https://1blockatatime.github.io/English/images/eexfd1_pt.png){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a)   
+
+<!--year4[![fdwkbk](https://1blockatatime.github.io/English/images/fdwkbk.PNG){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a)  
+Um caderno detalhado para trabalhar o vocabulário de comida. Clica no canto para virar a página. Ao acabar a página, clica no 'Valider' para corrigir.-->  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
