@@ -20,11 +20,7 @@
 
 [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E)    
 <iframe width="220" height="124" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
-
-***Question:*** **'How old are you?' (Quão velho és tu? -> Quantos anos tens/tem?)**  
-***Answer:*** **'Seven.' (7); 'I am seven.'= 'I'm seven.' (Tenho 7.); 'I am seven years old.' = 'I'm seven years old.' (Tenho 7 anos.)**  
-[![grlvwk8](https://1blockatatime.github.io/English/images2/grlvwk8.PNG){:height="75px"}](https://www.liveworksheets.com/ga82795qi) [![grlvwk8](https://1blockatatime.github.io/English/images2/grlvwk8_pt.png){:height="85px"}](https://www.liveworksheets.com/ga82795qi)  
-
+  
 ***Extensão:***  
 Nota: infelizmente este exercício não funciona com todos os browsers.  
 [![grsmfv](https://1blockatatime.github.io/English/images/grsmfv.PNG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [![grsmfvpt](https://1blockatatime.github.io/English/images2/grsmfv_pt.png){:height="85px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
