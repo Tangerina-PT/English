@@ -28,9 +28,7 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 [![ppme](https://1blockatatime.github.io/English/images/ppme.PNG){:height="75px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
 
-#### Jogos e exercícios - Queres trabalhar a leitura?
-
-#### Jogos e exercícios - Queres trabalhar a escrita?
+#### Jogos e exercícios - Queres trabalhar a leitura e a escrita?
 
 [![smpp](https://1blockatatime.github.io/English/images/smpp.PNG){:height="75px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)  
 
@@ -52,7 +50,7 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 ![pauta_10](/images/pauta_10.jpg){:width="640px"} 
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="45px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 #### Notes/Notas
