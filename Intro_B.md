@@ -1,8 +1,10 @@
-## Introducing others (apresentar os outros)
+## Introducing others... (Apresentar os outros...)
+
+
+### This is my...
 
 ***Questions:*** **'Who is it?' (Quem é?); 'Who is this?' (Quem é este?)**  
-***Answers:***  
-**'This is my mother.' (Este é a minha mãe.)**  
+***Answers:*** **'This is my mother.' (Este é a minha mãe.);**  
 **'This is my friend.' (Este é a minha amiga/o meu amigo.)**  
 
 [![grlvwk10](https://1blockatatime.github.io/English/images2/grlvwk10.PNG){:height="75px"}](https://www.liveworksheets.com/pn517808gd) [![grlvwk10pt](https://1blockatatime.github.io/English/images2/grlvwk10_pt.png){:height="50px"}](https://www.liveworksheets.com/pn517808gd)  
@@ -10,6 +12,10 @@
 [![lvwkfa39](https://1blockatatime.github.io/English/images2/lvwkfa39.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq) [![lvwkfa39pt](https://1blockatatime.github.io/English/images2/lvwkfa39_pt.png){:height="90px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq)  
 
 [![lvwkfa41](https://1blockatatime.github.io/English/images2/lvwkfa41.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de) [![lvwkfa41pt](https://1blockatatime.github.io/English/images2/lvwkfa41_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de)   
+
+***
+
+### His name is... Her name is...
 
 ***Question:*** **'What's her name?' ('O que é o nome dela?' -> Como é que ela se-chama?)**  
 ***Answer:*** **'Her name is Jane.' (O nome dela é Jane.)**  
@@ -23,6 +29,10 @@
 
 [![lvwkfa42](https://1blockatatime.github.io/English/images2/lvwkfa42.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de) [![lvwkfa42pt](https://1blockatatime.github.io/English/images2/lvwkfa42_pt.png){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de)  
 
+***
+
+### He is... She is...
+
 ***Question:*** **'How old is he?' ('Quão velho é ele?' -> Que idade tem (ele)?)**  
 ***Answers:*** **'Seven.' (7); 'He is seven.' = 'He's seven.' (Ele tem 7.); 'He is seven years old.' = 'He's seven years old.' (Ele tem 7 anos.)**  
 ***Question:*** **'How old is she?' ('Quão velho é ela?' -> Que idade tem (ela)?)**  
@@ -33,7 +43,7 @@
 [![iolvwk6pt](https://1blockatatime.github.io/English/images2/iolvwk6pt.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_age/How_old_are_they_ad30730zk) [![iolvwk6pt](https://1blockatatime.github.io/English/images2/iolvwk6_pt.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_age/How_old_are_they_ad30730zk)  
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="45px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
