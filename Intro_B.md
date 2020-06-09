@@ -1,7 +1,9 @@
 ## Introducing others (apresentar os outros)
 
 ***Questions:*** **'Who is it?' (Quem é?); 'Who is this?' (Quem é este?)**  
-***Answers:*** **'This is my mother.' (Este é a minha mãe.); 'This is my friend.' (Este é a minha amiga/o meu amigo.)**
+***Answers:***  
+**'This is my mother.' (Este é a minha mãe.)**  
+**'This is my friend.' (Este é a minha amiga/o meu amigo.)**  
 
 [![grlvwk10](https://1blockatatime.github.io/English/images2/grlvwk10.PNG){:height="75px"}](https://www.liveworksheets.com/pn517808gd) [![grlvwk10pt](https://1blockatatime.github.io/English/images2/grlvwk10_pt.png){:height="50px"}](https://www.liveworksheets.com/pn517808gd)  
 
@@ -9,8 +11,10 @@
 
 [![lvwkfa41](https://1blockatatime.github.io/English/images2/lvwkfa41.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de) [![lvwkfa41pt](https://1blockatatime.github.io/English/images2/lvwkfa41_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de)   
 
-***Question:*** **'What's her name?' ('O que é o nome dela?' -> Como é que ela se-chama?); 'What's his name?' ('O que é o nome dele?' -> Como é que ele se-chama?)**  
-***Answer:*** **'Her name is Jane.' (O nome dela é Jane.); 'His name is Greg.' (O nome dele é Greg.)**  
+***Question:*** **'What's her name?' ('O que é o nome dela?' -> Como é que ela se-chama?)**  
+***Answer:*** **'Her name is Jane.' (O nome dela é Jane.)**  
+***Question:*** **'What's his name?' ('O que é o nome dele?' -> Como é que ele se-chama?)**  
+***Answer:*** **'His name is Greg.' (O nome dele é Greg.)**  
 
 [Gogo’s Adventures with English 2](https://www.youtube.com/embed/J84KsvFmkoo)
 <iframe width="220" height="124" src="https://www.youtube.com/embed/J84KsvFmkoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -19,8 +23,10 @@
 
 [![lvwkfa42](https://1blockatatime.github.io/English/images2/lvwkfa42.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de) [![lvwkfa42pt](https://1blockatatime.github.io/English/images2/lvwkfa42_pt.png){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de)  
 
-***Question:*** **'How old is he?' (Quão velho é ele? -> Que idade tem ele?); 'How old is she?' (Quão velho é ela? -> Que idade tem ela?)**  
-***Answer:*** **'Seven.' (7); 'He is seven.'='He's seven.' (Ele tem 7.); 'She is seven.'='She's seven.' (Ela tem 7) 'He is seven years old.'='He's seven years old.' (Ele tem 7 anos.); 'She is seven years old.'='She's seven years old.' (Ela tem 7 anos.) **  
+***Question:*** **'How old is he?' ('Quão velho é ele?' -> Que idade tem (ele)?)**  
+***Answers:*** **'Seven.' (7); 'He is seven.' = 'He's seven.' (Ele tem 7.); 'He is seven years old.' = 'He's seven years old.' (Ele tem 7 anos.)**  
+***Question:*** **'How old is she?' ('Quão velho é ela?' -> Que idade tem (ela)?)**  
+***Answers:*** **'Seven.' (7); 'She is seven.' = 'She's seven.' (Ela tem 7); 'She is seven years old.' = 'She's seven years old.' (Ela tem 7 anos.)**  
 
 [![iolvwk5](https://1blockatatime.github.io/English/images2/iolvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/vd509783sy) [![iolvwk5pt](https://1blockatatime.github.io/English/images2/iolvwk5_pt.png){:height="70px"}](https://www.liveworksheets.com/vd509783sy)´   
 
