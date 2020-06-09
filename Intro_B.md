@@ -28,7 +28,7 @@
 ***Question:*** **'How old is she?' ('Quão velho é ela?' -> Que idade tem (ela)?)**  
 ***Answers:*** **'Seven.' (7); 'She is seven.' = 'She's seven.' (Ela tem 7); 'She is seven years old.' = 'She's seven years old.' (Ela tem 7 anos.)**  
 
-[![iolvwk5](https://1blockatatime.github.io/English/images2/iolvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/vd509783sy) [![iolvwk5pt](https://1blockatatime.github.io/English/images2/iolvwk5_pt.png){:height="70px"}](https://www.liveworksheets.com/vd509783sy)´   
+[![iolvwk5](https://1blockatatime.github.io/English/images2/iolvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/vd509783sy) [![iolvwk5pt](https://1blockatatime.github.io/English/images2/iolvwk5_pt.png){:height="90px"}](https://www.liveworksheets.com/vd509783sy)´   
 
 [![iolvwk6pt](https://1blockatatime.github.io/English/images2/iolvwk6pt.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_age/How_old_are_they_ad30730zk) [![iolvwk6pt](https://1blockatatime.github.io/English/images2/iolvwk6_pt.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_age/How_old_are_they_ad30730zk)  
 
