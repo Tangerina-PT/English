@@ -7,6 +7,9 @@
 ***Answers:*** **'This is my mother.' (Este é a minha mãe.);**  
 **'This is my friend.' (Este é a minha amiga/o meu amigo.)**  
 
+<iframe width="220" height="124" src="https://www.youtube.com/embed/7IhDB7Z_vS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/3i9xMEAbIdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Song lyrics (Letra da canção)](https://tangerina-pt.github.io/English/Friend)  
+
 [![grlvwk10](https://1blockatatime.github.io/English/images2/grlvwk10.PNG){:height="75px"}](https://www.liveworksheets.com/pn517808gd) [![grlvwk10pt](https://1blockatatime.github.io/English/images2/grlvwk10_pt.png){:height="50px"}](https://www.liveworksheets.com/pn517808gd)  
 
 [![lvwkfa39](https://1blockatatime.github.io/English/images2/lvwkfa39.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq) [![lvwkfa39pt](https://1blockatatime.github.io/English/images2/lvwkfa39_pt.png){:height="100px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq)  
