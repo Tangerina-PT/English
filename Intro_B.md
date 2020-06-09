@@ -1,7 +1,7 @@
-### Introducing others (apresentar os outros)
+## Introducing others (apresentar os outros)
 
-***Question:*** **'Who is it?' (Quem é?); 'Who is this?' (Quem é este?)**
-***Answer:*** **'This is my mother.' (Este é a minha mãe.); 'This is my friend.' (Este é a minha amiga/o meu amigo.)**
+***Questions:*** **'Who is it?' (Quem é?); 'Who is this?' (Quem é este?)**  
+***Answers:*** **'This is my mother.' (Este é a minha mãe.); 'This is my friend.' (Este é a minha amiga/o meu amigo.)**
 
 [![grlvwk10](https://1blockatatime.github.io/English/images2/grlvwk10.PNG){:height="75px"}](https://www.liveworksheets.com/pn517808gd) [![grlvwk10pt](https://1blockatatime.github.io/English/images2/grlvwk10_pt.png){:height="50px"}](https://www.liveworksheets.com/pn517808gd)  
 
@@ -18,6 +18,13 @@
 [![whnlvwk1](https://1blockatatime.github.io/English/images2/whnlvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo) [![whnlvwk1pt](https://1blockatatime.github.io/English/images2/whnlvwk1_pt.PNG){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/What's_your_name$/What's_your_name$_bd244741zo)
 
 [![lvwkfa42](https://1blockatatime.github.io/English/images2/lvwkfa42.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de) [![lvwkfa42pt](https://1blockatatime.github.io/English/images2/lvwkfa42_pt.png){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/This_is_my_family_vm502412de)  
+
+***Question:*** **'How old is he?' (Quão velho é ele? -> Que idade tem ele?); 'How old is she?' (Quão velho é ela? -> Que idade tem ela?)**  
+***Answer:*** **'Seven.' (7); 'He is seven.'='He's seven.' (Ele tem 7.); 'She is seven.'='She's seven.' (Ela tem 7) 'He is seven years old.'='He's seven years old.' (Ele tem 7 anos.); 'She is seven years old.'='She's seven years old.' (Ela tem 7 anos.) **  
+
+[![iolvwk5](https://1blockatatime.github.io/English/images2/iolvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/vd509783sy) [![iolvwk5pt](https://1blockatatime.github.io/English/images2/iolvwk5_pt.png){:height="70px"}](https://www.liveworksheets.com/vd509783sy)´   
+
+[![iolvwk6pt](https://1blockatatime.github.io/English/images2/iolvwk6pt.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_age/How_old_are_they_ad30730zk) [![lvwkfa42pt]  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
