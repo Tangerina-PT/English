@@ -4,8 +4,8 @@
 ### This is my...
 
 ***Questions:*** **'Who is it?' (Quem é?); 'Who is this?' (Quem é este?)**  
-***Answers:*** **'This is my mother.' (Este é a minha mãe.);**  
-**'This is my friend.' (Este é a minha amiga/o meu amigo.)**  
+***Answers:*** **'This is my mother.' (Esta é a minha mãe.);**  
+**'This is my friend.' (Esta/e é a minha amiga/o meu amigo.)**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/7IhDB7Z_vS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/3i9xMEAbIdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Song lyrics (Letra da canção)](https://tangerina-pt.github.io/English/Friend)  
