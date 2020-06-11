@@ -46,6 +46,20 @@
 [![iolvwk6pt](https://1blockatatime.github.io/English/images2/iolvwk6pt.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_age/How_old_are_they_ad30730zk) [![iolvwk6pt](https://1blockatatime.github.io/English/images2/iolvwk6_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_age/How_old_are_they_ad30730zk)  
 
 ***
+
+### Trabalhos para casa
+
+Se tiveres tempo e a oportunidade, podes   
+(i). fazer uma banda desenhada com o desenho de dois amigos teus (um rapaz e uma rapariga) e escrever a apresentação dos teus amigos OU  
+![io_trab](https://1blockatatime.github.io/English/images2/io_trab.png){:height="250px"}  
+(ii). desenhar dois amigos e fazer um vídeo a apresentá-los. Junto aqui um exemplo com bonecos. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-c2fTfToshA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
+Podes dizer-nos mais alguma coisa sobre o teus amigos se quiseres p.ex. 'He is happy.' (Ele está contente.), 'She is hungry.' (Ela está com fome.)  
+
+***
+
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="45px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
