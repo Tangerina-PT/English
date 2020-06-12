@@ -22,7 +22,7 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 #### Jogos e exercícios - 'listening' (compreensão oral)
 
-[![lvwkpp2](https://1blockatatime.github.io/English/images/lvwkpp2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_oe36807zc) [![lvwkpp2pt](https://1blockatatime.github.io/English/images/lvwkpp3_pt.png){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_oe36807zc)  
+<!--[![lvwkpp2](https://1blockatatime.github.io/English/images/lvwkpp2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_oe36807zc) [![lvwkpp2pt](https://1blockatatime.github.io/English/images/lvwkpp3_pt.png){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_oe36807zc)-->  
 
 [![lvwkpp3](https://1blockatatime.github.io/English/images/lvwkpp3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf) [![lvwkpp3pt](https://1blockatatime.github.io/English/images/lvwkpp3_pt.png){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf)  
 
