@@ -30,17 +30,17 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 #### Jogos e exercícios - Queres trabalhar a leitura?
 
-[![lvwkpp4](https://1blockatatime.github.io/English/images/lvwkpp4.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll)  
+[![lvwkpp4](https://1blockatatime.github.io/English/images/lvwkpp4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll)  
 
-[![lvwkpp7](https://1blockatatime.github.io/English/images/lvwkpp7.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf)    
+[![lvwkpp7](https://1blockatatime.github.io/English/images/lvwkpp7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf)    
 
 [![smpp](https://1blockatatime.github.io/English/images/smpp.PNG){:height="75px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)  
 
-[![lvwkpp5](https://1blockatatime.github.io/English/images/lvwkpp5.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx)  
+[![lvwkpp5](https://1blockatatime.github.io/English/images/lvwkpp5.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx)  
 
 #### Jogos e exercícios - Queres trabalhar a escrita?
 
-[![lvwkpp8](https://1blockatatime.github.io/English/images/lvwkpp8.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm)  
+[![lvwkpp8](https://1blockatatime.github.io/English/images/lvwkpp8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm)  
 
 #### Trabalho para casa 
 
