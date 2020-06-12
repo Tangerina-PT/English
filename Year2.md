@@ -4,6 +4,8 @@
 Topic 14 - Language for playing games...  
 #### [Topic 16 - Talking about others: his/her (o dele/a dela); he/she (ele/ela)](https://tangerina-pt.github.io/English/Others_B)-->
 
+#### [Topic 16 - Introducing others](https://tangerina-pt.github.io/English/Intro_B) [![friend1](https://1blockatatime.github.io/English/images2/friend1.png){:height="30px"}](https://tangerina-pt.github.io/English/Intro_B)
+
 #### [Topic 15 - Family](https://tangerina-pt.github.io/English/Family_B) [![elffm1](/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_B)
 
 #### [Topic 14 - Food](https://tangerina-pt.github.io/English/Food_B) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_B) 
