@@ -1,7 +1,7 @@
 ## Introducing others... (Apresentar os outros...)
 
 
-### This is my...
+### This is my... (Este é o meu ... / Esta é a minha ...)
 
 ***Questions:*** **'Who is it?' (Quem é?); 'Who is this?' (Quem é este?)**  
 ***Answers:*** **'This is my mother.' (Esta é a minha mãe.);**  
@@ -18,7 +18,7 @@
 
 ***
 
-### His name is... Her name is...
+### His name is... Her name is... (O nome dele é ... O nome dela é ... = O seu nome é ...) 
 
 ***Question:*** **'What's her name?' ('O que é o nome dela?' -> Como é que ela se-chama?)**  
 ***Answer:*** **'Her name is Jane.' (O nome dela é Jane.)**  
@@ -34,7 +34,7 @@
 
 ***
 
-### He is... She is...
+### He is... (Ele é ... OU Ele está ...) She is... (Ela é ... OU Ela está ...)
 
 ***Question:*** **'How old is he?' ('Quão velho é ele?' -> Que idade tem (ele)?)**  
 ***Answers:*** **'Seven.' (7); 'He is seven.' = 'He's seven.' (Ele tem 7.); 'He is seven years old.' = 'He's seven years old.' (Ele tem 7 anos.)**  
@@ -49,14 +49,14 @@
 
 ### Trabalhos para casa
 
-Se tiveres tempo e a oportunidade, podes   
-(i). fazer uma banda desenhada com o desenho de dois amigos teus (um rapaz e uma rapariga) e escrever a apresentação dos teus amigos OU  
+Se tiveres tempo e a oportunidade,     
+(i). podes fazer uma banda desenhada com o desenho de dois amigos teus (um rapaz e uma rapariga) e escrever a apresentação dos teus amigos OU  
 ![io_trab](https://1blockatatime.github.io/English/images2/io_trab.jpg){:height="250px"}  
-(ii). desenhar dois amigos e fazer um vídeo a apresentá-los. Junto aqui um exemplo com bonecos. 
+(ii). podes desenhar dois amigos (sem escrever) e fazer um vídeo a apresentá-los. Junto aqui um exemplo com bonecos. 
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-c2fTfToshA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-Podes dizer-nos mais alguma coisa sobre o teus amigos se quiseres p.ex. 'He is happy.' (Ele está contente.), 'She is hungry.' (Ela está com fome.)  
+Se quiseres, podes também dizer-nos mais alguma coisa sobre o teus amigos p.ex. 'He is happy.' (Ele está contente.), 'She is hungry.' (Ela está com fome.)   
 
 ***
 
