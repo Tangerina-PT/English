@@ -52,7 +52,8 @@
 Se tiveres tempo e a oportunidade,     
 (i). podes fazer uma banda desenhada com o desenho de dois amigos teus (um rapaz e uma rapariga) e escrever a apresentação dos teus amigos OU  
 ![io_trab](https://1blockatatime.github.io/English/images2/io_trab.jpg){:height="250px"}  
-(ii). podes desenhar dois amigos (sem escrever) e fazer um vídeo a apresentá-los. Junto aqui um exemplo com bonecos. 
+(ii). podes desenhar dois amigos (sem escrever) e fazer um vídeo a apresentá-los.  
+Junto aqui um exemplo com bonecos.  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-c2fTfToshA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
