@@ -37,6 +37,6 @@ Topic 14 - Language for playing games...
 #### [Topic 1 - Greetings/Introductions](https://tangerina-pt.github.io/English/Greetings_B)[![gtsym](/images/gtsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_B)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
+[![home](/images/home.PNG){:height="45px"}](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)
 
 ***
