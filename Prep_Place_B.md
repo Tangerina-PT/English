@@ -5,7 +5,7 @@
 (1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/NpIfvRw3zNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/z3kV1oEbZKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/w0nOifIWHqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-#### Video-exercícios
+#### Video-exercícios: tenta responder antes do vídeo dar a resposta...
 
 ![clocap](https://1blockatatime.github.io/English/images/clocap.png){:height="20px"} Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.
 
@@ -30,17 +30,17 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 #### Jogos e exercícios - Queres trabalhar a leitura?
 
-[![lvwkpp4](https://1blockatatime.github.io/English/images/lvwkpp4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll) [![lvwkpp4pt](https://1blockatatime.github.io/English/images2/lvwkpp4_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll)  
+[![lvwkpp4](https://1blockatatime.github.io/English/images/lvwkpp4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll) [![lvwkpp4pt](https://1blockatatime.github.io/English/images2/lvwkpp4_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll)  
 
-[![lvwkpp7](https://1blockatatime.github.io/English/images/lvwkpp7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf) [![lvwkpp7pt](https://1blockatatime.github.io/English/images2/lvwkpp7_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf)    
+[![lvwkpp7](https://1blockatatime.github.io/English/images/lvwkpp7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf) [![lvwkpp7pt](https://1blockatatime.github.io/English/images2/lvwkpp7_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf)    
    
 [![ppeslgp](https://1blockatatime.github.io/English/images2/ppeslgp.PNG){:height="75px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/) [![ppeslgppt](https://1blockatatime.github.io/English/images2/ppeslgp_pt.png){:height="75px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)  
 
-[![lvwkpp5](https://1blockatatime.github.io/English/images/lvwkpp5.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx) [![lvwkpp5pt](https://1blockatatime.github.io/English/images2/lvwkpp5_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx)  
+[![lvwkpp5](https://1blockatatime.github.io/English/images/lvwkpp5.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx) [![lvwkpp5pt](https://1blockatatime.github.io/English/images2/lvwkpp5_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx)  
 
 #### Jogos e exercícios - Queres trabalhar a escrita?
 
-[![lvwkpp8](https://1blockatatime.github.io/English/images/lvwkpp8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm) [![lvwkpp8pt](https://1blockatatime.github.io/English/images2/lvwkpp8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm)  
+[![lvwkpp8](https://1blockatatime.github.io/English/images/lvwkpp8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm) [![lvwkpp8pt](https://1blockatatime.github.io/English/images2/lvwkpp8_pt.png){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm)  
 
 #### Trabalho para casa 
 
@@ -50,9 +50,7 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/KDIUXe0u_lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="198" height="112" src="https://www.youtube.com/embed/jWG_mbRflII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-Aqui há uns exemplos, alguns dos quais já trabalhamos... onde perguntamos, por exemplo, 'Where is Baby Dog?' e o vídeo Para quem tiver tempo e quiser um desafio: Podes  e fazer um vídeo? 
-
-* Desafio opcional - Podes esconder alguns amigos teus lá em casa e fazer o teu próprio vídeo-exercício do jogo das escondidas para desafiar os amigos? Imgaina que vais esconder o teu ursinho, por exemplo. Perguntas então : 'Where is the teddy bear?' e deixas algum tempo para o espectador ver e pensar antes de dar a resposta.  
+* Desafio opcional - Podes esconder alguns amigos teus lá em casa e fazer o teu próprio vídeo-exercício do jogo das escondidas para desafiar os amigos? Imagina que vais esconder o teu ursinho, por exemplo. Perguntas então : 'Where is the teddy bear?' e deixas algum tempo para o espectador ver e pensar antes de dar a resposta.  
 
 ***  
 
