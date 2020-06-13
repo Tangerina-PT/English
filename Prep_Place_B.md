@@ -47,7 +47,10 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 * Vê e faz os vídeo-exercícios do jogo de 'Hide and Seek' (o jogo das escondidas). Consegues responder às perguntas antes do vídeo dar a resposta. Podes fazer pausa no vídeo quando quiseres para pensar ou para cantar a canção das preposições para ajudar se precisares.
 
 
- 
+<iframe width="198" height="112" src="https://www.youtube.com/embed/CP7n0ozPo98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/ZlO82G_YNC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/-avoxok5m2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
+<iframe width="198" height="112" src="https://www.youtube.com/embed/KDIUXe0u_lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="198" height="112" src="https://www.youtube.com/embed/jWG_mbRflII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
 Aqui há uns exemplos, alguns dos quais já trabalhamos... onde perguntamos, por exemplo, 'Where is Baby Dog?' e o vídeo Para quem tiver tempo e quiser um desafio: Podes  e fazer um vídeo? 
 
 * Desafio opcional - Podes esconder alguns amigos teus lá em casa e fazer o teu próprio vídeo-exercício do jogo das escondidas para desafiar os amigos? Imgaina que vais esconder o teu ursinho, por exemplo. Perguntas então : 'Where is the teddy bear?' e deixas algum tempo para o espectador ver e pensar antes de dar a resposta.  
