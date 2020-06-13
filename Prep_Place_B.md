@@ -26,7 +26,7 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 [![lvwkpp3](https://1blockatatime.github.io/English/images/lvwkpp3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf) [![lvwkpp3pt](https://1blockatatime.github.io/English/images/lvwkpp3_pt.png){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf)  
 
-[![ppme](https://1blockatatime.github.io/English/images/ppme.PNG){:height="75px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html) [![ppeslgw1pt](https://1blockatatime.github.io/English/images2/ppeslgw1_pt.png){:height="75px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
+[![ppme](https://1blockatatime.github.io/English/images/ppme.PNG){:height="75px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html) [![ppeslgw1pt](https://1blockatatime.github.io/English/images2/ppeslgw1_pt.png){:height="70px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
 
 #### Jogos e exercícios - Queres trabalhar a leitura?
 
