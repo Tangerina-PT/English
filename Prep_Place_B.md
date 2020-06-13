@@ -44,7 +44,7 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 #### Trabalho para casa 
 
-* Vê e faz os vídeo-exercícios do jogo de 'Hide and Seek' (o jogo das escondidas). Consegues responder às perguntas antes do vídeo dar a resposta. Podes fazer pausa no vídeo quando quiseres para pensar ou para cantar a canção das preposições para ajudar se precisares.
+* Vê e faz os vídeo-exercícios do jogo de 'Hide and Seek' (o jogo das escondidas). Consegues responder às perguntas antes do vídeo dar a resposta? Podes fazer pausa no vídeo quando quiseres para pensar ou para cantar a canção das preposições para ajudar.
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/CP7n0ozPo98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/ZlO82G_YNC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/fJn6jyUw1Gw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
