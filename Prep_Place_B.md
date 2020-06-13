@@ -26,21 +26,21 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 [![lvwkpp3](https://1blockatatime.github.io/English/images/lvwkpp3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf) [![lvwkpp3pt](https://1blockatatime.github.io/English/images/lvwkpp3_pt.png){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_-_listening_exercise_sf7167cf)  
 
-[![ppme](https://1blockatatime.github.io/English/images/ppme.PNG){:height="75px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
+[![ppme](https://1blockatatime.github.io/English/images/ppme.PNG){:height="75px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html) [![ppeslgppt](https://1blockatatime.github.io/English/images2/ppeslgw_pt.PNG){:height="75px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)
 
 #### Jogos e exercícios - Queres trabalhar a leitura?
 
-[![lvwkpp4](https://1blockatatime.github.io/English/images/lvwkpp4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll)  
+[![lvwkpp4](https://1blockatatime.github.io/English/images/lvwkpp4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll) [![lvwkpp4pt](https://1blockatatime.github.io/English/images2/lvwkpp4_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll)  
 
-[![lvwkpp7](https://1blockatatime.github.io/English/images/lvwkpp7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf)    
+[![lvwkpp7](https://1blockatatime.github.io/English/images/lvwkpp7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf) [![lvwkpp7pt](https://1blockatatime.github.io/English/images2/lvwkpp7_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf)    
+   
+[![ppeslgp](https://1blockatatime.github.io/English/images2/ppeslgp.PNG){:height="75px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/) [![ppeslgppt](https://1blockatatime.github.io/English/images2/ppeslgp_pt.png){:height="75px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)  
 
-[![smpp](https://1blockatatime.github.io/English/images/smpp.PNG){:height="75px"}](https://www.eslgamesplus.com/prepositions-of-place-esl-fun-game-online-grammar-practice/)  
-
-[![lvwkpp5](https://1blockatatime.github.io/English/images/lvwkpp5.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx)  
+[![lvwkpp5](https://1blockatatime.github.io/English/images/lvwkpp5.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx) [![lvwkpp5pt](https://1blockatatime.github.io/English/images2/lvwkpp5_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx)  
 
 #### Jogos e exercícios - Queres trabalhar a escrita?
 
-[![lvwkpp8](https://1blockatatime.github.io/English/images/lvwkpp8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm)  
+[![lvwkpp8](https://1blockatatime.github.io/English/images/lvwkpp8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm) [![lvwkpp8pt](https://1blockatatime.github.io/English/images2/lvwkpp8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm)  
 
 #### Trabalho para casa 
 
