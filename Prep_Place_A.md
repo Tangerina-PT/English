@@ -5,7 +5,7 @@
 (1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/sC30GuCAdeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/1pqVj77EXiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/NTDRDluTaP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-#### Video-exercícios
+#### Video-exercícios: tenta responder antes do vídeo dar a resposta…
 
 ***Question (Pergunta):*** **'Where?' (Onde?) / 'Where is it?' (Onde está?)**  
 ***Answers (Respostas):*** **'in' (dentro); 'in the box' (dentro da caixa)**
@@ -14,7 +14,9 @@
 <iframe width="198" height="112" src="https://www.youtube.com/embed/uDGwhiwwxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/YI6VAsGlk7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 (1). Vídeo de Maple Leaf Learning; (2). Vídeo de Maple Leaf Learning (3). Vídeo de Freddiesville  
 
-* Vídeo-exercícios do jogo de 'Hide and Seek' (o jogo das escondidas). Consegues responder às perguntas antes do vídeo dar a resposta? Podes fazer pausa no vídeo quando quiseres para pensar ou para cantar a canção das preposições para ajudar.  
+#### Video-exercícios: HIDE AND SEEK (jogo das escondidas)
+
+* Tenta responder às perguntas antes do vídeo dar a resposta. Podes fazer pausa no vídeo quando quiseres para pensar ou para cantar a canção das preposições para ajudar.  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/BxgYjdvsfhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/NYqZT6fWvvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
