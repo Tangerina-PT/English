@@ -18,7 +18,7 @@
 
 ***
 
-### His name is... Her name is... (O nome dele é ... O nome dela é ... = O seu nome é ...) 
+### His name is... Her name is... (O nome dele/dela é ... = O seu nome é ...) 
 
 ***Question:*** **'What's her name?' ('O que é o nome dela?' -> Como é que ela se-chama?)**  
 ***Answer:*** **'Her name is Jane.' (O nome dela é Jane.)**  
