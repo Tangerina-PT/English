@@ -50,7 +50,7 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/KDIUXe0u_lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="198" height="112" src="https://www.youtube.com/embed/jWG_mbRflII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-* Desafio opcional - Podes esconder alguns amigos teus lá em casa e fazer o teu próprio vídeo-exercício do jogo das escondidas para desafiar os amigos? Imagina que vais esconder o teu ursinho, por exemplo. Perguntas então : 'Where is the teddy bear?' e deixas algum tempo para o espectador ver e pensar antes de dar a resposta.  
+* Desafio opcional para quem tiver tempo e vontade - Podes esconder alguns amigos teus lá em casa e fazer o teu próprio vídeo-exercício do jogo das escondidas para desafiar os amigos? Imagina que vais esconder o teu ursinho, por exemplo. Perguntas então : 'Where is the teddy bear?' e deixas algum tempo para nós vermos e pensarmos antes de nos dar a resposta.  
 
 ***  
 
