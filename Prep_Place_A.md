@@ -33,11 +33,11 @@
 
 * ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de - sem estar pousado a tocar), IN FRONT OF (a frente), BEHIND (atrás de)  
 
-![pp_6](/images/pp_6.png){:width="400px"}  
+![pp_6](https://1blockatatime.github.io/English/images/pp_6.PNG){:width="400px"}  
 
 #### A pauta da canção para quem tem um instrumento...
 
-![pp_y1](/images/pp_y1.jpg){:width="400px"} 
+![pp_y1](https://1blockatatime.github.io/English/images/pp_y1.jpg){:width="400px"} 
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="45px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
