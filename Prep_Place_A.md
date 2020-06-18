@@ -11,8 +11,18 @@
 ***Answers (Respostas):*** **'in' (dentro); 'in the box' (dentro da caixa)**
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/8F0NYBBKczM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<iframe width="198" height="112" src="https://www.youtube.com/embed/uDGwhiwwxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-Vídeos de Maple Leaf Learning  
+<iframe width="198" height="112" src="https://www.youtube.com/embed/uDGwhiwwxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/YI6VAsGlk7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+(1). Vídeo de Maple Leaf Learning; (2). Vídeo de Maple Leaf Learning (3). Vídeo de Freddiesville  
+
+* Vídeo-exercícios do jogo de 'Hide and Seek' (o jogo das escondidas). Consegues responder às perguntas antes do vídeo dar a resposta? Podes fazer pausa no vídeo quando quiseres para pensar ou para cantar a canção das preposições para ajudar.  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/BxgYjdvsfhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/NYqZT6fWvvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/fJn6jyUw1Gw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/TC_2YxG3TUk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+#### Trabalho para casa 
+
+* Desafio opcional para quem tiver tempo e vontade - Podes esconder alguns amigos teus lá em casa e fazer o teu próprio vídeo-exercício do jogo das escondidas para desafiar os amigos? Imagina que vais esconder o teu ursinho, por exemplo. Perguntas então : 'Where is the teddy bear?' e deixas algum tempo para nós vermos e pensarmos antes de nos dar a resposta.  
 
 #### Objectivos ![target](https://1blockatatime.github.io/English/images/target.png){:height="20px"}
 
@@ -23,14 +33,14 @@ Vídeos de Maple Leaf Learning
 
 * ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de), OVER (por cima de - sem estar pousado a tocar), IN FRONT OF (a frente), BEHIND (atrás de)  
 
-![pp_6](/images/pp_6.PNG){:width="400px"}  
+![pp_6](/images/pp_6.png){:width="400px"}  
 
 #### A pauta da canção para quem tem um instrumento...
 
 ![pp_y1](/images/pp_y1.jpg){:width="400px"} 
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="45px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
