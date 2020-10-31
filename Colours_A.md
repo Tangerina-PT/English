@@ -1,19 +1,4 @@
-### Colours
-
-Play some games to learn the colours/Joga alguns jogos para aprender as cores:  
-(1). Play [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / Joga [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
-Select the game ‘Colors’ / Escolhe o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
-
-(2). Play [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Joga [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
-
-<!---(3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) / [Misturador de cores](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/)  
-First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](/images/comx2.PNG) to play - a voice will ask you to make a particular colour by choosing the colours to mix. / Primeiro clica em ![comx1](/images/comx1.PNG) para experimentar depois clica em ![comx2](/images/comx2.PNG) para jogar – uma voz vai pedir que faças uma cor escolhendo cores para misturar. 
-
-(4). Other colour games / outros jogos com cores:  
-[Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)   
-[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprende novas palavras... ---> 
-
-### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
+### Colour song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
 
 (1). Sing our rainbow song: <video src="rainbow_colour_song_edited.mp4" width="320" height="200" controls preload></video>  
 
@@ -27,6 +12,15 @@ Challenge/Desafio: Can you sing the song and point to each colour as you say its
 (3). ![colmix](/images/colmix.png)
 
 Extra challenge/Desafio extra: Can you sing the song while pointing to the colours when they are out of order? / Consegues cantar a canção ao apontar para as cores quando estão fora de ordem?
+
+
+### Colour games
+
+Joga alguns jogos para aprender as cores:  
+(1). Joga [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
+Escolhe o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
+
+(2). Joga [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / [memória - cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
