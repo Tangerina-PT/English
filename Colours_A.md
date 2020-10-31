@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Colours
 
 Play some games to learn the colours/Joga alguns jogos para aprender as cores:  
@@ -27,9 +15,9 @@ First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](
 
 ### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
 
-(1). Listen to ![listen](/images/listen.png) the song: <audio src="audio/V1s2.m4a" controls preload></audio>  
+(1). Sing our rainbow song: <video src="rainbow_colour_song_edited.mp4" width="320" height="200" controls preload></video>  
 
-Red and yellow and pink and green, orange and purple and blue.  
+Red and yellow and pink and green, purple and orange and blue.  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
 (2). ![colballtr](/images/colballtr.png) 
