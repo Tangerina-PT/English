@@ -1,53 +1,34 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Numbers 1 to 10  / Números de 1 a 10
 
 #### Sing and count
 
-* [![pmno](/images/pmno.PNG)](https://www.youtube.com/watch?v=diMJIlv-4N0) 
+* <iframe width="560" height="315" src="https://www.youtube.com/embed/diMJIlv-4N0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-* [![pt10](/images/pt10.PNG)](https://www.youtube.com/watch?v=KZPBpDdePO0)
+* <iframe width="560" height="315" src="https://www.youtube.com/embed/KZPBpDdePO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
    Mostra os dedos enquanto contas./Hold up your fingers as you count.
    
 #### Play games
 
-* [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](/images/bapo5.PNG)](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Choose ![bapo6](/images/bapo6.PNG)  
-   Count aloud from 1 to 10 – pop the balloon for each number after you say the number and listen to check. / Conta em voz alta de 1 a 10 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
+* [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG)](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG)  
+  Conta em voz alta de 1 a 10 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
   
-   Then challenge yourself to count down / Depois desafia-te - conta para baixo: ![bapo7](/images/bapo7.PNG)  
+  Depois desafia-te - conta para baixo: ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG)  
 
-* [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
-   Play 0-10  ![nobi3](/images/nobi3.PNG).
+NB: Jogo usa ADOBE FLASH - só disponível até Dezembro 2020  
 
-* [![nocc1](/images/nocc1.PNG)](http://www.abcya.com/kindergarten_counting.htm ) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
+* [![nobi1](https://1blockatatime.github.io/English/images/nobi1.PNG)](http://www.abcya.com/number_bingo.htm) [Joga number bingo/bingo com os números](http://www.abcya.com/number_bingo.htm)
+   Play 0-10  ![nobi3](https://1blockatatime.github.io/English/images/nobi3.PNG).
 
-   Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparecem vários números. Escolha o número certo. [![nocc2](/images/nocc2.PNG)](http://www.abcya.com/kindergarten_counting.htm)  
+* [![nocc1](https://1blockatatime.github.io/English/images/nocc1.PNG)](http://www.abcya.com/kindergarten_counting.htm) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
 
-<!--* [![ssno1](/images/ssno1.PNG)](http://www.sheppardsoftware.com/preschool/ngames/numbers.htm) [Count the toys](http://www.sheppardsoftware.com/preschool/ngames/numbers.htm) / [Conta os brinquedos](http://www.sheppardsoftware.com/preschool/ngames/numbers.htm)  
-
-   1ª parte: Para cada número, ouve e.g. ‘one duck’ (um pato), clica na seta vermelho e responde à pergunta e.g. ‘Which picture has 1 duck?’ (Qual das imagens tem 1 pato?) por clicar na imagem certa.  
-
-   2ª parte: Em cada ecrã, conta os brinquedos em voz alta em inglês, escolha o número certo e ouvirás o número em voz alta para verificar a tua contagem.  
-
-   Nota: Podes desligar a música de fundo clicando no símbolo [![ssno4](/images/ssno4.PNG)]-->  
+   Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparecem vários números. Escolha o número certo. [![nocc2](https://1blockatatime.github.io/English/images/nocc2.PNG)](http://www.abcya.com/kindergarten_counting.htm)  
 
 * Se já dominas 1 a 10, [trabalha 1 a 20](https://tangerina-pt.github.io/English/Number_B_II):  
-#### [Aprender números 1-20/Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)
+#### [Aprender números 1-20/Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)  
 
-   
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
