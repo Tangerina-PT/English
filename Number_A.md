@@ -2,11 +2,9 @@
 
 #### Sing and count
 
-* <iframe width="220" height="124" src="https://www.youtube.com/embed/diMJIlv-4N0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/diMJIlv-4N0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/KZPBpDdePO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-* <iframe width="220" height="124" src="https://www.youtube.com/embed/KZPBpDdePO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-   Mostra os dedos enquanto contas./Hold up your fingers as you count.
+(1). Conta em inglês de 1 a 10 / (2). Mostra os dedos enquanto contas.
    
 #### Play games
 
