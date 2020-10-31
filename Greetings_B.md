@@ -1,8 +1,9 @@
 ### Greetings   
 
-#### Getting to know each other (conhecer-se)
-
-**Initial greetings (cumprimentos iniciais): Good morning ('Boa manhã' -> Bom dia); Good afternoon (Boa tarde); Hello ('Olá' - mais formal); Hi ('Olá' - informal)**  
+**Good morning ('Boa manhã' -> Bom dia)**  
+**Good afternoon (Boa tarde)**
+**Hello ('Olá' - mais formal)**  
+**Hi ('Olá' - informal)**  
 
 ***Question:*** **'What's your name?'('O que é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
