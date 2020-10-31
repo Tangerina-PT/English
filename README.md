@@ -20,11 +20,11 @@ English
   <br>
 </p>
 <p align="center">
-  <a href="https://tangerina-pt.github.io/English/Year3">Year 3  -  3º Ano</a>
+  <a href="https://tangerina-pt.github.io/English/Year3">Year 3  -  3º Ano - English conversation</a>
   <br>
 </p>
 <p align="center">
-  <a href="https://tangerina-pt.github.io/English/Year4">Year 4  -  4º Ano</a>
+  <a href="https://tangerina-pt.github.io/English/Year4">Year 4  -  4º Ano - English conversation</a>
   <br>
 </p>
 </h4>
