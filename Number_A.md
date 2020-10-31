@@ -8,23 +8,23 @@
    
 #### Play games
 
-* [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG)](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG)  
+* [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG){:height="75px"}  
   Conta em voz alta em inglês. Clica no balão certo depois de dizer cada número para verificar.  
   
-  Agora consegues contar para baixo? ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG) NB: Usa ADOBE FLASH: só funciona até 12/2020  
+  Agora consegues contar para baixo? ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG){:height="75px"} NB: Usa ADOBE FLASH: só funciona até 12/2020  
 
-* [![nobi1](https://1blockatatime.github.io/English/images/nobi1.PNG)](http://www.abcya.com/number_bingo.htm) [Joga number bingo/bingo com os números](http://www.abcya.com/number_bingo.htm)
-   Play 0-10  ![nobi3](https://1blockatatime.github.io/English/images/nobi3.PNG).
+* [![nobi1](https://1blockatatime.github.io/English/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joga number bingo/bingo com os números](http://www.abcya.com/number_bingo.htm)
+   Play 0-10  ![nobi3](https://1blockatatime.github.io/English/images/nobi3.PNG){:height="75px"}.
 
-* [![nocc1](https://1blockatatime.github.io/English/images/nocc1.PNG)](http://www.abcya.com/kindergarten_counting.htm) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
+* [![nocc1](https://1blockatatime.github.io/English/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
 
-   Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparecem vários números. Escolha o número certo. [![nocc2](https://1blockatatime.github.io/English/images/nocc2.PNG)](http://www.abcya.com/kindergarten_counting.htm)  
+   Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparecem vários números. Escolha o número certo. [![nocc2](https://1blockatatime.github.io/English/images/nocc2.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm)  
 
 * Se já dominas 1 a 10, [trabalha 1 a 20](https://tangerina-pt.github.io/English/Number_B_II):  
 #### [Aprender números 1-20/Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)  
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
