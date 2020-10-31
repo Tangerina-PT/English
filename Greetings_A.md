@@ -1,7 +1,7 @@
 ### Greetings   
 
 **Good morning ('Boa manhã' -> Bom dia)**  
-**Good afternoon (Boa tarde)**
+**Good afternoon (Boa tarde)**  
 **Hello ('Olá' - mais formal)**  
 **Hi ('Olá' - informal)**  
  
