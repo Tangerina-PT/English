@@ -4,12 +4,6 @@ English
 </p>
 </h2>
 
-<!--<h3> 
-<p align="center">
-2018-2019
-</p>
-</h3>-->
-
 <h4>
 <p align="center">
   <a href="https://tangerina-pt.github.io/English/Year1">Year 1  -  1º Ano</a>
