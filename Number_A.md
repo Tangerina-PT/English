@@ -13,9 +13,7 @@
 * [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG)](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG)  
   Conta em voz alta de 1 a 10 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
   
-  Depois desafia-te - conta para baixo: ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG)  
-
-NB: Jogo usa ADOBE FLASH - só disponível até Dezembro 2020  
+  Agora consegues contar para baixo? ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG) NB: Usa ADOBE FLASH: só funciona até 12/2020  
 
 * [![nobi1](https://1blockatatime.github.io/English/images/nobi1.PNG)](http://www.abcya.com/number_bingo.htm) [Joga number bingo/bingo com os números](http://www.abcya.com/number_bingo.htm)
    Play 0-10  ![nobi3](https://1blockatatime.github.io/English/images/nobi3.PNG).
