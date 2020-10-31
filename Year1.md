@@ -22,7 +22,7 @@ Year 1 English
 ### [Topic 4 - Weather](https://tangerina-pt.github.io/English/Weather_A) [![wsym](https://1blockatatime.github.io/English/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_A)
 ### [Topic 3 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A) [![pmno](https://1blockatatime.github.io/English/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_A)
 ### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A) [![colmix](https://1blockatatime.github.io/English/images/colmix.png){:height="30px" width="30px"}](https://tangerina-pt.github.io/English/Colours_A)
-### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A) [![colmix](https://1blockatatime.github.io/English/images/wyn1.png){:height="30px" width="30px"}](https://tangerina-pt.github.io/English/Greetings_A)
+### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A) [![colmix](https://1blockatatime.github.io/English/images/wyn1.png){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_A)
 
 
 ***
