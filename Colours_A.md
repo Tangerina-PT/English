@@ -5,7 +5,7 @@
 Red and yellow and pink and green, purple and orange and blue.  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
-(2). ![colballtr](/images/colballtr.png) 
+(2). ![colballtr](/images/colbbbc.png) 
 
 Consegues cantar ao apontar para as cores na altura certa? 
 
