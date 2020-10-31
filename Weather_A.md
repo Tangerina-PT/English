@@ -10,7 +10,7 @@
 [Vocabulário adicional: ; It's foggy.(Está nevoeiro.); It's stormy.(Há tempestade.); It's a rainbow.(É um arco-iris.); It's dry. (Está seco.); It's wet.(Está molhado.)]
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
