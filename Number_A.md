@@ -24,7 +24,7 @@
 #### [Aprender números 1-20/Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)  
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
