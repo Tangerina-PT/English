@@ -12,7 +12,12 @@
 
 [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E)    
 <iframe width="220" height="124" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
-  
+
+***Question:*** **'How old are you?'('Quão velho és tu?' -> Quantos anos tens/tem?)**  
+***Answer:*** **'I'm 5.' ('Sou 5.' -> Tenho 5.)**  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/--O_H6PU0ZA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
