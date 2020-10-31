@@ -1,30 +1,18 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 1)  
 
 Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, dedos dos pés, olhos, orelhas, boca e nariz. / Touch your head, shoulders, knees, toes, eyes, ears, mouth and nose as you sing.
 
-(1). [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
+(1). <iframe width="220" height="124" src="https://www.youtube.com/embed/lMQcwNZVUO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
   
-(2). [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
+(2). <iframe width="220" height="124" src="https://www.youtube.com/embed/ZanHgPprl-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
 
-(3). [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) [Canta a versão salta-palavras. / Sing this version.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
+(3). <iframe width="220" height="124" src="https://www.youtube.com/embed/FkL8j0wIRf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Canta a versão salta-palavras. / Sing this version.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
 
 (4). Sing and point. / Canta e aponta.  
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
-(5). Desafio: canta e aponta quando as imagens estão fora de ordem. / Challenge: sing and point when the pictures are out of order.      
+(5). Desafio: canta e aponta quando as imagens estão fora de ordem.      
 ![nose](/images/nose.png)![toes](/images/toes.png)![ears](/images/ears.png)![shou](/images/shou.png)  
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
