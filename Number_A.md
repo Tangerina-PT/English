@@ -16,7 +16,7 @@
 * [![nobi1](https://1blockatatime.github.io/English/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joga number bingo/bingo com os números](http://www.abcya.com/number_bingo.htm)
    Play 0-10  ![nobi3](https://1blockatatime.github.io/English/images/nobi3.PNG){:height="75px"}.
 
-* [![nocc1](https://1blockatatime.github.io/English/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
+* [![nocc1](https://1blockatatime.github.io/English/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm) [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
 
    Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparecem vários números. Escolha o número certo. [![nocc2](https://1blockatatime.github.io/English/images/nocc2.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm)  
 
