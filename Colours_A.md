@@ -17,7 +17,7 @@ Consegues cantar ao apontar para as cores quando estão fora de ordem?
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-***Question:*** **'What colour is it?'(De que cor é?)**  
+***Question:*** **'What colour is it?' (De que cor é?)**  
 ***Answer:*** **'It's red.' (É vermelho.)**  
 
 ### Colour games (Jogos para aprender as cores)
