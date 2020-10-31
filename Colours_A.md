@@ -7,16 +7,14 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 
 (2). ![colballtr](/images/colballtr.png) 
 
-Challenge/Desafio: Can you sing the song and point to each colour as you say its name? / Consegues cantar a canção ao apontar para as cores na altura certa? 
+Consegues cantar a canção ao apontar para as cores na altura certa? 
 
 (3). ![colmix](/images/colmix.png)
 
-Extra challenge/Desafio extra: Can you sing the song while pointing to the colours when they are out of order? / Consegues cantar a canção ao apontar para as cores quando estão fora de ordem?
+Consegues cantar a canção ao apontar para as cores quando estão fora de ordem?  
 
+### Colour games (Jogos para aprender as cores)
 
-### Colour games
-
-Joga alguns jogos para aprender as cores:  
 (1). Joga [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
 Escolhe o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
 
