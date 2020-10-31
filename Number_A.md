@@ -4,14 +4,14 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/diMJIlv-4N0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/KZPBpDdePO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-(1). Conta em inglês de 1 a 10 / (2). Mostra os dedos enquanto contas.
+**(1).** Conta em inglês de 1 a 10 / **(2).** Mostra os dedos enquanto contas.
    
 #### Play games
 
 * [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG){:height="75px"}  
   Conta em voz alta em inglês. Clica no balão certo depois de dizer cada número para verificar.  
   
-  Agora consegues contar para baixo? ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG){:height="75px"} NB: Usa ADOBE FLASH: só funciona até 12/2020  
+  Agora consegues contar para baixo? ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG){:height="75px"} NB: Usa Adobe Flash-só até 12/2020  
 
 * [![nobi1](https://1blockatatime.github.io/English/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joga number bingo/bingo com os números](http://www.abcya.com/number_bingo.htm)
    Play 0-10  ![nobi3](https://1blockatatime.github.io/English/images/nobi3.PNG){:height="75px"}.
