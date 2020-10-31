@@ -1,32 +1,13 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### How's the weather?
 
 #### Song
-[![mlwe](/images/mlwe.png){:height="60px"}](https://www.youtube.com/watch?v=I8GeA3anPdo) Sing the [weather song.](https://www.youtube.com/watch?v=I8GeA3anPdo)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/I8GeA3anPdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 #### Games
-(1). [Jogo de memória 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [![weme](/images/weme.PNG){:height="60px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  Clicar e rolar para baixo. 
+(1). [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [![weme3](/images2/weme3.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)  
 
-(2). [Jogo de memória 2](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [![weme2](/images/weme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) 
-
-(3). [Junta as palavras e as imagens.](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1) [![bcwe1](/images/bcwe1.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1)   
-(Não é preciso poder ler as palavras. Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)    
-
-
-<!-- For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. -->
-
-[Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.]
+[Vocabulário mínimo: 'How's the weather?'(Como é que está o tempo?); It's sunny.(Está sol.); It's cloudy.(Há nuvens.); It's windy.(Está vento.); It's rainy/raining.(Está a chover.); It's snowy/snowing.(Está a nevar.); It's hot. (Está calor.); It's cold.(Está frio.)]  
+[Vocabulário adicional: ; It's foggy.(Está nevoeiro.); It's stormy.(Há tempestade.); It's a rainbow.(É um arco-iris.); It's dry. (Está seco.); It's wet.(Está molhado.)]
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
