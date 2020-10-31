@@ -1,17 +1,17 @@
 ### Colour song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
 
-(1). Sing our rainbow song: <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video>  
+(1). Canta a canção: <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video>  
 
 Red and yellow and pink and green, purple and orange and blue.  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
 (2). ![colballtr](/images/colballtr.png) 
 
-Consegues cantar a canção ao apontar para as cores na altura certa? 
+Consegues cantar ao apontar para as cores na altura certa? 
 
 (3). ![colmix](/images/colmix.png)
 
-Consegues cantar a canção ao apontar para as cores quando estão fora de ordem?  
+Consegues cantar ao apontar para as cores quando estão fora de ordem?  
 
 ### Colour games (Jogos para aprender as cores)
 
