@@ -35,7 +35,7 @@ Arms, legs, feet and hands, feet and hands.
 ![arms](/images/arms.PNG)![legs](/images/legs.PNG)![feet](/images/feet.PNG)![hands](/images/hands.PNG)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
-(3). Desafio: canta e aponta quando as imagens estão fora de ordem. / Challenge: sing and point when the pictures are out of order.     
+(3). Desafio: canta e aponta quando as imagens estão fora de ordem.     
 ![nose](/images/nose.png)![legs](/images/legs.PNG)![hands](/images/hands.PNG)![mout](/images/mout.png)  
 ![ears](/images/ears.png)![arms](/images/arms.PNG)![eyes](/images/eyes.png)![feet](/images/feet.PNG)  
 
