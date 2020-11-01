@@ -1,18 +1,18 @@
 ### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 1)  
 
 Toca nas partes correspondentes do corpo ao cantar:  
-![head](/images2/bp_tr.png){:height="50px"}  
+![head](https://1blockatatime.github.io/English/images2/bp_tr.png){:height="50px"}  
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/lMQcwNZVUO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/ZanHgPprl-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/FkL8j0wIRf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) [Canta versão salta-palavras.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
 
 * Sing and point. / Canta e aponta.  
-![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
-![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
+![head](https://1blockatatime.github.io/English/images/head.png)![shou](https://1blockatatime.github.io/English/images/shou.png)![knee](https://1blockatatime.github.io/English/images/knee.png)![toes](https://1blockatatime.github.io/English/images/toes.png)  
+![eyes](https://1blockatatime.github.io/English/images/eyes.png)![ears](https://1blockatatime.github.io/English/images/ears.png)![mout](https://1blockatatime.github.io/English/images/mout.png)![nose](https://1blockatatime.github.io/English/images/nose.png)  
 
 * Desafio: canta e aponta quando as imagens estão fora de ordem.      
-![nose](/images/nose.png)![toes](/images/toes.png)![ears](/images/ears.png)![shou](/images/shou.png)  
-![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
+![nose](https://1blockatatime.github.io/English/images/nose.png)![toes](https://1blockatatime.github.io/English/images/toes.png)![ears](https://1blockatatime.github.io/English/images/ears.png)![shou](https://1blockatatime.github.io/English/images/shou.png)  
+![knee](https://1blockatatime.github.io/English/images/knee.png)![eyes](https://1blockatatime.github.io/English/images/eyes.png)![head](https://1blockatatime.github.io/English/images/head.png)![mout](https://1blockatatime.github.io/English/images/mout.png)  
 
 ***
 
