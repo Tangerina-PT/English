@@ -19,7 +19,7 @@ Toca nas partes correspondentes do corpo ao cantar:
 ### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 2)  
 
 Toca nas partes correspondentes do corpo ao cantar:  
-![bptr2](https://1blockatatime.github.io/English/images2/bp_tr2.PNG){:height="50px"}  
+![bp2tr](https://1blockatatime.github.io/English/images2/bp2_tr.PNG){:height="50px"}  
 
 (1). Canta o segundo verso. / Sing our second verse.  
 <audio src="audio/hskt_v2.mp3" controls preload></audio>  
