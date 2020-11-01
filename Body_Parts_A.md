@@ -22,6 +22,9 @@
 * Toca nas partes correspondentes do corpo ao cantar:  
 
 (1). Canta o segundo verso. / Sing our second verse.  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/bghNqyXXGZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 <audio src="audio/hskt_v2.mp3" controls preload></audio>  
 Arms, legs, feet and hands, feet and hands.  
 Arms, legs, feet and hands, feet and hands.  
