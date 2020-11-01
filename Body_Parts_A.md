@@ -1,6 +1,7 @@
 ### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 1)  
 
-Toca nas partes correspondentes do corpo ao cantar: cabeça, ombros, joelhos, dedos dos pés, olhos, orelhas, boca e nariz. / Touch your head, shoulders, knees, toes, eyes, ears, mouth and nose as you sing.
+Toca nas partes correspondentes do corpo ao cantar:  
+![head](/images2/bp_tr.png){:height="50px"}  
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/lMQcwNZVUO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/ZanHgPprl-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/FkL8j0wIRf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) [Canta versão salta-palavras.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
