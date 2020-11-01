@@ -1,7 +1,7 @@
 ### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 1)  
 
 Toca nas partes correspondentes do corpo ao cantar:  
-![head](https://1blockatatime.github.io/English/images2/bp_tr.png){:height="50px"}  
+![bptr](https://1blockatatime.github.io/English/images2/bp_tr.PNG){:height="50px"}  
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/lMQcwNZVUO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/ZanHgPprl-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/FkL8j0wIRf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) [Canta versão salta-palavras.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
@@ -18,7 +18,8 @@ Toca nas partes correspondentes do corpo ao cantar:
 
 ### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 2)  
 
-Toca nos braços, nas pernas e nos pés e bate palmas com as mãos ao cantar. / Touch your arms, legs and feet and clap your hands as you sing.  
+Toca nas partes correspondentes do corpo ao cantar:  
+![bptr2](https://1blockatatime.github.io/English/images2/bp_tr2.PNG){:height="50px"}  
 
 (1). Canta o segundo verso. / Sing our second verse.  
 <audio src="audio/hskt_v2.mp3" controls preload></audio>  
