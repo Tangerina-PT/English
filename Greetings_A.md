@@ -1,6 +1,6 @@
 ### Greetings   
 <!---->  
-![grtxt](https://1blockatatime.github.io/English/images2/grtxt.PNG){:height="50px"}  
+![grtxt](https://1blockatatime.github.io/English/images2/grtxt.JPG){:height="50px"}  
 
 ***Question:*** **'What's your name?'('O que é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
