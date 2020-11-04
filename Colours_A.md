@@ -25,7 +25,7 @@ Consegues cantar ao apontar para as cores quando estão fora de ordem?
 (1). Joga [![cobi](https://1blockatatime.github.io/English/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
 Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/images/cobi2.PNG)
 
-(2). Joga [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html)  
+(2). Joga [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
