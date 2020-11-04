@@ -7,8 +7,8 @@
 [(1). Learn (aprende)](https://www.youtube.com/watch?v=lMQcwNZVUO8); [(2). Sing (canta)](https://www.youtube.com/watch?v=ZanHgPprl-0); [(3). Canta versão salta-palavras.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
 
 * Sing and point. / Canta e aponta.  
-![head](https://1blockatatime.github.io/English/images/head.png)![shou](https://1blockatatime.github.io/English/images/shou.png)![knee](https://1blockatatime.github.io/English/images/knee.png)![toes](https://1blockatatime.github.io/English/images/toes.png)  
-![eyes](https://1blockatatime.github.io/English/images/eyes.png)![ears](https://1blockatatime.github.io/English/images/ears.png)![mout](https://1blockatatime.github.io/English/images/mout.png)![nose](https://1blockatatime.github.io/English/images/nose.png)  
+![head](https://1blockatatime.github.io/English/images/head.png){:height="70px"}![shou](https://1blockatatime.github.io/English/images/shou.png){:height="70px"}![knee](https://1blockatatime.github.io/English/images/knee.png){:height="70px"}![toes](https://1blockatatime.github.io/English/images/toes.png){:height="70px"}  
+![eyes](https://1blockatatime.github.io/English/images/eyes.png){:height="70px"}![ears](https://1blockatatime.github.io/English/images/ears.png){:height="70px"}![mout](https://1blockatatime.github.io/English/images/mout.png){:height="70px"}![nose](https://1blockatatime.github.io/English/images/nose.png){:height="70px"}  
 
 * Desafio: canta e aponta quando as imagens estão fora de ordem.      
 ![nose](https://1blockatatime.github.io/English/images/nose.png){:height="70px"}![toes](https://1blockatatime.github.io/English/images/toes.png){:height="70px"}![ears](https://1blockatatime.github.io/English/images/ears.png){:height="70px"}![shou](https://1blockatatime.github.io/English/images/shou.png){:height="70px"}  
