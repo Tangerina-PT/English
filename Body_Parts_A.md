@@ -11,8 +11,8 @@
 ![eyes](https://1blockatatime.github.io/English/images/eyes.png)![ears](https://1blockatatime.github.io/English/images/ears.png)![mout](https://1blockatatime.github.io/English/images/mout.png)![nose](https://1blockatatime.github.io/English/images/nose.png)  
 
 * Desafio: canta e aponta quando as imagens estão fora de ordem.      
-![nose](https://1blockatatime.github.io/English/images/nose.png)![toes](https://1blockatatime.github.io/English/images/toes.png)![ears](https://1blockatatime.github.io/English/images/ears.png)![shou](https://1blockatatime.github.io/English/images/shou.png)  
-![knee](https://1blockatatime.github.io/English/images/knee.png)![eyes](https://1blockatatime.github.io/English/images/eyes.png)![head](https://1blockatatime.github.io/English/images/head.png)![mout](https://1blockatatime.github.io/English/images/mout.png)  
+![nose](https://1blockatatime.github.io/English/images/nose.png){:height="70px"}![toes](https://1blockatatime.github.io/English/images/toes.png){:height="70px"}![ears](https://1blockatatime.github.io/English/images/ears.png){:height="70px"}![shou](https://1blockatatime.github.io/English/images/shou.png){:height="70px"}  
+![knee](https://1blockatatime.github.io/English/images/knee.png){:height="70px"}![eyes](https://1blockatatime.github.io/English/images/eyes.png){:height="70px"}![head](https://1blockatatime.github.io/English/images/head.png){:height="70px"}![mout](https://1blockatatime.github.io/English/images/mout.png){:height="70px"}  
 
 ***
 
@@ -32,12 +32,12 @@ And eyes and ears and mouth and nose.
 Arms, legs, feet and hands, feet and hands.  
 
 (2). Sing and point. / Canta e aponta.   
-![arms](https://1blockatatime.github.io/English/images/arms.PNG)![legs](https://1blockatatime.github.io/English/images/legs.PNG)![feet](https://1blockatatime.github.io/English/images/feet.PNG)![hands](https://1blockatatime.github.io/English/images/hands.PNG)  
-![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
+![arms](https://1blockatatime.github.io/English/images/arms.PNG){:height="70px"}![legs](https://1blockatatime.github.io/English/images/legs.PNG){:height="70px"}![feet](https://1blockatatime.github.io/English/images/feet.PNG){:height="70px"}![hands](https://1blockatatime.github.io/English/images/hands.PNG){:height="70px"}  
+![eyes](https://1blockatatime.github.io/English/images/eyes.png){:height="70px"}![ears](https://1blockatatime.github.io/English/images/ears.png){:height="70px"}![mout](https://1blockatatime.github.io/English/images/mout.png){:height="70px"}![nose](https://1blockatatime.github.io/English/images/nose.png){:height="70px"}  
 
 (3). Desafio: canta e aponta quando as imagens estão fora de ordem.     
-![nose](https://1blockatatime.github.io/English/images/nose.png)![legs](https://1blockatatime.github.io/English/images/legs.PNG)![hands](https://1blockatatime.github.io/English/images/hands.PNG)![mout](https://1blockatatime.github.io/English/images/mout.png)  
-![ears](https://1blockatatime.github.io/English/images/ears.png)![arms](https://1blockatatime.github.io/English/images/arms.PNG)![eyes](https://1blockatatime.github.io/English/images/eyes.png)![feet](https://1blockatatime.github.io/English/images/feet.PNG)  
+![nose](https://1blockatatime.github.io/English/images/nose.png){:height="70px"}![legs](https://1blockatatime.github.io/English/images/legs.PNG){:height="70px"}![hands](https://1blockatatime.github.io/English/images/hands.PNG){:height="70px"}![mout](https://1blockatatime.github.io/English/images/mout.png){:height="70px"}  
+![ears](https://1blockatatime.github.io/English/images/ears.png){:height="70px"}![arms](https://1blockatatime.github.io/English/images/arms.PNG){:height="70px"}![eyes](https://1blockatatime.github.io/English/images/eyes.png){:height="70px"}![feet](https://1blockatatime.github.io/English/images/feet.PNG){:height="70px"}  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
