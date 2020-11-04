@@ -13,7 +13,7 @@
 #### Game
 [![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
 
-[Extensão - vocabulário adicional: It's hot. (Está calor.); It's cold.(Está frio.); It's foggy.(Está nevoeiro.); It's stormy.(Há tempestade.); It's a rainbow.(É um arco-iris.); It's dry. (Está seco.); It's wet.(Está molhado.)]
+***Extensão - vocabulário adicional:*** **It's hot. (Está calor.); It's cold.(Está frio.); It's foggy.(Está nevoeiro.); It's stormy.(Há tempestade.); It's a rainbow.(É um arco-iris.); It's dry. (Está seco.); It's wet.(Está molhado.)**  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
