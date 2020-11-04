@@ -4,7 +4,7 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/I8GeA3anPdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 #### Song actions
-![wthactions](https://1blockatatime.github.io/English/images2/wth_actions.png){:height="140px"}
+![wthactions](https://1blockatatime.github.io/English/images2/wth_actions.png){:height="170px"}
 
 #### Game
 [![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
