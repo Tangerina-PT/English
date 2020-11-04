@@ -4,7 +4,7 @@
 * Toca nas partes correspondentes do corpo ao cantar.  
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/lMQcwNZVUO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/ZanHgPprl-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/FkL8j0wIRf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[Learn the words / Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) [Sing along / Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) [Canta versão salta-palavras.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
+[(1). Learn (aprende)](https://www.youtube.com/watch?v=lMQcwNZVUO8); [(2). Sing (canta)](https://www.youtube.com/watch?v=ZanHgPprl-0); [(3). Canta versão salta-palavras.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
 
 * Sing and point. / Canta e aponta.  
 ![head](https://1blockatatime.github.io/English/images/head.png)![shou](https://1blockatatime.github.io/English/images/shou.png)![knee](https://1blockatatime.github.io/English/images/knee.png)![toes](https://1blockatatime.github.io/English/images/toes.png)  
@@ -32,15 +32,15 @@ And eyes and ears and mouth and nose.
 Arms, legs, feet and hands, feet and hands.  
 
 (2). Sing and point. / Canta e aponta.   
-![arms](/images/arms.PNG)![legs](/images/legs.PNG)![feet](/images/feet.PNG)![hands](/images/hands.PNG)  
+![arms](https://1blockatatime.github.io/English/images/arms.PNG)![legs](https://1blockatatime.github.io/English/images/legs.PNG)![feet](https://1blockatatime.github.io/English/images/feet.PNG)![hands](https://1blockatatime.github.io/English/images/hands.PNG)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
 (3). Desafio: canta e aponta quando as imagens estão fora de ordem.     
-![nose](/images/nose.png)![legs](/images/legs.PNG)![hands](/images/hands.PNG)![mout](/images/mout.png)  
-![ears](/images/ears.png)![arms](/images/arms.PNG)![eyes](/images/eyes.png)![feet](/images/feet.PNG)  
+![nose](https://1blockatatime.github.io/English/images/nose.png)![legs](https://1blockatatime.github.io/English/images/legs.PNG)![hands](https://1blockatatime.github.io/English/images/hands.PNG)![mout](https://1blockatatime.github.io/English/images/mout.png)  
+![ears](https://1blockatatime.github.io/English/images/ears.png)![arms](https://1blockatatime.github.io/English/images/arms.PNG)![eyes](https://1blockatatime.github.io/English/images/eyes.png)![feet](https://1blockatatime.github.io/English/images/feet.PNG)  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 
