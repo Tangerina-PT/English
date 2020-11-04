@@ -3,7 +3,7 @@
 #### Song
 <iframe width="220" height="124" src="https://www.youtube.com/embed/I8GeA3anPdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-#### Song actions
+#### Can you sing the song and do the actions? / Consegues cantar e fazer as acções?
 ![wthactions](https://1blockatatime.github.io/English/images2/wth_actions.png){:height="165px"}
 
 #### Game
