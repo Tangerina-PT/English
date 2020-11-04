@@ -5,11 +5,11 @@
 Red and yellow and pink and green, purple and orange and blue.  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
-(2). ![colballtr](/images/colbbbc.png) 
+(2). ![colballtr](https://1blockatatime.github.io/English/images/colbbbc.png) 
 
 Consegues cantar ao apontar para as cores na altura certa? 
 
-(3). ![colmix](/images/colmix.png)
+(3). ![colmix](https://1blockatatime.github.io/English/images/colmix.png)
 
 Consegues cantar ao apontar para as cores quando estão fora de ordem?  
 
@@ -22,13 +22,13 @@ Consegues cantar ao apontar para as cores quando estão fora de ordem?
 
 ### Colour games (Jogos para aprender as cores)
 
-(1). Joga [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
-Escolhe o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
+(1). Joga [![cobi](https://1blockatatime.github.io/English/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
+Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/images/cobi2.PNG)
 
-(2). Joga [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / [memória - cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
+(2). Joga [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html)  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 
