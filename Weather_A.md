@@ -3,8 +3,8 @@
 #### Song
 <iframe width="220" height="124" src="https://www.youtube.com/embed/I8GeA3anPdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-#### Games
-(1). [![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
+#### Game
+[![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
 
 [Vocabulário mínimo: 'How's the weather?'(Como é que está o tempo?); It's sunny.(Está sol.); It's cloudy.(Há nuvens.); It's windy.(Está vento.); It's rainy/raining.(Está a chover.); It's snowy/snowing.(Está a nevar.); It's hot. (Está calor.); It's cold.(Está frio.)]  
 [Vocabulário adicional: ; It's foggy.(Está nevoeiro.); It's stormy.(Há tempestade.); It's a rainbow.(É um arco-iris.); It's dry. (Está seco.); It's wet.(Está molhado.)]
