@@ -1,10 +1,11 @@
 ### Aprende os nomes dos animais em inglês   
 
-***Question:*** **'What do you see?/What can you see?'**  
-**('O que é que vês?/O que é que consegues ver?')**  
+***Question:*** **'What do you see?/What can you see?' ('O que é que vês/consegues ver?')**  
 ***Answer:*** **'I see a ... . ' ('Eu vejo um(a) .. .')**
 
-<iframe width="198" height="112" src="https://www.youtube.com/embed/MCjhynvMunE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/p5qwOxlvyhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="1" src="https://www.youtube.com/embed/xQTlPD4ey-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="198" height="112" src="https://www.youtube.com/embed/MCjhynvMunE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/p5qwOxlvyhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/xQTlPD4ey-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Animals video by Dream English](https://www.youtube.com/embed/MCjhynvMunE); [Wild Animals 1 video by Dream English](https://www.youtube.com/embed/p5qwOxlvyhk); [Wild Animals 1 video by Dream English](https://www.youtube.com/embed/xQTlPD4ey-4)  
+
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/pdHCYgO9zh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Brown Bear, Brown Bear, What do you see?](https://www.youtube.com/watch?v=pdHCYgO9zh8)
 
