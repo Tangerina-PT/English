@@ -1,25 +1,12 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Aprende os nomes dos animais em inglês   
 
 ***Question:*** **'What do you see?/What can you see?'**  
 **('O que é que vês?/O que é que consegues ver?')**  
 ***Answer:*** **'I see a ... . ' ('Eu vejo um(a) .. .')**
 
-1. [![dews1](/images/dews1.png)](https://www.youtube.com/watch?v=MCjhynvMunE)
-2. [![dews2](/images/dews2.png)](https://www.youtube.com/watch?v=p5qwOxlvyhk)
-3. [![dews3](/images/dews3.png)](https://www.youtube.com/watch?v=xQTlPD4ey-4)
-4. [![bbbm](/images/bbbm.PNG)](https://www.youtube.com/watch?v=pdHCYgO9zh8) [Brown Bear, Brown Bear, What do you see?](https://www.youtube.com/watch?v=pdHCYgO9zh8)
+<iframe width="198" height="112" src="https://www.youtube.com/embed/MCjhynvMunE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/p5qwOxlvyhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="1" src="https://www.youtube.com/embed/xQTlPD4ey-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="198" height="112" src="https://www.youtube.com/embed/pdHCYgO9zh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Brown Bear, Brown Bear, What do you see?](https://www.youtube.com/watch?v=pdHCYgO9zh8)
 
 ***
 
@@ -31,12 +18,13 @@
 ***
 
 ### Jogo de memória/Memory
-1. [![anme](/images/anme.PNG){:height="60px"}](https://www.eslgamesplus.com/farm-domestic-animals-vocabulary-esl-memory-game/) Farm animals / Animais da quinta  
-2. [![anme2](/images/anme2.PNG){:height="60px"}](https://www.eslgamesplus.com/zoo-animals-esl-vocabulary-memory-game/) Zoo animals / Animais do jardim zoológico  
+* [![anme](https://1blockatatime.github.io/English/images2/anme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/pets/index.html) Pets / Animais domésticos  
+* [![anme2](https://1blockatatime.github.io/English/images2/anme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/farm%20animals/index.html) Farm animals / Animais da quinta  
+* [![anme3](https://1blockatatime.github.io/English/images2/anme3.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/zoo%20animals/index.html) Zoo animals / Animais do jardim zoológico  
 
 ***
 
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
