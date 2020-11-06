@@ -13,14 +13,15 @@ Videos by Dream English: [Animals](https://www.youtube.com/embed/MCjhynvMunE); [
 ***Question:*** **'What is it?' (O que é?) / Is it a ... ? (É um/uma ... ?)**  
 ***Answer:*** **'It's a...' (É um/uma...) / Yes.No. (Sim.Não)**
 
-[![fkea](/images/fkea.png)](https://www.youtube.com/watch?v=D_sdGxUxz_4)
+<iframe width="198" height="112" src="https://www.youtube.com/embed/D_sdGxUxz_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Video by Fun Kids English](https://www.youtube.com/embed/D_sdGxUxz_4)  
 
 ***
 
 ### Jogo de memória/Memory
-* [![anme](https://1blockatatime.github.io/English/images2/anme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/pets/index.html) Pets / Animais domésticos  
-* [![anme2](https://1blockatatime.github.io/English/images2/anme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/farm%20animals/index.html) Farm animals / Animais da quinta  
-* [![anme3](https://1blockatatime.github.io/English/images2/anme3.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/zoo%20animals/index.html) Zoo animals / Animais do jardim zoológico  
+* [![anme](https://1blockatatime.github.io/English/images2/anme.JPG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/pets/index.html) Pets / Animais domésticos  
+* [![anme2](https://1blockatatime.github.io/English/images2/anme2.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/farm%20animals/index.html) Farm animals / Animais da quinta  
+* [![anme3](https://1blockatatime.github.io/English/images2/anme3.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/zoo%20animals/index.html) Zoo animals / Animais do jardim zoológico  
 
 ***
 
