@@ -1,9 +1,6 @@
 ### Greetings   
 
-**Good morning ('Boa manhã' -> Bom dia)**  
-**Good afternoon (Boa tarde)**  
-**Hello ('Olá' - mais formal)**  
-**Hi ('Olá' - informal)**  
+![grtxt](https://1blockatatime.github.io/English/images2/grtxt.JPG){:height="50px"}  
 
 ***Question:*** **'What's your name?'('O que é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
@@ -24,7 +21,7 @@
   
 ***Extensão:***  
 Nota: infelizmente este exercício não funciona com todos os browsers.  
-[![grsmfv](https://1blockatatime.github.io/English/images/grsmfv.PNG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [![grsmfvpt](https://1blockatatime.github.io/English/images2/grsmfv_pt.png){:height="85px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
+[![spdggr](https://1blockatatime.github.io/English/images/spdggr.JPG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Listen and choose. / Ouve e escolha.](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
