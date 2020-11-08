@@ -15,14 +15,12 @@ Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo
 
 ![writetxt](https://1blockatatime.github.io/English/images/writetxt.png)![write](https://1blockatatime.github.io/English/images/write.jpg) (Extensão opcional)
 
-- Play some [spelling games](http://www.mes-games.com/colors.php)  
-   Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
+- [Jogos de ortografia](http://www.mes-games.com/colors.php)  
+   Clica em **Spelling** e depois em 
 
-   ‘Missile defence’ [![mdef](https://1blockatatime.github.io/English/images/mdef.PNG)](http://www.mes-games.com/colors.php)  
-   Choose the correct spelling then click on the red button./Escolhe a ortografia certa e clica no botão vermelho.
+   ‘Missile defence’ [![mdef](https://1blockatatime.github.io/English/images/mdef.PNG)](http://www.mes-games.com/colors.php) Escolhe a ortografia certa e clica no botão vermelho.
 
-   ‘Collect the stars’ [![star](https://1blockatatime.github.io/English/images/star.PNG)](http://www.mes-games.com/colors.php)  
-   Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
+   ‘Collect the stars’ [![star](https://1blockatatime.github.io/English/images/star.PNG)](http://www.mes-games.com/colors.php) Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
