@@ -9,7 +9,7 @@ In English we write the days of the week and the months of the year with a capit
 Canta [a canção dos dias da semana](https://www.youtube.com/watch?v=36n93jvjkDs) por Dream English / Sing [the 'Days of the Week' song](https://www.youtube.com/watch?v=36n93jvjkDs) by Dream English    
 Ouve a pronúncia Americana de 'Tuesday'. / Listen to the American pronunciation of Tuesday. 
 
-* Listen to ![listen](https://1blockatatime.github.io/English/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=onHPejy0If4) [![dauk](https://1blockatatime.github.io/English/images/dauk.PNG)](https://www.youtube.com/watch?v=onHPejy0If4).  
+* Listen to ![listen](https://1blockatatime.github.io/English/images/listen.png) [the British pronunciation of the](https://www.youtube.com/watch?v=onHPejy0If4) [![dauk](https://1blockatatime.github.io/English/images/dauk.PNG){:height="20px"}](https://www.youtube.com/watch?v=onHPejy0If4).  
 Ouve a [pronúncia Británica dos dias da semana](https://www.youtube.com/watch?v=onHPejy0If4). [0:00-1:45]  
 
 * [![dwme](https://1blockatatime.github.io/English/images2/dwme.JPG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/days%20and%20actions/index.html) [Play memory. / Joga o jogo de memória.](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/days%20and%20actions/index.html)  
