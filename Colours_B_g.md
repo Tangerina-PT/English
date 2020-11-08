@@ -1,43 +1,31 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Colours - Games
 
-- [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) (Escolha/select ‘Colors’ ![cobi2](/images/cobi2.PNG))
+- [![cobi](https://1blockatatime.github.io/English/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) (Escolha/select ‘Colors’ ![cobi2](/images/cobi2.PNG))
 
-![readtxt](/images/readtxt.png)![read](/images/read.jpg)
+![readtxt](https://1blockatatime.github.io/English/images/readtxt.png)![read](/images/read.jpg)
 
-- [![bcol](/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours)  
+- [![bcol](https://1blockatatime.github.io/English/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours)  
 Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./Click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.
 
-- Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![cmem](/images/cmem.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
+- [![comenew](https://1blockatatime.github.io/English/images2/comenew.JPG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) Play [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html)    
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.
 
-- [![ccol](/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) [Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
+- [![ccol](https://1blockatatime.github.io/English/images2/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) [Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
    Play **beginner** level/Joga no nível **beginner**
 
-![writetxt](/images/writetxt.png)![write](/images/write.jpg) (Extensão opcional)
+![writetxt](https://1blockatatime.github.io/English/images/writetxt.png)![write](https://1blockatatime.github.io/English/images/write.jpg) (Extensão opcional)
 
 - Play some [spelling games](http://www.mes-games.com/colors.php)  
    Click on the **‘Spelling’** section/Jogos de ortografia - clica no **Spelling**
 
-   ‘Missile defence’ [![mdef](/images/mdef.PNG)](http://www.mes-games.com/colors.php)  
+   ‘Missile defence’ [![mdef](https://1blockatatime.github.io/English/images/mdef.PNG)](http://www.mes-games.com/colors.php)  
    Choose the correct spelling then click on the red button./Escolhe a ortografia certa e clica no botão vermelho.
 
-   ‘Collect the stars’ [![star](/images/star.PNG)](http://www.mes-games.com/colors.php)  
+   ‘Collect the stars’ [![star](https://1blockatatime.github.io/English/images/star.PNG)](http://www.mes-games.com/colors.php)  
    Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B) [Return to Year 2 - Colours](https://tangerina-pt.github.io/English/Colours_B)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 
