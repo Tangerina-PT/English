@@ -21,7 +21,7 @@
   
 ***Extensão:***  
 Nota: infelizmente este exercício não funciona com todos os browsers.  
-[![spdggr](https://1blockatatime.github.io/English/images/spdggr.JPG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Listen and choose. / Ouve e escolha.](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
+[![spdggr](https://1blockatatime.github.io/English/images2/spdggr.JPG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Listen and choose. / Ouve e escolha.](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
