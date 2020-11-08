@@ -7,7 +7,8 @@
 
 ![wthactions](https://1blockatatime.github.io/English/images2/wth_actions.png){:height="165px"}  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/O2NwvUB41rA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Vê o vídeo. Consegues responder antes do Andy Ant?  
+[Vê o vídeo. Consegues responder antes do Andy Ant?](https://www.youtube.com/embed/O2NwvUB41rA)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/O2NwvUB41rA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 #### Game
 [![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
