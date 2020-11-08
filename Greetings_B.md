@@ -19,9 +19,9 @@
 [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E)    
 <iframe width="220" height="124" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
   
-***Extensão:***  
-Nota: infelizmente este exercício não funciona com todos os browsers.  
+***Actividade de extensão:***   
 [![spdggr](https://1blockatatime.github.io/English/images2/spdggr.JPG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Listen and choose. / Ouve e escolha.](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
+Nota: infelizmente este exercício não funciona com todos os browsers.  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
