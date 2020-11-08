@@ -10,7 +10,7 @@ Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo
 - [![comenew](https://1blockatatime.github.io/English/images2/comenew.JPG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) Play [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html)    
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.
 
-- [![ccol](https://1blockatatime.github.io/English/images2/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) [Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
+- [![ccol](https://1blockatatime.github.io/English/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) [Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
    Play **beginner** level/Joga no nível **beginner**
 
 ![writetxt](https://1blockatatime.github.io/English/images/writetxt.png)![write](https://1blockatatime.github.io/English/images/write.jpg) (Extensão opcional)
