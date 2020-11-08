@@ -2,27 +2,29 @@
 
 #### Canta a nossa canção do alfabeto
 
-[![alph](/images/alph.png){:height="60px"}](https://www.youtube.com/watch?v=Y88p4V_BCEU)      ![alphavis](/images/alphavis.PNG){:height="50px"}
+<iframe width="220" height="124" src="https://www.youtube.com/embed/Y88p4V_BCEU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+![alphavis](https://1blockatatime.github.io/English/images/alphavis.PNG){:height="50px"}  
 
 #### Joga os jogos para trabalhar os nomes das letras em inglês
 
-[![tdalph1](/images/tdalph1.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html) ![tdalph2](/images/tdalph2.PNG){:height="60px"}  
+[![tdalph1](https://1blockatatime.github.io/English/images/tdalph1.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html) ![tdalph2](https://1blockatatime.github.io/English/images/tdalph2.PNG){:height="60px"}  
+NB: Usa Adobe Flash - só até 12/2020   
 
-[![mmalph0](/images/mmalph0.PNG){:height="60px"}](https://www.abcya.com/games/alphabet_matching_game) ![mmalph5](/images/mmalph5.PNG){:height="112px"}
+[![mmalph0](https://1blockatatime.github.io/English/images/mmalph0.PNG){:height="60px"}](https://www.abcya.com/games/alphabet_matching_game) ![mmalph5](https://1blockatatime.github.io/English/images/mmalph5.PNG){:height="112px"}
 
 #### Pratica soletrar o teu nome em inglês
 
 ***Question:*** **'How do you spell your name?'('Como é que se soletra o teu nome?')**  
 ***Answer:*** **'It's 'ess' 'ei' 'el' 'el' 'uai'' (SALLY)**  
 
-![alph_p](/images/alph_p.PNG){:width="600px"}  
+![alph_p](https://1blockatatime.github.io/English/images/alph_p.PNG){:width="600px"}  
 
-[![frna](/images/frna.PNG){:height="60px"}](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)  
+[![frna](https://1blockatatime.github.io/English/images/frna.PNG){:height="60px"}](https://www.youtube.com/watch?v=EDmWNJ144oY) [Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)  
 
 Desafio extra: Consegues soletrar os nomes de outros membros da tua família? 
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
