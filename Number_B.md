@@ -29,9 +29,9 @@ Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp
 ***Question:*** **'How many?' (Quantos?)**  
 ***Answer:*** **'...Number..'(..Número..) [Avançado: There is one./There are ...' (Há um./Há...)]**
 
-1. [![oxeuhm](/images/oxeuhm.PNG)](https://www.youtube.com/watch?v=G3zaC5onBvM)
+<!--1. [![oxeuhm](/images/oxeuhm.PNG)](https://www.youtube.com/watch?v=G3zaC5onBvM)-->
 
-2. [![hmanmk](/images/hmanmk.png)](https://www.youtube.com/watch?v=bUvbOtOGeUs)
+<iframe width="220" height="124" src="https://www.youtube.com/embed/bUvbOtOGeUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***
 
