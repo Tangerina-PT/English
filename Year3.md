@@ -26,6 +26,6 @@ Vocabulary / Vocabulário
 
 ***
 
-#### [Tópicos novos - Year 3](https://tangerina-pt.github.io/English/Year3_vocab)
+#### [Novo vocabulário](https://tangerina-pt.github.io/English/Year3_vocab)
 
 ***
