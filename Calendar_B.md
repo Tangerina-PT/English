@@ -1,7 +1,6 @@
 ### Days of the week / Months of the year
 
-**Nota:** em inglês, escrevemos os dias da semana e os meses do ano com letra maiúscula. /  
-In English we write the days of the week and the months of the year with a capital letter.*
+**Nota:** em inglês, escrevemos os dias da semana e os meses do ano com letra maiúscula.  
 
 #### Days of the week
 
