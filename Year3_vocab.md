@@ -1,27 +1,12 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ## Year 3 - English - Vocabulary
-
-<!--### [Os tópicos do ano passado - Year 2 2018-2019](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)  
-[![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)-->
 
 ***
 
 #### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_C)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
-#### [Cardinal Numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_C)
-#### [Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_CD) (com algumas actividades adicionais)
-#### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_C) (com algumas actividades adicionais)
+#### [Cardinal Numbers - 1 to 100](https://tangerina-pt.github.io/English/Cardinal_Numbers_C)
+<!--#### [Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_CD) (com algumas actividades adicionais)
+#### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_C) (com algumas actividades adicionais)-->
 
 <!--#### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_CD)
 #### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_CD)
@@ -33,7 +18,7 @@ Precisas do vocabulário para outro tópico? Procura o tópico nos seguintes web
 [![bcina](/images/bcina.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games) [![lcina](/images/lcina.PNG)](http://www.learningchocolate.com/all?sort_by=monthcount) [![mesina](/images/mesina.PNG)](http://www.mes-games.com/) [![bcinta](/images/bcinta.PNG)](https://learnenglishteens.britishcouncil.org/grammar-vocabulary/vocabulary-exercises) [![eaina](/images/eaina.PNG)](https://www.englishactivities.net/english-topics-esl)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 #### Notes/Notas
