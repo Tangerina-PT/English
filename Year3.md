@@ -28,6 +28,10 @@ Vocabulary / Vocabulário
 
 #### [Novo vocabulário](https://tangerina-pt.github.io/English/Year3_vocab)
 
+#### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_C)
+#### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
+#### [Numbers - 1 to 100](https://tangerina-pt.github.io/English/Cardinal_Numbers_C)
+
 ***
 
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
