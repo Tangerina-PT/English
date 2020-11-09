@@ -28,8 +28,8 @@ Vocabulary / Vocabulário
 </p>
 </h3>
 
-#### [Já dominaste os tópicos do ano passado?](https://tangerina-pt.github.io/English/Year2)  
-[![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_conv_2018_2019)
+#### [Já dominaste os tópicos do ano passado?](https://tangerina-pt.github.io/English/Y2_19_20)  
+[![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_19_20) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_19_20) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_19_20)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_19_20)
 
 ***
 
