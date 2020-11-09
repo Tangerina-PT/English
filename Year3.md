@@ -26,7 +26,7 @@ Vocabulary / Vocabulário
 
 ***
 
-#### [Novo vocabulário](https://tangerina-pt.github.io/English/Year3_vocab)
+#### Novo vocabulário
 
 #### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_C)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
