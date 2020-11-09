@@ -12,7 +12,7 @@ Conversation / Conversação
 
 ***
 
-#### [Topic 1 - Getting to know each other/Conhecer-se](https://tangerina-pt.github.io/English/GTKEO_C)
+#### [Topic 1 - Getting to know each other/Conhecer-se](https://tangerina-pt.github.io/English/GTKEO_CD)
 
 ***
 
