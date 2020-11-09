@@ -2,13 +2,15 @@
 
 ***Question:*** **'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
-***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (É um prazer conhecer-te./Igualmente.)**  
-***Question:*** **'How are you?' (Como é que estás?)**  
-***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**
 
 [![wyn](/images/wyn1.png){:height="60px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728)
 
+***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (É um prazer conhecer-te./Igualmente.)**  
+
 [![ntmy](/images/ntmy.PNG){:height="60px"}](https://www.youtube.com/watch?v=rSwypHirUkM) [Freddiesville - Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM)
+
+***Question:*** **'How are you?' (Como é que estás?)**  
+***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**
 
 [![hays](/images/hays.PNG){:height="60px"}](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8) 
 
@@ -39,9 +41,7 @@ Esta canção também é sobre cuidar do nosso planeta.)
 *** 
 
 ***Question:*** **'Have you got a pet?' ('Tens um animal doméstico?')**  
-***Answer:*** **'Yes, I have a cat.' 'No, I haven't.' ('Sim, tenho um gato .' 'Não, não tenho.')**
-
-<!--[![pet1](/images/pet1.PNG){:height="60px"}](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)  ['Have you got a pet?'](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)
+***Answer:*** **'Yes, I've got a cat.' 'No, I haven't.' ('Sim, tenho um gato .' 'Não, não tenho.')**
 
 Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->  
 
@@ -49,7 +49,7 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 (Nota: a imagem para 'parrot' está errada - deve ser um papagaio.)  
 
 ***Question:*** **'Have you got any brothers and sisters?' ('Tens irmãos e irmãs?')**  
-***Answer:*** **'Yes, I have one sister and one brother .' 'No, I haven't. I'm an only child.' ('Sim, tenho uma irmã e um irmão.' 'Não, não tenho. Sou filha/o única/o.')**
+***Answer:*** **'Yes, I've got one sister and one brother .' 'No, I haven't. I'm an only child.' ('Sim, tenho uma irmã e um irmão.' 'Não, não tenho. Sou filha/o única/o.')**
 
 ***Question:*** **'Have you got a _____ ?' ('Tens um/uma _____ ?')**  
 ***Answer:*** **'Yes, I have.' 'No, I haven't.' ('Sim, tenho.' 'Não, não tenho.')**  
