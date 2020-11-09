@@ -28,8 +28,8 @@ Vocabulary / Vocabulário
 </p>
 </h3>
 
-#### [Já dominaste os tópicos do ano passado?](https://tangerina-pt.github.io/English/Y2_19_20)  
-[![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_19_20) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_19_20) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_19_20)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_19_20)
+#### [Já dominaste os tópicos do ano passado?](https://tangerina-pt.github.io/English/Y2_ano_passado)  
+[![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_ano_passado) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_ano_passado) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_ano_passado)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_ano_passado)
 
 ***
 
