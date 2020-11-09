@@ -4,12 +4,6 @@ Year 3 English
 </p>
 </h2>
 
-<h3> 
-<p align="center">
-2018-2019
-</p>
-</h3>
-
 <h3>
 <p align="center">
 Conversation / Conversação
