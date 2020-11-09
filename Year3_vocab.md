@@ -2,7 +2,7 @@
 
 #### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_C)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
-#### [Cardinal Numbers - 1 to 100](https://tangerina-pt.github.io/English/Cardinal_Numbers_C)
+#### [Numbers - 1 to 100](https://tangerina-pt.github.io/English/Cardinal_Numbers_C)
 <!--#### [Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_CD) (com algumas actividades adicionais)
 #### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_C) (com algumas actividades adicionais)-->
 
