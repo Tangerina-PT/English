@@ -12,7 +12,7 @@ Conversation / Conversação
 
 ***
 
-#### [Topic 1 - Getting to know each other/Conhecer-se](https://tangerina-pt.github.io/English/GTKEO_CD)
+#### [Unit 1 - Getting to know each other/Conhecer-se](https://tangerina-pt.github.io/English/GTKEO_CD)
 
 ***
 
@@ -23,7 +23,6 @@ Vocabulary / Vocabulário
 </h3>
 
 #### [Já dominaste os tópicos do ano passado?](https://tangerina-pt.github.io/English/Y2_ano_passado)  
-[![y2a](/images/y2a.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_ano_passado) [![y2b](/images/y2b.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_ano_passado) [![y2c](/images/y2c.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_ano_passado)[![y2d](/images/y2d.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Y2_ano_passado)
 
 ***
 
