@@ -18,11 +18,11 @@
 
 ### Games
 
-* [![acme](/images/acme.JPG){:height="60px"}](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/) [Play memory. / Joga o jogo de memória.](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/)    
+* [![acme](https://1blockatatime.github.io/English/images2/acme.JPG){:height="60px"}](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/) [Play memory. / Joga o jogo de memória.](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/)    
 
 ***
 
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 
