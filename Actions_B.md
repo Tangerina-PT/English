@@ -30,9 +30,7 @@
 
 ### Games
 
-* [![acmefv](/images/acmefv.PNG){:height="60px"}](https://www.freddiesville.com/games/action-verbs-present-simple-memory-game/) [Play memory. / Joga o jogo de memória.](https://www.freddiesville.com/games/action-verbs-present-simple-memory-game/)  
-
-NB: Parece só funcionar com Internet Explorer  
+* [![acme](/images/acme.JPG){:height="60px"}](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/) [Play memory. / Joga o jogo de memória.](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/)    
 
 ***
 
