@@ -18,11 +18,11 @@ Topic 14 - Language for playing games...
 
 #### [Topic 10 - Talking about feelings](https://tangerina-pt.github.io/English/Feelings_B) [![prep](/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)
 
-#### [Topic 9 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)[![hsktbw](/images/hsktbw.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_B)-->
+#### [Topic 9 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)[![hsktbw](/images/hsktbw.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_B)
 
-#### [Topic 8 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)
+#### [Topic 8 - Actions](https://tangerina-pt.github.io/English/Actions_B)[![stand](/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_B)-->
 
-#### [Topic 7 - Actions](https://tangerina-pt.github.io/English/Actions_B)[![stand](/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_B)
+#### [Topic 7 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)
 
 #### [Topic 6 - Days of the week/Months of the year](https://tangerina-pt.github.io/English/Calendar_B)[![days](/images/days.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Calendar_B)
 
