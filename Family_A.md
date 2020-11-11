@@ -2,7 +2,7 @@
 
 #### Song
 [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="75px"}](https://www.youtube.com/watch?v=GiRUF7hvWuM) Já sabes a nossa [canção de família?](https://www.youtube.com/watch?v=GiRUF7hvWuM)  
-***Desafio 1:*** Já consegues cantar a canção toda desligando o som no vídeo?  
+***Desafio:*** Já consegues cantar a canção toda desligando o som no vídeo?  
 <!--***Desafio 2:*** Consegues levantar as marionetas que fizemos em sala de aula no momento certo enquanto cantas?-->  
 
 #### Listening exercises (Exercícios de compreensão oral)
