@@ -18,14 +18,15 @@
 ![fmbk1](https://1blockatatime.github.io/English/images/fmbk1.png){:height="90px"}   
 ***Avaliação:*** Consegues dizer quem é quem em inglês em fotografias da tua família? p.ex.'My mummy.'-->  
 
-#### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
+***Vocab. min. (1º ano):*** mummy, daddy, brother, sister, grandma, grandpa  
+
+***
+
+#### Extensão opcional - para aprender vocabulário adicional
 <iframe width="220" height="124" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 [![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
 
-***
-
-***Vocab. min. (1º ano):*** mummy, daddy, brother, sister, grandma, grandpa  
 ***Vocab.:*** mum, mummy, mom(EUA) = mama; mother = mãe; dad, daddy = papa; father = pai; parents = pais; sister = irmã; brother = irmão; grandma, granny, grandmother = avó; grandpa, granddad, grandfather = avô; grandparents = avós; baby = bébé; aunt, aunty, auntie = tia; uncle = tio; cousin = primo/prima; family = família  
 
 ***
