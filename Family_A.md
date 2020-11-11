@@ -5,7 +5,7 @@
 ***Desafio 1:*** Já consegues cantar a canção toda desligando o som no vídeo?  
 ***Desafio 2:*** Consegues levantar as marionetas que fizemos em sala de aula no momento certo enquanto cantas?  
 
-#### Aprender as palavaras
+#### Listening exercises (Exercícios de compreensão oral)
 
 [![lvwkfa4](https://1blockatatime.github.io/English/images/lvwkfa4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue) [![lvwkfa4pt](https://1blockatatime.github.io/English/images/lvwkfa4_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_Members_nj183575ue)
 
