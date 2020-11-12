@@ -1,6 +1,6 @@
 ## Year 3 - English - Vocabulary
 
-#### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_C)
+#### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_CD)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
 #### [Numbers - 1 to 100](https://tangerina-pt.github.io/English/Cardinal_Numbers_C)
 <!--#### [Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_CD) (com algumas actividades adicionais)
