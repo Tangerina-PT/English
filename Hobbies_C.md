@@ -2,36 +2,36 @@
 
 #### Songs and chants
 
-[![wdld1](/images/wdld1.png)](https://www.youtube.com/watch?v=tYNap8gVNK4) [What do you like to do?](https://www.youtube.com/watch?v=tYNap8gVNK4)
+[![wdld1](https://1blockatatime.github.io/English/images/wdld1.png)](https://www.youtube.com/watch?v=tYNap8gVNK4) [What do you like to do?](https://www.youtube.com/watch?v=tYNap8gVNK4)
 
-[![wdld3](/images/wdld3.png)](https://www.youtube.com/watch?v=gH89yUhIAV0) [What do you like to do?](https://www.youtube.com/watch?v=gH89yUhIAV0)
+[![wdld3](https://1blockatatime.github.io/English/images/wdld3.png)](https://www.youtube.com/watch?v=gH89yUhIAV0) [What do you like to do?](https://www.youtube.com/watch?v=gH89yUhIAV0)
 
-[![wdld4](/images/wdld4.png)](https://www.youtube.com/watch?v=OzrjgUrHuGc) [What do you like to do?](https://www.youtube.com/watch?v=OzrjgUrHuGc)
+[![wdld4](https://1blockatatime.github.io/English/images/wdld4.png)](https://www.youtube.com/watch?v=OzrjgUrHuGc) [What do you like to do?](https://www.youtube.com/watch?v=OzrjgUrHuGc)
 
 #### Online games and activities - hobbies
 
-1. [![bchb1](/images/bchb1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-1) [Match the picture to the word](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-1)
+1. [![bchb1](https://1blockatatime.github.io/English/images/bchb1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-1) [Match the picture to the word](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-1)
 
-2. [![bchb2](/images/bchb2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-2) [Match the picture to the word](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-2)
+2. [![bchb2](https://1blockatatime.github.io/English/images/bchb2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-2) [Match the picture to the word](https://learnenglishkids.britishcouncil.org/en/word-games/free-time-2)
 
-3. [![lchb1](/images/lchb1.PNG)](http://www.learningchocolate.com/content/activities-0) [LC - Hobbies 1](http://www.learningchocolate.com/content/activities-0)
+3. [![lchb1](https://1blockatatime.github.io/English/images/lchb1.PNG)](http://www.learningchocolate.com/content/activities-0) [LC - Hobbies 1](http://www.learningchocolate.com/content/activities-0)
 
-4. [![lchb2](/images/lchb2.PNG)](http://www.learningchocolate.com/content/hobbies) [LC - Hobbies 2](http://www.learningchocolate.com/content/hobbies)
+4. [![lchb2](https://1blockatatime.github.io/English/images/lchb2.PNG)](http://www.learningchocolate.com/content/hobbies) [LC - Hobbies 2](http://www.learningchocolate.com/content/hobbies)
 
-5. [![lchb3](/images/lchb3.PNG)](http://www.learningchocolate.com/content/hobbies-1) [LC - Hobbies 3](http://www.learningchocolate.com/content/hobbies-1)
+5. [![lchb3](https://1blockatatime.github.io/English/images/lchb3.PNG)](http://www.learningchocolate.com/content/hobbies-1) [LC - Hobbies 3](http://www.learningchocolate.com/content/hobbies-1)
 
 #### Online games and activities - sports
 
-1. [![messp](/images/messp.PNG)](https://www.mes-games.com/) [Goto MES Games](https://www.mes-games.com/) [Choose/Escolha] ![messp2](/images/messp2.PNG)
+1. [![messp](https://1blockatatime.github.io/English/images/messp.PNG)](https://www.mes-games.com/) [Goto MES Games](https://www.mes-games.com/) [Choose/Escolha] ![messp2](/images/messp2.PNG)
 
-2. [![spme1](/images/spme1.PNG)](https://www.eslgamesplus.com/sports-vocabulary-esl-memory-game/) [Play memory - sports / Jogar memória - desportos](https://www.eslgamesplus.com/sports-vocabulary-esl-memory-game/)
+2. [![spme](https://1blockatatime.github.io/English/images2/spme.PNG)](https://www.eslgamesplus.com/sports-vocabulary-esl-memory-game/) [Play memory - sports / Jogar memória - desportos](https://www.eslgamesplus.com/sports-vocabulary-esl-memory-game/)
 
-3. [![lcsp1](/images/lcsp1.PNG)](http://www.learningchocolate.com/content/sports) [LC - Sports](http://www.learningchocolate.com/content/sports)
+3. [![lcsp1](https://1blockatatime.github.io/English/images/lcsp1.PNG)](http://www.learningchocolate.com/content/sports) [LC - Sports](http://www.learningchocolate.com/content/sports)
 
-4. [![spqu1](/images/spqu1.PNG)](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/) [Play memory - sports / Jogar memória - desportos](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/)
+4. [![spqu1](https://1blockatatime.github.io/English/images/spqu1.PNG)](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/) [Play memory - sports / Jogar memória - desportos](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year3_vocab) [Return to Year 3 English Vocabulary Site](https://tangerina-pt.github.io/English/Year3_vocab)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 #### Notes / Notas
