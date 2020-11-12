@@ -91,7 +91,7 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 
 Can you say what you like to do? / Sabes dizer o que gostas de fazer?  
 
-[![vchb](/images/vchb.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Hobbies_C)  
+[![vchb](/images/vchb.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Hobbies_CD)  
 
 ***Answer:*** **'I like ____ but I don't like ____ .' ('Eu gosto de ____ mas não gosto de ____ .')**
 
