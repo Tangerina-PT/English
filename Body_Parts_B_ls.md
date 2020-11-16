@@ -28,7 +28,7 @@ N.B. Nos E.U.A. a estrutura mais simples 'I have...' é comum mas os currículos
 **Adjectives (come before the noun) e.g. / (Adjectivos (vêm antes da palavra que descrevem) p.ex.**   **'big(grande)/small(pequeno)/long(comprido)/short(curto)/clean(limpo)/dirty(sujo)/ugly(feio)/beautiful(bonito)'**  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Body_Parts_B) [Return to Year 2 - Body Parts](https://tangerina-pt.github.io/English/Body_Parts_B)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 
