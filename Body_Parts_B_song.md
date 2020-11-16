@@ -2,7 +2,7 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/2Hmq74bQP6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-***Vocabulário novo:*** **face (cara); hair (cabelo); neck (pescoço); eyebrows (sobrancelhas); teeth (dentes)**  
+***Vocab. novo:*** **face (cara); hair (cabelo); neck (pescoço); eyebrows (sobrancelhas); teeth (dentes)**  
 
 
 ### Song/Canção: *"Head, shoulders, knees and toes"*  (Verse 1)  
