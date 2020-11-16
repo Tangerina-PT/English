@@ -1,18 +1,18 @@
 ### Body Parts - Games
 
-(1).[![bpme](https://1blockatatime.github.io/English/images2/bpme.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) [Play 'memory'](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html)
+(1).[![bpme](https://1blockatatime.github.io/English/images2/bpme.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) [Play 'memory'](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html)
 
-(2). [![lcbp](https://1blockatatime.github.io/English/images/lcbp.PNG){:height="50px"}](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
+(2). [![lcbp](https://1blockatatime.github.io/English/images/lcbp.PNG){:height="60px"}](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
 Lê cada palavra, depois clica na imagem do altifalante para verificar a pronúncia. Desafio: Consegues fazer todas as actividades?  
 Click on / clica em: ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG), ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG), ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG), ![lcfi](https://1blockatatime.github.io/English/images/lcfi.PNG) and ![lcdi](https://1blockatatime.github.io/English/images/lcdi.PNG))  
 
-(3). [![lcbp3](https://1blockatatime.github.io/English/images/lcbp3.PNG){:height="50px"}](http://www.learningchocolate.com/content/body-parts-3-leg) [Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)  
+(3). [![lcbp3](https://1blockatatime.github.io/English/images/lcbp3.PNG){:height="60px"}](http://www.learningchocolate.com/content/body-parts-3-leg) [Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)  
 
-(4). [![lgbp](https://1blockatatime.github.io/English/images/lgbp.PNG){:height="50px"}](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html) [Pronto para um jogo mais rápido?/Ready for a faster game?](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)   
+(4). [![lgbp](https://1blockatatime.github.io/English/images/lgbp.PNG){:height="60px"}](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html) [Pronto para um jogo mais rápido?/Ready for a faster game?](https://www.learninggamesforkids.com/health_games/body_parts/labeling.html)   
 (Joga 'levels' 1 e 2. Deixa o nível 3 para logo, quando aprenderes os orgãos internos.)  
 
 Queres saber mais? / Do you want to know more?  
-(5). [![lcbp2](https://1blockatatime.github.io/English/images/lcbp2.PNG){:height="50px"}](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [Torso and Arm / Tronco e Braço](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)  
+(5). [![lcbp2](https://1blockatatime.github.io/English/images/lcbp2.PNG){:height="60px"}](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms) [Torso and Arm / Tronco e Braço](http://www.learningchocolate.com/content/body-parts-2-mid-section-and-arms)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
