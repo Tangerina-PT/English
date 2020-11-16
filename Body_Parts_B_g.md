@@ -1,18 +1,6 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Body Parts - Games
 
-(1).[![bpme2](/images/bpme2.PNG)](https://www.eslgamesplus.com/body-parts-esl-vocabulary-memory-game/) [Play 'memory'](https://www.eslgamesplus.com/body-parts-esl-vocabulary-memory-game/)
+(1).[![bpme](/images2/bpme.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) [Play 'memory'](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html)
 
 (2). [![bbod](/images/bbod.PNG)](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/) [Label the parts of the body](http://www.getinthezone.org.uk/schools/ages-4-11/ages-4-5/game-brilliant-bodies/) 
 
