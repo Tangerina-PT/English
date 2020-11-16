@@ -1,10 +1,9 @@
 ### Body Parts - Games
 
-(1).[![bpme](/images2/bpme.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) [Play 'memory'](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html)
+(1).[![bpme](https://1blockatatime.github.io/English/images2/bpme.PNG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) [Play 'memory'](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html)
 
-(2). Lê cada palavra, depois clica na imagem do altifalante para verificar a pronúncia.
-[![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
-Desafio: Consegues fazer todas as actividades?  
+(2). [![lcbp](/images/lcbp.PNG)](http://www.learningchocolate.com/content/body-parts-1-head-and-face) [Face and Head / Cara e Cabeça](http://www.learningchocolate.com/content/body-parts-1-head-and-face)  
+Lê cada palavra, depois clica na imagem do altifalante para verificar a pronúncia. Desafio: Consegues fazer todas as actividades?  
 Click on / clica em: ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) and ![lcdi](/images/lcdi.PNG))  
 
 (3). [![lcbp3](/images/lcbp3.PNG)](http://www.learningchocolate.com/content/body-parts-3-leg) [Leg / Perna](http://www.learningchocolate.com/content/body-parts-3-leg)  
