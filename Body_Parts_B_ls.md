@@ -1,3 +1,9 @@
+### New vocabulary
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/2Hmq74bQP6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+***Vocab. novo:*** **face (cara); hair (cabelo); neck (pescoço); eyebrows (sobrancelhas); teeth (dentes)**  
+
 ### Body Parts - Language structures
 
 ***Language:***  
