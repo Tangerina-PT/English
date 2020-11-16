@@ -1,38 +1,27 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Body Parts - Language structures
 
 ***Language:***  
 **'This is me.' (Este, sou eu.)**  
 **'My nose.' (O meu nariz.)**  
 
-[![bpmeelf](/images/bpmeelf.png){:height="60px"}](https://www.youtube.com/watch?v=QkHQ0CYwjaI)
+<iframe width="220" height="124" src="https://www.youtube.com/embed/QkHQ0CYwjaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***Language:***  
 **'This is my head.' (Isto é a minha cabeça.)**  
 **'These are my feet' (Estes são os meus pés.)**  
 
-[![bpch3elf](/images/bpch3elf.png){:height="60px"}](https://www.youtube.com/watch?v=4-T9QuldVOw)
+<iframe width="220" height="124" src="https://www.youtube.com/embed/4-T9QuldVOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***Language (classroom game):***  
 **'Touch your ... ' (Toca no(s)/na(s) teu(s)/tua(s) ... )**  
 
-[![bptch](/images/bptch.png){:height="60px"}](https://www.youtube.com/watch?v=3ZWtDfBoU-E)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/3ZWtDfBoU-E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***Language:*** 
 **'I've got ... ' (Eu tenho ... )**  
 
-[![kbum](/images/kbum.PNG){:height="60px"}](https://www.youtube.com/watch?v=BAo-hAFNbDE) [I'm a very ugly monster](https://www.youtube.com/watch?v=BAo-hAFNbDE) (Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit6.pdf).)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/BAo-hAFNbDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[I'm a very ugly monster SONG](https://www.youtube.com/watch?v=BAo-hAFNbDE) (Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit6.pdf).)  
 
 N.B. Nos E.U.A. a estrutura mais simples 'I have...' é comum mas os currículos de Inglês em Portugal adoptam a estrutura mais prevalente no Reino Unido 'I have got (I've got)...'
 
