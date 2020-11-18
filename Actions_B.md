@@ -1,20 +1,32 @@
 ### Actions
 
-* Já aprendemos muitas acções a cantar. Vê os vídeos e canta fazendo as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
+New language / Nova linguagem
 
-* [![stand](/images/stand.png){:height="60px"}](https://www.youtube.com/watch?v=WsiRSWthV1k) [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=WsiRSWthV1k)  
-![stand_up](/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** /  
-![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="80px" width="80px"} ***jump*** /  
-![hop](/images/hop.gif){:height="80px" width="80px"} ***hop*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***  
+***Vocabulário:*** **left(esquerda); right(direita); turn left(vira a esquerda); turn right(vira a direita); move(mexer)**  
 
-* [![ican](/images/ican.png){:height="60px"}](https://www.youtube.com/watch?v=_Ir0Mc6Qilo) [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)  
-![clap](/images/clap.gif){:height="80px" width="80px"} ***clap*** / ![fly](/images/fly.gif){:height="80px" width="80px"} ***fly*** / ![stomp](/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![swim2](/images/swim2.gif){:height="80px" width="80px"} ***swim*** /  
-![climb2](/images/climb2.gif){:height="80px" width="80px"} ***climb*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![sing2](/images/sing2.gif){:height="80px" width="80px"} ***sing*** / ![dance](/images/dance.gif){:height="80px" width="80px"} ***dance***  
+
+* Já aprendemos muitas acções a cantar no ano passado. Vê os vídeos e canta fazendo as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=WsiRSWthV1k)  
+![stand_up](https://1blockatatime.github.io/English/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](https://1blockatatime.github.io/English/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](https://1blockatatime.github.io/English/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** /  
+![hand_up](https://1blockatatime.github.io/English/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](https://1blockatatime.github.io/English/images/jump.gif){:height="80px" width="80px"} ***jump*** /  
+![hop](https://1blockatatime.github.io/English/images/hop.gif){:height="80px" width="80px"} ***hop*** / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop***  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/_Ir0Mc6Qilo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)  
+![clap](https://1blockatatime.github.io/English/images/clap.gif){:height="80px" width="80px"} ***clap*** / ![fly](https://1blockatatime.github.io/English/images/fly.gif){:height="80px" width="80px"} ***fly*** / ![stomp](https://1blockatatime.github.io/English/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![swim2](https://1blockatatime.github.io/English/images/swim2.gif){:height="80px" width="80px"} ***swim*** /  
+![climb2](https://1blockatatime.github.io/English/images/climb2.gif){:height="80px" width="80px"} ***climb*** / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run*** / ![sing2](https://1blockatatime.github.io/English/images/sing2.gif){:height="80px" width="80px"} ***sing*** / ![dance](https://1blockatatime.github.io/English/images/dance.gif){:height="80px" width="80px"} ***dance***  
 
 ***Language:***
 ***Question:*** **'Can you clap?'; (Consegues bater palmas?)**  
 ***Answers:***  **'Yes, I can. I can clap.' (Sim, consigo. Consigo bater palmas)**  
 **or/ou 'No, I can't. I can't clap.' (Não, não consigo. Não consigo bater palmas)**  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/GoSq-yZcJ-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=GoSq-yZcJ-4&vl=en)  
+
+![walk](https://1blockatatime.github.io/English/images/walk.PNG){:height="80px" width="80px"} ***Walk***/ ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop*** / ![list](https://1blockatatime.github.io/English/images/list.PNG){:height="80px" width="80px"} ***listen***/ ![stomp](https://1blockatatime.github.io/English/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![jump](https://1blockatatime.github.io/English/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![skip](https://1blockatatime.github.io/English/images/skip.PNG){:height="80px" width="80px"} ***skip***  / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run***   
 
 ### Games
 
