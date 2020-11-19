@@ -1,11 +1,12 @@
 ### Actions
 
-New language / Nova linguagem
+New song / Nova canção
 
-***Vocabulário:*** **left(esquerda); right(direita); turn left(vira a esquerda); turn right(vira a direita); move(mexer)**  
+***Vocabulário novo:*** **left(esquerda); right(direita); turn left(vira a esquerda); turn right(vira a direita); move(mexer)**  
 
+<iframe width="220" height="124" src="https://www.youtube.com/embed/AeSbmGy0Eaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-* Já aprendemos muitas acções a cantar no ano passado. Vê os vídeos e canta fazendo as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
+* Já aprendemos muitas outras acções a cantar no ano passado. Vê os vídeos e canta fazendo as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=WsiRSWthV1k)  
