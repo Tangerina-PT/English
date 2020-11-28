@@ -27,7 +27,7 @@ New song / Nova canção
 <iframe width="220" height="124" src="https://www.youtube.com/embed/GoSq-yZcJ-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=GoSq-yZcJ-4&vl=en)  
 
-![walk](https://1blockatatime.github.io/English/images2/walk.PNG){:height="80px" width="80px"} ***Walk***/ ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop*** / ![list](https://1blockatatime.github.io/English/images2/list.PNG){:height="80px" width="80px"} ***listen***/ ![stomp](https://1blockatatime.github.io/English/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![jump](https://1blockatatime.github.io/English/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![skip](https://1blockatatime.github.io/English/images2/skip.PNG){:height="80px" width="80px"} ***skip***  / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run***   
+![walk](https://1blockatatime.github.io/English/images2/walk.png){:height="80px" width="80px"} ***Walk***/ ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop*** / ![list](https://1blockatatime.github.io/English/images2/list.png){:height="80px" width="80px"} ***listen***/ ![stomp](https://1blockatatime.github.io/English/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![jump](https://1blockatatime.github.io/English/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![skip](https://1blockatatime.github.io/English/images2/skip.png){:height="80px" width="80px"} ***skip***  / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run***   
 
 ***Nota:*** 'SKIP' em inglês pode ser duas acções diferentes: (1). saltar a corda, também referido como 'JUMP ROPE' e o sentido que nós usamos nas cançóes e jogos nas aulas que como não há tradução directa é demonstrado nos seguintes vídeos:  
 
@@ -35,7 +35,7 @@ New song / Nova canção
 
 ### Games
 
-* [![acme](https://1blockatatime.github.io/English/images2/acme.JPG){:height="60px"}](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/) [Play memory. / Joga o jogo de memória.](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/)    
+* [![acme](https://1blockatatime.github.io/English/images2/acme.PNG){:height="60px"}](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/) [Play memory. / Joga o jogo de memória.](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/)    
 
 ***
 
