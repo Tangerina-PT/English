@@ -4,12 +4,13 @@
 
 ***Vocabulário novo:*** **left(esquerda); right(direita); turn left(vira a esquerda); turn right(vira a direita); move(mexer)**  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/AeSbmGy0Eaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/0Qrsaz1nxsI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+Vê o vídeo, canta e faz as acções.  
 
 * Já aprendemos muitas outras acções a cantar no ano passado. Vê os vídeos e canta fazendo as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=WsiRSWthV1k)  
+Vê o vídeo, canta e faz as acções.    
 ![stand_up](https://1blockatatime.github.io/English/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](https://1blockatatime.github.io/English/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](https://1blockatatime.github.io/English/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** /  
 ![hand_up](https://1blockatatime.github.io/English/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](https://1blockatatime.github.io/English/images/jump.gif){:height="80px" width="80px"} ***jump*** /  
 ![hop](https://1blockatatime.github.io/English/images/hop.gif){:height="80px" width="80px"} ***hop*** / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop***  
@@ -20,12 +21,12 @@
 **or/ou 'No, I can't. I can't clap.' (Não, não consigo. Não consigo bater palmas)**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/_Ir0Mc6Qilo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)  
+Vê o vídeo, canta e faz as acções.  
 ![clap](https://1blockatatime.github.io/English/images/clap.gif){:height="80px" width="80px"} ***clap*** / ![fly](https://1blockatatime.github.io/English/images/fly.gif){:height="80px" width="80px"} ***fly*** / ![stomp](https://1blockatatime.github.io/English/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![swim2](https://1blockatatime.github.io/English/images/swim2.gif){:height="80px" width="80px"} ***swim*** /  
 ![climb2](https://1blockatatime.github.io/English/images/climb2.gif){:height="80px" width="80px"} ***climb*** / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run*** / ![sing2](https://1blockatatime.github.io/English/images/sing2.gif){:height="80px" width="80px"} ***sing*** / ![dance](https://1blockatatime.github.io/English/images/dance.gif){:height="80px" width="80px"} ***dance***  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/GoSq-yZcJ-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=GoSq-yZcJ-4&vl=en)  [Lyrics/Letra](https://tangerina-pt.github.io/English/witj) 
+Vê o vídeo, canta e faz as acções.  [Lyrics/Letra](https://tangerina-pt.github.io/English/witj)   
 
 ![walk](https://1blockatatime.github.io/English/images2/walk.png){:height="80px" width="80px"} ***Walk***/ ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop*** / ![list](https://1blockatatime.github.io/English/images2/list.png){:height="80px" width="80px"} ***listen***/ ![stomp](https://1blockatatime.github.io/English/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![jump](https://1blockatatime.github.io/English/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![skip](https://1blockatatime.github.io/English/images2/skip.png){:height="80px" width="80px"} ***skip***  / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run***   
 
