@@ -14,12 +14,12 @@ Escuta a pronúncia Británica dos dias da semana, em especial a proníuncia dif
 
 [![dwme](https://1blockatatime.github.io/English/images2/dwme.JPG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/days%20and%20actions/index.html) [Play memory. / Joga o jogo de memória.](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/days%20and%20actions/index.html)  
 
-<!--#### Language Structure
+#### Language Structure
 ***
 ***Question:*** **'What day is it today?' (Que dia é hoje?)**  
-***Answer:*** **'It's Monday.' (É segunda-feira.)**
+***Answer:*** **'It's Monday.' (É segunda-feira.)**  
 
-* [![wdisit](/images/wdisit.png){:height="80px"}](https://www.youtube.com/watch?v=onHPejy0If4).-->  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/O34cev-itDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 #### Months of the year
 <iframe width="220" height="124" src="https://www.youtube.com/embed/pm2F7MRpT_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
