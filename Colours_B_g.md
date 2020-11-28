@@ -7,7 +7,7 @@
 - [![bcol](https://1blockatatime.github.io/English/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours)  
 Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./Click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.
 
-- [![comenew](https://1blockatatime.github.io/English/images2/comenew.JPG)](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) Play [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html)    
+- [![comenew](https://1blockatatime.github.io/English/images2/comenew.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) Play [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html)    
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.
 
 - [![ccol](https://1blockatatime.github.io/English/images/ccol.PNG)](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) [Match  colours and their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)  
