@@ -6,8 +6,9 @@
 <iframe width="198" height="112" src="https://www.youtube.com/embed/MCjhynvMunE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/p5qwOxlvyhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/xQTlPD4ey-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Videos by Dream English: [Animals](https://www.youtube.com/embed/MCjhynvMunE); [Wild Animals 1](https://www.youtube.com/embed/p5qwOxlvyhk); [Wild Animals 2](https://www.youtube.com/embed/xQTlPD4ey-4)  
 
-<iframe width="198" height="112" src="https://www.youtube.com/embed/pdHCYgO9zh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Story: Brown Bear, Brown Bear, What do you see?](https://www.youtube.com/watch?v=pdHCYgO9zh8)  
+***Story:*** **Brown Bear, Brown Bear, What do you see?**
 Written and illusrated by Bill Martin Jr. and Eric Carle - read by Bill Martin Jr.  
+<iframe width="198" height="112" src="https://www.youtube.com/embed/pdHCYgO9zh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 ***
 
