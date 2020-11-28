@@ -7,7 +7,7 @@
 
 ![wthactions](https://1blockatatime.github.io/English/images2/wth_actions.png){:height="165px"}  
 
-[Vê o vídeo. Consegues responder antes do Andy Ant?](https://www.youtube.com/embed/O2NwvUB41rA)  
+Vê o vídeo. Consegues responder antes do Andy Ant?  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/O2NwvUB41rA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 #### Game
