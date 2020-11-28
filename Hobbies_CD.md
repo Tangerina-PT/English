@@ -28,8 +28,6 @@
 
 3. [![lcsp1](https://1blockatatime.github.io/English/images/lcsp1.PNG)](http://www.learningchocolate.com/content/sports) [LC - Sports](http://www.learningchocolate.com/content/sports)
 
-4. [![spqu1](https://1blockatatime.github.io/English/images/spqu1.PNG)](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/) [Play memory - sports / Jogar memória - desportos](https://www.eslgamesplus.com/sports-vocabulary-esl-game-car-racing-rally-game/)
-
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
