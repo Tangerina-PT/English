@@ -2,7 +2,8 @@
 
 Já começamos a aprender muitas acções a cantar. Canta e faz as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
 
-* [![stand](/images/stand.png){:height="60px"}](https://www.youtube.com/watch?v=WsiRSWthV1k) [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=WsiRSWthV1k)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Vê o vídeo, canta e faz as acções.  
 ![stand_up](/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** /  
 ![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="80px" width="80px"} ***jump*** /  
 ![hop](/images/hop.gif){:height="80px" width="80px"} ***hop*** /![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***  
