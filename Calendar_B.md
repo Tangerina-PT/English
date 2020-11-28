@@ -4,16 +4,15 @@
 
 #### Days of the week
 
-* <iframe width="220" height="124" src="https://www.youtube.com/embed/36n93jvjkDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/36n93jvjkDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Canta a canção dos dias da semana (Dream English)    
 Nesta canção ouve-se a pronúncia Americana de 'Tuesday'.
 
-* Listen to ![listen](https://1blockatatime.github.io/English/images/listen.png) the British pronunciation of the ![dauk](https://1blockatatime.github.io/English/images/dauk.PNG){:height="35px"}. [0:00-1:45]    
-Ouve a pronúncia Británica dos dias da semana, em especial a proníuncia diferente de 'Tuesday'.  (Video de Chatterbox English Learning)   
+Escuta a pronúncia Británica dos dias da semana, em especial a proníuncia diferente de 'Tuesday'. [0:00-1:45] (Video de Chatterbox English Learning)   
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/onHPejy0If4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-* [![dwme](https://1blockatatime.github.io/English/images2/dwme.JPG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/days%20and%20actions/index.html) [Play memory. / Joga o jogo de memória.](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/days%20and%20actions/index.html)  
+[![dwme](https://1blockatatime.github.io/English/images2/dwme.JPG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/days%20and%20actions/index.html) [Play memory. / Joga o jogo de memória.](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/days%20and%20actions/index.html)  
 
 <!--#### Language Structure
 ***
