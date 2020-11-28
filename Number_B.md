@@ -13,10 +13,10 @@
 ***Answer:*** **'Seven.' (7); 'I am seven.'= 'I'm seven.' (Tenho 7.); 'I am seven years old.' = 'I'm seven years old.' (Tenho 7 anos.)** 
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/x2cI4ZgsYU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4)  
+How old are you? English Tree TV     
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/sn4sp4YGz0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E)  
+Watch Gogo’s Adventures with English 8.  
 
 [![hoaylvwk2](https://1blockatatime.github.io/English/images2/hoaylvwk2.PNG){:height="75px"}](https://www.liveworksheets.com/cu654117jy) [![hoaylvwk2pt](https://1blockatatime.github.io/English/images2/hoaylvwk2_pt.png){:height="75px"}](https://www.liveworksheets.com/cu654117jy)  
 
