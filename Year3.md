@@ -22,7 +22,7 @@ Vocabulary / Vocabulário
 </p>
 </h3>
 
-#### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_C)
+#### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_CD)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
 #### [Numbers - 1 to 100](https://tangerina-pt.github.io/English/Cardinal_Numbers_C)
 #### [Já dominaste os tópicos do ano passado?](https://tangerina-pt.github.io/English/Y2_ano_passado)  
