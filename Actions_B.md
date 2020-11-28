@@ -9,7 +9,7 @@ Vê o vídeo, canta e faz as acções.
 
 ***  
 
-Já aprendemos muitas outras acções a cantar no ano passado. Vê os vídeos e canta fazendo as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
+Aprendemos muitas outras acções a cantar no ano passado. Vê os vídeos, canta e faz as acções para te lembrares. A seguir, consegues apontar para cada imagem e dizer a acção em inglês?  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Vê o vídeo, canta e faz as acções.    
