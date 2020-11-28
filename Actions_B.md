@@ -35,7 +35,7 @@ New song / Nova canção
 
 ### Games
 
-* [![acme](https://1blockatatime.github.io/English/images2/acme.PNG){:height="60px"}](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/) [Play memory. / Joga o jogo de memória.](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/)    
+* [![acme](https://1blockatatime.github.io/English/images2/acme.PNG){:height="60px"}](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/) [Play memory. / Joga o jogo de memória. - Click and scroll down. / Clicar e pesquisa em baixo.](https://www.eslgamesplus.com/action-verbs-memory-game-for-esl-learning-very-low-beginners/)    
 
 ***
 
