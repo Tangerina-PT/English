@@ -20,7 +20,7 @@ NB: Usa Adobe Flash - só até 12/2020
 ![alph_p](https://1blockatatime.github.io/English/images/alph_p.PNG){:width="600px"}  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/EDmWNJ144oY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[Freddiesville - What's your name?](https://www.youtube.com/watch?v=EDmWNJ144oY)  
+Freddiesville - What's your name?  
 
 **Desafio extra:** Consegues soletrar os nomes de outros membros da tua família? 
 
