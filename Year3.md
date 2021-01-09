@@ -14,6 +14,8 @@ Conversation / Conversação
 
 #### [Unit 1 - Getting to know each other/Conhecer-se](https://tangerina-pt.github.io/English/GTKEO_CD)
 
+#### [Unit 2 - Going to the Doctor/Ir ao médico](https://tangerina-pt.github.io/English/GTDR_CD)
+
 ***
 
 <h3>
