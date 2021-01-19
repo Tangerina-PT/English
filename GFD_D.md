@@ -43,19 +43,16 @@ Watch the videos to learn the prepositions of movement...
 
 TO BE CONTINUED... / A CONTINUAR...
 
-<!--##### (F) Directions in the street / Indicações na rua 
+<!--##### (F) Directions in the street / Indicações na rua--> 
 
 <!--More advanced video:  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-_YoeEY8FPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Este é um pouco mais difícil, consegues seguir as indicações dados nos cenários no fim?-->  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/OPL9LrqzA4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/NvMbJjpF-94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<!-- <iframe width="220" height="124" src="https://www.youtube.com/embed/OPL9LrqzA4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/NvMbJjpF-94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Nota: a palavra 'through' (através) está mal escrito no segundo vídeo - falta o primeiro 'h'   
-
 ##### (G) Trabalho: How do you get to the hospital?
-
 Vê os vídeos. Consegues seguir as indicações? Desafio - faz o teu próprio vídeo. Podes usar uma fotografia ou desenho de uma cidade, um mapa desenhado ou criar uma mini-cidade. Pode ser simples com várias personagens a perguntar por exemplo 'Where is the pharmacy?' (Onde está a farmácia?) com respostas usando preposições, p.ex. 'The pharmacy is between the post office and the bank.' (A farmácia está entre os correios e o banco.) ou um vídeo dando indicações.     
-
 <iframe width="220" height="124" src="https://www.youtube.com/embed/g7X-X1Sxb1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/0f9ewJ5MQ-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ns3X5TuyvhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/o-4FjPe0M8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->  
