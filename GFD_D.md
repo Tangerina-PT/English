@@ -4,9 +4,10 @@
 
 ##### (A) Learn the 'places in a city' / Aprende os nomes dos lugares na cidade...
 
-[![plwkbk](https://1blockatatime.github.io/English/images2/plwkbk.PNG){:height="75px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html) [![plwkbkpt](https://1blockatatime.github.io/English/images2/plwkbk_pt.png){:height="110px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/k8myH9M_ngQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<!--[![pltag](https://1blockatatime.github.io/English/images2/pltag.png){:height="60px"}](https://tangerina-pt.github.io/English/Places_D)-->   
+<!--[![plwkbk](https://1blockatatime.github.io/English/images2/plwkbk.PNG){:height="75px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html) [![plwkbkpt](https://1blockatatime.github.io/English/images2/plwkbk_pt.png){:height="110px"}](http://chagall-col.spip.ac-rouen.fr/IMG/didapages/shops2/index.html)  
+[![pltag](https://1blockatatime.github.io/English/images2/pltag.png){:height="60px"}](https://tangerina-pt.github.io/English/Places_D)-->   
 
 ##### (B) Work on prepositions of place / Estuda as preposições (de lugar)...
 
@@ -30,9 +31,7 @@ You already know the names of places in a city and the prepositions (of place)? 
 
 [![lvwkgd12](https://1blockatatime.github.io/English/images2/lvwkgd12.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Reading_worksheets_xi14374yr) [![lvwkgd12pt](https://1blockatatime.github.io/English/images2/lvwkgd12_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Reading_worksheets_xi14374yr)  
 
-#### Part II - How do you get to the bank? / Como é que se vai para o banco?
-
-##### (D) Estuda as preposições (de movimento)...
+##### (D) Learn the prepositions of movement..../Aprende as preposições (de movimento)...
 
 Watch the videos to learn the prepositions of movement...  
  <iframe width="220" height="124" src="https://www.youtube.com/embed/PAC0qY2lnAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/ZYl5WQCvLoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -40,7 +39,11 @@ Watch the videos to learn the prepositions of movement...
 
 [![prmvla](https://1blockatatime.github.io/English/images2/prmvla.PNG){:height="75px"}](https://learningapps.org/506484) [![prmvlapt](https://1blockatatime.github.io/English/images2/prmvla_pt.png){:height="70px"}](https://learningapps.org/506484)  
 
-##### (F) Directions in the street / Indicações na rua 
+#### Part II - How do you get to the bank? / Como é que se vai para o banco?
+
+TO BE CONTINUED... / A CONTINUAR...
+
+<!--##### (F) Directions in the street / Indicações na rua 
 
 <!--More advanced video:  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-_YoeEY8FPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,7 +58,7 @@ Vê os vídeos. Consegues seguir as indicações? Desafio - faz o teu próprio v
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/g7X-X1Sxb1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/0f9ewJ5MQ-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ns3X5TuyvhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/o-4FjPe0M8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/o-4FjPe0M8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->  
 
 ***
 
