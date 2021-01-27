@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Numbers 0 to 20  / Números de 0 a 20
 
 1. [![numb](/images/numb.PNG)](https://www.youtube.com/watch?v=Exa-FZ1CksI)
@@ -17,12 +5,11 @@
    Desenha cada número no ar com o dedo enquanto contas.  
    Draw the numbers in the air with your finger as you count.  
 
-2. [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  [![bapo1](/images/bapo1.PNG)]( http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  
-
+<!--[Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  [![bapo1](/images/bapo1.PNG)]( http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  
    Choose ‘Count to 20’ / Escolha ‘Count to 20’ (contar até 20) ![bapo2](/images/bapo2.PNG)  
-   Count aloud from 1 to 20 – pop the balloon for each number after you have said the number and listen to check. / Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
+   Count aloud from 1 to 20 – pop the balloon for each number after you have said the number and listen to check. / Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.-->
 
-3. [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
+2. [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
    Play 10-20 ![nobi4](/images/nobi4.PNG).  
 
 ***
