@@ -1,18 +1,18 @@
 ### Classroom Objects
 
 #### Song
-<iframe width="220" height="124" src="https://www.youtube.com/embed/RmNCryV6G_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/RmNCryV6G_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Clean-up song](z "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")  
 
 #### Video chants
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/MuoJnFq9JwE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/3Ita5SaY4_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/g7kK989HiRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
-[Aprender - vídeo 1](a "pencil (lápis), book (livro), brush (pincel), ruler (régua)") [Aprender - vídeo 2](b "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [Aprender - vídeo 3](c "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")  
+[Aprender vocab - vídeo 1; ](a "pencil (lápis), book (livro), brush (pincel), ruler (régua)") [Aprender vocab - vídeo 2; ](b "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [Aprender vocab - vídeo 3; ](c "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")  
 
 <!---(2). [![weco](/images/weco.PNG){:height="60px"}](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
 #### Games/Exercises (Jogos/Exercícios)  
 
-[![ssme2](https://1blockatatime.github.io/English/images2/ssme2.PNG){:height="60px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [Jogo de memória](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
+[![ssme](https://1blockatatime.github.io/English/images2/ssme.PNG){:height="60px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [Jogo de memória (clica aqui e rola para baixo para procurar o jogo)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
 
 [![find](https://1blockatatime.github.io/English/images/find.PNG){:height="60px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![findb](https://1blockatatime.github.io/English/images/findb.PNG){:height="40px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
 <!--Listen. Find the object before it appears in colour.-->
