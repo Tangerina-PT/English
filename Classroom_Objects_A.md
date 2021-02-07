@@ -1,30 +1,20 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Classroom Objects
 
 #### Song
-[![clean](/images/clean.png){:height="60px"}](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
+<iframe width="220" height="124" src="https://www.youtube.com/embed/RmNCryV6G_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")  
 
 #### Video chants
-[![pbbr](/images/pbbr.PNG){:height="60px"}](https://www.youtube.com/watch?v=MuoJnFq9JwE "pencil (lápis), book (livro), brush (pincel), ruler (régua)") [![kbss](/images/kbss.PNG){:height="60px"}](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [![mlss](/images/mlss.PNG){:height="60px"}](https://www.youtube.com/watch?v=g7kK989HiRQ "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")
+
+<iframe width="198" height="112" src="https://www.youtube.com/embed/MuoJnFq9JwE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/3Ita5SaY4_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/g7kK989HiRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+[Aprender - vídeo 1](a "pencil (lápis), book (livro), brush (pincel), ruler (régua)") [Aprender - vídeo 2](b "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [Aprender - vídeo 3](c "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")  
 
 <!---(2). [![weco](/images/weco.PNG){:height="60px"}](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
 #### Games/Exercises (Jogos/Exercícios)  
 
-[![ssme2](/images/ssme2.PNG){:height="60px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [![ssme2b](/images/ssme2b.PNG){:height="40px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
+[![ssme2](https://1blockatatime.github.io/English/images2/ssme2.PNG){:height="60px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [Jogo de memória](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
 
-[![find](/images/find.PNG){:height="60px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![findb](/images/findb.PNG){:height="40px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
+[![find](https://1blockatatime.github.io/English/images/find.PNG){:height="60px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![findb](https://1blockatatime.github.io/English/images/findb.PNG){:height="40px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
 <!--Listen. Find the object before it appears in colour.-->
   
 
