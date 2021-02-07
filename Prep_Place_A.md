@@ -5,7 +5,8 @@
 (1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/sC30GuCAdeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/1pqVj77EXiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/NTDRDluTaP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-Disseram-me na aula que as versões para aprender eram lentas de mais... pronta/o para uma versão mais rápida?   
+Disseram-me na aula que as versões para aprender eram lentas de mais...   
+Estás pronta/o para uma versão mais rápida? :)     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/hkQYtMM0nUg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <!--#### Video-exercícios: tenta responder antes do vídeo dar a resposta…
@@ -27,12 +28,16 @@ Disseram-me na aula que as versões para aprender eram lentas de mais... pronta/
 
 #### Trabalho para casa 
 
-* Desafio opcional para quem tiver tempo e vontade - Podes esconder alguns amigos teus lá em casa e fazer o teu próprio vídeo-exercício do jogo das escondidas para desafiar os amigos? Imagina que vais esconder o teu ursinho, por exemplo. Perguntas então : 'Where is the teddy bear?' e deixas algum tempo para nós vermos e pensarmos antes de nos dar a resposta.-->  
+* Desafio opcional para quem tiver tempo e vontade - Podes esconder alguns amigos teus lá em casa e fazer o teu próprio vídeo-exercício do jogo das escondidas para desafiar os amigos? Imagina que vais esconder o teu ursinho, por exemplo. Perguntas então : 'Where is the teddy bear?' e deixas algum tempo para nós vermos e pensarmos antes de nos dar a resposta.  
 
 #### Objectivos ![target](https://1blockatatime.github.io/English/images/target.png){:height="20px"}
 
 * Reconhecer e poder usar **vocabulário mínimo**: on (em cima), in (dentro), under (por baixo de)  
-* Reconhecer e poder responder à pergunta: '**Where?**' (**Onde?**)  
+* Reconhecer e poder responder à pergunta: '**Where?**' (**Onde?**)-->  
+
+#### Vocabulário mínimo
+
+* ON (em cima de ou colado no), IN (dentro), UNDER (debaixo/por baixo de)  
 
 #### Vocabulário extenso
 
