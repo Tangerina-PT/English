@@ -34,7 +34,7 @@
 
 ***
 
-### He is... (Ele é ... OU Ele está ...) She is... (Ela é ... OU Ela está ...)
+<!--### He is... (Ele é ... OU Ele está ...) She is... (Ela é ... OU Ela está ...)
 
 ***Question:*** **'How old is he?' ('Quão velho é ele?' -> Que idade tem (ele)?)**  
 ***Answers:*** **'Seven.' (7); 'He is seven.' = 'He's seven.' (Ele tem 7.); 'He is seven years old.' = 'He's seven years old.' (Ele tem 7 anos.)**  
@@ -57,7 +57,7 @@ Junto aqui um exemplo com bonecos.
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-c2fTfToshA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-Se quiseres, podes também dizer-nos mais alguma coisa sobre o teus amigos p.ex. 'He is happy.' (Ele está contente.), 'She is hungry.' (Ela está com fome.)   
+Se quiseres, podes também dizer-nos mais alguma coisa sobre o teus amigos p.ex. 'He is happy.' (Ele está contente.), 'She is hungry.' (Ela está com fome.)-->   
 
 ***
 
