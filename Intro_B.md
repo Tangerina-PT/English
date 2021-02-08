@@ -34,6 +34,8 @@
 
 ***
 
+To be continued... / A continuar...  
+
 <!--### He is... (Ele é ... OU Ele está ...) She is... (Ela é ... OU Ela está ...)
 
 ***Question:*** **'How old is he?' ('Quão velho é ele?' -> Que idade tem (ele)?)**  
