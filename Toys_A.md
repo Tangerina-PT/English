@@ -2,9 +2,10 @@
 
 #### Video 1: Aprender os nomes dos brinquedos - ouvir e repetir 
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/gGxaTfzmuMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> (Vídeo de Fun Kids English)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/gGxaTfzmuMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-#### Video 2: What is it?/O que é? (Diz o nome do brinquedo antes da imagem aparecer) 
+#### Video 2: What is it?/O que é?
+**(Tenta responder à pergunta antes da imagem aparecer...)** 
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/8-SWzpdcl6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
@@ -16,7 +17,7 @@
 <!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 (2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
 
-#### Jogos -'Listening'/ Compreensão do Oral
+#### Jogos -'Listening'/ Compreensão Oral
 
 [![toyslvwk1](https://1blockatatime.github.io/English/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 
