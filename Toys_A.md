@@ -20,9 +20,9 @@
 
 [![toyslvwk1](https://1blockatatime.github.io/English/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 
-[![gwtme](https://1blockatatime.github.io/English/images/gwtme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
+<!--[![gwtme](https://1blockatatime.github.io/English/images/gwtme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
 
-[![gwtme2](https://1blockatatime.github.io/English/images/gwtme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
+[![gwtme2](https://1blockatatime.github.io/English/images/gwtme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)-->  
 
 [![tyme](https://1blockatatime.github.io/English/images2/tyme.PNG){:height="60px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG){:height="35px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
 
@@ -30,7 +30,8 @@
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 
