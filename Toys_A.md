@@ -1,43 +1,30 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Toys
 
 #### Watch the videos / Vê os vídeos:  
 
+<iframe width="220" height="124" src="https://www.youtube.com/embed/gGxaTfzmuMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Aprender os nomes dos brinquedos (Vídeo de Fun Kids English)  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/8-SWzpdcl6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> What is it?/O que é? (Vídeo de Fun Kids English)  
+Desafio: tenta dizer o nome do brinquedo em inglês antes da imagem aparecer...
+
 <!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 (2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
 
-[![fcety](/images/fkety.PNG){:height="60px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) [Aprender os nomes dos brinquedos](https://www.youtube.com/watch?v=gGxaTfzmuMI)  
-
-[![fket](/images/fket.PNG){:height="60px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?/O que é?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
-<!--Diz o nome do brinquedo em inglês antes da imagem aparecer? 'It's a ...'
-/  Can you name each toy before the picture appears?-->  
-
 #### Jogos -'Listening'/ Compreensão do Oral
 
-[![toyslvwk1](/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
+[![toyslvwk1](https://1blockatatime.github.io/English/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 
-[![gwtme](/images/gwtme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
+[![gwtme](https://1blockatatime.github.io/English/images/gwtme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
 
-[![gwtme2](/images/gwtme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
+[![gwtme2](https://1blockatatime.github.io/English/images/gwtme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
 
-[![mety](/images/mety.PNG){:height="60px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG){:height="35px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
+[![tyme](https://1blockatatime.github.io/English/images2/tyme.PNG){:height="60px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG){:height="35px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
 
+*LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares.  
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
-*LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
 
