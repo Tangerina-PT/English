@@ -1,11 +1,17 @@
 ### Toys
 
-#### Watch the videos / Vê os vídeos:  
+#### Video 1: Aprender os nomes dos brinquedos - ouvir e repetir 
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/gGxaTfzmuMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Aprender os nomes dos brinquedos (Vídeo de Fun Kids English)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/gGxaTfzmuMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> (Vídeo de Fun Kids English)  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/8-SWzpdcl6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> What is it?/O que é? (Vídeo de Fun Kids English)  
-Desafio: tenta dizer o nome do brinquedo em inglês antes da imagem aparecer...
+#### Video 2: What is it?/O que é? (Diz o nome do brinquedo antes da imagem aparecer) 
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/8-SWzpdcl6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+
+***Question:*** **'What is it?' (O que é?)**  
+***Answer:*** **'It's a ball.' (É uma bola.)** 
+
+(Vídeos de Fun Kids English)
 
 <!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 (2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
