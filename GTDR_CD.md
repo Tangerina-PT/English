@@ -30,6 +30,12 @@ palavra 'INTERACTIVES'. Joga **'Match up'**, **'Find the match'** e **'Balloon p
 * Faz a correspondência entre o diálogo e a imagem.  
 [![lvwkdr4](https://1blockatatime.github.io/English/images/lvwkdr4.PNG){:height="75px"}](https://www.liveworksheets.com/zb65954vy) [Exercício de Liveworksheets](https://www.liveworksheets.com/zb65954vy)  
 
+### Play our classroom games: 'Dominoes' and 'Go Fish!'
+
+![hlthdom](https://1blockatatime.github.io/English/images2/hlthdom.PNG){:height="100px"} ![gofishdr](https://1blockatatime.github.io/English/images2/gofishdr.PNG){:height="100px"}   
+
+As instrucções estão no Teams no canal 'Inglês Conversação'...  
+
 ### Pratica a leitura em inglês
 
 * Ouve e lê a história. A seguir desliga o som e tenta ler o livro sozinho.  
