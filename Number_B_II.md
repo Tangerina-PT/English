@@ -1,4 +1,5 @@
-### Let's get to know the numbers 11 to 20...  / Vamos acrescentar os números de 11 a 20...
+### Let's get to know the numbers 11 to 20...  / 
+### Vamos trabalhar os números de 11 a 20...
 
 Se já consegues identificar os números 1 a 10 ao ouví-los fora de ordem, por exemplo [jogando o bingo com os números 1 a 10 sem dificuldade](http://www.abcya.com/number_bingo.htm), estás pronto para trabalhar os números 11 a 20. Começa por ver este vídeo simples que diz cada número de forma clara e lenta para ouvires e repetires...  
 
@@ -16,10 +17,10 @@ Depois, pratica contar de 1 a 20. Tenta desenhar cada número no ar com o dedo e
    Choose ‘Count to 20’ / Escolha ‘Count to 20’ (contar até 20) ![bapo2](/images/bapo2.PNG)  
    Count aloud from 1 to 20 – pop the balloon for each number after you have said the number and listen to check. / Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.-->
 
-Agora joga o bingo 
-
 [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Agora joga o bingo com os números 10 a 20]( http://www.abcya.com/number_bingo.htm)  
 Play 10-20 ![nobi4](/images/nobi4.PNG).  
+
+Se é difícil, natural quando estamos a aprender algo novo, é só voltar a ver os vídeos no princípio desta página outra vez e ouvir e repetir os nomes de cada número. Não tenhas pressa.  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
