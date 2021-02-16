@@ -1,19 +1,28 @@
-### Numbers 0 to 20  / Números de 0 a 20
+### Let's get to know the numbers 11 to 20...  / Vamos acrescentar os números de 11 a 20...
 
-[![numb](/images/numb.PNG)](https://www.youtube.com/watch?v=Exa-FZ1CksI)
+Se já consegues identificar os números 1 a 10 ao ouví-los fora de ordem, por exemplo [jogando o bingo com os números 1 a 10 sem dificuldade](http://www.abcya.com/number_bingo.htm), estás pronto para trabalhar os números 11 a 20. Começa por ver este vídeo simples que diz cada número de forma clara e lenta para ouvires e repetires...  
 
-   Desenha cada número no ar com o dedo enquanto contas.  
-   Draw the numbers in the air with your finger as you count.  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/0KBLgJ6UCJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+Já ouviste e repetiste várias vezes? Achas que te lembras dos nomes de alguns dos números entre 11 e 20? Então quando o número aparece neste vídeo, tenta dizer o nome do número antes do vídeo dizer o nome...  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/YxRnzGtfIi0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+Depois, pratica contar de 1 a 20. Tenta desenhar cada número no ar com o dedo enquanto contas...   
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/Exa-FZ1CksI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <!--[Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  [![bapo1](/images/bapo1.PNG)]( http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  
    Choose ‘Count to 20’ / Escolha ‘Count to 20’ (contar até 20) ![bapo2](/images/bapo2.PNG)  
    Count aloud from 1 to 20 – pop the balloon for each number after you have said the number and listen to check. / Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.-->
 
-[![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
-   Play 10-20 ![nobi4](/images/nobi4.PNG).  
+Agora joga o bingo 
+
+[![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Agora joga o bingo com os números 10 a 20]( http://www.abcya.com/number_bingo.htm)  
+Play 10-20 ![nobi4](/images/nobi4.PNG).  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 
