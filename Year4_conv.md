@@ -2,6 +2,8 @@
 
 <!--#### [Giving and following directions/Dar e seguir indicações](https://tangerina-pt.github.io/English/GFD_D)-->
 
+#### [Giving and following directions/Dar e seguir indicações](https://tangerina-pt.github.io/English/GFD_D)
+
 #### [Going to the Doctor/Ir ao Médico](https://tangerina-pt.github.io/English/GTDR_CD)
 
 #### [Going shopping for clothes/Ir às compras (roupa)](https://tangerina-pt.github.io/English/GSH_D)
