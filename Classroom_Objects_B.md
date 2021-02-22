@@ -1,36 +1,33 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+### Classroom Objects (Objectos da sala de aula) 
+<iframe width="220" height="124" src="https://www.youtube.com/embed/RmNCryV6G_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
-### Classroom Objects  
-[![clean](/images/clean.png)](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)") [Clean-up song](https://www.youtube.com/watch?v=RmNCryV6G_M "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)")
+***Vocabulário mínimo 1º ano:*** **glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)**  
+***Vocabulário extensão 1º ano:*** **pen (caneta); table (mesa); chair (cadeira); eraser (borracha); bag (saco)**  
 
 #### Video chants
-(1). [![pbbr](/images/pbbr.PNG){:height="60px"}](https://www.youtube.com/watch?v=MuoJnFq9JwE "pencil (lápis), book (livro), brush (pincel), ruler (régua)") (2). [![kbss](/images/kbss.PNG){:height="60px"}](https://www.youtube.com/watch?v=3Ita5SaY4_4 "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") (3). [![mlss](/images/mlss.PNG){:height="60px"}](https://www.youtube.com/watch?v=g7kK989HiRQ "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")
+<iframe width="220" height="124" src="https://www.youtube.com/embed/MuoJnFq9JwE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/3Ita5SaY4_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<!---(2). [![weco](/images/weco.PNG){:height="60px"}](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
+#### Listen and repeat (ouve e repete)
+<iframe width="220" height="124" src="https://www.youtube.com/embed/g7kK989HiRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<!---(2). [![weco](/images/weco.PNG)](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
+***Vocabulário adicional 2º ano:*** **chair (cadeira), table (mesa), pen (caneta), eraser/rubber (borracha), door (porta), bag (saco), board (quadro), scissors (tesoura), paper (papel), notebook (caderno)**  
+***Extensão opcional:*** **window (janela), desk (secretária), scissors (tesoura), sharpener (afiador), stapler (agrafador), calculator (máquina calculadora) teacher (professor/a), clock (relógio), brush (pincel), bookcase (estante), cupboard (armário)... etc.**  
+
+#### Song  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/TARreOtrWUg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+***Question:*** **'What's this?' (O que é isto?)**  
+***Answer:*** **'It's a ruler.' (É uma régua.)** 
 
 #### Games (Jogos)  
-[![ssme2](/images/ssme2.PNG){:height="60px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/) [![ssme2b](/images/ssme2b.PNG){:height="40px"}](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-easy/ "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
+[![mess2](https://1blockatatime.github.io/English/images2/mess2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/school%20items/index.html)  
+
+***Vocabulário do jogo:*** **pen (caneta), pencil (lápis), pencil box (caixa de lápis= expressão pouco habitual para estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)"**    
 
 [![find](/images/find.PNG){:height="60px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![findb](/images/findb.PNG){:height="43px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
-<!--Listen. Find the object before it appears in colour.-->  
 
-<!---* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/ "glue (cola), stapler (agrafador), tape (fita cola), school bag (mochila/saco de escola), crayon (lápis de cera), triangle (triângulo), protractor (), calculator (calculador), paper (folha de papel), scissors (tesoura), notebook (caderno)")  
-Play three or four times to use all the words.  
-Joga três ou quatro vezes para usar todas as palavras.-->
-
-#### Exercises (Exercícios)
+#### Exercícios opcionais - podes fazer login e fazer os exercícios no teu caderno digital
 [![colvwk1](/images/colvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz) [![colvwk1b](/images/colvwk1b.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)   
 <!---[Compreensão do oral/'Listening'](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_objects/Classroom_objects_(listen_and_join)_ku35271nz)-->  
 
@@ -58,14 +55,14 @@ Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/class
 * [Word search:](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/) [![cows](/images/cows.PNG)](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/)
 * [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)-->  
 
-***Vocab.:*** pen (caneta), pencil (lápis), pencil case (estojo), eraser (borracha), book (livro), table (mesa), chair (cadeira), scissors (tesoura), glue (cola), ruler (régua), crayon (lápis de cera), teacher (professor/a)  
 ***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
 ***p.ex.*** Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
 
 ***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
 
