@@ -1,17 +1,14 @@
 ### Classroom Objects (Objectos da sala de aula) 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/RmNCryV6G_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***Vocabulário mínimo 1º ano:*** **glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)**  
-***Vocabulário extensão 1º ano:*** **pen (caneta); table (mesa); chair (cadeira); eraser (borracha); bag (saco)**  
+***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
+***p.ex.*** Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
 
 #### Video chants
 <iframe width="220" height="124" src="https://www.youtube.com/embed/MuoJnFq9JwE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/3Ita5SaY4_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 #### Listen and repeat (ouve e repete)
 <iframe width="220" height="124" src="https://www.youtube.com/embed/g7kK989HiRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-***Vocabulário adicional 2º ano:*** **chair (cadeira), table (mesa), pen (caneta), eraser/rubber (borracha), door (porta), bag (saco), board (quadro), scissors (tesoura), paper (papel), notebook (caderno)**  
-***Extensão opcional:*** **window (janela), desk (secretária), scissors (tesoura), sharpener (afiador), stapler (agrafador), calculator (máquina calculadora) teacher (professor/a), clock (relógio), brush (pincel), bookcase (estante), cupboard (armário)... etc.**  
 
 #### Song  
 
@@ -23,7 +20,7 @@
 #### Games (Jogos)  
 [![mess2](https://1blockatatime.github.io/English/images2/mess2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/school%20items/index.html)  
 
-***Vocabulário do jogo:*** **pen (caneta), pencil (lápis), pencil box (caixa de lápis= expressão pouco habitual para estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)"**    
+***Vocabulário do jogo:*** **pen (caneta), pencil (lápis), pencil box (caixa de lápis), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)**    
 
 [![find](/images/find.PNG){:height="60px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![findb](/images/findb.PNG){:height="43px"}](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
 
@@ -55,8 +52,9 @@ Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/class
 * [Word search:](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/) [![cows](/images/cows.PNG)](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/)
 * [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)-->  
 
-***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
-***p.ex.*** Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
+***Vocab. mín. 1º ano:*** glue(cola), pencil(lápis), crayon(lápis de cera), pencil case(estojo), ruler(régua), book(livro)   
+***Vocabulário adicional 2º ano:*** chair(cadeira), table(mesa), pen(caneta), eraser/rubber(borracha), door(porta), bag(saco), board(quadro), scissors(tesoura), paper(papel), notebook(caderno)  
+***Extensão opcional:*** window(janela), desk(secretária), scissors(tesoura), sharpener(afiador), stapler(agrafador), calculator(máquina calculadora) teacher(professor/a), clock(relógio), brush(pincel), bookcase(estante), cupboard(armário)... etc.  
 
 ***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
 
