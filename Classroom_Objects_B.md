@@ -52,8 +52,8 @@ Joga os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/class
 * [Word search:](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/) [![cows](/images/cows.PNG)](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/)
 * [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)-->  
 
-***Vocab. mín. 1º ano:*** glue(cola), pencil(lápis), crayon(lápis de cera), pencil case(estojo), ruler(régua), book(livro)   
-***Vocabulário adicional 2º ano:*** chair(cadeira), table(mesa), pen(caneta), eraser/rubber(borracha), door(porta), bag(saco), board(quadro), scissors(tesoura), paper(papel), notebook(caderno)  
+***Vocab. mín. 1º ano:*** glue(cola), pencil(lápis), crayon(lápis de cera), pencil case(estojo), ruler(régua), eraser(borracha), book(livro), pen(caneta)   
+***Vocab. adicional trabalhado no 2º ano:*** chair(cadeira), table(mesa), board(quadro), door(porta), folder(pasta), rubber/eraser(borracha), coloured pencils(lápis de cor), bag(saco), scissors(tesoura), paper(papel), notebook(caderno), markers(marcadores)   
 ***Extensão opcional:*** window(janela), desk(secretária), scissors(tesoura), sharpener(afiador), stapler(agrafador), calculator(máquina calculadora) teacher(professor/a), clock(relógio), brush(pincel), bookcase(estante), cupboard(armário)... etc.  
 
 ***Significado de 'chant':*** repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música  
