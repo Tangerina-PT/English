@@ -52,24 +52,11 @@ Nota: neste último vídeo, a palavra para comboio no desenho da estação de co
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-_YoeEY8FPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Este é um pouco mais difícil, consegues seguir as indicações dados nos cenários no fim?  
 
-[![lvwkgd26](https://1blockatatime.github.io/English/images2/lvwkgd26.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Adults_pn1193245hs)   
-
-[![lvwkgd27](https://1blockatatime.github.io/English/images2/lvwkgd27.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Asking_and_giving_directions_ds1003311fp)    
-
-[![lvwkgd28](https://1blockatatime.github.io/English/images2/lvwkgd28.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Giving_Directions_by_Mariola_py594764aa)    
-
-
-
+[![lvwkgd26](https://1blockatatime.github.io/English/images2/lvwkgd26.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Adults_pn1193245hs) [![lvwkgd27](https://1blockatatime.github.io/English/images2/lvwkgd27.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Asking_and_giving_directions_ds1003311fp) [![lvwkgd28](https://1blockatatime.github.io/English/images2/lvwkgd28.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Giving_Directions_by_Mariola_py594764aa)    
 
 #### (F) Following directions in the street / Seguir indicações na rua
 
-[![lvwkgd25](https://1blockatatime.github.io/English/images2/lvwkgd25.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Directions_lm1343692uc)  
-
-[![lvwkgd29](https://1blockatatime.github.io/English/images2/lvwkgd29.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Giving_directions_(listening)_hb571vq)  
-
-[![lvwkgd30](https://1blockatatime.github.io/English/images2/lvwkgd30.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Giving_Directions_kt551ml)  
-
-[![lvwkgd31](https://1blockatatime.github.io/English/images2/lvwkgd31.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_Directions/Giving_Directions_il422200ls)  
+[![lvwkgd25](https://1blockatatime.github.io/English/images2/lvwkgd25.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Directions_lm1343692uc) [![lvwkgd29](https://1blockatatime.github.io/English/images2/lvwkgd29.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Giving_directions_(listening)_hb571vq) [![lvwkgd30](https://1blockatatime.github.io/English/images2/lvwkgd30.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Giving_Directions_kt551ml) [![lvwkgd31](https://1blockatatime.github.io/English/images2/lvwkgd31.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_Directions/Giving_Directions_il422200ls)  
 
 ##### (G) Vídeo exercícios: How do you get to the hospital?
 Vê os vídeos. Consegues seguir as indicações? 
