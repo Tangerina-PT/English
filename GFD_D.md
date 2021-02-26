@@ -41,21 +41,43 @@ Watch the videos to learn the prepositions of movement...
 
 #### Part II - How do you get to the bank? / Como é que se vai para o banco?
 
-TO BE CONTINUED... / A CONTINUAR...
+<!--TO BE CONTINUED... / A CONTINUAR...-->
 
-<!--##### (F) Directions in the street / Indicações na rua--> 
+##### (E) Giving directions in the street / Dar indicações na rua 
 
-<!--More advanced video:  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/OPL9LrqzA4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/NvMbJjpF-94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+Nota: neste último vídeo, a palavra para comboio no desenho da estação de comboio está mal escrito, deve de dizer 'TRAIN' (e não 'TREN') e 'through' (através) está mal escrito no segundo vídeo onde indica 'through the park' - através do park - falta o primeiro 'h'   
+
+<!--More advanced video:-->  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-_YoeEY8FPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Este é um pouco mais difícil, consegues seguir as indicações dados nos cenários no fim?-->  
+Este é um pouco mais difícil, consegues seguir as indicações dados nos cenários no fim?  
 
-<!-- <iframe width="220" height="124" src="https://www.youtube.com/embed/OPL9LrqzA4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/NvMbJjpF-94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-Nota: a palavra 'through' (através) está mal escrito no segundo vídeo - falta o primeiro 'h'   
-##### (G) Trabalho: How do you get to the hospital?
-Vê os vídeos. Consegues seguir as indicações? Desafio - faz o teu próprio vídeo. Podes usar uma fotografia ou desenho de uma cidade, um mapa desenhado ou criar uma mini-cidade. Pode ser simples com várias personagens a perguntar por exemplo 'Where is the pharmacy?' (Onde está a farmácia?) com respostas usando preposições, p.ex. 'The pharmacy is between the post office and the bank.' (A farmácia está entre os correios e o banco.) ou um vídeo dando indicações.     
+[![lvwkgd26](https://1blockatatime.github.io/English/images2/lvwkgd26.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Adults_pn1193245hs)   
+
+[![lvwkgd27](https://1blockatatime.github.io/English/images2/lvwkgd27.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Asking_and_giving_directions_ds1003311fp)    
+
+[![lvwkgd28](https://1blockatatime.github.io/English/images2/lvwkgd28.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Giving_Directions_by_Mariola_py594764aa)    
+
+
+
+
+#### (F) Following directions in the street / Seguir indicações na rua
+
+[![lvwkgd25](https://1blockatatime.github.io/English/images2/lvwkgd25.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Directions_lm1343692uc)  
+
+[![lvwkgd29](https://1blockatatime.github.io/English/images2/lvwkgd29.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Giving_directions_(listening)_hb571vq)  
+
+[![lvwkgd30](https://1blockatatime.github.io/English/images2/lvwkgd30.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_directions/Giving_Directions_kt551ml)  
+
+[![lvwkgd31](https://1blockatatime.github.io/English/images2/lvwkgd31.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Giving_Directions/Giving_Directions_il422200ls)  
+
+##### (G) Vídeo exercícios: How do you get to the hospital?
+Vê os vídeos. Consegues seguir as indicações? 
+
+<!--Desafio - se tiveres tempo e vontagefaz o teu próprio vídeo. Podes usar uma fotografia ou desenho de uma cidade, um mapa desenhado ou criar uma mini-cidade. Pode ser simples com várias personagens a perguntar por exemplo 'Where is the pharmacy?' (Onde está a farmácia?) com respostas usando preposições, p.ex. 'The pharmacy is between the post office and the bank.' (A farmácia está entre os correios e o banco.) ou um vídeo dando indicações.-->       
 <iframe width="220" height="124" src="https://www.youtube.com/embed/g7X-X1Sxb1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/0f9ewJ5MQ-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ns3X5TuyvhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/o-4FjPe0M8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/o-4FjPe0M8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***
 
