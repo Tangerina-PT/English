@@ -5,6 +5,7 @@
 (1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/NpIfvRw3zNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/z3kV1oEbZKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/w0nOifIWHqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+<!--
 #### Video-exercícios: tenta responder antes do vídeo dar a resposta...
 
 ![clocap](https://1blockatatime.github.io/English/images/clocap.png){:height="20px"} Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.
@@ -53,6 +54,7 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 * Desafio opcional para quem tiver tempo e vontade - Podes esconder alguns amigos teus lá em casa e fazer o teu próprio vídeo-exercício do jogo das escondidas para desafiar os amigos? Imagina que vais esconder o teu ursinho, por exemplo. Perguntas então : 'Where is the teddy bear?' e deixas algum tempo para nós vermos e pensarmos antes de nos dar a resposta.  
 
 ***  
+-->
 
 #### Objectivos ![target](https://1blockatatime.github.io/English/images/target.png){:height="20px"}
 
