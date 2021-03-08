@@ -21,7 +21,7 @@
 ***Question:*** **'Where is my teddy bear?' (Onde está o meu urso peluche?)**  
 ***Answer:*** **'It's on the bed.' (Está em cima da cama.)**  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YI6VAsGlk7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/YI6VAsGlk7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 #### Jogos -'Listening'/ Compreensão do Oral
 
