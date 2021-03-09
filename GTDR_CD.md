@@ -36,17 +36,16 @@ palavra 'INTERACTIVES'. Joga **'Match up'**, **'Find the match'** e **'Balloon p
 
 As instrucções estão no Teams no canal 'Inglês Conversação'...  
 
-### Pratica a leitura em inglês
-
+<!--### Pratica a leitura em inglês
 * Ouve e lê a história. A seguir desliga o som e tenta ler o livro sozinho.  
 [![atzedrj](https://1blockatatime.github.io/English/images/atzedrj.PNG){:height="75px"}](https://www.youtube.com/watch?v=MaDha3afoCU)  
-'let's take her to Dr. Jen' = 'vamos levá-la à Dra. Jen'; 'stiff knees' = 'joelhos rígidos'; 'she can't hear well' = 'ela não consegue ouvir bem'; 'she makes us feel better' = 'ela faz-nos sentir melhor'   
+'let's take her to Dr. Jen' = 'vamos levá-la à Dra. Jen'; 'stiff knees' = 'joelhos rígidos'; 'she can't hear well' = 'ela não consegue ouvir bem'; 'she makes us feel better' = 'ela faz-nos sentir melhor'-->   
 
 ### Vê os vídeo-histórias
 * O Gogo está doente.... e o Jay e a Sue também e vão ao médico...  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/GvJY0qHVKHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/848rfVdA9wQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-###  TPC - Trabalhos para casa opcionais - Fevereiro...  
+###  TPC - Trabalhos para casa opcionais  
 Lanço o repto! Cria um pequeno vídeo com um diálogo em inglês:   
 Usa a linguagem que estamos a aprender nesta unidade. Pode ser, por exemplo:  
 (i). muitos bonecos/peluches doentes numa sala de espera onde um(a) enfermeiro(a) pergunta a cada um ‘What’s the matter?’ (O que tu tens/tem?) ou ‘What’s wrong?’ (O que não está bem?) e cada um explica o seu problema OU  
