@@ -17,6 +17,8 @@ Topic 14 - Language for playing games...
 Animais - have you got?
 -->
 
+### [Topic 14 - Animals](https://tangerina-pt.github.io/English/Animals_B)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_B)
+
 #### [Topic 13 - Toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)  
 
 #### [Topic 12 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](/images/prep.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)
