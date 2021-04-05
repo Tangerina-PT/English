@@ -1,39 +1,23 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Aprende os nomes dos animais em inglês   
 
-***Question:*** **'What do you see?/What can you see?'**  
-**('O que é que vês?/O que é que consegues ver?')**  
-***Answer:*** **'I see a/an ... . ' ('Eu vejo um(a) .. .')**
+***Question:*** **'What do you see?/What can you see?' ('O que é que vês/consegues ver?')**  
+***Answer:*** **'I see a ... . ' ('Eu vejo um(a) .. .')**
 
-1. [![dews1](/images/dews1.png){:height="60px"}](https://www.youtube.com/watch?v=MCjhynvMunE)
-2. [![dews2](/images/dews2.png){:height="60px"}](https://www.youtube.com/watch?v=p5qwOxlvyhk)
-3. [![dews3](/images/dews3.png){:height="60px"}](https://www.youtube.com/watch?v=xQTlPD4ey-4)
-4. [![bbbm](/images/bbbm.PNG){:height="60px"}](https://www.youtube.com/watch?v=pdHCYgO9zh8) [Brown Bear, Brown Bear, What do you see?](https://www.youtube.com/watch?v=pdHCYgO9zh8)
+<iframe width="198" height="112" src="https://www.youtube.com/embed/MCjhynvMunE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/p5qwOxlvyhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/xQTlPD4ey-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+Videos by Dream English: [Animals](https://www.youtube.com/embed/MCjhynvMunE); [Wild Animals 1](https://www.youtube.com/embed/p5qwOxlvyhk); [Wild Animals 2](https://www.youtube.com/embed/xQTlPD4ey-4)  
 
 ***
 
 ***Question:*** **'What is it?' (O que é?) / Is it a ... ? (É um/uma ... ?)**  
 ***Answer:*** **'It's a...' (É um/uma...) / Yes.No. (Sim.Não)**
 
-[![fkea](/images/fkea.png){:height="60px"}](https://www.youtube.com/watch?v=D_sdGxUxz_4)
-
+<iframe width="220" height="124" src="https://www.youtube.com/embed/D_sdGxUxz_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ***
 
 ***Question:*** **'What's this?' (O que é isto?)**  
 ***Answer:*** **'It's a...' (É um/uma...)**
 
-[![anqu1](/images/anqu1.png){:height="60px"}](https://www.youtube.com/watch?v=hJ1boWM7aZM&list=PLnClziLyHE38HkHQl64uvJMc7PZ2Cmr_w&index=12)
+<iframe width="220" height="124" src="https://www.youtube.com/embed/hJ1boWM7aZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
@@ -43,9 +27,9 @@
 
 ***
 
-<!--*** Desafio 
-[![anme](/images/anme.PNG){:height="60px"}](https://www.eslgamesplus.com/farm-domestic-animals-vocabulary-esl-memory-game/) Farm animals / Animais da quinta-->
-
+***Question:*** **'Have you got a pet?' (Tens/tem um animal doméstico?)**  
+***Answer:*** **'Yes, I have.' (Sim, tenho.); 'No, I haven't.' (Não, não tenho.)**  
+***Answer:*** **'I've got a ...' (Tenho um/uma ...)**  
 
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
