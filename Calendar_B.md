@@ -25,11 +25,12 @@ Escuta a pronúncia Británica dos dias da semana, em especial a proníuncia dif
 
 #### Months of the year
 
-***Question:*** **'When is your birthday?' (Quando é que faz/fazes anos?)**  
-***Answer:*** **'It's in May.' (É em Maio.)**  
+***Question:*** **'When is your birthday?' (Quando é que faz/fazes anos? Quando são os teus anos?)**  
+***Answer:*** **'In May.'/'It's in May.' (Em Maio.'/'É em Maio.')**  
+
+Canta a canção dos meses do ano de Boney M.  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/pm2F7MRpT_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-Canta a canção dos meses do ano de Boney M.  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
