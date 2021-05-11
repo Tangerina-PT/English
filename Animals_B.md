@@ -1,14 +1,3 @@
-
-### Have you got a pet?
-
-***Question:*** **'Have you got a pet?' ('Tens um animal doméstico?')**  
-***Answer:*** **'Yes, I have.' ('Sim, tenho.'); 'I've got a cat.' ('Tenho um gato'); 'No, I haven't.' ('Não, não tenho.')**
-
-Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->  
-
-<iframe width="220" height="124" src="https://www.youtube.com/embed/6qh_qTOgkhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-(Nota: a imagem para 'parrot' está errada - deve ser um papagaio.)  
-
 ### Aprende os nomes dos animais em inglês   
 
 ***Question:*** **'What do you see?/What can you see?' ('O que é que vês/consegues ver?')**  
