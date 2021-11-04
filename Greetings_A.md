@@ -12,12 +12,7 @@
 ***Question:*** **'How are you?'(Como está/estás?)**  
 ***Answer:*** **'I'm fine, thank you.' (Estou bem, obrigada.)**  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/LxhOv3KnfA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/-1LCP13YUu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-
-***Question:*** **'How are you?'(Como está/estás?)**  
-***Answer:*** **'I'm happy.' (Estou contente.)**  
-
-<iframe width="220" height="124" src="https://www.youtube.com/embed/fMR8Hr9Xby4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/LxhOv3KnfA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***Question:*** **'How old are you?'('Quão velho és tu?' -> Quantos anos tens/tem?)**  
 ***Answer:*** **'I'm 5.' ('Sou 5.' -> Tenho 5.)**  
