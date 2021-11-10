@@ -19,18 +19,20 @@ Escuta a pronúncia Británica dos dias da semana, em especial a proníuncia dif
 ***Question:*** **'What day is it today?' (Que dia é hoje?)**  
 ***Answer:*** **'It's Monday.' (É segunda-feira.)**  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/O34cev-itDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/CA6NhwqWxlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***  
 
 #### Months of the year
 
-***Question:*** **'When is your birthday?' (Quando é que faz/fazes anos? Quando são os teus anos?)**  
-***Answer:*** **'In May.'/'It's in May.' (Em Maio.'/'É em Maio.')**  
-
 Canta a canção dos meses do ano de Boney M.  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/pm2F7MRpT_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+***Question:*** **'When's your birthday?/When is your birthday?' (Quando é que faz/fazes anos? Quando são os teus anos?)**  
+***Answer:*** **'May'; 'In May.'; 'It's in May.' ('Maio'; 'Em Maio.';'É em Maio.')**  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/85TwuU4avGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
