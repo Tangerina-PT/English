@@ -13,10 +13,9 @@
   Conta em voz alta em inglês. Clica no balão certo depois de dizer cada número para verificar.  
     Agora consegues contar para baixo? ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG){:height="75px"} NB: Usa Adobe Flash-só até 12/2020-->  
 
-* [![nobi1](https://1blockatatime.github.io/English/images/nobi1.PNG){:height="75px"}](https://www.abcya.com/games/number-bingo) [Joga number bingo/bingo com os números](https://www.abcya.com/games/number-bingo)
-   Play 0-10  ![nobi3](https://1blockatatime.github.io/English/images/nobi3.PNG){:height="75px"}.
+* [![nobi1](https://1blockatatime.github.io/English/images/nobi1.PNG){:height="75px"}](https://www.abcya.com/games/number-bingo) [Joga number bingo/bingo-números](https://www.abcya.com/games/number-bingo)![nobi3](https://1blockatatime.github.io/English/images/nobi3.PNG){:height="75px"}. (Game by ABCYA)  
 
-* [![nocc1](https://1blockatatime.github.io/English/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm) [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm) [![nocc2](https://1blockatatime.github.io/English/images/nocc2.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm)    
+* [![nocc1](https://1blockatatime.github.io/English/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm) [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm) [![nocc2](https://1blockatatime.github.io/English/images/nocc2.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm) (Game by ABCYA)      
 
    Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparecem vários números. Escolha o número certo.  
 
