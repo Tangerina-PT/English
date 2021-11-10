@@ -9,14 +9,16 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Uv1JkBL5728" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-***
-
 [Song by Maple Leaf Learning](https://www.youtube.com/embed/Uv1JkBL5728); [Gogo’s Adventures with English 1](https://www.youtube.com/embed/9R5-W3bMX4E)    
+
+***
 
 ***Question:*** **'How are you?'(Como está/estás?)**  
 ***Answer:*** **'I'm fine, thank you.' (Estou bem, obrigada.)**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/LxhOv3KnfA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[Song by Cambridge University Press](https://www.youtube.com/embed/LxhOv3KnfA8)  
 
 ***
 
@@ -24,6 +26,8 @@
 ***Answer:*** **'I'm 5.' ('Sou 5.' -> Tenho 5.)**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/--O_H6PU0ZA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[Song by Cambridge University Press](https://www.youtube.com/embed/LxhOv3KnfA8)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
