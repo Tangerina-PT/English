@@ -11,6 +11,11 @@
 
 [Song by Maple Leaf Learning](https://www.youtube.com/embed/Uv1JkBL5728); [Gogo’s Adventures (1) by Ken Methold et al (ed. Pearson)](https://www.youtube.com/embed/9R5-W3bMX4E)   
 
+<iframe width="220" height="124" src="https://www.youtube.com/embed/Z2ePENbnwus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Amateur home video by ST]  
+
+Jogaste o nosso jogo de sala de aula (onde assumimos diferentes personagens) em casa?  
+
 ***
 
 ***Question:*** **'How are you?'(Como está/estás?)**  
