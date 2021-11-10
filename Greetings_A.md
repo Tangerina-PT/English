@@ -9,7 +9,7 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Uv1JkBL5728" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-[Song by Maple Leaf Learning](https://www.youtube.com/embed/Uv1JkBL5728); [Gogo’s Adventures with English 1](https://www.youtube.com/embed/9R5-W3bMX4E)    
+[Song by Maple Leaf Learning](https://www.youtube.com/embed/Uv1JkBL5728); [Gogo’s Adventures (1) by Ken Methold et al (ed. Pearson)](https://www.youtube.com/embed/9R5-W3bMX4E)   
 
 ***
 
