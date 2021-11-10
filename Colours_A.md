@@ -15,7 +15,9 @@ Consegues cantar ao apontar para as cores quando estão fora de ordem?
 
 ### Song 2: What colour is it? (De que cor é?)
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/53e-BFXy_do?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/53e-BFXy_do?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+['What colour is it? Song by Dream English Kids](https://www.youtube.com/embed/YyFLBTTAbSE); [Amateur home video by ST]  
 
 ***Question:*** **'What colour is it?' (De que cor é?)**  
 ***Answer:*** **'It's red.' (É vermelho.)**   
@@ -24,10 +26,10 @@ Ensina todos lá em casa como jogar o nosso jogo de sala de aula.
 
 ### Colour games (Jogos para aprender as cores)
 
-(1). Joga [![cobi](https://1blockatatime.github.io/English/images/cobi.PNG)](https://www.abcya.com/games/shapes-colors-bingo) [colour bingo](https://www.abcya.com/games/shapes-colors-bingo) / [bingo das cores](https://www.abcya.com/games/shapes-colors-bingo)  
+(1). Joga [![cobi](https://1blockatatime.github.io/English/images/cobi.PNG)](https://www.abcya.com/games/shapes-colors-bingo) [colour bingo](https://www.abcya.com/games/shapes-colors-bingo) / [bingo das cores](https://www.abcya.com/games/shapes-colors-bingo) (Game by ABCYA)  
 Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/images2/cobi2.jpg)
 
-(2). Joga [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html)  
+(2). Joga [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) (Game by ESLgamesworld)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
