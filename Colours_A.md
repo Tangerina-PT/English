@@ -25,7 +25,7 @@ Ensina todos lá em casa como jogar o nosso jogo de sala de aula.
 
 ### Colour games (Jogos para aprender as cores)
 
-(1). Joga [![cobi](https://1blockatatime.github.io/English/images/cobi.PNG)](https://www.abcya.com/games/shapes-colors-bingo) [colour bingo](https://www.abcya.com/games/shapes-colors-bingo) / [bingo das cores](https://www.abcya.com/games/shapes-colors-bingo) (Game by ABCYA)  
+(1). Joga [![cobi](https://1blockatatime.github.io/English/images/cobi1.JPG)](https://www.abcya.com/games/shapes-colors-bingo) [colour bingo](https://www.abcya.com/games/shapes-colors-bingo) / [bingo das cores](https://www.abcya.com/games/shapes-colors-bingo) (Game by ABCYA)  
 Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/images2/cobi2.JPG){:height="60px"}  
 
 (2). Joga [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) (Game by ESLgamesworld)  
