@@ -28,7 +28,7 @@ Jogaste o nosso jogo de sala de aula (onde assumimos diferentes personagens) em 
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/LxhOv3KnfA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[Song by Cambridge University Press](https://www.youtube.com/embed/LxhOv3KnfA8)  
+Song by Cambridge University Press  
 
 ***
 
