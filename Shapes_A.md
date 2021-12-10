@@ -19,7 +19,7 @@
 * [![shmon](/images/shmon.PNG)](https://www.topmarks.co.uk/early-years/shape-monsters) ![shmon2](/images/shmon2.PNG)  
 Ao clicar no monstro correcto, exprime o seu contentamento dizendo o nome da forma em inglês, p.ex.: 'Yummy, a circle.'/ Delicioso (informal), um círculo.; 'Tasty, a triangle.'/ Gostoso, um triângulo.; 'Delicious, a square.'/ Delicioso, um quadrado.  
 
-* [![shme](/images2/shme.PNG)](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/shapes%20and%20colours/index.html)  
+* [![shme](/images2/shme.jpg){:height="75px"}](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/shapes%20and%20colours/index.html)  
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares.  
 
