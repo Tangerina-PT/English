@@ -19,10 +19,16 @@ Year 1 English
 ### [Topic 6 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)  
 ### [Topic 5 - Family](https://tangerina-pt.github.io/English/Family_A) [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_A)
 ### [Topic 5 - Feelings](https://tangerina-pt.github.io/English/Feelings_A) [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_A)-->
-### [Topic 4 - Weather](https://tangerina-pt.github.io/English/Weather_A) [![wsym](https://1blockatatime.github.io/English/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_A)
-### [Topic 3 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A) [![pmno](https://1blockatatime.github.io/English/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_A)
-### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A) [![colmix](https://1blockatatime.github.io/English/images/colmix.png){:height="30px" width="30px"}](https://tangerina-pt.github.io/English/Colours_A)
+
 ### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A) [![colmix](https://1blockatatime.github.io/English/images/wyn1.png){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_A)
+### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A) [![colmix](https://1blockatatime.github.io/English/images/colmix.png){:height="30px" width="30px"}](https://tangerina-pt.github.io/English/Colours_A)
+### [Topic 3 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A) [![pmno](https://1blockatatime.github.io/English/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_A)
+### [Topic 4 - Weather](https://tangerina-pt.github.io/English/Weather_A) [![wsym](https://1blockatatime.github.io/English/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_A)
+### [Topic 5 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)  
+### [Topic 6 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_A)
+### [Topic 7 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A) [![body](https://1blockatatime.github.io/English/images/body.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_A)
+### [Topic 8 - Shapes](https://tangerina-pt.github.io/English/Shapes_A) [![shape](https://1blockatatime.github.io/English/images/shape.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Shapes_A)
+### [Topic 9 - Animals](https://tangerina-pt.github.io/English/Animals_A)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_A)
 
 
 ***
