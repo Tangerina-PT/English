@@ -1,6 +1,6 @@
 ### Actions
 
-Já começamos a aprender muitas acções a cantar. Canta e faz as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
+Já começamos a aprender algumas acções a cantar. Canta e faz as acções para te lembrares. A seguir, consegues apontar para cada imagem dizendo a acção em inglês?  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Vê o vídeo, canta e faz as acções.  
@@ -11,11 +11,11 @@ Vê o vídeo, canta e faz as acções.
 <iframe width="220" height="124" src="https://www.youtube.com/embed/GoSq-yZcJ-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](https://tangerina-pt.github.io/English/witj)   
 
-![walk](https://1blockatatime.github.io/English/images2/walk.png){:height="80px" width="80px"} ***Walk***/ ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop*** / ![list](https://1blockatatime.github.io/English/images2/list.png){:height="80px" width="80px"} ***listen***/ ![stomp](https://1blockatatime.github.io/English/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![jump](https://1blockatatime.github.io/English/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![skip](https://1blockatatime.github.io/English/images2/skip.png){:height="80px" width="80px"} ***skip***  / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run***   
+<!--![walk](https://1blockatatime.github.io/English/images2/walk.png){:height="80px" width="80px"} ***Walk***/ ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop*** / ![list](https://1blockatatime.github.io/English/images2/list.png){:height="80px" width="80px"} ***listen***/ ![stomp](https://1blockatatime.github.io/English/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![jump](https://1blockatatime.github.io/English/images/jump.gif){:height="80px" width="80px"} ***jump*** / ![skip](https://1blockatatime.github.io/English/images2/skip.png){:height="80px" width="80px"} ***skip***  / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run***   
 
 ***Nota:*** 'SKIP' em inglês pode ser duas acções diferentes: (1). saltar a corda (também referido como 'JUMP ROPE') e (2). o sentido usado nas nossas cançóes e jogos nas aulas que como não há tradução directa é demonstrado nos seguintes vídeos:  
 
-<iframe width="198" height="112" src="https://www.youtube.com/embed/QeZRaQXJiW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/_tzIdoCLvH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/m9MccH7mWO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="198" height="112" src="https://www.youtube.com/embed/QeZRaQXJiW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/_tzIdoCLvH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/m9MccH7mWO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 
 <!--* [![ican](/images/ican.png){:height="60px"}](https://www.youtube.com/watch?v=_Ir0Mc6Qilo) [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)  
