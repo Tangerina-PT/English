@@ -37,7 +37,7 @@ Song by Cambridge University Press
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/--O_H6PU0ZA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[Song by Cambridge University Press](https://www.youtube.com/embed/LxhOv3KnfA8)  
+Song by Cambridge University Press  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
