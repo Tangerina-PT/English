@@ -1,15 +1,13 @@
 ### Shapes
 
 #### Learn the words  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/6T6tnpxxEWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/6T6tnpxxEWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/9GFEjNL0XXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/TJhfl5vdxp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![cc_wds3](/images/cc_wds3.PNG)  
- 
 ***Language:*** **'Can you make a circle?' (Consegues fazer um círculo?); Can you find a circle? (Consegues encontrar um círculo?)**   
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/03pyY9C2Pm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![cc_wds3](/images/cc_wds3.PNG)  
-
-<iframe width="220" height="124" src="https://www.youtube.com/embed/9GFEjNL0XXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/TJhfl5vdxp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/03pyY9C2Pm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+![cc_wds3](/images/cc_wds3.PNG)  
   
 <!--* [![shso1](/images/shso1.PNG)](https://www.youtube.com/watch?v=6T6tnpxxEWg)
 * [![shso2](/images/shso2.PNG)](https://www.youtube.com/watch?v=TJhfl5vdxp4) ![cc_wds3](/images/cc_wds3.PNG)
