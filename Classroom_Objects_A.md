@@ -15,7 +15,7 @@ Videos by Alist English Learning, Cambridge University Press and Maple Leaf Lear
 
 <!---(2). [![weco](/images/weco.PNG){:height="60px"}](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
-#### Games/Exercises (Jogos/Exercícios)  
+#### Games/Exercises - Extension (Jogos/Exercícios - Extensão)  
 
 [![ssme](https://1blockatatime.github.io/English/images2/ssme.PNG){:height="60px"}](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/school%20items/index.html) [Jogo de memória por ESL Games World](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/school%20items/index.html "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
 
