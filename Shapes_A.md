@@ -4,7 +4,8 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/6T6tnpxxEWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/9GFEjNL0XXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
 
-***Language:*** **'Can you make a circle?' (Consegues fazer um círculo?); Can you find a circle? (Consegues encontrar um círculo?)**   
+***Language:*** **'Can you make a circle?' (Consegues fazer um círculo?);**  
+**Can you find a circle? (Consegues encontrar um círculo?)**   
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/TJhfl5vdxp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/03pyY9C2Pm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 ![cc_wds3](/images/cc_wds3.PNG)  
@@ -26,7 +27,8 @@ Ao clicar no monstro correcto, exprime o seu contentamento dizendo o nome da for
 
 ***
 
-Vocabulário: star, circle, square, triangle, rectangle, heart, diamond, oval, line  
+***Vocabulário essencial:*** **star (estrela), circle (círculo), heart (coração), line (linha)**  
+***Extensão:*** **square (quadrado), triangle (triângulo), rectangle (rectângulo), diamond (diamante) , oval (ovale)**
 
 ***
 
