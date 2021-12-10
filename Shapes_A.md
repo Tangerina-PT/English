@@ -27,7 +27,7 @@ Ao clicar no monstro correcto, exprime o seu contentamento dizendo o nome da for
 
 ***
 
-***Vocabulário essencial:*** **star (estrela), circle (círculo), heart (coração), line (linha)**  
+***Vocabulário base:*** **star (estrela), circle (círculo), heart (coração), line (linha)**  
 ***Extensão:*** **square (quadrado), triangle (triângulo), rectangle (rectângulo), diamond (diamante) , oval (ovale)**
 
 ***
