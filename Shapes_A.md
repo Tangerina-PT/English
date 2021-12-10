@@ -1,28 +1,26 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Shapes
 
 #### Learn the words  
-* [![shso1](/images/shso1.PNG)](https://www.youtube.com/watch?v=6T6tnpxxEWg)
+<iframe width="220" height="124" src="https://www.youtube.com/embed/6T6tnpxxEWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/TJhfl5vdxp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![cc_wds3](/images/cc_wds3.PNG)  
+ 
+***Language:*** **'Can you make a circle?' (Consegues fazer um círculo?); Can you find a circle? (Consegues encontrar um círculo?)**   
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/03pyY9C2Pm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![cc_wds3](/images/cc_wds3.PNG)  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/9GFEjNL0XXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  
+<!--* [![shso1](/images/shso1.PNG)](https://www.youtube.com/watch?v=6T6tnpxxEWg)
 * [![shso2](/images/shso2.PNG)](https://www.youtube.com/watch?v=TJhfl5vdxp4) ![cc_wds3](/images/cc_wds3.PNG)
 * [![shso4](/images/shso4.PNG)](https://www.youtube.com/watch?v=03pyY9C2Pm8) ![cc_wds3](/images/cc_wds3.PNG)  
-* [![shso3](/images/shso3.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)  
+* [![shso3](/images/shso3.PNG)](https://www.youtube.com/watch?v=9GFEjNL0XXw)-->  
 
 #### Play the games  
 * [![shmon](/images/shmon.PNG)](https://www.topmarks.co.uk/early-years/shape-monsters) ![shmon2](/images/shmon2.PNG)  
 Ao clicar no monstro correcto, exprime o seu contentamento dizendo o nome da forma em inglês, p.ex.: 'Yummy, a circle.'/ Delicioso (informal), um círculo.; 'Tasty, a triangle.'/ Gostoso, um triângulo.; 'Delicious, a square.'/ Delicioso, um quadrado.  
 
-* [![shme](/images/shme.PNG)](https://www.eslgamesplus.com/shapes-vocabulary-esl-memory-game-easy/)  
+* [![shme](/images/shme.PNG)](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/shapes%20and%20colours/index.html)  
 *REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
 *LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares.  
 
