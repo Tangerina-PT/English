@@ -11,7 +11,7 @@ Consegues cantar e guardar os teus materiais ao mesmo tempo?
 Aprende os nomes de mais alguns objectos na sala de aula...
 <iframe width="198" height="112" src="https://www.youtube.com/embed/MuoJnFq9JwE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/1zJpDVJY6ZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/g7kK989HiRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
 [Aprender vocabulário - vídeo 1; ](a "pencil (lápis), book (livro), brush (pincel), ruler (régua)") [Aprender vocabulário - vídeo 2; ](b "pencil (lápis), book (livro), eraser (borracha), pen (caneta), table (mesa), chair (cadeira)") [Aprender vocabulário - vídeo 3; ](c "book (livro), chair (cadeira), desk (secretária), pencil case (estojo), pen (caneta), ruler (régua), pencil (lápis), eraser (borracha), clock (relógio), crayon (lápis de cera), scissors (tesoura), sharpener (afiador), stapler (agrafador), teacher (professor/a)")  
-Video by Alist English Learning; Video by Cambridge University Press; Video by Maple Leaf Learning   
+Videos by Alist English Learning, Cambridge University Press and Maple Leaf Learning   
 
 <!---(2). [![weco](/images/weco.PNG){:height="60px"}](https://www.youtube.com/watch?v=fi0Qe-OLUCM) [Watch the video story.](https://www.youtube.com/watch?v=fi0Qe-OLUCM)-->
 
@@ -19,7 +19,7 @@ Video by Alist English Learning; Video by Cambridge University Press; Video by M
 
 [![ssme](https://1blockatatime.github.io/English/images2/ssme.PNG){:height="60px"}](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/school%20items/index.html) [Jogo de memória por ESL Games World](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/school%20items/index.html "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/4XvIMPpqPKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![findb](https://1blockatatime.github.io/English/images/findb.PNG){:height="40px"}
+<iframe width="198" height="112" src="https://www.youtube.com/embed/4XvIMPpqPKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![findb](https://1blockatatime.github.io/English/images/findb.PNG){:height="40px"}
 <!--Listen. Find the object before it appears in colour.-->
   
 <!---* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/ "glue (cola), stapler (agrafador), tape (fita cola), school bag (mochila/saco de escola), crayon (lápis de cera), triangle (triângulo), protractor (), calculator (calculador), paper (folha de papel), scissors (tesoura), notebook (caderno)")
