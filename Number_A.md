@@ -13,7 +13,7 @@
   Conta em voz alta em inglês. Clica no balão certo depois de dizer cada número para verificar.  
     Agora consegues contar para baixo? ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG){:height="75px"}  
 
-* [![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo) [Joga number bingo/bingo-números](https://www.abcya.com/games/number-bingo)![nobi3](https://1blockatatime.github.io/English/images2/nobi3.JPG){:height="75px"}. (Game by ABCYA)  
+* [![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo) [Joga number bingo/bingo-números](https://www.abcya.com/games/number-bingo)![nobi3](https://1blockatatime.github.io/English/images2/nobi3.JPG){:height="75px"} (Game by ABCYA)  
 
 * [![nocc1](https://1blockatatime.github.io/English/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm) [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm) [![nocc2](https://1blockatatime.github.io/English/images/nocc2.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm) (Game by ABCYA)      
 
