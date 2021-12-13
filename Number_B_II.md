@@ -17,7 +17,7 @@ Depois, pratica contar de 1 a 20. Tenta desenhar cada número no ar com o dedo e
    Choose ‘Count to 20’ / Escolha ‘Count to 20’ (contar até 20) ![bapo2](/images/bapo2.PNG)  
    Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.   
 
-[![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo) [Agora joga o bingo com os números 10 a 20](https://www.abcya.com/games/number-bingo)![nobi4](https://1blockatatime.github.io/English/images2/nobi4.JPG){:height="75px"}. (Game by ABCYA)  
+[![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo) [Agora joga o bingo com os números 10 a 20](https://www.abcya.com/games/number-bingo)![nobi4](https://1blockatatime.github.io/English/images2/nobi4.JPG){:height="75px"} (Game by ABCYA)  
 
 Se é difícil, natural quando estamos a aprender algo novo, é só voltar a ver os vídeos no princípio desta página outra vez e ouvir e repetir os nomes de cada número. Não tenhas pressa.  
 
