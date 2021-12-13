@@ -9,9 +9,9 @@
    
 #### Play games
 
-<!--* [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG){:height="75px"}  
+* [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG){:height="75px"}](https://www.sheppardsoftware.com/math/early-math/count-to-10/) [Balloon pop](https://www.sheppardsoftware.com/math/early-math/count-to-10/) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG){:height="75px"}  
   Conta em voz alta em inglês. Clica no balão certo depois de dizer cada número para verificar.  
-    Agora consegues contar para baixo? ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG){:height="75px"} NB: Usa Adobe Flash-só até 12/2020-->  
+    Agora consegues contar para baixo? ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG){:height="75px"}  
 
 * [![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo) [Joga number bingo/bingo-números](https://www.abcya.com/games/number-bingo)![nobi3](https://1blockatatime.github.io/English/images2/nobi3.JPG){:height="75px"}. (Game by ABCYA)  
 
