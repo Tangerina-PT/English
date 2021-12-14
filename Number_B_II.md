@@ -13,8 +13,8 @@ Depois, pratica contar de 1 a 20. Tenta desenhar cada número no ar com o dedo e
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Exa-FZ1CksI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[Balloon pop](https://www.sheppardsoftware.com/math/early-math/count-to-20/)  [![bapo1](/images/bapo1.PNG)](https://www.sheppardsoftware.com/math/early-math/count-to-20/)  
-   Choose ‘Count to 20’ / Escolha ‘Count to 20’ (contar até 20) ![bapo2](/images/bapo2.PNG)  
+[![bapo1](/images/bapo1.PNG)](https://www.sheppardsoftware.com/math/early-math/count-to-20/)[Balloon pop](https://www.sheppardsoftware.com/math/early-math/count-to-20/)    
+   ![bapo2](/images/bapo2.PNG) Choose ‘Count to 20’ / Escolha ‘Count to 20’ (contar até 20)   
    Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar. (Game by Sheppard Software)   
 
 [![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo) [Agora joga o bingo com os números 10 a 20](https://www.abcya.com/games/number-bingo)![nobi4](https://1blockatatime.github.io/English/images2/nobi4.JPG){:height="50px"} (Game by ABCYA)  
