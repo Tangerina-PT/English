@@ -1,6 +1,6 @@
 ### Colours - Games
 
-- [![cobi](https://1blockatatime.github.io/English/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [Colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) (Escolha/select ‘Colors’ ![cobi2](/images/cobi2.PNG))
+- [![cobi](https://1blockatatime.github.io/English/images2/cobi1.JPG){:height="120px"}](https://www.abcya.com/games/shapes-colors-bingo) [colour bingo](https://www.abcya.com/games/shapes-colors-bingo) (Escolha ![cobi2](https://1blockatatime.github.io/English/images2/cobi2.JPG){:height="60px"})  
 
 ![readtxt](https://1blockatatime.github.io/English/images/readtxt.png)![read](/images/read.jpg)
 
