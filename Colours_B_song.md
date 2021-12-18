@@ -1,6 +1,6 @@
 ### Colours - Song - *I can sing a rainbow*
 
-(1). Listen to ![listen](https://1blockatatime.github.io/English/images/listen.png) the song, sing ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="50px"} and point ![point](https://1blockatatime.github.io/English/images2/point.png){:height="50px"}.  
+(1). Listen to ![listen](https://1blockatatime.github.io/English/images/listen.png) the song, sing ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="50px"} and point ![point](https://1blockatatime.github.io/English/images2/point.jpg){:height="50px"}.  
 <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video>  
 
 Ouve, canta e aponta.(Video by AprenderYdivertirse)     
