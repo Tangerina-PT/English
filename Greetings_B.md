@@ -4,7 +4,7 @@
 
 ![grtxt](https://1blockatatime.github.io/English/images2/grtxt2.JPG){:height="120px"}  
 
-![grsng](https://1blockatatime.github.io/English/images2/grt_sng_dr.JPG){:height="180px"}   
+![grsng](https://1blockatatime.github.io/English/images2/grt_sng_dr.JPG){:height="150px"}   
 
 ***Question:*** **'What's your name?'('O que é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
