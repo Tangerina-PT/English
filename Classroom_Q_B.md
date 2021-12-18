@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Classroom Questions  
 
 ***
@@ -30,7 +18,7 @@
 
 ![howsay](/images/how_say.PNG) <audio src="audio/how_do_you_say.mp3" controls preload></audio>
 
-#### Can you repeat that, please? (Podes repetir, por favor?)
+<!--#### Can you repeat that, please? (Podes repetir, por favor?)
 
 ![repeat](/images/repeat.PNG) <audio src="audio/can_you_repeat_that_please.mp3" controls preload></audio>
 
@@ -60,8 +48,7 @@
 
 #### I need to leave early today. (Hoje tenho de ir embora mais cedo.) 
 
-<audio src="audio/i_need_to_leave.mp3" controls preload></audio>
-
+<audio src="audio/i_need_to_leave.mp3" controls preload></audio>-->  
 
 ***
 [![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
