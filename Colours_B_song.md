@@ -1,23 +1,24 @@
 ### Colours - Song - *I can sing a rainbow*
 
-(1). Listen to ![listen](/images/listen.png) the song. Sing and point. / Canta e aponta.  
-<audio src="audio/V1s2.m4a" controls preload></audio>  
+(1). Listen to ![listen](https://1blockatatime.github.io/English/images/listen.png) the song. Sing ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="50px"} and point ![point](https://1blockatatime.github.io/English/images2/point.png){:height="50px"}. / Ouve, canta e aponta.  
+<video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video> (Video by AprenderYdivertirse)    
 
 Red and yellow and pink and green, orange and purple and blue.  
-![colballtr](/images/colballtr.png)  
+![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="50px"}  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
-(2). Canta o segundo verso e aponta às cores. / Sing our second verse and point to the colours.  
+(2). Canta o segundo verso e aponta às cores. / Sing the second verse and point to the colours.  
 <audio src="audio/y2_v2.mp3" controls preload></audio>  
 
 Gold and silver and brown and beige, black and white and grey.  
-![colbbbc2](/images/colbbbc2.png)  
+![colbbbc2](https://1blockatatime.github.io/English/images/colbbbc2.png){:height="50px"}
 I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 (3). Desafio - canta e aponta agora!  
-![colmix2](/images/colmix2.png)
+<audio src="audio/y2_v2.mp3" controls preload></audio><audio src="audio/V1s2.m4a" controls preload></audio> 
+![colmix2](https://1blockatatime.github.io/English/images/colmix2.png)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B) [Return to Year 2 - Colours](https://tangerina-pt.github.io/English/Colours_B)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
