@@ -7,14 +7,15 @@
 
 (Song by Maple Leaf Learning)  
 
-***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (É um prazer conhecer-te./Igualmente.)**  
+***Answer:*** **'Nice to meet you.'('É um prazer conhecer-te.')**  
+**'Nice to meet you too.' ('É um prazer conhecer-te também.' -> Igualmente.)**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/rSwypHirUkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 (Video by Freddiesville Videos)  
 
-***Question:*** **'How are you?' (Como é que estás?)**  
-***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**
+***Question:*** **'How are you?' ('Como é que estás?')**  
+***Answer:*** **'I’m fine, thank you.' ('Estou bem, obrigada.')**
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/LxhOv3KnfA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -27,7 +28,7 @@
 ***
 
 ***Question:*** **'How old are you?' ('Quão velho és tu?' -> Quantos anos tens?)**  
-***Answer:*** **'I'm ____ years old.' ('Sou ____ anos.' -> Tenho ___ anos.)**
+***Answer:*** **'I'm ____ years old.' ('Sou ____ anos velho.' -> Tenho ___ anos.)**
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/x2cI4ZgsYU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
@@ -39,12 +40,12 @@
 
 *** 
 
-***Question:*** **'Where are you from?' ('De onde vens tu?')**  
-***Answer:*** **'I'm from _____ .' ('Sou de Portugal.')**
+***Question:*** **'Where are you from?' ('De onde vens tu/vem você?')**  
+***Answer:*** **'I'm from Portugal.' ('Venho de Portugal.' = Sou de Portugal.)**
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/l6A2EFkjXq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/XfFCaTgsW-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/XfFCaTgsW-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 (Songs by Maple Leaf Learning)  
 
@@ -55,7 +56,7 @@
 *** 
 
 ***Question:*** **'Have you got a pet?' ('Tens um animal doméstico?')**  
-***Answer:*** **'Yes, I've got a cat.' 'No, I haven't.' ('Sim, tenho um gato .' 'Não, não tenho.')**
+***Answer:*** **'Yes, I've got a cat.'('Sim, tenho um gato.'); 'No, I haven't.'('Não, não tenho.')**
 
 Point to the animals as you sing. / Aponta para os animais enquanto cantas.
 
@@ -64,10 +65,11 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.
 Nota: a imagem para 'parrot' está errada - deve ser um papagaio.  
 
 ***Question:*** **'Have you got any brothers and sisters?' ('Tens irmãos e irmãs?')**  
-***Answer:*** **'Yes, I've got one sister and one brother .' 'No, I haven't. I'm an only child.' ('Sim, tenho uma irmã e um irmão.' 'Não, não tenho. Sou filha/o única/o.')**
+***Answer:*** **'Yes, I've got one sister and one brother.'('Sim, tenho uma irmã e um irmão.')**  
+**'No, I haven't. I'm an only child.'('Não, não tenho. Sou filha/o única/o.')**  
 
 ***Question:*** **'Have you got a _____ ?' ('Tens um/uma _____ ?')**  
-***Answer:*** **'Yes, I have.' 'No, I haven't.' ('Sim, tenho.' 'Não, não tenho.')**  
+***Answer:*** **'Yes, I have.'('Sim, tenho.'); 'No, I haven't.'('Não, não tenho.')**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/rv2MD18avok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -91,7 +93,7 @@ Nota: a imagem para 'parrot' está errada - deve ser um papagaio.
 (Gogo’s Adventures(11) Video by K. Methold et al (ed.Pearson)) 
 
 ***Question:*** **'Do you like _____ ?' ('Gostas de _____ ?')**  
-***Answer:*** **'Yes I do.' 'No I don't.' ('Sim, gosto.' 'Não, não gosto.')**
+***Answer:*** **'Yes I do.'('Sim, gosto.'); 'No I don't.'('Não, não gosto.')**
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/5vpA_luo_78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
@@ -122,7 +124,7 @@ Nota: a imagem para 'parrot' está errada - deve ser um papagaio.
 
 (Videos by Elf Learning)
 
-Can you say what you like to do? / Sabes dizer o que gostas de fazer?  
+***Can you say what you like to do? / Sabes dizer o que gostas de fazer?***    
 
 [![vchb](https://1blockatatime.github.io/English/images/vchb.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Hobbies_CD)  
 
@@ -148,7 +150,7 @@ Can you say what you like to do? / Sabes dizer o que gostas de fazer?
 ***
 
 ***Question:*** **'What do you want to do?' ('O que é que queres fazer?')**  
-***Answer:*** **'I want to play soccer.' ('Eu quero jogar futebol.')**
+***Answer:*** **'I want to play soccer.' ('Eu quero jogar futebol.')**  
 ***Question:*** **'Do you want to play soccer?' ('Queres jogar futebol?')**  
 ***Answer:*** **'Yes, let's play soccer.' 'No.' ('Sim. Vamos jogar futebol.' 'Não.')**
 
