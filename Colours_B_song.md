@@ -7,7 +7,7 @@ Red and yellow and pink and green, orange and purple and blue.
 ![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="60px"}  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
-(2). Canta o segundo verso e aponta para as cores. / Sing the second verse and point to the colours.  
+(2). Canta o segundo verso e aponta. / Sing the second verse and point.  
 <audio src="https://1blockatatime.github.io/English/images/audio/y2_v2.mp3" controls preload></audio>  
 
 Gold and silver and brown and beige, black and white and grey.  
