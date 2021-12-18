@@ -19,7 +19,7 @@ Videos by Alist English Learning, Cambridge University Press and Maple Leaf Lear
 
 [![ssme](https://1blockatatime.github.io/English/images2/ssme.PNG){:height="60px"}](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/school%20items/index.html) [Jogo de memória por ESL Games World](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/school%20items/index.html "pen (caneta), pencil (lápis), pencil box (caixa de lápis=estojo), book (livro), eraser (borracha), ruler (régua), sharpener (afiador)")  
 
-<iframe width="198" height="112" src="https://www.youtube.com/embed/4XvIMPpqPKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![findb](https://1blockatatime.github.io/English/images/findb.PNG){:height="40px"}
+<iframe width="198" height="112" src="https://www.youtube.com/embed/4XvIMPpqPKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![findb](https://1blockatatime.github.io/English/images/findb.PNG){:height="25px"}
 <!--Listen. Find the object before it appears in colour.-->
   
 <!---* [![ssme3](/images/ssme3.PNG)](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/) [Game 2](https://www.eslgamesplus.com/school-supplies-stationery-vocabulary-esl-memory-game-beginners/ "glue (cola), stapler (agrafador), tape (fita cola), school bag (mochila/saco de escola), crayon (lápis de cera), triangle (triângulo), protractor (), calculator (calculador), paper (folha de papel), scissors (tesoura), notebook (caderno)")
