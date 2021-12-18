@@ -15,7 +15,7 @@ Gold and silver and brown and beige, black and white and grey.
 I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 (3). Desafio - canta e aponta agora!  
-<audio src="audio/y2_v2.mp3" controls preload></audio><audio src=audio/V1s2.m4a" controls preload></audio> 
+<audio src="audio/y2_v2.mp3" controls preload></audio> <audio src=audio/V1s2.m4a" controls preload></audio>  
 ![colmix2](https://1blockatatime.github.io/English/images/colmix2.png)
 
 ***
