@@ -1,17 +1,17 @@
 ### Colours - Song - *I can sing a rainbow*
 
-(1). Listen to ![listen](https://1blockatatime.github.io/English/images/listen.png) the song. Sing ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="50px"} and point ![point](https://1blockatatime.github.io/English/images2/point.png){:height="50px"}. / Ouve, canta e aponta.  
+(1). Listen to ![listen](https://1blockatatime.github.io/English/images/listen.png) the song, sing ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="50px"} and point ![point](https://1blockatatime.github.io/English/images2/point.png){:height="50px"}. / Ouve, canta e aponta.  
 <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video> (Video by AprenderYdivertirse)    
 
 Red and yellow and pink and green, orange and purple and blue.  
-![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="50px"}  
+![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="60px"}  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
 (2). Canta o segundo verso e aponta às cores. / Sing the second verse and point to the colours.  
 <audio src="audio/y2_v2.mp3" controls preload></audio>  
 
 Gold and silver and brown and beige, black and white and grey.  
-![colbbbc2](https://1blockatatime.github.io/English/images/colbbbc2.png){:height="50px"}
+![colbbbc2](https://1blockatatime.github.io/English/images/colbbbc2.png){:height="60px"}  
 I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 (3). Desafio - canta e aponta agora!  
