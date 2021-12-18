@@ -1,6 +1,6 @@
 ### Colours - Song - *I can sing a rainbow*
 
-(1). Listen ![listen](https://1blockatatime.github.io/English/images/listen.png), sing ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="40px"} and point ![point](https://1blockatatime.github.io/English/images2/point.jpg){:height="40px"}. Ouve, canta e aponta. (Video by AprenderYdivertirse)  
+(1). Listen ![listen](https://1blockatatime.github.io/English/images/listen.png), sing ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="40px"} and point ![point](https://1blockatatime.github.io/English/images2/point.jpg){:height="40px"}.(Video by AprenderYdivertirse)  
 <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video>  
 
 Red and yellow and pink and green, orange and purple and blue.  
