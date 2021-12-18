@@ -29,6 +29,7 @@ Ensina todos lá em casa como jogar o nosso jogo de sala de aula.
 Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/images2/cobi2.JPG){:height="60px"}  
 
 (2). Joga [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) (Game by ESLgamesworld)  
+(Não é preciso poder ler para jogar este jogo - só ouvir e tentar lembrar.)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
