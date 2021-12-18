@@ -1,23 +1,21 @@
 ### Colours - Song - *I can sing a rainbow*
 
-(1). Listen to ![listen](https://1blockatatime.github.io/English/images/listen.png) the song, sing ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="50px"} and point ![point](https://1blockatatime.github.io/English/images2/point.jpg){:height="50px"}.  
+(1). Listen ![listen](https://1blockatatime.github.io/English/images/listen.png), sing ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="40px"} and point ![point](https://1blockatatime.github.io/English/images2/point.jpg){:height="40px"}. Ouve, canta e aponta. (Video by AprenderYdivertirse)  
 <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video>  
-
-Ouve, canta e aponta.(Video by AprenderYdivertirse)     
 
 Red and yellow and pink and green, orange and purple and blue.  
 ![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="60px"}  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
-(2). Canta o segundo verso e aponta às cores. / Sing the second verse and point to the colours.  
-<audio src="audio/y2_v2.mp3" controls preload></audio>  
+(2). Canta o segundo verso e aponta para as cores. / Sing the second verse and point to the colours.  
+<audio src="https://1blockatatime.github.io/English/images/audio/y2_v2.mp3" controls preload></audio>  
 
 Gold and silver and brown and beige, black and white and grey.  
 ![colbbbc2](https://1blockatatime.github.io/English/images/colbbbc2.png){:height="60px"}  
 I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 (3). Desafio - canta e aponta agora!  
-<audio src="audio/y2_v2.mp3" controls preload></audio><audio src="audio/V1s2.m4a" controls preload></audio> 
+<audio src="https://1blockatatime.github.io/English/images/audio/y2_v2.mp3" controls preload></audio><audio src="https://1blockatatime.github.io/English/images/audio/V1s2.m4a" controls preload></audio> 
 ![colmix2](https://1blockatatime.github.io/English/images/colmix2.png)
 
 ***
