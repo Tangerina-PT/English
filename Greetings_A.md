@@ -7,7 +7,7 @@
 
 ![grtxt](https://1blockatatime.github.io/English/images2/grtxt2.JPG){:height="120px"}   
 
-![grsng](https://1blockatatime.github.io/English/images2/grt_sng_dr.JPG){:height="120px"}  
+![grsng](https://1blockatatime.github.io/English/images2/grt_sng_dr.JPG){:height="140px"}  
 
 ***  
 
