@@ -10,7 +10,7 @@
 [![mmalph0](https://1blockatatime.github.io/English/images/mmalph0.PNG){:height="60px"}](https://www.abcya.com/games/alphabet_matching_game) ![mmalph5](https://1blockatatime.github.io/English/images/mmalph5.PNG){:height="112px"}
 
 [![alphg1](https://1blockatatime.github.io/English/images2/alphg1.JPG){:height="60px"}](https://mrnussbaum.com/letters-online-game) Clicar em ![alphg2](https://1blockatatime.github.io/English/images2/alphg2.JPG){:height="60px"}![alphg3](https://1blockatatime.github.io/English/images2/alphg3.JPG){:height="60px"} Escolha ver o alphabeto em ordem ![alphg4](https://1blockatatime.github.io/English/images2/alphg4.JPG){:height="60px"} ou fora de ordem ![alphg5](https://1blockatatime.github.io/English/images2/alphg5.JPG){:height="60px"}.  
-Ao ouvir o nome da letra em inglês, clica na letra certa do alfabeto.  
+Ao ouvir o nome da letra em inglês, clica na letra certa do alfabeto. Aparece 'CORRECT'=correcto ou 'INCORRECT' = errado. Infelizmente, este jogo não permite tentar outra vez. Se te enganares, anuncia outra letra diferente a seguir.  
 
 #### Pratica soletrar o teu nome em inglês
 
