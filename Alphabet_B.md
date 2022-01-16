@@ -7,9 +7,6 @@
 
 #### Joga os jogos para trabalhar os nomes das letras em inglês
 
-[![tdalph1](https://1blockatatime.github.io/English/images/tdalph1.PNG){:height="60px"}](https://www.turtlediary.com/game/what-letter-is-missing.html) ![tdalph2](https://1blockatatime.github.io/English/images/tdalph2.PNG){:height="60px"}  
-NB: Usa Adobe Flash - só até 12/2020   
-
 [![mmalph0](https://1blockatatime.github.io/English/images/mmalph0.PNG){:height="60px"}](https://www.abcya.com/games/alphabet_matching_game) ![mmalph5](https://1blockatatime.github.io/English/images/mmalph5.PNG){:height="112px"}
 
 #### Pratica soletrar o teu nome em inglês
