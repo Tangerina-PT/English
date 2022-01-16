@@ -23,6 +23,10 @@ Consegues cantar ao apontar para as cores quando estão fora de ordem?
 [What colour is it? song by Dream English Kids](https://www.youtube.com/embed/YyFLBTTAbSE); [Amateur home video by ST]  
 Ensina todos lá em casa como jogar o nosso jogo de sala de aula.   
 
+***Answer:*** **'The apple is red.' ('A maça é vermelho.')**
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/1jv0Gx_q_OU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 ### Colour games (Jogos para aprender as cores)
 
 (1). Joga [![cobi](https://1blockatatime.github.io/English/images2/cobi1.JPG){:height="120px"}](https://www.abcya.com/games/shapes-colors-bingo) [colour bingo](https://www.abcya.com/games/shapes-colors-bingo) / [bingo das cores](https://www.abcya.com/games/shapes-colors-bingo) (Game by ABCYA)  
