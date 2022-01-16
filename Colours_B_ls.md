@@ -5,9 +5,9 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<!--***Answer:*** **'The apple is red.' ('A maça é vermelho.')**
+***Answer:*** **'The apple is red.' ('A maça é vermelho.')**
 
-[![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)-->
+<iframe width="220" height="124" src="https://www.youtube.com/embed/1jv0Gx_q_OU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***Question:*** **'What colour is this/that?' (De que cor é isto/isso?)**  
 ***Answer:*** **'It's/that's ..*colour*.. .' (É/Isso é ..*cor*.. .)**
