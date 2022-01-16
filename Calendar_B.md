@@ -33,6 +33,9 @@ Canta a canção dos meses do ano de Boney M.
 <iframe width="220" height="124" src="https://www.youtube.com/embed/pm2F7MRpT_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 (Song by Boney M.; video by Ольга Валериевна)  
 
+[![mng1](https://1blockatatime.github.io/English/images2/mng1.JPG){:height="60px"}](https://www.turtlediary.com/game/months-of-the-year.html) Arrasta e ordena os nomes dos meses do ano.  
+![mng2](https://1blockatatime.github.io/English/images2/mng2.JPG){:height="60px"} Para desligar a música de fundo, clica no altifalante e arrasta o volume para zero.   
+
 ***Question:*** **'When's your birthday?/When is your birthday?'**  
 **(Quando é que faz/fazes anos? Quando são os teus anos?)**  
 ***Answer:*** **'May'; 'In May.'; 'It's in May.' ('Maio'; 'Em Maio.';'É em Maio.')**  
