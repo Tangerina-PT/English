@@ -17,9 +17,9 @@
 
 #### [Topic 8 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)
 
-#### [Topic 9 - Introducing others](https://tangerina-pt.github.io/English/Intro_B) [![friend1](https://1blockatatime.github.io/English/images2/friend1.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Intro_B)
+#### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)  
 
-#### [Topic 10 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)  
+#### [Topic 10 - Introducing others](https://tangerina-pt.github.io/English/Intro_B) [![friend1](https://1blockatatime.github.io/English/images2/friend1.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Intro_B)
 
 #### [Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_B) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_B)
 
