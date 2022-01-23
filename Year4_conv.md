@@ -1,8 +1,8 @@
 ## Year 4 English - Conversation
 
-<!--#### [Giving and following directions/Dar e seguir indicações](https://tangerina-pt.github.io/English/GFD_D)-->
+<!--#### [Giving and following directions/Dar e seguir indicações](https://tangerina-pt.github.io/English/GFD_D)
 
-#### [Giving and following directions/Dar e seguir indicações](https://tangerina-pt.github.io/English/GFD_D)
+#### [Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_D)-->  
 
 #### [Going to the Doctor/Ir ao Médico](https://tangerina-pt.github.io/English/GTDR_CD)
 
