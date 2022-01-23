@@ -1,9 +1,11 @@
 ### Language of play - ball games
 
-![throw](https://1blockatatime.github.io/English/images2/throw.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/throw.mp3" controls preload></audio>  
+![throw](https://1blockatatime.github.io/English/images2/throw.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/throw.mp3" controls preload></audio>    
+
 **'throw' ('atira'); 'Throw the ball.' ('Atira a bola.')**  
 
 ![catch](https://1blockatatime.github.io/English/images2/catch.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/catch.mp3" controls preload></audio>   
+
 **'catch' ('apanha'); 'Catch the ball.' ('Apanha a bola.')**  
     
 ![roll](https://1blockatatime.github.io/English/images2/roll.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/roll.mp3" controls preload></audio>     
