@@ -21,7 +21,7 @@
 
 #### [Topic 10 - Introducing others](https://tangerina-pt.github.io/English/Intro_B) [![friend1](https://1blockatatime.github.io/English/images2/friend1.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Intro_B)
 
-#### [Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_B) [![hoyt](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_B)
+#### [Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_B) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_B)
 
 #### [Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_B) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_B)
 
