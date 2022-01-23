@@ -1,7 +1,6 @@
 ### Language of play - ball games
 
-![throw](https://1blockatatime.github.io/English/images2/throw.gif){:height="100px"}<audio src="audio/throw.mp3" controls preload></audio>  
-   
+![throw](https://1blockatatime.github.io/English/images2/throw.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/throw.mp3" controls preload></audio>    
 ![catch](https://1blockatatime.github.io/English/images2/catch.gif){:height="100px"}<audio src="audio/catch.mp3" controls preload></audio>     
 
 ![roll](https://1blockatatime.github.io/English/images2/roll.gif){:height="100px"}<audio src="audio/roll.mp3" controls preload></audio>     
