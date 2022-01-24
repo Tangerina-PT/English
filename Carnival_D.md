@@ -43,7 +43,7 @@
 ***
 
 <div class="tenor-gif-embed" data-postid="8761141" data-share-method="host" data-aspect-ratio="1.01667" data-width="20%"><a href="https://tenor.com/view/cats-gif-8761141">Cats GIF</a>from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
-'knock off' ('bater fora da mesa'); 'Knock it off the table.' ('Batê-lo fora da mesa.')    
+'knock off' ('bater fora de (algo)'); 'Knock it off the table.' ('Batê-lo fora da mesa.')    
 
 *** 
 
