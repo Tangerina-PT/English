@@ -1,16 +1,12 @@
 ### Language of play - action verbs
 
-***
-
 ![throw](https://1blockatatime.github.io/English/images2/throw.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/throw.mp3" controls preload></audio>     
-
 'throw' ('atira'); 'Throw the ball.' ('Atira a bola.')  
 
 ***
 
 
 ![catch](https://1blockatatime.github.io/English/images2/catch.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/catch.mp3" controls preload></audio>     
-
 'catch' ('apanha'); 'Catch the ball.' ('Apanha a bola.')  
 
 ***
@@ -46,7 +42,7 @@
 
 ***
 
-<div class="tenor-gif-embed" data-postid="8761141" data-share-method="host" data-aspect-ratio="1.01667" data-width="25%"><a href="https://tenor.com/view/cats-gif-8761141">Cats GIF</a>from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
+<div class="tenor-gif-embed" data-postid="8761141" data-share-method="host" data-aspect-ratio="1.01667" data-width="20%"><a href="https://tenor.com/view/cats-gif-8761141">Cats GIF</a>from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
 'knock off' ('bater fora da mesa'); 'Knock it off the table.' ('Batê-lo fora da mesa.')    
 
 *** 
