@@ -41,18 +41,19 @@
 
 ***
 
-<iframe src="https://giphy.com/embed/xUA7bgjXrufhjRbLgc" width="240" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/slowdancerband-dont-believe-slow-dancer-xUA7bgjXrufhjRbLgc">via GIPHY</a></p>  
+<iframe src="https://giphy.com/embed/xUA7bgjXrufhjRbLgc" width="240" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>   
+
 **'knock over' ('deita abaixo'); 'Knock over the pins.' ('Deita abaixo os pinos.')**    
 
 ***
 
-<div class="tenor-gif-embed" data-postid="8761141" data-share-method="host" data-aspect-ratio="1.01667" data-width="100%"><a href="https://tenor.com/view/cats-gif-8761141">Cats GIF</a>from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
+<div class="tenor-gif-embed" data-postid="8761141" data-share-method="host" data-aspect-ratio="1.01667" data-width="25%"><a href="https://tenor.com/view/cats-gif-8761141">Cats GIF</a>from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
 **'knock off' ('bater fora da mesa'); 'Knock it off the table.' ('Batê-lo fora da mesa.')**    
 
 *** 
 
 
-Image sources: throw (design.tutsplus.com); catch/bounce (gifer.com); roll (cgcookie.com); hit (classroomclipart.com); kick 
+Image sources: throw (design.tutsplus.com); catch/bounce (gifer.com); roll (cgcookie.com); hit (classroomclipart.com); kick; knock over (giphy.com); knock off (tenor.com);
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English) 
