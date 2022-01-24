@@ -31,6 +31,12 @@
 
 ***
 
+![turnover](https://1blockatatime.github.io/English/images2/turnover.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/turnover.mp3" controls preload></audio>   
+'turn over' ('vira'); 'Turn over two cards.' ('Vira duas cartas.')    
+
+
+***
+
 ![pickup](https://1blockatatime.github.io/English/images2/pickup.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/pickup.mp3" controls preload></audio>   
 'pick up' ('pega'); 'Pick up the egg.' ('Pega no ovo.')    
 
