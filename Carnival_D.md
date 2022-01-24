@@ -2,13 +2,15 @@
 
 ***
 
-![throw](https://1blockatatime.github.io/English/images2/throw.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/throw.mp3" controls preload></audio><br/>    
+![throw](https://1blockatatime.github.io/English/images2/throw.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/throw.mp3" controls preload></audio>     
+
 'throw' ('atira'); 'Throw the ball.' ('Atira a bola.')  
 
 ***
 
 
-![catch](https://1blockatatime.github.io/English/images2/catch.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/catch.mp3" controls preload></audio><br/>   
+![catch](https://1blockatatime.github.io/English/images2/catch.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/catch.mp3" controls preload></audio>     
+
 'catch' ('apanha'); 'Catch the ball.' ('Apanha a bola.')  
 
 ***
@@ -49,8 +51,7 @@
 
 *** 
 
-
-**Image sources:** throw (design.tutsplus.com); catch/bounce (gifer.com); roll (cgcookie.com); hit (classroomclipart.com); kick; knock over (giphy.com); knock off (tenor.com);
+**Image sources:** throw (design.tutsplus.com); catch/bounce (gifer.com); roll (cgcookie.com); hit (classroomclipart.com); kick; pick up (groups.csail.mit.edu); knock over (giphy.com); knock off (tenor.com);
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English) 
