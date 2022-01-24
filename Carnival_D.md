@@ -24,6 +24,9 @@
 ![pickup](https://1blockatatime.github.io/English/images2/pickup.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/pickup.mp3" controls preload></audio>   
 **'pick up' ('pega'); 'Pick up the egg.' ('Pega no ovo.')**    
 
+<iframe src="https://giphy.com/embed/xUA7bgjXrufhjRbLgc" width="240" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/slowdancerband-dont-believe-slow-dancer-xUA7bgjXrufhjRbLgc">via GIPHY</a></p>  
+**'knock over' ('deita abaixo'); 'Knock over the pins.' ('Deita abaixo os pinos.')**    
+
 
 Image sources: throw (design.tutsplus.com); catch/bounce (gifer.com); roll (cgcookie.com); hit (classroomclipart.com); kick 
 
