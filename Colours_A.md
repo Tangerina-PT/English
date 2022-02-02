@@ -20,7 +20,7 @@ Consegues cantar ao apontar para as cores quando estão fora de ordem?
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/53e-BFXy_do?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[What colour is it? song by Dream English Kids](https://www.youtube.com/embed/YyFLBTTAbSE); [Amateur home video by ST]  
+[What colour is it? song by Dream English Kids](https://www.youtube.com/embed/YyFLBTTAbSE); [Amateur home video]  
 Ensina todos lá em casa como jogar o nosso jogo de sala de aula.   
 
 ***Answer:*** **'The apple is red.' ('A maça é vermelho.')**
