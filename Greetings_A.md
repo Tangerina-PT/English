@@ -20,9 +20,9 @@ Song by Maple Leaf Learning; Gogo’s Adventures(1) by K. Methold et al (ed.Pear
 <!--[Song by Maple Leaf Learning](https://www.youtube.com/embed/Uv1JkBL5728); [Gogo’s Adventures (1) by Ken Methold et al (ed. Pearson)](https://www.youtube.com/embed/9R5-W3bMX4E)-->
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Z2ePENbnwus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[Amateur home video by ST]  
 
 Jogaste o nosso jogo de sala de aula (onde assumimos diferentes personagens) em casa?  
+[Amateur home video]
 
 ***
 
@@ -41,6 +41,11 @@ Song by Cambridge University Press
 <iframe width="220" height="124" src="https://www.youtube.com/embed/--O_H6PU0ZA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 Song by Cambridge University Press  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/7KZenkUM8nA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+Jogaste o nosso jogo de sala de aula (onde fingimos ter diferentes idades) em casa?  
+[Amateur home video]  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
