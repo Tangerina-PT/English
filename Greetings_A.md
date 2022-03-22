@@ -29,7 +29,7 @@ Jogaste o nosso jogo de sala de aula (onde assumimos diferentes personagens) em 
 ***Question:*** **'How are you?'(Como está/estás?)**  
 ***Answer:*** **'I'm fine, thank you.' (Estou bem, obrigada.)**  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/LxhOv3KnfA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/AwS2nvi6wG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 Song by Cambridge University Press  
 
