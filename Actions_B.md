@@ -42,7 +42,7 @@ Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](htt
 
 ### Practice reading - actions (praticar leitura - acções em inglês)
 
-* [![eslgplusact](https://1blockatatime.github.io/English/images2/eslgplusact.jpg){:height="60px"}](https://www.eslgamesplus.com/action-verbs-esl-interactive-grammar-vocabulary-game-present-tense/) (Game by ESLGamesPlus)   
+* [![eslgplusact](https://1blockatatime.github.io/English/images2/eslgplusact.JPG){:height="60px"}](https://www.eslgamesplus.com/action-verbs-esl-interactive-grammar-vocabulary-game-present-tense/) (Game by ESLGamesPlus)   
 
 ***
 
