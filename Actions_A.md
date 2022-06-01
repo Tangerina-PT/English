@@ -17,11 +17,10 @@ Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](htt
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/QeZRaQXJiW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/_tzIdoCLvH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/m9MccH7mWO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
-
-<!--* [![ican](/images/ican.png){:height="60px"}](https://www.youtube.com/watch?v=_Ir0Mc6Qilo) [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/_Ir0Mc6Qilo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)  
 ![clap](/images/clap.gif){:height="80px" width="80px"} ***clap*** / ![fly](/images/fly.gif){:height="80px" width="80px"} ***fly*** / ![stomp](/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![swim2](/images/swim2.gif){:height="80px" width="80px"} ***swim*** /  
-![climb2](/images/climb2.gif){:height="80px" width="80px"} ***climb*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![sing2](/images/sing2.gif){:height="80px" width="80px"} ***sing*** / ![dance](/images/dance.gif){:height="80px" width="80px"} ***dance*** --> 
-
+![climb2](/images/climb2.gif){:height="80px" width="80px"} ***climb*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![sing2](/images/sing2.gif){:height="80px" width="80px"} ***sing*** / ![dance](/images/dance.gif){:height="80px" width="80px"} ***dance***  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
