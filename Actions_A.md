@@ -17,6 +17,11 @@ Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](htt
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/QeZRaQXJiW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/_tzIdoCLvH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/m9MccH7mWO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
+***Language:***
+***Question:*** **'Can you clap?'; (Consegues bater palmas?)**  
+***Answers:***  **'Yes, I can. I can clap.' (Sim, consigo. Consigo bater palmas)**  
+**or/ou 'No, I can't. I can't clap.' (Não, não consigo. Não consigo bater palmas)**  
+
 <iframe width="220" height="124" src="https://www.youtube.com/embed/_Ir0Mc6Qilo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=_Ir0Mc6Qilo)  
 ![clap](/images/clap.gif){:height="80px" width="80px"} ***clap*** / ![fly](/images/fly.gif){:height="80px" width="80px"} ***fly*** / ![stomp](/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![swim2](/images/swim2.gif){:height="80px" width="80px"} ***swim*** /  
