@@ -32,9 +32,7 @@ palavra 'INTERACTIVES'. Joga **'Match up'**, **'Find the match'** e **'Balloon p
 
 ### Play our classroom games: 'Dominoes' and 'Go Fish!'
 
-![hlthdom](https://1blockatatime.github.io/English/images2/hlthdom.png){:height="100px"} ![gofishdr](https://1blockatatime.github.io/English/images2/go_fish_gtdr.png){:height="100px"}   
-
-As instrucções estão no Teams no canal 'Inglês Conversação'...  
+![hlthdom](https://1blockatatime.github.io/English/images2/hlthdom.png){:height="100px"} <iframe width="220" height="124" src="https://www.youtube.com/embed/RtK6eZKkStU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 <!--### Pratica a leitura em inglês
 * Ouve e lê a história. A seguir desliga o som e tenta ler o livro sozinho.  
