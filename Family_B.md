@@ -25,6 +25,10 @@
 
 #### Language Structures - falar da família
 
+***Question:*** **'Have you got brothers or sisters?' (Tens/tem irmãos ou irmãs?)**  
+***Answer:*** **'Yes, I have.' (Sim, tenho.); 'No, I haven't.' (Não, não tenho.)**  
+***Answer:*** **'I've got 1 brother and 2 sisters.' (Tenho um irmão e 2 irmãs.)**  
+
 ***Perguntas:*** **'Who is it?' (Quem é?) ; 'Who's this?' (Quem é esta?); 'Who is he?' (Quem é ele?); 'Who is she?' (Quem é ela?)**  
 ***Respostas potenciais:*** **'My mother.' (A minha mãe.);'It's my mother.' (É a minha mãe.);'This is my mother.'(Isto é a minha mãe.)**
 ***Contexto:*** **p.ex. a apontar para fotos da família**
@@ -34,9 +38,9 @@
 
 ***Avaliação:*** Consegues apontar a fotografias da tua família e dizer quem é quem? p.ex. 'Mummy.', 'My mummy.', 'It's my mummy.' ou 'This is my mother.'  
 
-![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
+<!--![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
 
-![fmbk2](https://1blockatatime.github.io/English/images/fmbk2.png){:height="85px"}  
+![fmbk2](https://1blockatatime.github.io/English/images/fmbk2.png){:height="85px"}-->  
 
 
 #### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
