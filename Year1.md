@@ -32,7 +32,7 @@ Year 1 English
 ### [Topic 11 - Feelings](https://tangerina-pt.github.io/English/Feelings_A) [![hoyt](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_A)  
 ### [Topic 12 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)  
 ### [Topic 13 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_A) [![pp6](https://1blockatatime.github.io/English/images/pp_6.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_A)  
-### [Topic 14 - Food](https://tangerina-pt.github.io/English/Carnival_A) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_A)
+### [Topic 14 - Food](https://tangerina-pt.github.io/English/Food_A) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)  
 ### [Topic 15 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_A) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_A)
 ### [Topic 16 - Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_A) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_A)
 
