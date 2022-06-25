@@ -40,7 +40,7 @@
 
 [![lvwkfd4](https://1blockatatime.github.io/English/images/lvwkfd4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_Read_and_match_js38355du) [![lvwkfd4b](https://1blockatatime.github.io/English/images/lvwkfd4_pt.png){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_Read_and_match_js38355du)   
 
-![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
+<!--![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
 
 ![circ_like_plate](https://1blockatatime.github.io/English/images/circ_like_plate.gif){:height="215px"} ![circ_dont_plate](https://1blockatatime.github.io/English/images/circ_dont_plate.gif){:height="215px"}  
 
@@ -50,7 +50,7 @@
 
 ![fdin2](https://1blockatatime.github.io/English/images/fdin2_pt.png){:height="60px"}  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/VG_Fr8eOOyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/MZXbBSbd_jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/VG_Fr8eOOyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/MZXbBSbd_jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--> 
 
 ***  
 
@@ -66,19 +66,19 @@
 
 [![lvwkfd6](https://1blockatatime.github.io/English/images/lvwkfd6.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_Read_and_choose_nv38351ca) [![lvwkfd6b](https://1blockatatime.github.io/English/images/lvwkfd6_pt.png){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_Read_and_choose_nv38351ca)   
 
-![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
+<!--![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
 
 ![fdin4](https://1blockatatime.github.io/English/images/fdin4_pt.png){:height="60px"}  
 
 ![cmcfd](https://1blockatatime.github.io/English/images/cmcfd.jpg){:height="180px"}  
 
-![fdin3](https://1blockatatime.github.io/English/images/fdin3_pt.png){:height="60px"}  
+![fdin3](https://1blockatatime.github.io/English/images/fdin3_pt.png){:height="60px"}-->  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Wf5kp_1sA10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-***OU*** **se preferires, faz uma gravação audio...**  
+<!--***OU*** **se preferires, faz uma gravação audio...**  
 
-<audio src="https://1blockatatime.github.io/English/audio/fdtsk.mp3" controls preload></audio>  
+<audio src="https://1blockatatime.github.io/English/audio/fdtsk.mp3" controls preload></audio>--> 
 
 ***  
 
