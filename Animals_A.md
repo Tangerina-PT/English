@@ -6,9 +6,9 @@
 <iframe width="198" height="112" src="https://www.youtube.com/embed/MCjhynvMunE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/p5qwOxlvyhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/xQTlPD4ey-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Videos by Dream English: [Animals](https://www.youtube.com/embed/MCjhynvMunE); [Wild Animals 1](https://www.youtube.com/embed/p5qwOxlvyhk); [Wild Animals 2](https://www.youtube.com/embed/xQTlPD4ey-4)  
 
-To be continued.../Para continuar...
 
-<!--
+<!--To be continued.../Para continuar...-->  
+
 ***Story:*** **Brown Bear, Brown Bear, What do you see?**
 Written and illusrated by Bill Martin Jr. and Eric Carle - read by Bill Martin Jr.  
 <iframe width="198" height="112" src="https://www.youtube.com/embed/pdHCYgO9zh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
@@ -26,7 +26,7 @@ Written and illusrated by Bill Martin Jr. and Eric Carle - read by Bill Martin J
 ### Jogo de memória/Memory
 * [![anme](https://1blockatatime.github.io/English/images2/anme.JPG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/pets/index.html) Pets / Animais domésticos  
 * [![anme2](https://1blockatatime.github.io/English/images2/anme2.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/farm%20animals/index.html) Farm animals / Animais da quinta  
-* [![anme3](https://1blockatatime.github.io/English/images2/anme3.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/zoo%20animals/index.html) Zoo animals / Animais do jardim zoológico--> 
+* [![anme3](https://1blockatatime.github.io/English/images2/anme3.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/zoo%20animals/index.html) Zoo animals / Animais do jardim zoológico 
 
 ***
 
