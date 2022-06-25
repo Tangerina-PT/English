@@ -4,7 +4,8 @@
 * Toca nas partes correspondentes do corpo ao cantar.  
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/lMQcwNZVUO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/ZanHgPprl-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/FkL8j0wIRf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[(1). Learn (aprende)](https://www.youtube.com/watch?v=lMQcwNZVUO8); [(2). Sing (canta)](https://www.youtube.com/watch?v=ZanHgPprl-0); [(3). Canta versão salta-palavras.](https://www.youtube.com/watch?v=FkL8j0wIRf8)   
+(1). Learn the words (aprende as palavras); (2). Sing the song (canta a canção); (3). Canta versão salta-palavras.  
+<!--[(1). Learn (aprende)](https://www.youtube.com/watch?v=lMQcwNZVUO8); [(2). Sing (canta)](https://www.youtube.com/watch?v=ZanHgPprl-0); [(3). Canta versão salta-palavras.](https://www.youtube.com/watch?v=FkL8j0wIRf8)-->   
 
 * Sing and point. / Canta e aponta.  
 ![head](https://1blockatatime.github.io/English/images/head.png){:height="70px"}![shou](https://1blockatatime.github.io/English/images/shou.png){:height="70px"}![knee](https://1blockatatime.github.io/English/images/knee.png){:height="70px"}![toes](https://1blockatatime.github.io/English/images/toes.png){:height="70px"}  
@@ -38,6 +39,10 @@ Arms, legs, feet and hands, feet and hands.
 (3). Desafio: canta e aponta quando as imagens estão fora de ordem.     
 ![nose](https://1blockatatime.github.io/English/images/nose.png){:height="70px"}![legs](https://1blockatatime.github.io/English/images/legs.PNG){:height="70px"}![hands](https://1blockatatime.github.io/English/images/hands.PNG){:height="70px"}![mout](https://1blockatatime.github.io/English/images/mout.png){:height="70px"}  
 ![ears](https://1blockatatime.github.io/English/images/ears.png){:height="70px"}![arms](https://1blockatatime.github.io/English/images/arms.PNG){:height="70px"}![eyes](https://1blockatatime.github.io/English/images/eyes.png){:height="70px"}![feet](https://1blockatatime.github.io/English/images/feet.PNG){:height="70px"}  
+
+### Game
+Joga [![bodmem](https://1blockatatime.github.io/English/images2/bodmem.PNG){:height="50px"}]([http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html)) [body parts memory]([http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html)) / [memória - partes do corpo]([http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html)) (Game by ESLgamesworld)  
+(Não é preciso poder ler para jogar este jogo - só ouvir e tentar lembrar.)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
