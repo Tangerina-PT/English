@@ -23,7 +23,7 @@
 
 #### [Topic 11 - Talking about feelings](https://tangerina-pt.github.io/English/Feelings_B) [![prep](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)
 
-### [Topic 12 - Talking about animals](https://tangerina-pt.github.io/English/Animals_B)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_B)
+#### [Topic 12 - Talking about animals](https://tangerina-pt.github.io/English/Animals_B)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_B)
 
 #### [Topic 13 - Family](https://tangerina-pt.github.io/English/Family_B) [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_B)
 
