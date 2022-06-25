@@ -67,8 +67,6 @@ Junto aqui um exemplo com bonecos.
 
 Se quiseres, podes também dizer-nos mais alguma coisa sobre o teus amigos p.ex. 'He is happy.' (Ele está contente.), 'She is hungry.' (Ela está com fome.)-->   
 
-***
-
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="45px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
