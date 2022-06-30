@@ -1,14 +1,13 @@
 ## Year 4 - English - Vocabulary
-#### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_D)
-#### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_D)
-#### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
-#### [Cardinal Numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_D)
-#### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
-#### [Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
-#### [Classroom Objects](https://tangerina-pt.github.io/English/Classroom_Objects_B)
-***
-Queres aprender o vocabulário para outro tópico? Procura o tópico nos seguintes websites:  
-[![lcina](/images/lcina.PNG)](http://www.learningchocolate.com/all?sort_by=monthcount) [![eaina](/images/eaina.PNG)](https://www.englishactivities.net/english-topics-esl) [![mesina](/images/mesina.PNG)](http://www.mes-games.com/) [![bcinta](/images/bcinta.PNG)](https://learnenglishteens.britishcouncil.org/grammar-vocabulary/vocabulary-exercises) 
+##### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_D)
+##### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_D)
+##### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
+##### [Cardinal Numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_D)
+##### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
+##### [Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
+##### [Classroom Objects](https://tangerina-pt.github.io/English/Classroom_Objects_B)  
+[![lcina](/images/lcina.PNG)](http://www.learningchocolate.com/all?sort_by=monthcount) [![eaina](/images/eaina.PNG)](https://www.englishactivities.net/english-topics-esl) [![mesina](/images/mesina.PNG)](http://www.mes-games.com/) [![bcinta](/images/bcinta.PNG)](https://learnenglishteens.britishcouncil.org/grammar-vocabulary/vocabulary-exercises)  
+Queres aprender mais vocabulário? Procura o tópico nestes websites.
 
 <!--[![bcina](/images/bcina.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games)-->
 
