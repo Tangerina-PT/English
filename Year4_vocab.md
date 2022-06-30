@@ -1,6 +1,4 @@
 ## Year 4 - English - Vocabulary
-Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulário?  
-
 #### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_D)
 #### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_D)
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
@@ -9,15 +7,13 @@ Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulár
 #### [Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
 #### [Classroom Objects](https://tangerina-pt.github.io/English/Classroom_Objects_B)
 ***
-Do you want to learn the vocabulary for another topic? Find your topic on the following websites:
-Queres aprender o vocabulário para outro tópico? Procura o tópico nos seguintes websites:
-
+Queres aprender o vocabulário para outro tópico? Procura o tópico nos seguintes websites:  
 [![lcina](/images/lcina.PNG)](http://www.learningchocolate.com/all?sort_by=monthcount) [![eaina](/images/eaina.PNG)](https://www.englishactivities.net/english-topics-esl) [![mesina](/images/mesina.PNG)](http://www.mes-games.com/) [![bcinta](/images/bcinta.PNG)](https://learnenglishteens.britishcouncil.org/grammar-vocabulary/vocabulary-exercises) 
 
 <!--[![bcina](/images/bcina.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games)-->
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English) 
 
 ***
 #### Notes/Notas
