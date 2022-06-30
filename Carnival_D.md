@@ -31,14 +31,18 @@
 
 ***
 
-![turnover](https://1blockatatime.github.io/English/images2/turnover.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/turnover.mp3" controls preload></audio>   
+![turnover](https://1blockatatime.github.io/English/images2/turnover.mp4){:height="100px"}   
 'turn over' ('vira'); 'Turn over two cards.' ('Vira duas cartas.')    
 
+<!--<audio src="https://1blockatatime.github.io/English/audio/turnover.mp3" controls preload></audio>-->
 
 ***
 
-![pickup](https://1blockatatime.github.io/English/images2/pickup.gif){:height="100px"}<audio src="https://1blockatatime.github.io/English/audio/pickup.mp3" controls preload></audio>   
+![pickup](https://1blockatatime.github.io/English/images2/pickup.gif){:height="100px"}   
 'pick up' ('pega'); 'Pick up the egg.' ('Pega no ovo.')    
+
+
+<!--<audio src="https://1blockatatime.github.io/English/audio/pickup.mp3" controls preload></audio>-->
 
 ***
 
