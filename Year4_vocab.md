@@ -6,7 +6,6 @@ Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulár
 #### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
 #### [Cardinal Numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_D)
 #### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_D)
-#### [The Alphabet](https://tangerina-pt.github.io/English/Alphabet_D)
 #### [Classroom Objects](https://tangerina-pt.github.io/English/Classroom_Objects_CD)
 ***
 Do you want to learn the vocabulary for another topic? Find your topic on the following websites:
