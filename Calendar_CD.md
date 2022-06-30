@@ -13,9 +13,10 @@ Note American pronunciation of Tuesday. / Nota pronúncia Americana de 'Tuesday'
 
 2. Do you know the days of the week?  / Já sabes os dias da semana?  
 [Test yourself! / Verifica!](http://www.learningchocolate.com/content/days)  
-<!--[![lcda](https://1blockatatime.github.io/English/images/lcda.png){:height="60px"}](http://www.learningchocolate.com/content/days)-->  
 Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as actividades?  
 (Click on / clica em: ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG), ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG), ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG), ![lcfi](https://1blockatatime.github.io/English/images/lcfi.PNG) and ![lcdi](https://1blockatatime.github.io/English/images/lcdi.PNG))
+
+<!--[![lcda](https://1blockatatime.github.io/English/images/lcda.png){:height="60px"}](http://www.learningchocolate.com/content/days)-->  
 
 #### Months of the year
 
@@ -37,7 +38,7 @@ Click on the letters to spell the word then click on ‘Check’./Clica nas letr
  
 #### Other
 
-[Can you spell the ordinal numbers/months of the year? Consegues soletrar os números oridinais e os meses do ano?](https://www.eslgamesplus.com/months-and-ordinal-numbers-esl-vocabulary-game-activity-online/)  
+[Can you spell the ordinal numbers/months of the year? Consegues soletrar os números ordinais e os meses do ano?](https://www.eslgamesplus.com/months-and-ordinal-numbers-esl-vocabulary-game-activity-online/)  
 
 <!--![mngm](https://1blockatatime.github.io/English/images2/mngm.JPG){:height="60px"}-->
 
