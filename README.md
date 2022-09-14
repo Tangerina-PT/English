@@ -23,11 +23,7 @@ English Conversation
 
 <h4>
 <p align="center">
-  <a href="https://tangerina-pt.github.io/English/Year3">Year 3  -  3º Ano</a>
-  <br>
-</p>
-<p align="center">
-  <a href="https://tangerina-pt.github.io/English/Year4">Year 4  -  4º Ano</a>
+  <a href="https://tangerina-pt.github.io/English/Year_3_4">Year 3 (3º ano) / Year 4 (4º Ano)</a>
   <br>
 </p>
 </h4>
