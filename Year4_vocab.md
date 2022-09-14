@@ -1,6 +1,6 @@
-## Year 4 - English - Vocabulary
-##### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_D)
-##### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_D)
+## Year 3/4 - English - Vocabulary
+##### [Hobbies / Passatempos](https://tangerina-pt.github.io/English/Hobbies_CD)
+##### [Body Parts / Partes do corpo](https://tangerina-pt.github.io/English/Body_Parts_CD)
 ##### [Calendar - days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_CD)
 ##### [Cardinal Numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_D)
 ##### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
