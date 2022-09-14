@@ -25,11 +25,11 @@ razccl_pt.png){:height="80px"}](https://www.youtube.com/embed/OLQ5soMUZqk)
 <iframe width="220" height="124" src="https://www.youtube.com/embed/MLyFZyh7mM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Vê aqui a letra da canção e a tradução](https://tangerina-pt.github.io/English/HMII)  
 
-### Tarefa principal - exercícios dos diálogos
+<!--- ### Tarefa principal - exercícios dos diálogos
 
 Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer os exercícios dos diálogos. Primeiro podes ver e ouvir. Verás que algumas falas no diálogo demoram a aparecer - mas que há dicas visuais para te dar a ideia sobre o que a personagem vai dizer a seguir. Desafia-te a ver se consegues lembrar o que é para dizer quando as falas demoram. Bom trabalho!   
 
-<iframe width="198" height="112" src="https://www.youtube.com/embed/tDM3D8D_Ljg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/8VPb81y6ZWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/Kh-somlGSqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="198" height="112" src="https://www.youtube.com/embed/tDM3D8D_Ljg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/8VPb81y6ZWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/Kh-somlGSqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  --->
 
 ### Trabalhar o vocabulário - Clothes (roupa) 
 
