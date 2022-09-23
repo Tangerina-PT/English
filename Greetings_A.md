@@ -1,16 +1,6 @@
 ### Greetings   
 <!---->  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/nADEef0Z7Ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-(Song by Tom Simek, Rockin' English)  
-
-![grtxt](https://1blockatatime.github.io/English/images2/grtxt2.JPG){:height="120px"}   
-
-![grsng](https://1blockatatime.github.io/English/images2/grt_sng_dr.JPG){:height="150px"}  
-
-***  
-
 ***Question:*** **'What's your name?'('O que é o teu nome?' -> Como é que te chamas?)**  
 ***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
 
@@ -21,10 +11,20 @@ Song by Maple Leaf Learning; Gogo’s Adventures(1) by K. Methold et al (ed.Pear
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Z2ePENbnwus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-Jogaste o nosso jogo de sala de aula (onde assumimos diferentes personagens) em casa?  
+Para a semana levarás uma cópia em papel do nosso jogo de sala de aula (onde fingimos ser personagens diferentes) para casa para jogar.  
 [Amateur home video]
 
 ***
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/nADEef0Z7Ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+(Song by Tom Simek, Rockin' English)  
+
+![grtxt](https://1blockatatime.github.io/English/images2/grtxt2.JPG){:height="120px"}   
+
+![grsng](https://1blockatatime.github.io/English/images2/grt_sng_dr.JPG){:height="150px"}  
+
+***  
 
 ***Question:*** **'How are you?'(Como está/estás?)**  
 ***Answer:*** **'I'm fine, thank you.' (Estou bem, obrigada.)**  
