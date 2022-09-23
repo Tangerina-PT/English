@@ -13,6 +13,16 @@ Consegues cantar ao apontar para as cores na altura certa?
 
 Consegues cantar ao apontar para as cores quando estão fora de ordem?  
 
+### Colour games (Jogos para aprender as cores)
+
+(1). Joga [![cobi](https://1blockatatime.github.io/English/images2/cobi1.JPG){:height="120px"}](https://www.abcya.com/games/shapes-colors-bingo) [colour bingo](https://www.abcya.com/games/shapes-colors-bingo) / [bingo das cores](https://www.abcya.com/games/shapes-colors-bingo) (Game by ABCYA)  
+Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/images2/cobi2.JPG){:height="60px"}  
+
+(2). Joga [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) (Game by ESLgamesworld)  
+(Não é preciso poder ler para jogar este jogo - só ouvir e tentar lembrar.)  
+
+***
+
 ### Song 2: What colour is it? (De que cor é?)
 
 ***Question:*** **'What colour is it?' (De que cor é?)**  
@@ -26,14 +36,6 @@ Ensina todos lá em casa como jogar o nosso jogo de sala de aula.
 ***Answer:*** **'The apple is red.' ('A maça é vermelho.')**
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/1jv0Gx_q_OU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-### Colour games (Jogos para aprender as cores)
-
-(1). Joga [![cobi](https://1blockatatime.github.io/English/images2/cobi1.JPG){:height="120px"}](https://www.abcya.com/games/shapes-colors-bingo) [colour bingo](https://www.abcya.com/games/shapes-colors-bingo) / [bingo das cores](https://www.abcya.com/games/shapes-colors-bingo) (Game by ABCYA)  
-Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/images2/cobi2.JPG){:height="60px"}  
-
-(2). Joga [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) (Game by ESLgamesworld)  
-(Não é preciso poder ler para jogar este jogo - só ouvir e tentar lembrar.)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
