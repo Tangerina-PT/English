@@ -4,7 +4,7 @@
 <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video>  
 
 Red and yellow and pink and green, orange and purple and blue.  
-![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="60px"}  
+![colbbbc](https://1blockatatime.github.io/English/images/colbbbc.png){:height="60px"}  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
 (2). Canta o segundo verso e aponta. / Sing the second verse and point.  
