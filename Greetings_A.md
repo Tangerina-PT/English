@@ -7,11 +7,11 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Uv1JkBL5728" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 Song by Maple Leaf Learning; Gogo’s Adventures(1) by K. Methold et al (ed.Pearson)   
-<!--[Song by Maple Leaf Learning](https://www.youtube.com/embed/Uv1JkBL5728); [Gogo’s Adventures (1) by Ken Methold et al (ed. Pearson)](https://www.youtube.com/embed/9R5-W3bMX4E)-->
+Já experimentaste perguntar 'What's your name?' a toda a gente lá em casa?  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Z2ePENbnwus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-Durante a semana levarás uma cópia em papel do nosso jogo de sala de aula (onde fingimos ser personagens diferentes) para casa para jogar.  
+Durante a semana levarás uma cópia em papel do nosso jogo de sala de aula (onde fingimos ser personagens diferentes) para casa para jogares com todos.  
 [Amateur home video]
 
 ***
