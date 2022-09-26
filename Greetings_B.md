@@ -15,6 +15,10 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/rSwypHirUkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+Já fingiste que não os conheçes para perguntar a todos lá em casa: 'What's your name?'? Depois de se apresentarem, experimentaste em dizer que foi um prazer conhecê-los por dizer: 'Nice to meet you.'?  
+
+***
+
 ***Question:*** **'How are you?' (Como é que estás?)**  
 ***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**  
 
