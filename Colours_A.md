@@ -33,6 +33,8 @@ Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/ima
 [What colour is it? song by Dream English Kids](https://www.youtube.com/embed/YyFLBTTAbSE); [Amateur home video]  
 Ensina todos lá em casa como jogar o nosso jogo de sala de aula.   
 
+***
+
 ***Answer:*** **'The apple is red.' ('A maça é vermelho.')**
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/1jv0Gx_q_OU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
