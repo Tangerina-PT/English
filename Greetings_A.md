@@ -11,7 +11,7 @@ Song by Maple Leaf Learning; Gogo’s Adventures(1) by K. Methold et al (ed.Pear
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Z2ePENbnwus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-Para a semana levarás uma cópia em papel do nosso jogo de sala de aula (onde fingimos ser personagens diferentes) para casa para jogar.  
+Durante a semana levarás uma cópia em papel do nosso jogo de sala de aula (onde fingimos ser personagens diferentes) para casa para jogar.  
 [Amateur home video]
 
 ***
