@@ -39,7 +39,7 @@ Year 1 English
 
 ***
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English) ![home](https://1blockatatime.github.io/English/images/home.png){:height="80px"} @ Tangerina. Programa &copy Sing, Play, Learn English
 
 ***
 #### Notes/Notas
