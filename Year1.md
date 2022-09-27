@@ -37,8 +37,7 @@ Year 1 English
 ### [Topic 16 - Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_A) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_A)
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
-![spllogo](https://1blockatatime.github.io/English/images2/spl_logo.png){:height="80px"}  @Tangerina. Programa ![csymbol](https://1blockatatime.github.io/English/images2/c_symbol.png){:height="10px"} Sing, Play, Learn English  
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English) ![csymbol](https://1blockatatime.github.io/English/images2/c_symbol.png){:height="10px"}![spllogo](https://1blockatatime.github.io/English/images2/spl_logo.png){:height="60px"}  
 
 ***
 #### Notes/Notas
@@ -47,4 +46,4 @@ Year 1 English
 * Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. / Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
 * Some resources seem only to work with particular browsers so if an activity doesn't load in your habitual browser, please try a different browser. / Alguns recursos parecem só funcionar com determinados 'browsers', por isso, se uma actividade não carregar no seu browser habitual, queira experimentar usar outro.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.  / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
-* Feedback/dúvidas: c21educator@gmail.com
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com
