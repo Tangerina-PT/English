@@ -16,7 +16,8 @@ Year 1 English
 ### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_A)
 ### [Topic 8 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A) [![body](https://1blockatatime.github.io/English/images/body.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_A)
 ### [Topic 7 - Animals](https://tangerina-pt.github.io/English/Animals_A)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_A)
-### [Topic 6 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)  
+### [Topic 6 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)
+![csymbol](https://1blockatatime.github.io/English/images2/c_symbol.png){:height="10px"}
 -->
 
 ### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A) [![colmix](https://1blockatatime.github.io/English/images/wyn1.png){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_A)
@@ -37,7 +38,7 @@ Year 1 English
 ### [Topic 16 - Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_A) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_A)
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English) ![csymbol](https://1blockatatime.github.io/English/images2/c_symbol.png){:height="10px"}![spllogo](https://1blockatatime.github.io/English/images2/spl_logo.png){:height="60px"}  
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)   
 
 ***
 #### Notes/Notas
@@ -47,3 +48,10 @@ Year 1 English
 * Some resources seem only to work with particular browsers so if an activity doesn't load in your habitual browser, please try a different browser. / Alguns recursos parecem só funcionar com determinados 'browsers', por isso, se uma actividade não carregar no seu browser habitual, queira experimentar usar outro.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.  / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com
+
+<h2> 
+<p align="center">
+![spllogo](https://1blockatatime.github.io/English/images2/spl_logo.png){:height="60px"}
+</p>
+</h2>
+
