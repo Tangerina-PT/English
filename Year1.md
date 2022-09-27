@@ -36,10 +36,9 @@ Year 1 English
 ### [Topic 15 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_A) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_A)
 ### [Topic 16 - Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_A) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_A)
 
-
 ***
-***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English) ![home](https://1blockatatime.github.io/English/images/home.png){:height="80px"} @ Tangerina. Programa &copy Sing, Play, Learn English
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
+![logospl](https://1blockatatime.github.io/English/images2/logo_spl.png){:height="80px"} @ Tangerina. Programa &copy Sing, Play, Learn English. Contacto: c21educator@gmail.com  
 
 ***
 #### Notes/Notas
