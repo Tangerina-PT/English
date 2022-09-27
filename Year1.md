@@ -49,9 +49,9 @@ Year 1 English
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.  / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com
 
-<h2> 
+
 <p align="center">
 ![spllogo](https://1blockatatime.github.io/English/images2/spl_logo.png){:height="60px"}
 </p>
-</h2>
+
 
