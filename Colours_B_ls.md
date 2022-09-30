@@ -17,6 +17,15 @@
 [Gogo’s Adventures (6) by Ken Methold et al (ed. Pearson)](https://www.youtube.com/embed/9R5-W3bMX4E)  
 
 ***
+![red_pencil](https://1blockatatime.github.io/English/images/red_colour_pencil_tr.png  
+***Question:*** **'What colour is the pencil?' (De que cor é o lápis?)**  
+***Answer:*** **'The pencil is red.' (O lápis é vermelho.)**  
+***
+![red_pencils](https://1blockatatime.github.io/English/images/red_colour_pencil_tr.png   
+***Question:*** **'What colour are the pencils?' (De que cor são os lápis?)**  
+***Answer:*** **'The pencils are red.' (Os lápis são vermelhos.)**  
+
+***
 
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
