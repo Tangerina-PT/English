@@ -19,13 +19,13 @@
 
 ***  
 
-![red_pencil](https://1blockatatime.github.io/English/images2/red_colour_pencil_tr_cr.png){:height="20px"}<audio src="https://1blockatatime.github.io/English/audio/w_c_is_t_pencil.mp3" controls preload></audio>  
+![red_pencil](https://1blockatatime.github.io/English/images2/red_colour_pencil_tr_cr.png){:height="30px"; :width="90px"}<audio src="https://1blockatatime.github.io/English/audio/w_c_is_t_pencil.mp3" controls preload></audio>  
 ***Question:*** **'What colour is the pencil?' (De que cor é o lápis?)**  
 ***Answer:*** **'The pencil is red.' (O lápis é vermelho.)**  
 
 ***  
 
-![red_pencils](https://1blockatatime.github.io/English/images2/red_colour_pencils_tr.png){:height="40px"}<audio src="https://1blockatatime.github.io/English/audio/w_c_r_t_pencils.mp3" controls preload></audio>   
+![red_pencils](https://1blockatatime.github.io/English/images2/red_colour_pencils_tr.png){:height="40px"; :width="140px"}<audio src="https://1blockatatime.github.io/English/audio/w_c_r_t_pencils.mp3" controls preload></audio>   
 ***Question:*** **'What colour are the pencils?' (De que cor são os lápis?)**  
 ***Answer:*** **'The pencils are red.' (Os lápis são vermelhos.)**  
 
