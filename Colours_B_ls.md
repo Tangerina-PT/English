@@ -21,13 +21,13 @@
 
 UNDER DEVELOPMENT  
 
-![red_pencil](https://1blockatatime.github.io/English/images/red_colour_pencil_tr_cr.png)  
+![red_pencil](https://1blockatatime.github.io/English/images2/red_colour_pencil_tr_cr.png){:height="30px"}  
 ***Question:*** **'What colour is the pencil?' (De que cor é o lápis?)**  
 ***Answer:*** **'The pencil is red.' (O lápis é vermelho.)**  
 
 ***  
 
-![red_pencils](https://1blockatatime.github.io/English/images/red_colour_pencil_tr.png)   
+![red_pencils](https://1blockatatime.github.io/English/images2/red_colour_pencil_tr.png){:height="40px"}   
 ***Question:*** **'What colour are the pencils?' (De que cor são os lápis?)**  
 ***Answer:*** **'The pencils are red.' (Os lápis são vermelhos.)**  
 
