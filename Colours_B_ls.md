@@ -17,7 +17,7 @@
 [Gogo’s Adventures (6) by Ken Methold et al (ed. Pearson)](https://www.youtube.com/embed/9R5-W3bMX4E)  
 
 ***
-![red_pencil](https://1blockatatime.github.io/English/images/red_colour_pencil_tr.png  
+![red_pencil](https://1blockatatime.github.io/English/images/red_colour_pencil_tr_cr.png  
 ***Question:*** **'What colour is the pencil?' (De que cor é o lápis?)**  
 ***Answer:*** **'The pencil is red.' (O lápis é vermelho.)**  
 ***
