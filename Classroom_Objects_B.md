@@ -1,5 +1,8 @@
 ### Classroom Objects (Objectos da sala de aula) 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/RmNCryV6G_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="220" height="124" src="https://www.youtube.com/embed/RmNCryV6G_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/prvk2pw0HJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[Clean-up song by Maple Leaf Learning](z "glue (cola), pencil (lápis), crayon (lápis de cera), pencil case (estojo), ruler (régua), book (livro)");  [Amateur home video]  
+Consegues cantar e guardar os teus materiais à medida que a canção indica?  
 
 ***Language:*** ![t_out](/images/t_out.gif){:height="100px" width="100px"} take out / ![p_away](/images/p_away.gif){:height="100px" width="100px"} put away  
 ***p.ex.*** Take out your book. (Tira o teu livro.); Put away your book. (Guarda o teu livro.)  
