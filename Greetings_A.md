@@ -11,8 +11,8 @@ Já experimentaste perguntar 'What's your name?' a toda a gente lá em casa?
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Z2ePENbnwus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-Durante a semana levarás uma cópia em papel do nosso jogo de sala de aula (onde fingimos ser personagens diferentes) para casa para jogares com todos.  
-[Amateur home video]
+[Amateur home video]  
+Já jogaste o nosso jogo de sala de aula, onde fingimos ser personagens diferentes, lá em casa?  
 
 ***
 
