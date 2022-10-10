@@ -32,6 +32,7 @@ Durante a semana levarás uma cópia em papel do nosso jogo de sala de aula (ond
 <iframe width="220" height="124" src="https://www.youtube.com/embed/AwS2nvi6wG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 Song by Cambridge University Press  
+[Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit2.pdf) for parents]   
 
 ***
 
