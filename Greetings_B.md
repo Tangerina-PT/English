@@ -24,6 +24,8 @@ Já fingiste que não os conheçes para perguntar a todos lá em casa: 'What's y
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/LxhOv3KnfA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+Song by Cambridge University Press - [Song [lyrics](http://www.kidsboxapps.es/pdf/kb1/lyric/unit2.pdf) for parents]  
+
 [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E)    
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
@@ -45,3 +47,10 @@ Nota: infelizmente este exercício não funciona com todos os browsers.
 * Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. / Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
 * Some resources seem only to work with particular browsers so if an activity doesn't load in your habitual browser, please try a different browser. / Alguns recursos parecem só funcionar com determinados 'browsers', por isso, se uma actividade não carregar no seu browser habitual, queira experimentar usar outro.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.  / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
+
+
+
