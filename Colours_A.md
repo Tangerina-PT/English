@@ -35,12 +35,11 @@ Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/ima
 
 ***
 
-
 <!---***Answer:*** **'The apple is red.' ('A maça é vermelho.')**
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/1jv0Gx_q_OU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--->  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/1jv0Gx_q_OU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***
+***--->  
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
