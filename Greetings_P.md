@@ -24,3 +24,7 @@ Song by Cambridge University Press
 
 #### Notes/Notas
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
