@@ -6,12 +6,10 @@
 <iframe width="198" height="112" src="https://www.youtube.com/embed/MCjhynvMunE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/p5qwOxlvyhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/xQTlPD4ey-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Videos by Dream English: [Animals](https://www.youtube.com/embed/MCjhynvMunE); [Wild Animals 1](https://www.youtube.com/embed/p5qwOxlvyhk); [Wild Animals 2](https://www.youtube.com/embed/xQTlPD4ey-4)  
 
-
-<!--To be continued.../Para continuar...-->  
-
-***Story:*** **Brown Bear, Brown Bear, What do you see?**
+***Story:*** **Brown Bear, Brown Bear, What do you see?**  
 Written and illusrated by Bill Martin Jr. and Eric Carle - read by Bill Martin Jr.  
 <iframe width="198" height="112" src="https://www.youtube.com/embed/pdHCYgO9zh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+Video by Henry Holt Kids (McMillan)
 
 ***
 
@@ -19,16 +17,14 @@ Written and illusrated by Bill Martin Jr. and Eric Carle - read by Bill Martin J
 ***Answer:*** **'It's a...' (É um/uma...) / Yes.No. (Sim.Não)**
 
 <iframe width="198" height="112" src="https://www.youtube.com/embed/D_sdGxUxz_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-[Video by Fun Kids English](https://www.youtube.com/embed/D_sdGxUxz_4)  
+Video by Fun Kids English  
 
 ***
 
 ### Jogo de memória/Memory
 * [![anme](https://1blockatatime.github.io/English/images2/anme.JPG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/pets/index.html) Pets / Animais domésticos  
 * [![anme2](https://1blockatatime.github.io/English/images2/anme2.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/farm%20animals/index.html) Farm animals / Animais da quinta  
-* [![anme3](https://1blockatatime.github.io/English/images2/anme3.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/zoo%20animals/index.html) Zoo animals / Animais do jardim zoológico 
-
-***
+* [![anme3](https://1blockatatime.github.io/English/images2/anme3.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/zoo%20animals/index.html) Zoo animals / Animais do jardim zoológico  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
@@ -41,4 +37,7 @@ Written and illusrated by Bill Martin Jr. and Eric Carle - read by Bill Martin J
 * Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. / Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
 * Some resources seem only to work with particular browsers so if an activity doesn't load in your habitual browser, please try a different browser. / Alguns recursos parecem só funcionar com determinados 'browsers', por isso, se uma actividade não carregar no seu browser habitual, queira experimentar usar outro.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.  / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
-
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
