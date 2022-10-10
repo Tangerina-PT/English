@@ -6,8 +6,9 @@ Preschool English
 
 ### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_P) [![colmix](https://1blockatatime.github.io/English/images/wyn1.png){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_P)
 ### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_P) [![colmix](https://1blockatatime.github.io/English/images/colmix.png){:height="30px" width="30px"}](https://tangerina-pt.github.io/English/Colours_P)
-### [Topic 3 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_P) [![pmno](https://1blockatatime.github.io/English/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_P)
-<!---### [Topic 4 - Weather](https://tangerina-pt.github.io/English/Weather_A) [![wsym](https://1blockatatime.github.io/English/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_A)
+
+<!---### [Topic 3 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_P) [![pmno](https://1blockatatime.github.io/English/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_P)
+### [Topic 4 - Weather](https://tangerina-pt.github.io/English/Weather_A) [![wsym](https://1blockatatime.github.io/English/images/wsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Weather_A)
 ### [Topic 5 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)  
 ### [Topic 6 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_A)
 ### [Topic 7 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A) [![body](https://1blockatatime.github.io/English/images/body.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_A)
