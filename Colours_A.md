@@ -21,7 +21,7 @@ Consegues cantar ao apontar para as cores quando estão fora de ordem?
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/53e-BFXy_do?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[What colour is it? song by Dream English Kids](https://www.youtube.com/embed/YyFLBTTAbSE); [Amateur home video]  
+What colour is it? song by Dream English Kids; Amateur home video    
 Ensina todos lá em casa como jogar o nosso jogo de sala de aula.   
 
 ***
@@ -51,4 +51,8 @@ Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/ima
 * Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. / Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
 * Some resources seem only to work with particular browsers so if an activity doesn't load in your habitual browser, please try a different browser. / Alguns recursos parecem só funcionar com determinados 'browsers', por isso, se uma actividade não carregar no seu browser habitual, queira experimentar usar outro.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.  / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
 
