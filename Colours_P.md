@@ -1,11 +1,11 @@
 ### Song 1: I can sing a rainbow (Eu consigo cantar um arco-iris)  
 
+Canta a canção: <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video> (Video by AprenderYdivertirse)   
+
 Red and yellow and pink and green, purple and orange and blue.  
 (Vermelho e amarelo e cor-de-rosa e verde, roxo e laranja e azul.)  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 (Eu consigo cantar um arco-iris, cantar um arco-iris, cantar um arco-iris também.)  
-
-(1). Canta a canção: <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video> (Video by AprenderYdivertirse)   
 
 ***
 ### Song 2: What colour is it? (De que cor é?)
@@ -13,7 +13,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 ***Question:*** **'What colour is it?' (De que cor é?)**  
 ***Answer:*** **'It's red.' (É vermelho.)**   
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/53e-BFXy_do?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
 Song by Dream English Kids   
 
