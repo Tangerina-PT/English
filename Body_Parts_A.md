@@ -41,7 +41,7 @@ Arms, legs, feet and hands, feet and hands.
 ![ears](https://1blockatatime.github.io/English/images/ears.png){:height="70px"}![arms](https://1blockatatime.github.io/English/images/arms.PNG){:height="70px"}![eyes](https://1blockatatime.github.io/English/images/eyes.png){:height="70px"}![feet](https://1blockatatime.github.io/English/images/feet.PNG){:height="70px"}  
 
 ### Game
-Joga [![bodmem](https://1blockatatime.github.io/English/images2/bodmem.PNG){:height="50px"}](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) [body parts memory](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) / [memória - partes do corpo](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) (Game by ESLgamesworld)  
+Joga [![bodmem](https://1blockatatime.github.io/English/images2/bpme.PNG){:height="50px"}](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) [body parts memory](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) / [memória - partes do corpo](https://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/body%20parts%20i%20can/index.html) (Game by ESLgamesworld)  
 (Não é preciso poder ler para jogar este jogo - só ouvir e tentar lembrar.)  
 
 ***
