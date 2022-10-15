@@ -18,7 +18,7 @@ Já jogaste o nosso jogo de sala de aula, onde fingimos ser personagens diferent
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/nADEef0Z7Ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-(Song by Tom Simek, Rockin' English)  
+Abridged version of song by Tom Simek, Rockin’ English    
 
 ![grtxt](https://1blockatatime.github.io/English/images2/grtxt2.JPG){:height="120px"}   
 
