@@ -15,8 +15,8 @@
 ***Answers - Customer:*** **'It's too small.' (Está pequeno demais.); 'It's too big.' (Está grande demais.); 'It's too short.' (Está curto demais.); 'It's too long.' (Está comprido demais.); 'It's too tight.' (Está apertado demais.)**  
 
 Pratica a leitura em inglês. A história passa 3 vezes: (1). ouve a história; (2). ouve e repete; (3). lê a história de forma independente.  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/gMC22aUQM9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-Dicas: 'I must have grown over the summer.' = 'Devo ter crescido durante o verão.'; 'old' = velho, antigo; 'too' = excessivamente (pode ter outro significado = também);  
+[![razccl](https://1blockatatime.github.io/English/images2/ razccl.png){:height="75px"}](https://www.youtube.com/watch?v=gMC22aUQM9c)  
+Dicas: 'I must have grown over the summer.' = 'Devo ter crescido durante o verão.'; 'old' = velho, antigo; 'too' = excessivamente (pode ter outro significado = também)  
 
 ***Question - Customer:*** **'How much is it?' (Quanto é?)**  
 ***Answers - Shop assistant:*** **'It's 20 dollars.' (São 20 dólares.)**  
