@@ -35,7 +35,7 @@ Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer o
 <iframe width="220" height="124" src="https://www.youtube.com/embed/taoCF1cKZSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="220" height="124" src="https://www.youtube.com/embed/jNg3KuUFkxU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 * NB: Vídeo 2: 'I have a cap.'='I've got a cap.'= Tenho um bonet.
 
-[![cldd1](https://1blockatatime.github.io/English/images2/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm) [![cldd1pt](https://1blockatatime.github.io/English/images2/cldd1_pt.png){:height="80px"}](https://www.digitaldialects.com/English/Clothes.htm)  
+<!---[![cldd1](https://1blockatatime.github.io/English/images2/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm) [![cldd1pt](https://1blockatatime.github.io/English/images2/cldd1_pt.png){:height="80px"}](https://www.digitaldialects.com/English/Clothes.htm)--->    
 [![clla1](https://1blockatatime.github.io/English/images2/clla1.PNG){:height="75px"}](https://learningapps.org/10043443) [![clla1pt](https://1blockatatime.github.io/English/images2/clla1_pt.png){:height="70px"}](https://learningapps.org/10043443)   
 
 ### Talking about clothes
@@ -51,12 +51,13 @@ Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer o
 ### Mais jogos e exercícios
 
 [![clelfph1](https://1blockatatime.github.io/English/images2/clelfph1.PNG){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing) [![clelfph1pt](https://1blockatatime.github.io/English/images2/clelfph1_pt.png){:height="85px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing)  
-[![cleslgw1](https://1blockatatime.github.io/English/images2/cleslgw1.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html) [![cleslgw1pt](https://1blockatatime.github.io/English/images2/cleslgw1_pt.png){:height="65px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html)   
-[![clsm](https://1blockatatime.github.io/English/images2/clsm.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/) [![clsmpt](https://1blockatatime.github.io/English/images2/clsm_pt.png){:height="85px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/)  
+
+<!---[![cleslgw1](https://1blockatatime.github.io/English/images2/cleslgw1.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html) [![cleslgw1pt](https://1blockatatime.github.io/English/images2/cleslgw1_pt.png){:height="65px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html)   
+[![clsm](https://1blockatatime.github.io/English/images2/clsm.PNG){:height="75px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/) [![clsmpt](https://1blockatatime.github.io/English/images2/clsm_pt.png){:height="85px"}](https://www.freddiesville.com/games/clothes-sentence-monkey-game/)-->  
 
 ***
 
-<!--### Extensão avançado - para quem quiser aprender mais...
+### Extensão avançado - para quem quiser aprender mais...
 [![tbts](https://1blockatatime.github.io/English/images2/
 tbts.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I) [![tbts_pt](https://1blockatatime.github.io/English/images2/
 tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)  
@@ -66,7 +67,7 @@ tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)
 **'Have you got a bigger sizer?' = 'Do you have a bigger size?' = (Tem um tamanho maior?)**
 <audio src="https://1blockatatime.github.io/English/audio/gotbigger.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/havebigger.mp3" controls preload></audio>    
 
-[![shlvwk5](https://1blockatatime.github.io/English/images2/shlvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/ox392277pt) [![shlvwk5pt](https://1blockatatime.github.io/English/images2/shlvwk5_pt.png){:height="75px"}](https://www.liveworksheets.com/ox392277pt) -->
+[![shlvwk5](https://1blockatatime.github.io/English/images2/shlvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/ox392277pt) [![shlvwk5pt](https://1blockatatime.github.io/English/images2/shlvwk5_pt.png){:height="75px"}](https://www.liveworksheets.com/ox392277pt)
 
 ### Recursos Gerais  
 * Tradução PT->EN  :  Pronunciação  
