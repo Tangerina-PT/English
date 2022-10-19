@@ -57,7 +57,7 @@ Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer o
 **'I am wearing...' (Estou vestido com...);**  
 **'He is wearing...' (Ele está vestido com...);**  
 **'She is wearing...' (Ela está vestido com...)**    
-<iframe width="220" height="124" src="https://www.youtube.com/embed/_Y_fNXEu0tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+<iframe width="220" height="124" src="https://www.youtube.com/embed/_Y_fNXEu0tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 [![clgtl1](https://1blockatatime.github.io/English/images2/clgtl1.PNG){:height="75px"}](https://www.gamestolearnenglish.com/clothes-game/) [![clgtl1pt](https://1blockatatime.github.io/English/images2/clgtl1_pt.png){:height="80px"}](https://www.gamestolearnenglish.com/clothes-game/)  
 
@@ -67,7 +67,7 @@ Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer o
 ***Answers:*** **'Yes, she is.'/'No, she isn't'.**  
 
 Podes trabalhar estas estruturas no seguinte exercício mas tem cuidado - há 3 erros. Número 9 indica que alguém está vestido de calças azuis, e deve dizer calções azuis (blue shorts). Nas 3 perguntas da parte de baixo, os números (1) e (3) não devem ter a palavra 'a'. Tal como em Português, não dizemos que alguém 'tem **um** cabelo louro' ou 'tem **um** cabelo comprido', só que 'tem cabelo louro' ou 'tem cabelo comprido'.  
-[![gshlvwk3](https://1blockatatime.github.io/English/images2/gshlvwk3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colour_of_Clothes_zn863555zq)
+[![gshlvwk3](https://1blockatatime.github.io/English/images2/gshlvwk3.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colour_of_Clothes_zn863555zq)
 
 ### Mais jogos e exercícios
 
