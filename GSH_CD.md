@@ -17,7 +17,8 @@
 **Pratica a leitura em inglês.**  
 A história passa 3 vezes: (1). ouve; (2). ouve e repete; (3). lê de forma independente.  
 [![razccl](https://1blockatatime.github.io/English/images2/razccl.png){:height="75px"}](https://www.youtube.com/watch?v=gMC22aUQM9c)  
-Dicas: 'I must have grown over the summer.' = 'Devo ter crescido durante o verão.'; 'old' = velho, antigo; 'too' = excessivamente (pode ter outro significado = também)  
+Dicas: 'I must have grown over the summer.' = 'Devo ter crescido durante o verão.';  
+'old' = velho, antigo; 'too' = excessivamente (pode ter outro significado = também)  
 
 ***
 
@@ -49,7 +50,7 @@ Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer o
 <!---[![cldd1](https://1blockatatime.github.io/English/images2/cldd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Clothes.htm) [![cldd1pt](https://1blockatatime.github.io/English/images2/cldd1_pt.png){:height="80px"}](https://www.digitaldialects.com/English/Clothes.htm)--->    
 [![clla1](https://1blockatatime.github.io/English/images2/clla1.PNG){:height="75px"}](https://learningapps.org/10043443) [![clla1pt](https://1blockatatime.github.io/English/images2/clla1_pt.png){:height="70px"}](https://learningapps.org/10043443)   
 
-### Talking about clothes
+### Falando sobre roupa - Talking about clothes
 
 **Put on (por)** p.ex. 'Put on your hat.' (Põe o teu chapéu.)  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-jBfb33_KHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -70,8 +71,7 @@ Já trabalhaste a linguagem de ir às compras? Então estás pronto para fazer o
 Podes trabalhar estas estruturas no seguinte exercício mas tem cuidado - há 3 erros. Número 9 indica que alguém está vestido de calças azuis, e deve dizer calções azuis (blue shorts). Nas 3 perguntas da parte de baixo, os números (1) e (3) não devem ter a palavra 'a'. Tal como em Português, não dizemos que alguém 'tem **um** cabelo louro' ou 'tem **um** cabelo comprido', só que 'tem cabelo louro' ou 'tem cabelo comprido'.  
 [![gshlvwk3](https://1blockatatime.github.io/English/images2/gshlvwk3.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colour_of_Clothes_zn863555zq)
 
-### Mais jogos e exercícios
-
+### Extensão - para quem quer mais desafios...
 [![clelfph1](https://1blockatatime.github.io/English/images2/clelfph1.PNG){:height="75px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing) [![clelfph1pt](https://1blockatatime.github.io/English/images2/clelfph1_pt.png){:height="85px"}](https://en.islcollective.com/video-lessons/clothes-im-wearing)  
 
 <!---[![cleslgw1](https://1blockatatime.github.io/English/images2/cleslgw1.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html) [![cleslgw1pt](https://1blockatatime.github.io/English/images2/cleslgw1_pt.png){:height="65px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/clothes%20and%20color/index.html)   
@@ -79,11 +79,12 @@ Podes trabalhar estas estruturas no seguinte exercício mas tem cuidado - há 3 
 
 ***
 
-### Extensão...
 [![tbts](https://1blockatatime.github.io/English/images2/
 tbts.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I) [![tbts_pt](https://1blockatatime.github.io/English/images2/
 tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)  
 [Vê aqui o texto da história e a tradução](https://tangerina-pt.github.io/English/TBTS)   
+
+***
 
 <!---**'What is your size?' (Qual é o seu tamanho?)** **'small' (pequeno)** **'medium' (médio)** **'large' (grande)**  
 <audio src="https://1blockatatime.github.io/English/audio/whatsize.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/small.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/medium.mp3" controls preload></audio> <audio src="https://1blockatatime.github.io/English/audio/large.mp3" controls preload></audio>    
