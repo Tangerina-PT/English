@@ -29,7 +29,8 @@ Dicas: 'I must have grown over the summer.' = 'Devo ter crescido durante o verã
 ***Question - Customer:*** **'How much are they?' (Quanto são?)**  
 ***Answers - Shop assistant:*** **'They are 20 dollars.' (São 20 dólares.)**  
 
-[![gshlvwk2](https://1blockatatime.github.io/English/images2/gshlvwk2.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Asking_for_prices/Shopping_ri760162nd)  
+[![gshlvwk2](https://1blockatatime.github.io/English/images2/gshlvwk2.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Asking_for_prices/Shopping_ri760162nd) Escolha a opção correcta para acabar as frases.  
+A cliente Sheila está a perguntar o preço de vários peças de roupa na loja. Pergunta: 'How much is ...' (Quanto é?) ou 'How much are ...' (Quanto são?). O vendador (salesman) responde indicando o preço de cada ítem.  
 
 ### Exercícios dos diálogos
 
