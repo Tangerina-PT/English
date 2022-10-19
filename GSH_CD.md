@@ -14,7 +14,8 @@
 ***Question - Shop assistant:*** **'How is it?' (=Como está?)**  
 ***Answers - Customer:*** **'It's too small.' (Está pequeno demais.); 'It's too big.' (Está grande demais.); 'It's too short.' (Está curto demais.); 'It's too long.' (Está comprido demais.); 'It's too tight.' (Está apertado demais.)**  
 
-Pratica a leitura em inglês. A história passa 3 vezes: (1). ouve a história; (2). ouve e repete; (3). lê a história de forma independente.  
+**Pratica a leitura em inglês.**  
+A história passa 3 vezes: (1). ouve; (2). ouve e repete; (3). lê de forma independente.  
 [![razccl](https://1blockatatime.github.io/English/images2/razccl.png){:height="75px"}](https://www.youtube.com/watch?v=gMC22aUQM9c)  
 Dicas: 'I must have grown over the summer.' = 'Devo ter crescido durante o verão.'; 'old' = velho, antigo; 'too' = excessivamente (pode ter outro significado = também)  
 
@@ -78,7 +79,7 @@ Podes trabalhar estas estruturas no seguinte exercício mas tem cuidado - há 3 
 
 ***
 
-### Extensão avançado - para quem quiser aprender mais...
+### Extensão...
 [![tbts](https://1blockatatime.github.io/English/images2/
 tbts.png){:height="75px"}](https://www.youtube.com/embed/njpc4vp1Z3I) [![tbts_pt](https://1blockatatime.github.io/English/images2/
 tbts_pt.png){:height="80px"}](https://www.youtube.com/embed/njpc4vp1Z3I)  
