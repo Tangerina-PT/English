@@ -1,6 +1,6 @@
 ## Year 2 English
 
-#### [Topic 0 - Making mini-books](https://tangerina-pt.github.io/English/minibooks)[![gtsym](https://1blockatatime.github.io/English/images/mk_mini_bks.png){:height="30px"}](https://tangerina-pt.github.io/English/minibooks)  
+#### [Topic 0 - Making mini-books](https://tangerina-pt.github.io/English/minibooks)[![minibk](https://1blockatatime.github.io/English/images2/mk_mini_bks.png){:height="30px"}](https://tangerina-pt.github.io/English/minibooks)  
 
 #### [Topic 1 - Greetings/Introductions](https://tangerina-pt.github.io/English/Greetings_B)[![gtsym](https://1blockatatime.github.io/English/images/gtsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_B)
 
