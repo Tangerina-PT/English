@@ -8,8 +8,13 @@ Videos by Dream English: [Animals](https://www.youtube.com/embed/MCjhynvMunE); [
 
 ***Story:*** **Brown Bear, Brown Bear, What do you see?**  
 Written and illusrated by Bill Martin Jr. and Eric Carle - read by Bill Martin Jr.  
-<iframe width="198" height="112" src="https://www.youtube.com/embed/pdHCYgO9zh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+<iframe width="198" height="112" src="https://www.youtube.com/embed/pdHCYgO9zh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 Video by Henry Holt Kids (McMillan)
+
+***Animal viewer***    
+Consegues perguntar a alguém lá em casa: 'What do you see?' ao fazeres os animais aparecerem na janela? Consegues responder com uma frase inteira cada vez quando alguém te perguntar a ti?  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/WY8iwpDjHiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+(Amateur home video)  
 
 ***
 
