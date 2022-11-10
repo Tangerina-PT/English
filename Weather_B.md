@@ -1,7 +1,7 @@
 ### How's the weather?
 
 ***Question:*** **'How's the weather?' (Como é que está o tempo?)**  
-***Answer:*** **'It's sunny.' (Está sol.); It's cloudy.(Há nuvens.); It's windy.(Está vento.); It's rainy/raining.(Está a chover.); It's snowy/snowing.(Está a nevar.)**  
+***Answer:*** **'It's sunny.' (Está sol.); It's cloudy.(Há nuvens.); It's windy.(Está vento.); It's rainy/raining.(Está chuvoso./Está a chover.); It's snowy/snowing.(Há neve./Está a  nevar.)**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/I8GeA3anPdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -10,10 +10,12 @@
 Vê o vídeo. Consegues responder antes do Andy Ant?  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/O2NwvUB41rA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+***Vocabulário adicional:*** **It's hot. (Está calor.); It's cold. (Está frio.); It's foggy. (Está nevoeiro.); It's stormy. (Há tempestade.); It's a rainbow. (É um arco-iris.); It's dry. (Está seco.); It's wet.(Está molhado.)**
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/CXKj7bm4Ops" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+NB: Este vídeo usa as expressões p.ex. 'It's raining.' (Está a chover.) em comparação com a expressão que temos trabalhado até agora 'It's rainy.' (Está chuvoso.)     
 #### Game
 [![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
-
-***Extensão - vocabulário adicional:*** **It's hot. (Está calor.); It's cold. (Está frio.); It's foggy. (Está nevoeiro.); It's stormy. (Há tempestade.); It's a rainbow. (É um arco-iris.); It's dry. (Está seco.); It's wet.(Está molhado.)**  
 
 ***
 
