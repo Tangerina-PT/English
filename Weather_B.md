@@ -17,14 +17,15 @@ Vê o vídeo. Consegues responder antes do Andy Ant?
 <iframe width="220" height="124" src="https://www.youtube.com/embed/CXKj7bm4Ops" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 NB: Este vídeo usa as expressões p.ex. 'It's raining.' (Está a chover.) em comparação com a expressão que temos trabalhado até agora 'It's rainy.' (Está chuvoso.)  
 
-Clica na imagem para ouvir como descrever o tempo...  
+Clica nas imagens para ouvir como descrever o tempo...  
 [![lvwkwth1](https://1blockatatime.github.io/English/images2/lvwkwth1.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What_is_the_weather_like$_rl3164655zn)  
 
 ***Question:*** **'How's the weather today?' (Como é que está o tempo hoje?)**  
 ***Question:*** **'Is it sunny?' (Está sol?)**  
-***Answer:*** **'Yes, it is. No, it isn't'**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/rD6FRDd9Hew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+***Answer:*** **'Yes, it is.'/'No, it isn't.' (Sim, está./Não, não está.)**  
 
 #### Game
 [![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
