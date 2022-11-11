@@ -32,13 +32,11 @@ Clica nas imagens para ouvir como descrever o tempo...
 
 ### Activities
 Ao acabar cada, clica na barra azul 'Finish' e na lupa para ver a correcção  
-**Listening (exercícios de compreensão oral):** Clica na imagem ou na altifalante para ouvir como está o tempo. Escolha a imagem correcta.   
-[![lvwkwth2](https://1blockatatime.github.io/English/images2/lvwkwth2.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What-s_the_weather_fh426619jp)[![lvwkwth8](https://1blockatatime.github.io/English/images2/lvwkwth8.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/The_weather_ra639277ui)[![lvwkwth9](https://1blockatatime.github.io/English/images2/lvwkwth9.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What's_the_weather_like$_-_listening_and_matching_qt362687ij)    
+**Listening (exercícios de compreensão oral):** Clica na imagem ou na altifalante para ouvir como está o tempo. Escolha a imagem correcta. Nota: partly cloudy - parcialmente nublado     
+[![lvwkwth2](https://1blockatatime.github.io/English/images2/lvwkwth2.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What-s_the_weather_fh426619jp)[![lvwkwth8](https://1blockatatime.github.io/English/images2/lvwkwth8.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/The_weather_ra639277ui)[![lvwkwth9](https://1blockatatime.github.io/English/images2/lvwkwth9.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What's_the_weather_like$_-_listening_and_matching_qt362687ij)[![lvwkwth10](https://1blockatatime.github.io/English/images2/lvwkwth10.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/How's_the_weather$_eu1630513qb)  
+
 Aqui, depois de clicar na altifalante para ouvir, desenha uma linha para ligar os pontos ou a expressão com a imagem correcta. Só desenha a partir da área onde aparece o lápis.  
 [![lvwkwth3](https://1blockatatime.github.io/English/images2/lvwkwth3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/The_weather_yo657431ay)[![lvwkwth7](https://1blockatatime.github.io/English/images2/lvwkwth7.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Whats_the_weather_like_today$_ah1654638bh)  
-
-Nota: partly cloudy - parcialmente nublado  
-[![lvwkwth10](https://1blockatatime.github.io/English/images2/lvwkwth10.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/How's_the_weather$_eu1630513qb)  
 
 **Reading (leitura)**  
 [![lvwkwth11](https://1blockatatime.github.io/English/images2/lvwkwth11.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Weather_Vocabulary_or3195161tt)[![lvwkwth12](https://1blockatatime.github.io/English/images2/lvwkwth12.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Weather_(Match_the_words_with_the_pictures)_pj2106922mi)  
