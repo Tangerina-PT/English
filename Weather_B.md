@@ -2,6 +2,8 @@
 
 ***Question:*** **'How's the weather?' (Como é que está o tempo?)**  
 ***Answer:*** **'It's sunny.' (Está sol.); It's cloudy.(Há nuvens.); It's windy.(Está vento.); It's rainy/raining.(Está chuvoso./Está a chover.); It's snowy/snowing.(Há neve./Está a  nevar.)**  
+***Question:*** **'Is it sunny?' (Está sol?)**  
+***Answer:*** **'Yes, it is. No, it isn't'**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/I8GeA3anPdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -15,7 +17,7 @@ Vê o vídeo. Consegues responder antes do Andy Ant?
 ![therm](https://1blockatatime.github.io/English/images2/therm.png){:height="200px"}  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/CXKj7bm4Ops" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-NB: Este vídeo usa as expressões p.ex. 'It's raining.' (Está a chover.) em comparação com a expressão que temos trabalhado até agora 'It's rainy.' (Está chuvoso.)     
+NB: Este vídeo usa as expressões p.ex. 'It's raining.' (Está a chover.) em comparação com a expressão que temos trabalhado até agora 'It's rainy.' (Está chuvoso.)  
 
 Clica na imagem para ouvir como descrever o tempo...  
 [![lvwkwth1](https://1blockatatime.github.io/English/images2/lvwkwth1.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What_is_the_weather_like$_rl3164655zn)  
@@ -28,17 +30,13 @@ Ao acabar cada exercício, clica na barra azul 'Finish' e depois na lupa a esque
 **Listening (exercícios de compreensão oral):** Clica na imagem ou na altifalante para ouvir como está o tempo. Escolha a imagem correcta.   
 [![lvwkwth2](https://1blockatatime.github.io/English/images2/lvwkwth2.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What-s_the_weather_fh426619jp)  
 Aqui, depois de clicar na altifalante para ouvir, desenha uma linha para ligar os pontos ou a expressão com a imagem correcta. Só desenha a partir da área onde aparece o lápis.  
-[![lvwkwth3](https://1blockatatime.github.io/English/images2/lvwkwth3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/The_weather_yo657431ay)  
-[![lvwkwth7](https://1blockatatime.github.io/English/images2/lvwkwth7.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Whats_the_weather_like_today$_ah1654638bh)  
-[![lvwkwth8](https://1blockatatime.github.io/English/images2/lvwkwth8.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/The_weather_ra639277ui)
-[![lvwkwth9](https://1blockatatime.github.io/English/images2/lvwkwth9.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What's_the_weather_like$_-_listening_and_matching_qt362687ij)  
+[![lvwkwth3](https://1blockatatime.github.io/English/images2/lvwkwth3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/The_weather_yo657431ay)[![lvwkwth7](https://1blockatatime.github.io/English/images2/lvwkwth7.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Whats_the_weather_like_today$_ah1654638bh)[![lvwkwth8](https://1blockatatime.github.io/English/images2/lvwkwth8.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/The_weather_ra639277ui)[![lvwkwth9](https://1blockatatime.github.io/English/images2/lvwkwth9.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What's_the_weather_like$_-_listening_and_matching_qt362687ij)  
 
 Nota: partly cloudy - parcialmente nublado  
 [![lvwkwth10](https://1blockatatime.github.io/English/images2/lvwkwth10.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/How's_the_weather$_eu1630513qb)  
 
 **Reading (leitura)**  
-[![lvwkwth11](https://1blockatatime.github.io/English/images2/lvwkwth11.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Weather_Vocabulary_or3195161tt)  
-[![lvwkwth12](https://1blockatatime.github.io/English/images2/lvwkwth12.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Weather_(Match_the_words_with_the_pictures)_pj2106922mi)  
+[![lvwkwth11](https://1blockatatime.github.io/English/images2/lvwkwth11.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Weather_Vocabulary_or3195161tt)[![lvwkwth12](https://1blockatatime.github.io/English/images2/lvwkwth12.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Weather_(Match_the_words_with_the_pictures)_pj2106922mi)  
 
 **Writing (escrita)**  
 Escreve a palavra correcta para cada imagem na caixa correspondente - há uma lista de palavras em cada página para copiares a ortografia correcta    
