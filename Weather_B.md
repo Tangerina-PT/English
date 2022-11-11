@@ -2,8 +2,6 @@
 
 ***Question:*** **'How's the weather?' (Como é que está o tempo?)**  
 ***Answer:*** **'It's sunny.' (Está sol.); It's cloudy.(Há nuvens.); It's windy.(Está vento.); It's rainy/raining.(Está chuvoso./Está a chover.); It's snowy/snowing.(Há neve./Está a  nevar.)**  
-***Question:*** **'Is it sunny?' (Está sol?)**  
-***Answer:*** **'Yes, it is. No, it isn't'**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/I8GeA3anPdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -22,11 +20,17 @@ NB: Este vídeo usa as expressões p.ex. 'It's raining.' (Está a chover.) em co
 Clica na imagem para ouvir como descrever o tempo...  
 [![lvwkwth1](https://1blockatatime.github.io/English/images2/lvwkwth1.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What_is_the_weather_like$_rl3164655zn)  
 
+***Question:*** **'How's the weather today?' (Como é que está o tempo hoje?)**  
+***Question:*** **'Is it sunny?' (Está sol?)**  
+***Answer:*** **'Yes, it is. No, it isn't'**  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/rD6FRDd9Hew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 #### Game
 [![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
 
 ### Activities
-Ao acabar cada exercício, clica na barra azul 'Finish' e depois na lupa a esquerda para veres a correcção do teu trabalho.  
+Ao acabar cada, clica na barra azul 'Finish' e na lupa para ver a correcção  
 **Listening (exercícios de compreensão oral):** Clica na imagem ou na altifalante para ouvir como está o tempo. Escolha a imagem correcta.   
 [![lvwkwth2](https://1blockatatime.github.io/English/images2/lvwkwth2.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What-s_the_weather_fh426619jp)  
 Aqui, depois de clicar na altifalante para ouvir, desenha uma linha para ligar os pontos ou a expressão com a imagem correcta. Só desenha a partir da área onde aparece o lápis.  
