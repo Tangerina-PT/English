@@ -9,18 +9,18 @@
 
 [Song by Maple Leaf Learning](https://www.youtube.com/embed/I8GeA3anPdo)  
 
-#### Game
-[![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
+### Listening activities (exercícios de compreensão oral)
+Ao acabar, clica na barra azul 'Finish' em baixo e na lupa para ver a correcção.  
 
-***Extensão - vocabulário adicional:*** **It's hot. (Está calor.); It's cold. (Está frio.); It's foggy. (Está nevoeiro.); It's stormy. (Há tempestade.); It's a rainbow. (É um arco-iris.); It's dry. (Está seco.); It's wet. (Está molhado.)**  
-
-### Activities
-Ao acabar cada, clica na barra azul 'Finish' e na lupa para ver a correcção  
-**Listening (exercícios de compreensão oral):** Clica na imagem ou na altifalante para ouvir como está o tempo. Escolha a imagem correcta. Nota: partly cloudy - parcialmente nublado     
+Clica na imagem ou na altifalante para ouvir como está o tempo. Escolha a imagem correcta. Nota: partly cloudy - parcialmente nublado     
 [![lvwkwth2](https://1blockatatime.github.io/English/images2/lvwkwth2.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What-s_the_weather_fh426619jp)[![lvwkwth8](https://1blockatatime.github.io/English/images2/lvwkwth8.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/The_weather_ra639277ui)[![lvwkwth10](https://1blockatatime.github.io/English/images2/lvwkwth10.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/How's_the_weather$_eu1630513qb)  
 
-Aqui, depois de clicar na altifalante para ouvir, desenha uma linha para a imagem correcta. Só desenha a partir da área onde aparece o lápis.  
+Aqui, depois de clicar na altifalante para ouvir, desenha uma linha para a imagem correcta. Só desenha de e para a partir de áreas onde aparece o lápis.  
 [![lvwkwth7](https://1blockatatime.github.io/English/images2/lvwkwth7.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/Whats_the_weather_like_today$_ah1654638bh)  
+
+### Game
+***Extensão - vocabulário adicional:*** **It's hot. (Está calor.); It's cold. (Está frio.); It's foggy. (Está nevoeiro.); It's stormy. (Há tempestade.); It's a rainbow. (É um arco-iris.); It's dry. (Está seco.); It's wet. (Está molhado.)**  
+[![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)     
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
