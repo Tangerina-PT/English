@@ -29,8 +29,6 @@ Watch Gogo’s Adventures with English 8.
 ***Question:*** **'How many?' (Quantos?)**  
 ***Answer:*** **'...Number..'(..Número..) [Avançado: There is one./There are ...' (Há um./Há...)]**
 
-<!--1. [![oxeuhm](/images/oxeuhm.PNG)](https://www.youtube.com/watch?v=G3zaC5onBvM)-->
-
 <iframe width="220" height="124" src="https://www.youtube.com/embed/bUvbOtOGeUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***
@@ -38,3 +36,7 @@ Watch Gogo’s Adventures with English 8.
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
