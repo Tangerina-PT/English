@@ -23,6 +23,13 @@
 #### [Aprender números 1-20/Learn Numbers 1-20](https://tangerina-pt.github.io/English/Number_B_II)  
 
 ***
+
+***Question:*** **'How many?' (Quantos?)**  
+***Answer:*** **'...Number..'(..Número..) [Avançado: There is one./There are ...' (Há um./Há...)]**
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/bUvbOtOGeUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
 ***
