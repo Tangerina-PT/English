@@ -3,7 +3,7 @@
 #### Song
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/GiRUF7hvWuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
-***Desafio 1:*** Já consegues cantar a canção toda desligando o som no vídeo?  
+***Desafio:*** Já consegues cantar a canção toda desligando o som no vídeo?  
 
 #### Aprender as palavras - exercícios de compreensão oral -'listening'
 
