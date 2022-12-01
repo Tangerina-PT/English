@@ -15,7 +15,7 @@
 
 #### Exercícios de Leitura
 
-[![fmme](https://1blockatatime.github.io/English/images/fam_car.png){:height="75px"}](https://www.freddiesville.com/games/family-members-memory-game/)  
+[![fmme](https://1blockatatime.github.io/English/images2/fam_car.png){:height="75px"}](https://www.freddiesville.com/games/family-members-memory-game/)  
 <!--[![fmmept](https://1blockatatime.github.io/English/images/fmme_pt.png){:height="65px"}](https://www.freddiesville.com/games/family-members-memory-game/)-->
 
 [![fmlvwk3](https://1blockatatime.github.io/English/images/fmlvwk3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb) [![fmlvwk3pt](https://1blockatatime.github.io/English/images/fmlvwk3_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb)  
