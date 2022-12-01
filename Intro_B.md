@@ -52,9 +52,9 @@ Gogo’s Adventures(3) by K. Methold et al (ed.Pearson)
 
 [![iolvwk5](https://1blockatatime.github.io/English/images2/iolvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/vd509783sy) [![iolvwk5pt](https://1blockatatime.github.io/English/images2/iolvwk5_pt.png){:height="100px"}](https://www.liveworksheets.com/vd509783sy)´   
 
-[![heshestar](https://1blockatatime.github.io/English/images2/heshestar.png){:height="75px"}](https://www.liveworksheets.com/hi53564fc)
-
 [![iolvwk6pt](https://1blockatatime.github.io/English/images2/iolvwk6pt.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_age/How_old_are_they_ad30730zk) [![iolvwk6pt](https://1blockatatime.github.io/English/images2/iolvwk6_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_age/How_old_are_they_ad30730zk)  
+
+[![heshestar](https://1blockatatime.github.io/English/images2/heshestar.png){:height="75px"}](https://www.liveworksheets.com/hi53564fc) Completa as frases. Clica no finish e na lupa.    
 
 ***
 
