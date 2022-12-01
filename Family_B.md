@@ -13,9 +13,10 @@
 
 [![lvwkfa7](https://1blockatatime.github.io/English/images/lvwkfa7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld) [![lvwkfa7pt](https://1blockatatime.github.io/English/images/lvwkfa7_pt.png){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_members_jv11525ld)
 
-[![fmme](https://1blockatatime.github.io/English/images/fmme.PNG){:height="75px"}](https://www.freddiesville.com/games/family-members-memory-game/) [![fmmept](https://1blockatatime.github.io/English/images/fmme_pt.png){:height="65px"}](https://www.freddiesville.com/games/family-members-memory-game/)
-
 #### Exercícios de Leitura
+
+[![fmme](https://1blockatatime.github.io/English/images/fam_car.PNG){:height="75px"}](https://www.freddiesville.com/games/family-members-memory-game/)  
+<!--[![fmmept](https://1blockatatime.github.io/English/images/fmme_pt.png){:height="65px"}](https://www.freddiesville.com/games/family-members-memory-game/)-->
 
 [![fmlvwk3](https://1blockatatime.github.io/English/images/fmlvwk3.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb) [![fmlvwk3pt](https://1blockatatime.github.io/English/images/fmlvwk3_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Family_-_Read_and_choose_xd37015fb)  
 
@@ -25,23 +26,22 @@
 
 #### Language Structures - falar da família
 
-***Question:*** **'Have you got brothers or sisters?' (Tens/tem irmãos ou irmãs?)**  
+<!--***Question:*** **'Have you got brothers or sisters?' (Tens/tem irmãos ou irmãs?)**  
 ***Answer:*** **'Yes, I have.' (Sim, tenho.); 'No, I haven't.' (Não, não tenho.)**  
-***Answer:*** **'I've got 1 brother and 2 sisters.' (Tenho um irmão e 2 irmãs.)**  
+***Answer:*** **'I've got 1 brother and 2 sisters.' (Tenho um irmão e 2 irmãs.)** --> 
 
 ***Perguntas:*** **'Who is it?' (Quem é?) ; 'Who's this?' (Quem é esta?); 'Who is he?' (Quem é ele?); 'Who is she?' (Quem é ela?)**  
 ***Respostas potenciais:*** **'My mother.' (A minha mãe.);'It's my mother.' (É a minha mãe.);'This is my mother.'(Isto é a minha mãe.)**
 ***Contexto:*** **p.ex. a apontar para fotos da família**
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/kgAPgBz90Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-***Nota***: No vídeo usa-se estruturas mais complexas: 'who's she?' (quem é ela?) e 'who's he?' (quem é ele?). Mas a principal prioridade é começar a reconhecer e responder à palavra 'Who?' (quem?).  
+  
 
-***Avaliação:*** Consegues apontar a fotografias da tua família e dizer quem é quem? p.ex. 'Mummy.', 'My mummy.', 'It's my mummy.' ou 'This is my mother.'  
+<!--***Avaliação:*** Consegues apontar a fotografias da tua família e dizer quem é quem? p.ex. 'Mummy.', 'My mummy.', 'It's my mummy.' ou 'This is my mother.'  
 
-<!--![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
+![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
 
 ![fmbk2](https://1blockatatime.github.io/English/images/fmbk2.png){:height="85px"}-->  
-
 
 #### Extensão opcional - para aprender 'tia', 'tio' e 'primo/prima'
 <iframe width="220" height="124" src="https://www.youtube.com/embed/FHaObkHEkHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -50,9 +50,8 @@
 
 [![edvfam2](https://1blockatatime.github.io/English/images/edvfam2.PNG){:height="75px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_5/no_5.htm) [![edvfam2pt](https://1blockatatime.github.io/English/images/edvfam2_pt.png){:height="90px"}](https://www.education.vic.gov.au/languagesonline/english/sect07/no_5/no_5.htm)  
 
-[![efgfm](https://1blockatatime.github.io/English/images/efgfm.PNG){:height="75px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html) [![efgfmpt](https://1blockatatime.github.io/English/images/efgfm_pt.png){:height="75px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html)  
-  
-<!--[![wfam1](https://1blockatatime.github.io/English/images/wfam1.PNG){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher) [![wfam1pt](https://1blockatatime.github.io/English/images/wfam1_pt.png){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)-->  
+<!--[![efgfm](https://1blockatatime.github.io/English/images/efgfm.PNG){:height="75px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html) [![efgfmpt](https://1blockatatime.github.io/English/images/efgfm_pt.png){:height="75px"}](https://englishflashgames.blogspot.pt/2010/10/family-vocabulary-game.html) 
+[![wfam1](https://1blockatatime.github.io/English/images/wfam1.PNG){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher) [![wfam1pt](https://1blockatatime.github.io/English/images/wfam1_pt.png){:height="75px"}](http://www.english-time.eu/hry/family-tree.php?zpet=teacher)-->  
 
 ***
 
@@ -68,6 +67,9 @@
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil demais ou leve à frustraçao deve ser descontinuada imediatamente.
 * Ensure the sound is switched on. Many activities have a voiceover, a listening comprehension component or a button with a picture of a speaker that enables the user to hear the correct pronunciation for the word or the sentence. / Certifiquem-se de que o som está ligado. Várias actividades tem um enunciado, uma componente auditiva ou um botão com uma imagem de um altifalante que permite ouvir a pronúncia correta da palavra ou da frase. ![spkr2](/images/spkr2.PNG)
 * Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. / Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
-* Some resources seem only to work with Internet Explorer so if an activity doesn't load in your habitual browser try Internet Explorer. / Alguns recursos parecem só funcionar com Internet Explorer, por isso, se uma actividade não carregar no browser habitual, tente no Internet Explorer.
-* Some resources require the browser to launch a recent version of Adobe Flash Player as a plug-in. Vários dos recursos requerem uma versão recente de Adobe Flash Player operacional como plug-in no browser.
-* Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
+* Some resources seem only to work with particular browsers so if an activity doesn't load in your habitual browser, please try a different browser. / Alguns recursos parecem só funcionar com determinados 'browsers', por isso, se uma actividade não carregar no seu browser habitual, queira experimentar usar outro.
+* Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.  / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
