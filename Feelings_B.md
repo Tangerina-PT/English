@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
-</script>
-</head>
-
 ### Feelings
 
 ***Questions:*** **'How are you?'(Como estás?);'Are you okay?'(Estás bem?)**  
@@ -32,7 +20,7 @@
 
 ***
 
-***Extensão opcional - queres aprender mais?*** **'I'm sleepy.' (Estou sonolento.'); 'I'm surprised.' (Estou supreendido.)'; 'I'm excited.' (Estou muito entusiasmado.); 'I'm bored.' (Estou aborrecido.); 'I'm shy.' ('Estou' tímido.); 'I'm worried' (Estou preocupado.)**  
+***Extensão opcional - queres aprender mais?*** **'I'm sleepy.' (Estou sonolento.); 'I'm surprised.' (Estou supreendido.)'; 'I'm excited.' (Estou muito entusiasmado.); 'I'm bored.' (Estou aborrecido.); 'I'm shy.' (Estou tímido.); 'I'm worried' (Estou preocupado.)**  
 
 [![emelf](/images/emelf.png){:height="60px"}](https://www.youtube.com/watch?v=xRlTTSpGUx4) ['Are you sad?'(Estás triste?); 'I'm so hungry.'(Tenho tanta fome.)](https://www.youtube.com/watch?v=xRlTTSpGUx4)  
 (I'm happy/sad/hungry/thirsty/hot/cold/tired/sleepy/surprised/scared/excited/bored.)  
