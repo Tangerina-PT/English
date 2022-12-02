@@ -15,8 +15,8 @@
 4. [![wehay2](/images/wehay2.PNG){:height="60px"}](https://www.youtube.com/watch?v=WkswguWRJ5Q)  
 (I'm thirsty/sick/hungry.)
 
-5. [![wkjg](/images/wkjg.png){:height="60px"}](https://www.youtube.com/watch?v=GoSq-yZcJ-4)  
-('We're not afraid.'- 'Nós não temos medo.')  
+<!--5. [![wkjg](/images/wkjg.png){:height="60px"}](https://www.youtube.com/watch?v=GoSq-yZcJ-4)  
+('We're not afraid.'- 'Nós não temos medo.')-->  
 
 ***
 
