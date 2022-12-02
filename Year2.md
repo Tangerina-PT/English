@@ -16,7 +16,7 @@
 
 #### [Topic 7 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)  
 
-#### [Topic 8 - Introduction to the verb 'to be'](https://tangerina-pt.github.io/English/To_Be) [![prep](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be)
+#### [Topic 8 - Introduction to the verb 'to be'](https://tangerina-pt.github.io/English/To_Be) [![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be)
 
 #### [Topic 9 - Talking about feelings](https://tangerina-pt.github.io/English/Feelings_B) [![prep](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)
 
