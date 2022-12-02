@@ -22,7 +22,7 @@
 
 #### [Topic 10 - Family](https://tangerina-pt.github.io/English/Family_B) [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_B)
 
-#### [Topic 11 - Introducing others](https://tangerina-pt.github.io/English/Intro_B) [![friend1](https://1blockatatime.github.io/English/images2/friend1.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Intro_B)
+#### [Topic 11 - Introducing and talking about others](https://tangerina-pt.github.io/English/Intro_B) [![friend1](https://1blockatatime.github.io/English/images2/friend1.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Intro_B)
 
 #### [Topic 12 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)[![hsktbw](https://1blockatatime.github.io/English/images/hsktbw.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_B)
 
