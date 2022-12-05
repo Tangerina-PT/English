@@ -20,6 +20,10 @@ NB: Este vídeo usa as expressões p.ex. 'It's raining.' (Está a chover.) em co
 Clica nas imagens para ouvir como descrever o tempo...  
 [![lvwkwth1](https://1blockatatime.github.io/English/images2/lvwkwth1.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What_is_the_weather_like$_rl3164655zn)  
 
+Pratica a leitura. Ouvir o livro primeiro e depois, desliga o som e lê tu o livro:  
+NB: 'Look at ...' ('Olha para ...')  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/zctxOHE6TKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 ***Question:*** **'How's the weather today?' (Como é que está o tempo hoje?)**  
 ***Question:*** **'Is it sunny?' (Está sol?)**  
 
