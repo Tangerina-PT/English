@@ -21,12 +21,16 @@ Exercício: Clica na altifalante em cima da imagem do menino. Arrasta a imagem d
 <iframe width="220" height="124" src="https://www.youtube.com/embed/5e3kVR3wSSM?end=38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***Aprende os nomes de mais peças de roupa em inglês***  
-**Vocabulário adicional mais importante: t-shirt; shorts - calcões; pants(US)=trousers(UK) - calças; dress - vestido; skirt - saia; sweater(US)=jumper(UK) - camisola; socks - meias**  
+**Vocabulário adicional mais importante: t-shirt; shorts - calcões; pants(US)=trousers(UK) - calças; dress - vestido; skirt - saia; sweater(US)=jumper(UK) - camisola; socks - meias**   
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/pHer1COWyrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 Exercício: Clica na altifalante em cima da imagem do menino. Arrasta a imagem da peça de roupa para dentro da caixa para o canto superior esquerdo. Se não sabes qual é, clica nas altifalantes por baixo das imagens da roupa para verificar. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.   
 [![lvwkcl2](https://1blockatatime.github.io/English/images2/lvwkcl2.png){:height="60px"}](https://www.liveworksheets.com/ex1234913zn)  
+
+**Vocabulário adicional: shirt - camisa; blouse - blusa**  
+Exercício: Clica na altifalante. Escolha a peça de roupa correspondente. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+[![lvwkcl3](https://1blockatatime.github.io/English/images2/lvwkcl3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Clothes/Clothes_hz2655083of)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
