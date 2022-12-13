@@ -8,7 +8,7 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-jBfb33_KHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-***Vocabulário adicional:*** **inside - dentro; take off - tirar**  
+***Vocabulário adicional:*** **inside - dentro; take off - tirar/despir**  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/tE-CZkUplRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***Vocabulário adicional:*** **coat - casaco (tipicamente mais comprido), gloves - luvas**  
