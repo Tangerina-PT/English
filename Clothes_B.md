@@ -31,12 +31,23 @@ Exercício: Clica na altifalante em cima da imagem do menino. Arrasta a imagem d
 Exercício: Clica na altifalante. Escolha a peça de roupa correspondente. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkcl3](https://1blockatatime.github.io/English/images2/lvwkcl3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Clothes/Clothes_hz2655083of)  
 
-***Question:*** **'What is it? (O que é?)**  
-***Answer:*** **'It's a jumper? (É uma camisola?)**  
-***Question:*** **'What are they? (O que são?)**    
-***Answer:*** **'They are trouser.' (São calças.)**  
+***Question:*** **'What is it?' (O que é?)**  
+***Answer:*** **'It's a jumper?' (É uma camisola?)**  
+***Question:*** **'What are they?' (O que são?)**    
+***Answer:*** **'They are trousers.' (São calças.)**  
 Exercício: Clica nos auscultadores. Clica na imagem correspondente. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.   
 [![lvwkcl4](https://1blockatatime.github.io/English/images2/lvwkcl4.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Clothes/Tiger_New_2._Unit_3._Clothes_Vocabulary_1_po1438053cs)  
+
+***Structure:*** **'My shirt is white. (A minha camisa é branco.); 'My boots are black.' (As minhas botas são pretas.)**  
+**Exercício:** Lê a frase. Escreve a palavra que falta. Todas as palavras aparecem na caixa de cima. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+[![lvwkcl8](https://1blockatatime.github.io/English/images2/lvwkcl8.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Clothes/Clothing_xz2692390dc)  
+
+***Question:*** **'What is she wearing?' (O que é que ela está a usar/vestir?); 'What is he wearing?' (O que é que ele está a usar/vestir?)**  
+***Answer:*** **'She is wearing a blue cap and red boots.' (Ela está a usar um bonet azul e botas vermelhos.'); 'He is wearing jeans and a green t-shirt.' (Ele está a usar calças de ganga e um t-shirt verde.)**  
+**Exercício:** Lê a descrição de como está vestido a criança. Escreve o número do menino/da menina no círculo. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.   
+[![lvwkcl12](https://1blockatatime.github.io/English/images2/lvwkcl12.png){:height="60px"}](https://www.liveworksheets.com/od2345253cq)  
+
+
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
