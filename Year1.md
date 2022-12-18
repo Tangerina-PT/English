@@ -29,7 +29,7 @@ Year 1 English
 ### [Topic 7 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A) [![body](https://1blockatatime.github.io/English/images/body.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_A)
 ### [Topic 8 - Shapes](https://tangerina-pt.github.io/English/Shapes_A) [![shape](https://1blockatatime.github.io/English/images/shape.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Shapes_A)
 ### [Topic 9 - Animals](https://tangerina-pt.github.io/English/Animals_A)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_A)
-### [Topic 10 - Clothes](https://tangerina-pt.github.io/English/Clothes_A)[![poys](https://1blockatatime.github.io/English/images/poys.png){:height="30px"}](https://tangerina-pt.github.io/English/Clothes_A)
+### [Topic 10 - Clothes](https://tangerina-pt.github.io/English/Clothes_A)[![poys](https://1blockatatime.github.io/English/images2/poys.png){:height="30px"}](https://tangerina-pt.github.io/English/Clothes_A)
 ### [Topic 11 - Feelings](https://tangerina-pt.github.io/English/Feelings_A) [![hoyt](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_A)  
 ### [Topic 12 - Family](https://tangerina-pt.github.io/English/Family_A) [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_A)
 ### [Topic 13 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)  
