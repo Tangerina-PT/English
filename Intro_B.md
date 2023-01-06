@@ -15,9 +15,10 @@
 [![lvwkfa39](https://1blockatatime.github.io/English/images2/lvwkfa39.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq) [![lvwkfa39pt](https://1blockatatime.github.io/English/images2/lvwkfa39_pt.png){:height="100px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/This_is_my_family_ui342153qq)  
 
 [![lvwkfa41](https://1blockatatime.github.io/English/images2/lvwkfa41.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de) [![lvwkfa41pt](https://1blockatatime.github.io/English/images2/lvwkfa41_pt.png){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Family_members/Family_members_vb258011de)   
+
 ***
 
-<!--### His name is... Her name is... (O nome dele/dela é ... = O seu nome é ...) 
+### His name is... Her name is... (O nome dele/dela é ... = O seu nome é ...) 
 
 ***Question:*** **'What's her name?' ('O que é o nome dela?' -> Como é que ela se-chama?)**  
 ***Answer:*** **'Her name is Jane.' ('O nome dela é Jane.')**  
@@ -46,7 +47,7 @@ Gogo’s Adventures(3) by K. Methold et al (ed.Pearson)
 ***Question:*** **'How old is he?' ('Quão velho é ele?' -> Que idade tem (ele)?)**  
 ***Answers:*** **'Seven.' (7); 'He is seven.' = 'He's seven.' (Ele tem 7.); 'He is seven years old.' = 'He's seven years old.' (Ele tem 7 anos.)**  
 ***Question:*** **'How old is she?' ('Quão velho é ela?' -> Que idade tem (ela)?)**  
-***Answers:*** **'Seven.' (7); 'She is seven.' = 'She's seven.' (Ela tem 7); 'She is seven years old.' = 'She's seven years old.' (Ela tem 7 anos.)**-->  
+***Answers:*** **'Seven.' (7); 'She is seven.' = 'She's seven.' (Ela tem 7); 'She is seven years old.' = 'She's seven years old.' (Ela tem 7 anos.)**  
 
 ### He is... (Ele é... /ele está...) She is... (Ela é.../ Ela está...) 
 
