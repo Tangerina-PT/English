@@ -12,6 +12,7 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/fMR8Hr9Xby4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+***Answers:*** **'I'm hot.' ('Estou com calor.'); 'I'm cold.' (Estou com frio.)**  
 ***Question:*** **'Are you okay?'(Estás bem?)**  
 
 ***
