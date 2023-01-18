@@ -1,12 +1,22 @@
-### Toys - aprende os nomes dos brinquedos
+### Toys
 
-#### Jogos -'Listening'/ Compreensão do Oral
+####  Aprende os nomes dos brinquedos. Ouve e repete... 
+
+<!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
+(2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/yk6zxpRoh9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/gGxaTfzmuMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+####  Verfica se já sabes os nomes dos brinquedos.
+
+
+##### Jogos -'Listening'/ Compreensão do Oral
 
 [![toyslvwk1](https://1blockatatime.github.io/English/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](https://1blockatatime.github.io/English/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 
 [![mety](https://1blockatatime.github.io/English/images2/mety.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](https://1blockatatime.github.io/English/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
 
-#### Trabalhar a leitura
+##### Trabalhar a leitura
 
 [![toyslvwk5](https://1blockatatime.github.io/English/images/toyslvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu) [![toyslvwk5b](https://1blockatatime.github.io/English/images/toyslvwk5b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)   
 
@@ -16,7 +26,7 @@
 
 [![tyqz1](https://1blockatatime.github.io/English/images/tyqz1.PNG){:height="60px"}](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)  
 
-#### Extensão
+##### Extensão
 
 [![atsc](https://1blockatatime.github.io/English/images/atsc.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysSpelling.htm) [Rearrange the letters to spell the words](http://www.anglomaniacy.pl/toysSpelling.htm)^^  
 
