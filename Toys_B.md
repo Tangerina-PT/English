@@ -1,15 +1,15 @@
 ### Toys
 
-#### Parte 1: Já sabes os nomes dos brinquedos? Podes fazer uma revisão aqui - ouve e repete ao ver os vídeos... 
+#### Parte 1: Já sabes os nomes dos brinquedos? Ouve e repete... 
 
 <!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 (2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/yk6zxpRoh9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/gGxaTfzmuMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[Jogos/exercícios para aprender os nomes dos brinquedos](https://tangerina-pt.github.io/English/Toys_B_Vocab) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B_Vocab)  
+[Clica aqui para os jogos/exercícios para verificar se já sabes os nomes dos brinquedos](https://tangerina-pt.github.io/English/Toys_B_Vocab) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B_Vocab)  
 
-Se já sabes os nomes dos brinquedos, estás pronto para falar deles...  
+Se já sabes mesmo, estás pronto para falar deles...  
 
 #### Parte 2: What is it? (O que é?)
 **(Tenta responder à pergunta antes da imagem aparecer...)**  
