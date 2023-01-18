@@ -1,6 +1,6 @@
 ### Toys
 
-#### Parte 1: Aprender os nomes dos brinquedos - ouvir e repetir 
+#### Parte 1: Já sabes os nomes dos brinquedos? Podes fazer uma revisão aqui - ouve e repete ao ver os vídeos... 
 
 <!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
 (2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
@@ -17,7 +17,8 @@ Se já sabes os nomes dos brinquedos, estás pronto para falar deles...
 ***Question:*** **'What is it?' (O que é?)**  
 ***Answer:*** **'It's a ball.' (É uma bola.)**  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/8-SWzpdcl6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/1WtI9oWyXaM?start=6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+<iframe width="220" height="124" src="https://www.youtube.com/embed/8-SWzpdcl6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [![wiitm](https://1blockatatime.github.io/English/images2/wiitm.png)](https://www.youtube.com/watch?v=1WtI9oWyXaM&t=15s)  
+(Vídeo 3 de Fun Kids English; Vídeo 4 de Inglês com Marie)   
 
 #### Parte 3: I've got a ball. (Eu tenho uma bola.)
 
@@ -26,6 +27,7 @@ Se já sabes os nomes dos brinquedos, estás pronto para falar deles...
 ***Answer (+):*** **'I've got a ball.' (Tenho uma bola.)**  
 ***Answer (-):*** **'I haven't got a ball.' (Não tenho uma bola.)**  
 
+Consegues dizer a frase que a personagem vai dizer antes do próprio falar?  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ibTiIaI6KsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 #### Parte 4: Where is my robot?/Onde está o meu robó?
