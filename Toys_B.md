@@ -1,36 +1,41 @@
 ### Toys
 
-#### Parte 1: Já sabes os nomes dos brinquedos? Ouve e repete... 
-
-<!---(1). [![wedt](/images/wedt.PNG)](https://www.youtube.com/watch?v=0tBTF6qV1ZY) [WOW English - Dangerous toys](https://www.youtube.com/watch?v=0tBTF6qV1ZY)
-(2). [![wemt](/images/wemt.PNG)](https://www.youtube.com/watch?v=mMo8cWHXlck) [WOW English - Magic toys](https://www.youtube.com/watch?v=mMo8cWHXlck)-->
-
-<iframe width="220" height="124" src="https://www.youtube.com/embed/yk6zxpRoh9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/gGxaTfzmuMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-[Clica aqui para os jogos/exercícios para verificar se já sabes os nomes dos brinquedos](https://tangerina-pt.github.io/English/Toys_B_Vocab) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B_Vocab)  
-
+Já sabes os nomes dos brinquedos?  
+[Clica aqui para os vídeos, jogos e exercícios para aprender/verificar](https://tangerina-pt.github.io/English/Toys_B_Vocab) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B_Vocab)  
 Se já sabes mesmo, estás pronto para falar deles...  
 
-#### Parte 2: What is it? (O que é?)
-**(Tenta responder à pergunta antes da imagem aparecer...)**  
+***  
 
 ***Question:*** **'What is it?' (O que é?)**  
 ***Answer:*** **'It's a ball.' (É uma bola.)**  
 
+Vídeo exercício: Tenta responder à pergunta antes da voz no vídeo. Consegues usar uma frase inteira?  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/8-SWzpdcl6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [![wiitm](https://1blockatatime.github.io/English/images2/wiitm.png)](https://www.youtube.com/watch?v=1WtI9oWyXaM&t=15s)  
 (Vídeo 3 de Fun Kids English; Vídeo 4 de Inglês com Marie)   
 
-#### Parte 3: I've got a ball. (Eu tenho uma bola.)
+***  
 
-***Question:*** **'Have you got a ball?' (Tem/tens uma bola?)**  
-
+Question: 'Have you got a ball?' (Tem/tens uma bola?)  
 ***Answer (+):*** **'I've got a ball.' (Tenho uma bola.)**  
 ***Answer (-):*** **'I haven't got a ball.' (Não tenho uma bola.)**  
 
-Consegues dizer a frase que a personagem vai dizer antes do próprio falar?  
+Vídeo exercício: Consegues dizer a frase que a personagem vai dizer antes do próprio falar?  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ibTiIaI6KsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-#### Parte 4: Where is my robot?/Onde está o meu robó?
+Exercício de compreensão oral  
+
+Para cada criança, clica na seta/triângulo para ouvir que brinquedo tem. Arrasta a imagem correcta para dentro da caixa dele/dela. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+[![lvwktoyhvgt3](https://1blockatatime.github.io/English/images2/lvwktoyhvgt3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Have_you_got_a_toy$_ue3042184qr)  
+
+Exercícios de leitura:  
+
+Cada linha pergunta a uma das crianças se tem um determinado brinquedo. Vê a imagem e clica na resposta que a criança perguntado vai dar: 'Yes, I have.' (Sim, tenho.) OU 'No, I haven't.' (Não, não tenho.). Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+[![lvwktoyhvgt2](https://1blockatatime.github.io/English/images2/lvwktoyhvgt2.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/KIDS_1_-_TOYS_%5E_HAVE_YOU_GOT_...$_hl2931087oy)  
+
+Lê o que as crianças estão a dizer. Para cada, clica em 'TRUE' (verdadeiro) ou 'FALSE' (falso). Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+[![lvwktoyhvgt1](https://1blockatatime.github.io/English/images2/lvwktoyhvgt1.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Have_you_got_a_toy$2_dg648854ec)  
+
+***  
 
 ***Question:*** **'Where is my teddy bear?' (Onde está o meu urso peluche?)**  
 ***Answer:*** **'It's on the bed.' (Está em cima da cama.)**  
