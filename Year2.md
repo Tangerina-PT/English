@@ -26,17 +26,19 @@
 
 #### [Topic 12 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)[![hsktbw](https://1blockatatime.github.io/English/images/hsktbw.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_B)
 
-#### [Topic 13 - Talking about toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)  
+#### [Topic 13 - Talking about animals](https://tangerina-pt.github.io/English/Animals_B)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_B)
 
-#### [Topic 14 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)
+#### [Topic 14 - Introduction to the verb 'to have got'](https://tangerina-pt.github.io/English/To_Have_Got)[![pet2](https://1blockatatime.github.io/English/images/pet2.PNG){:height="30px"}](https://tangerina-pt.github.io/English/To_Have_Got)
 
-#### [Topic 15 - Talking about animals](https://tangerina-pt.github.io/English/Animals_B)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_B)
+#### [Topic 15 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)
 
-#### [Topic 16 - Food](https://tangerina-pt.github.io/English/Food_B) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_B)  
+#### [Topic 16 - Talking about toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)  
 
-#### [Topic 17 - Actions](https://tangerina-pt.github.io/English/Actions_B)[![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_B)  
+#### [Topic 17 - Food](https://tangerina-pt.github.io/English/Food_B) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_B)  
 
-#### [Topic 18 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_B) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_B)
+#### [Topic 18 - Actions](https://tangerina-pt.github.io/English/Actions_B)[![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_B)  
+
+#### [Topic 19 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_B) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_B)
 
 #### [Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_B) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_B)
 
