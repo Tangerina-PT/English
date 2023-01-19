@@ -1,13 +1,18 @@
-### Introduction to the verb 'to have got' (UK/RU:'ter' - sentido de possessão/no presente; US/EUA -'to have')
-
-#### Have you got a pet? (Tu tens/Você tem um animal de estimação/doméstico?)
+### Introduction to the verb 'to have got' 
+('ter' - sentido de possessão/no presente)
 
 ***Question:*** **'Have you got a pet?' (Tu tens/Você tem um animal doméstico?)**  
 ***Answer:*** **'Yes, I have.' (Sim, eu tenho.)**  
-***Answer:*** **'I've got a ...' (Eu tenho um/uma ...)** 
+***Answer:*** **'I've got a ...' (Eu tenho um/uma ...)**  
 NB: I've = I have  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/6qh_qTOgkhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+Já fizeste o TPC? (1). Consegues ouvir a música e levantar as frases e imagens na altura certa? (2). Consegues cantar e levantar?  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/SlSTigQVEo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
+A música é muito rápida, mesmo pondo mais devagar (playback speed=0.75). Como alternativa (1). Ouve e aponta (2). Canta e aponta.  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/4qFiE91N758" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 Exercício: Clica na altifalante. Arrasta a imagem correcta para dentro da caixa. Alinha o canto superior esquerdo da imagem e caixa. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhvgot2](https://1blockatatime.github.io/English/images2/lvwkhvgot2.png){:height="60px"}](https://www.liveworksheets.com/yx775098lu)  
@@ -18,6 +23,8 @@ Exercício: Lê a pergunta. Vê a imagem. Clica na resposta correcta. Ao acabar,
 Exercício: Lê a pergunta. Vê a imagem. Clica na resposta correcta. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhvgot5](https://1blockatatime.github.io/English/images2/lvwkhvgot5.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Animals/Have_you_got_a_pet$_ol69cs)  
 
+***  
+
 ***Question:*** **'Have you got a ruler?' (Tu tens/Você tem uma régua?)**  
 ***Answer (+):*** **'Yes, I have.' (Sim, eu tenho.)**  
 ***Answer (+):*** **'I've got a ...' (Eu tenho um/uma ...)**  
@@ -27,8 +34,10 @@ NB: I haven't = I have not
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/SAvYKxATAmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
+***
+
 ***  
-Agora, falando do que uma outra pessoa tem ou não tem...  
+Extensão: Falando do que uma outra pessoa tem ou não tem...  
 
 ***Question:*** **'Has he got a ruler?' (Ele tem uma régua?) / 'Has she got a pencil?' (Ela tem um lápis.)**  
 ***Answer (+):*** **'Yes, he has.' (Sim, ele tem.); 'Yes, she has.' (Sim, ela tem.)**  
