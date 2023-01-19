@@ -1,7 +1,7 @@
 ### Introduction to the verb 'to have got' 
 ('ter' - sentido de possessão/no presente)
 
-***Question:*** **'Have you got a pet?' (Tu tens/Você tem um animal doméstico?)**  
+***Question:*** **'Have you got a pet?' (Tu tens/Você tem um animal de estimação/doméstico?)**  
 ***Answer:*** **'Yes, I have.' (Sim, eu tenho.)**  
 ***Answer:*** **'I've got a ...' (Eu tenho um/uma ...)**  
 NB: I've = I have  
@@ -14,13 +14,13 @@ Já fizeste o TPC? (1). Consegues ouvir a música e levantar as frases e imagens
 A música é muito rápida, mesmo pondo mais devagar (playback speed=0.75). Como alternativa (1). Ouve e aponta (2). Canta e aponta.  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/4qFiE91N758" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-Exercício: Clica na altifalante. Arrasta a imagem correcta para dentro da caixa. Alinha o canto superior esquerdo da imagem e caixa. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+**Exercício:** Clica na altifalante. Arrasta a imagem correcta para dentro da caixa. Alinha o canto superior esquerdo da imagem e caixa. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhvgot2](https://1blockatatime.github.io/English/images2/lvwkhvgot2.png){:height="60px"}](https://www.liveworksheets.com/yx775098lu)  
 
-Exercício: Lê a pergunta. Vê a imagem. Clica na resposta correcta. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+**Exercício:** Lê a pergunta. Vê a imagem. Clica na resposta correcta. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhvgot4](https://1blockatatime.github.io/English/images2/lvwkhvgot4.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Pets/Have_you_got_a_pet$_et1544572tb)  
 
-Exercício: Lê a pergunta. Vê a imagem. Clica na resposta correcta. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+**Exercício:** Lê a pergunta. Vê a imagem. Clica na resposta correcta. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhvgot5](https://1blockatatime.github.io/English/images2/lvwkhvgot5.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Animals/Have_you_got_a_pet$_ol69cs)  
 
 ***  
@@ -37,7 +37,7 @@ NB: I haven't = I have not
 ***
 
 ***  
-Extensão: Falando do que uma outra pessoa tem ou não tem...  
+**Extensão:** Falando sobre o que uma outra pessoa tem ou não tem...  
 
 ***Question:*** **'Has he got a ruler?' (Ele tem uma régua?) / 'Has she got a pencil?' (Ela tem um lápis.)**  
 ***Answer (+):*** **'Yes, he has.' (Sim, ele tem.); 'Yes, she has.' (Sim, ela tem.)**  
@@ -45,10 +45,10 @@ Extensão: Falando do que uma outra pessoa tem ou não tem...
 ***Answer (-):*** **'No, he hasn't.' (Não, ele não tem.); 'No, she hasn't.' (Não, ela não tem.)**  
 ***Answer (-):*** **'He hasn't got a ruler.' (Ele não tem uma régual.); 'She hasn't got a pencil.' (Ela não tem um lápis.)**  
 
-Exercício: Clica nas altifalantes para ouvir como dizer 'He has got...' e 'She has got...'. Arrasta as frases que descrevem as feições que o menino e a menina têm para o lado certo. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+**Exercício:** Clica nas altifalantes para ouvir como dizer 'He has got...' e 'She has got...'. Arrasta as frases que descrevem as feições que o menino e a menina têm para o lado certo. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhasgot1](https://1blockatatime.github.io/English/images2/lvwkhasgot1.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Have_got_-_Has_got/She_has_got_-_He_has_got_sf1209624gc)  
 
-Exercício: Clica nas altifalantes para ouvir como dizer 'He has got...' e 'She has got...'. Arrasta as frases que descrevem as feições que o menino e a menina têm para o lado certo. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+**Exercício:** Clica nas altifalantes para ouvir como dizer 'He has got...' e 'She has got...'. Arrasta as frases que descrevem as feições que o menino e a menina têm para o lado certo. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhasgot4](https://1blockatatime.github.io/English/images2/lvwkhasgot4.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Have_got_-_Has_got/Have_you_got_a_pet$_me1524947og)  
 NB: 'budgie' = 'budgerigar' (periquito comum)  
 
