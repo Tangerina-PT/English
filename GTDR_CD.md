@@ -2,10 +2,11 @@
 
 ### Canta a canção  
 **I'm feeling ill** (Estou a sentir-me doente)  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/Wmb6xZCC1WE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/Aj5zbGYhmnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/Wmb6xZCC1WE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+(Song and video by Macmillan Publishers)   
 [Vê aqui a letra da canção e a tradução](https://tangerina-pt.github.io/English/ILLSW)  
 
-* Clica na seta preta na barra cinzenta. Ouve a canção e escolha as palavras que faltam. Ao acabar, clica na barra azul em baixo: 'Finish' (acabar) e a seguir na lupa para a correcção:     
+* Clica na seta preta na barra cinzenta. Lê as palavras ao ouvires a canção. Escolha as palavras que faltam. Ao acabar, clica na barra azul em baixo: 'Finish' (acabar) e a seguir na lupa para ver a correcção:     
 [![lvwkdr](https://1blockatatime.github.io/English/images/lvwkdr.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq) [Exercício de Liveworksheets](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Worksheets_with_songs/I'm_feeling_ill_song_(multiple_choice)_ki230441hq)
 
 ### Aprender o vocabulário  
@@ -38,7 +39,7 @@ palavra 'INTERACTIVES'. Joga **'Match up'**, **'Find the match'** e **'Balloon p
 
 ***Question:*** **'Have you got a headache?' (Tens uma dor de cabeça?)**  
 ***Answer:*** **'Yes, I have.' (Sim, tenho.)** Dar a carta.  
-***Answer:*** **'No, I haven't.' (Não, não tenho.)**  
+***Answer:*** **'No, I haven't.' (Não, não tenho.) 'Go fish!' (Vai pescar.)**  
 
 <!--### Pratica a leitura em inglês
 * Ouve e lê a história. A seguir desliga o som e tenta ler o livro sozinho.  
@@ -48,6 +49,8 @@ palavra 'INTERACTIVES'. Joga **'Match up'**, **'Find the match'** e **'Balloon p
 ### Vê os vídeo-histórias
 * O Gogo está doente.... e o Jay e a Sue também e vão ao médico...  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/GvJY0qHVKHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/848rfVdA9wQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+***  
 
 ###  TPC - Trabalhos para casa opcionais  
 Lanço o repto! Cria um pequeno vídeo com um diálogo em inglês:   
