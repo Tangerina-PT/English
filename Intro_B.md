@@ -44,12 +44,15 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/IbO3DrFh61I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 Gogo’s Adventures(3) by K. Methold et al (ed.Pearson)  
 
+***
+### Age (idade)
+
 ***Question:*** **'How old is he?' ('Quão velho é ele?' -> Que idade tem (ele)?)**  
 ***Answers:*** **'Seven.' (7); 'He is seven.' = 'He's seven.' (Ele tem 7.); 'He is seven years old.' = 'He's seven years old.' (Ele tem 7 anos.)**  
 ***Question:*** **'How old is she?' ('Quão velho é ela?' -> Que idade tem (ela)?)**  
 ***Answers:*** **'Seven.' (7); 'She is seven.' = 'She's seven.' (Ela tem 7); 'She is seven years old.' = 'She's seven years old.' (Ela tem 7 anos.)**  
-
-### He is... (Ele é... /ele está...) She is... (Ela é.../ Ela está...) 
+***Question:*** **'How old is it?' ('Quão velho é?' -> Que idade tem? (uma coisa))**   
+***Answers:*** **'Seven.' (7); 'It is seven years old.'(Tem 7 anos. (uma coisa))**  
 
 [![iolvwk5](https://1blockatatime.github.io/English/images2/iolvwk5.PNG){:height="75px"}](https://www.liveworksheets.com/vd509783sy) [![iolvwk5pt](https://1blockatatime.github.io/English/images2/iolvwk5_pt.png){:height="100px"}](https://www.liveworksheets.com/vd509783sy)´   
 
@@ -59,18 +62,17 @@ Gogo’s Adventures(3) by K. Methold et al (ed.Pearson)
 
 ***
 
-<!--To be continued... / A continuar...  
-### Trabalhos para casa
+<iframe width="220" height="124" src="https://www.youtube.com/embed/-c2fTfToshA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
+Para poder dizer mais sobre os outros ou outras coisas, trabalhar como descrever ...   
+
+<!--
+### Trabalhos para casa
 Se tiveres tempo e a oportunidade,     
 (i). podes fazer uma banda desenhada com o desenho de dois amigos teus (um rapaz e uma rapariga) e escrever a apresentação dos teus amigos OU  
 ![io_trab](https://1blockatatime.github.io/English/images2/io_trab.jpg){:height="250px"}  
 (ii). podes desenhar dois amigos (sem escrever) e fazer um vídeo a apresentá-los.  
-Junto aqui um exemplo com bonecos.  
-
-<iframe width="220" height="124" src="https://www.youtube.com/embed/-c2fTfToshA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-
-Se quiseres, podes também dizer-nos mais alguma coisa sobre o teus amigos p.ex. 'He is happy.' (Ele está contente.), 'She is hungry.' (Ela está com fome.)-->   
+Junto aqui um exemplo com bonecos.-->  
 
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="45px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
@@ -82,4 +84,7 @@ Se quiseres, podes também dizer-nos mais alguma coisa sobre o teus amigos p.ex.
 * Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. / Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
 * Some resources seem only to work with particular browsers so if an activity doesn't load in your habitual browser, please try a different browser. / Alguns recursos parecem só funcionar com determinados 'browsers', por isso, se uma actividade não carregar no seu browser habitual, queira experimentar usar outro.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.  / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
-
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
