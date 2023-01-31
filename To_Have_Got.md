@@ -1,4 +1,4 @@
-### Introduction to the verb 'to have got' 
+### Introduction to the verb 'to have got' (Part 1)
 ('ter' - sentido de possessão/no presente)
 
 ***Question:*** **'Have you got a pet?' (Tu tens/Você tem um animal de estimação/doméstico?)**  
