@@ -35,7 +35,7 @@ NB: I haven't = I have not
 <iframe width="220" height="124" src="https://www.youtube.com/embed/SAvYKxATAmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 ***
-
+<!--
 ***  
 **Extensão:** Falando sobre o que uma outra pessoa tem ou não tem...  
 
@@ -50,7 +50,7 @@ NB: I haven't = I have not
 
 **Exercício:** Clica nas altifalantes para ouvir como dizer 'He has got...' e 'She has got...'. Arrasta as frases que descrevem as feições que o menino e a menina têm para o lado certo. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhasgot4](https://1blockatatime.github.io/English/images2/lvwkhasgot4.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Have_got_-_Has_got/Have_you_got_a_pet$_me1524947og)  
-NB: 'budgie' = 'budgerigar' (periquito comum)  
+NB: 'budgie' = 'budgerigar' (periquito comum)-->  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
