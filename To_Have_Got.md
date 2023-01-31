@@ -14,14 +14,14 @@ Já fizeste o TPC? (1). Consegues ouvir a música e levantar as frases e imagens
 A música é muito rápida, mesmo pondo mais devagar (playback speed=0.75). Como alternativa (1). Ouve e aponta (2). Canta e aponta.  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/4qFiE91N758" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-**Exercício:** Clica na altifalante. Arrasta a imagem correcta para dentro da caixa. Alinha o canto superior esquerdo da imagem e caixa. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
+<!--**Exercício:** Clica na altifalante. Arrasta a imagem correcta para dentro da caixa. Alinha o canto superior esquerdo da imagem e caixa. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhvgot2](https://1blockatatime.github.io/English/images2/lvwkhvgot2.png){:height="60px"}](https://www.liveworksheets.com/yx775098lu)  
 
 **Exercício:** Lê a pergunta. Vê a imagem. Clica na resposta correcta. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwkhvgot4](https://1blockatatime.github.io/English/images2/lvwkhvgot4.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Pets/Have_you_got_a_pet$_et1544572tb)  
 
 **Exercício:** Lê a pergunta. Vê a imagem. Clica na resposta correcta. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
-[![lvwkhvgot5](https://1blockatatime.github.io/English/images2/lvwkhvgot5.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Animals/Have_you_got_a_pet$_ol69cs)  
+[![lvwkhvgot5](https://1blockatatime.github.io/English/images2/lvwkhvgot5.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Animals/Have_you_got_a_pet$_ol69cs)-->  
 
 ***  
 
@@ -35,13 +35,11 @@ NB: I haven't = I have not
 <iframe width="220" height="124" src="https://www.youtube.com/embed/SAvYKxATAmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 ***
-<!--
-***  
-**Extensão:** Falando sobre o que uma outra pessoa tem ou não tem...  
+<!--**Extensão:** Falando sobre o que uma outra pessoa tem ou não tem...  
 
 ***Question:*** **'Has he got a ruler?' (Ele tem uma régua?) / 'Has she got a pencil?' (Ela tem um lápis.)**  
 ***Answer (+):*** **'Yes, he has.' (Sim, ele tem.); 'Yes, she has.' (Sim, ela tem.)**  
-***Answer (+):*** **'He has got a ruler.' (Ele tem uma régua.); 'She has got a ruler.' (Ela tem um lápis.)**  
+***Answer (+):*** **'He has got a ruler.' (Ele tem uma régua.); 'She has got a pencil.' (Ela tem um lápis.)**  
 ***Answer (-):*** **'No, he hasn't.' (Não, ele não tem.); 'No, she hasn't.' (Não, ela não tem.)**  
 ***Answer (-):*** **'He hasn't got a ruler.' (Ele não tem uma régual.); 'She hasn't got a pencil.' (Ela não tem um lápis.)**  
 
