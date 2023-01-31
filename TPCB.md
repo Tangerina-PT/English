@@ -5,7 +5,7 @@
 #### 02/02/2023 - Quinta-feira dia 2 de fevereiro
 
 Para fazer até 09/02/2023 - quinta-feira dia 9 de fevereiro  
-**Material de estudo:** [Introducção ao verbo 'ter'](https://tangerina-pt.github.io/English/To_Have_Got)[![pet2](https://1blockatatime.github.io/English/images/pet2.PNG){:height="30px"}](https://tangerina-pt.github.io/English/To_Have_Got)  
+**Material de estudo:** [Introducção ao verbo 'ter'](https://tangerina-pt.github.io/English/To_Have_Got)[![pet2](https://1blockatatime.github.io/English/images/pet2.PNG){:height="30px"}](https://tangerina-pt.github.io/English/To_Have_Got)    
 **Exercícios:** Caderno digital (https://www.liveworksheets.com/) páginas 33,34,35  
 **Extensão opcional:** páginas 36,37    
 
@@ -13,7 +13,7 @@ Para fazer até 09/02/2023 - quinta-feira dia 9 de fevereiro
 
 #### Revisão
 
-**Material de estudo:** [Cumprimentos/introduções](https://tangerina-pt.github.io/English/Greetings_B)[![gtsym](https://1blockatatime.github.io/English/images/gtsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_B)
+**Material de estudo:** [Cumprimentos/introduções](https://tangerina-pt.github.io/English/Greetings_B)[![gtsym](https://1blockatatime.github.io/English/images/gtsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_B)  
 **Exercícios:** Caderno digital (https://www.liveworksheets.com/) páginas 1,2,3,4,5  
 
 #### Notes/Notas
