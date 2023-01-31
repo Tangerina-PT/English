@@ -1,6 +1,6 @@
 ## Year 2 English
 
-#### [Topic 0 - Making mini-books](https://tangerina-pt.github.io/English/minibooks)[![minibk](https://1blockatatime.github.io/English/images2/mk_mini_bks.png){:height="30px"}](https://tangerina-pt.github.io/English/minibooks)  
+#### [GUIA DE TRABALHOS PARA CASA](https://tangerina-pt.github.io/English/TPCB)
 
 #### [Topic 1 - Greetings/Introductions](https://tangerina-pt.github.io/English/Greetings_B)[![gtsym](https://1blockatatime.github.io/English/images/gtsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_B)
 
@@ -41,6 +41,8 @@
 #### [Topic 19 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_B) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_B)
 
 #### [Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_B) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_B)
+
+#### [Making mini-books](https://tangerina-pt.github.io/English/minibooks)[![minibk](https://1blockatatime.github.io/English/images2/mk_mini_bks.png){:height="30px"}](https://tangerina-pt.github.io/English/minibooks)  
 
 <!--#### [Topic 17 - Talking about others: his/her (o dele/a dela); he/she (ele/ela)](https://tangerina-pt.github.io/English/Others_B)-->
 
