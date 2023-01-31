@@ -4,14 +4,14 @@
 
 ***02/02/2023 - Quinta-feira dia 2 de fevereiro*** Para fazer até quinta-feira dia 9 de fevereiro  
 **Material de estudo:** [Introducção ao verbo 'ter'](https://tangerina-pt.github.io/English/To_Have_Got)[![pet2](https://1blockatatime.github.io/English/images/pet2.PNG){:height="30px"}](https://tangerina-pt.github.io/English/To_Have_Got)    
-**Exercícios:** Caderno digital (https://www.liveworksheets.com/) páginas 33,34,35  
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 33,34,35  
 **Extensão opcional:** páginas 36,37  
 
 ***  
 
 ***Revisão***  
 **Material de estudo:** [Cumprimentos/introduções](https://tangerina-pt.github.io/English/Greetings_B)[![gtsym](https://1blockatatime.github.io/English/images/gtsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_B)  
-**Exercícios:** Caderno digital (https://www.liveworksheets.com/) páginas 1,2,3,4,5  
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 1,2,3,4,5  
 
 #### Notes/Notas
 * Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil demais ou leve à frustraçao deve ser descontinuada imediatamente.
