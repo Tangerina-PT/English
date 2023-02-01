@@ -1,5 +1,8 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
+Vídeo para os pais re: TPC e como evitar dificuldades/frustrações com o uso do caderno digital.  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/EStAfJGn6n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ***  
 
 ***02/02/2023 - Quinta-feira dia 2 de fevereiro*** Para fazer até quinta-feira dia 9 de fevereiro  
