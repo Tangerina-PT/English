@@ -7,14 +7,15 @@ Vídeo para os pais re: TPC e como evitar dificuldades/frustrações com o uso d
 
 ***02/02/2023 - Quinta-feira dia 2 de fevereiro*** Para fazer até quinta-feira dia 9 de fevereiro  
 **Material de estudo:** [Introducção ao verbo 'ter'](https://tangerina-pt.github.io/English/To_Have_Got)[![pet2](https://1blockatatime.github.io/English/images/pet2.PNG){:height="30px"}](https://tangerina-pt.github.io/English/To_Have_Got)    
-**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 33, 34, 35  
-**Extensão opcional:** páginas 36, 37  
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas **32**, 33, 34
+**Extensão opcional:** páginas 35, 36
 
 ***  
 
 ***Revisão***  
 **Material de estudo:** [Cumprimentos/introduções](https://tangerina-pt.github.io/English/Greetings_B)[![gtsym](https://1blockatatime.github.io/English/images/gtsym.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_B)  
 **Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 1, 2, 3, 4, 5  
+Nota: o desenho de linhas na página 1 não está a funcionar para todos. Agradecia se pudessem esquecer a página 1 se não está a funcionar e experimentar a fazer página 33. Houve quem teve problemas com a página 1 mas não com a página 33, que também requer desenhar linhas. Obrigada.  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
