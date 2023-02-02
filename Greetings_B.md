@@ -1,6 +1,7 @@
 ### Greetings   
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/4lVzuPSvWBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> **NOVO** Agora, toda a canção - song by Tom Simek, Rockin' English  
+[Vê aqui a letra da canção e a tradução](https://tangerina-pt.github.io/English/GMSW)   
 
 ![grtxt](https://1blockatatime.github.io/English/images2/grtxt2.JPG){:height="120px"}  
 
