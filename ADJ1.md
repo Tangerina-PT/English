@@ -1,7 +1,11 @@
 ### Adjectives - adjetivos
 
-**Vocabulário - revisão:** ***big - grande; small/little - pequeno; hot - quente; cold - frio; happy - feliz; sad - triste***   
-**Vocabulário - novo:** ***short - baixo; tall - alto; heavy - pesado; light - leve/claro; fast - rápido; slow - lento***  
+**Vocabulário - revisão:** ***big - grande; little(small) - pequeno; clean - limpo***  
+**Vocabulário - novo:** ***long - comprido; short - curto/baixo; dirty - sujo; tall - alto***  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/3JZi2oDvPs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
+**Vocabulário - revisão:** ***big - grande; small(little) - pequeno; hot - quente; cold - frio; happy - feliz; sad - triste***   
+**Vocabulário - novo:** ***short - baixo(curto); tall - alto; heavy - pesado; light - leve/claro; fast - rápido; slow - lento***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Qfl9m0sff-4?start=97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
 
 **Vocabulário - revisão:** ***old - velho(idoso)***  
