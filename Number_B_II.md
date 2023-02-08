@@ -1,4 +1,4 @@
-j### Let's get to know the numbers 11 to 20...  / 
+### Let's get to know the numbers 11 to 20...  / 
 ### Vamos 'vir a saber' (conhecer) os números de 11 a 20...
 
 Se já consegues identificar os números 1 a 10 ao ouví-los fora de ordem, quer dizer [jogar bingo com 1 a 10 é fácil](https://www.abcya.com/games/number-bingo), estás pronto para trabalhar 11 a 20. 
