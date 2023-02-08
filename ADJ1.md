@@ -8,6 +8,9 @@
 **Vocabulário - novo:** ***short - baixo(curto); tall - alto; heavy - pesado; light - leve/claro; fast - rápido; slow - lento***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Qfl9m0sff-4?start=97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
 
+***
+
+**Exercícios**  
 **Vocabulário - revisão:** ***old - velho(idoso)***  
 **Vocabulário - novo:** ***fat - gordo; thin - magro; strong - forte; weak - fraco; young - jóvem***  
 [![lcadj1](https://1blockatatime.github.io/English/images2/lcadj1.png){:height="60px"}](https://www.learningchocolate.com/content/describing-people)  
