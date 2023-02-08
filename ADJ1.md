@@ -10,13 +10,13 @@
 
 **Vocabulário - revisão:** ***old - velho(idoso)***  
 **Vocabulário - novo:** ***fat - gordo; thin - magro; strong - forte; weak - fraco; young - jóvem***  
-[lcadj1](https://www.learningchocolate.com/content/describing-people)[![lcadj1](https://1blockatatime.github.io/English/images2/lcadj1.png)](https://www.learningchocolate.com/content/describing-people)  
+[![lcadj1](https://1blockatatime.github.io/English/images2/lcadj1.png){:height="60px"}](https://www.learningchocolate.com/content/describing-people)  
 1). Aprender - clica nos altifalantes para ouvir como dizer cada adjetivo.  
 Exercícios - Na ordem aqui indicada, clica nos rectângulos castanhos com escrita branca na barra de cima para os exercícios. Após acabar um exercício, clica no 'Check Answers' a direita na barra para ver a correcção.   
-2). Verifica se já sabes. Clica no altifalante e arrasta-o para a imagem correcta: ![lcmu3](/images/lcmu3.PNG)  
-3). Trabalha a leitura. Clica no altifalante e arrasta-o para a palavra correcta: ![lcmu1](/images/lcmu1.PNG). Arrasta a palavra para a imagem correcta: ![lcmu2](/images/lcmu2.PNG)  
+2). Verifica se já sabes. Clica no altifalante e arrasta-o para a imagem correcta: ![lcmu3](https://1blockatatime.github.io/English/images2/lcmu3.PNG)  
+3). Trabalha a leitura. Clica no altifalante e arrasta-o para a palavra correcta: ![lcmu1](https://1blockatatime.github.io/English/images2/lcmu1.PNG). Arrasta a palavra para a imagem correcta: ![lcmu2](https://1blockatatime.github.io/English/images2/lcmu2.PNG)  
 **Extensão**  
-4). Trabalhar a escrita/ortografia. Escreve a palavra correcta a beira de cada imagem: ![lcfi](/images/lcfi.PNG); Clica no altifalante e escreve a palavra: ![lcdi](/images/lcdi.PNG)   
+4). Trabalhar a escrita/ortografia. Escreve a palavra correcta a beira de cada imagem: ![lcfi](https://1blockatatime.github.io/English/images2/lcfi.PNG); Clica no altifalante e escreve a palavra: ![lcdi](https://1blockatatime.github.io/English/images2/lcdi.PNG)   
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
