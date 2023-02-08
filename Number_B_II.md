@@ -1,25 +1,31 @@
 ### Let's get to know the numbers 11 to 20...  / 
-### Vamos trabalhar os números de 11 a 20...
+### Vamos 'vir a saber' (conhecer) os números de 11 a 20...
 
-Se já consegues identificar os números 1 a 10 ao ouví-los fora de ordem, quer dizer [jogar bingo com 1 a 10 é fácil](https://www.abcya.com/games/number-bingo), estás pronto para trabalhar 11 a 20. Começa por ver este vídeo que diz cada número de forma clara e lenta para ouvires e repetires...  
+Se já consegues identificar os números 1 a 10 ao ouví-los fora de ordem, quer dizer [jogar bingo com 1 a 10 é fácil](https://www.abcya.com/games/number-bingo), estás pronto para trabalhar 11 a 20. 
 
+#### Aprender  
+
+Ouve e repete...  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/0KBLgJ6UCJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-Já ouviste e repetiste? Lembras-te dos nomes dos números 11 a 20?  
-Então, quando o número aparece neste vídeo, diz o nome antes do vídeo...  
+Pratica contar, desenhando cada número no ar com o dedo...   
+<iframe width="220" height="124" src="https://www.youtube.com/embed/Exa-FZ1CksI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+Clica e ouve...  
+[![lvwkn09](https://1blockatatime.github.io/English/images2/lvwk09.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Numbers_1-20/Numbers_1-20_reading_(small_version)_cn1593429bg)  
+
+Já sabes? Então, agora quando o número aparece, diz o nome antes do vídeo...  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YxRnzGtfIi0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-Depois, pratica contar de 1 a 20, desenhando cada número no ar com o dedo enquanto disseres...   
-
-<iframe width="220" height="124" src="https://www.youtube.com/embed/Exa-FZ1CksI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+### Jogos
 
 [![bapo1](https://1blockatatime.github.io/English/images/bapo1.PNG)](https://www.sheppardsoftware.com/math/early-math/count-to-20/)Escolha![bapo2](https://1blockatatime.github.io/English/images/bapo2.PNG)(Game by Sheppard Software)   
    Conta em voz alta de 1 a 20 em inglês. Clica no balão do número depois de o dizer para verificar.    
 
 [![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo) [Agora, joga bingo 10 a 20](https://www.abcya.com/games/number-bingo)![nobi4](https://1blockatatime.github.io/English/images2/nobi4.JPG){:height="50px"} (Game by ABCYA)  
 
-Se é difícil, natural quando estamos a aprender algo novo, é só voltar a ver os vídeos no princípio desta página outra vez e ouvir e repetir os nomes de cada número. Não tenhas pressa.  
+Se é difícil, natural quando estamos a aprender algo novo, volta a ver os vídeos e ouve e repete os nomes de cada número. Não tenhas pressa.  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
