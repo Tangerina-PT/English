@@ -1,5 +1,4 @@
-### Count to 100...  / 
-### Contagem até 100...
+### Count to 100... / Contagem até 100...
 
 #### Aprender
 
@@ -7,16 +6,16 @@ Se já sabes os números de 1 a 20, para contares até 100, só falta aprender a
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/NVdupTP4N5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-Agora vê estes vídeos para ouvir a pronúncia precisa dos números de 1 a 100...  
+<!--Agora vê estes vídeos para ouvir a pronúncia precisa dos números de 1 a 100...  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/7umJhewqSAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/7umJhewqSAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->  
 
-Clica e ouve...  
+Agora clica e ouve o nome de cada número...  
 [![lvwknum20](https://1blockatatime.github.io/English/images2/lvwknum20.jpg){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Numbers/Numbers_from_1_to_100_xf1099466ml)  
 
 ### Jogo
 
-[![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo) [Agora, joga todos os níveis](https://www.abcya.com/games/number-bingo)![nobi6](https://1blockatatime.github.io/English/images2/nobi6.png){:height="75px"} (Game by ABCYA)  
+[![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo) [Agora, joga todos os níveis de bingo](https://www.abcya.com/games/number-bingo)![nobi6](https://1blockatatime.github.io/English/images2/nobi6.png){:height="75px"} (Game by ABCYA)  
 
 Se é difícil, natural quando estamos a aprender algo novo, volta a ver os vídeos e ouve e repete os nomes de cada número. Não tenhas pressa.  
 
