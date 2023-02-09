@@ -5,6 +5,22 @@ Vídeo para os pais re: TPC e como evitar dificuldades/frustrações com o uso d
 
 ***  
 
+***09/02/2023 - quinta-feira dia 9 de fevereiro*** Para fazer até quinta-feira dia 16 de fevereiro  
+**Material de estudo:** [Introdução ao verbo 'ser'/'estar' + pronomes pessoais](https://tangerina-pt.github.io/English/Number_To_Be)[![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be) e  
+[Adjetivos](https://tangerina-pt.github.io/English/ADJ1)[![adj1](https://1blockatatime.github.io/English/images2/sh_tall.JPG){:height="30px"}](https://tangerina-pt.github.io/English/ADJ1)  
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 49, 50, 51, 52, 53
+**Extensão opcional:** 54
+
+***  
+
+***Revisão (ao teu ritmo)***  
+**Material de estudo: [Os números](https://tangerina-pt.github.io/English/Number_B)[![pmno](https://1blockatatime.github.io/English/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_B)**  
+**Nota:** CADA UM DEVE DE TRABALHAR AO SEU NÍVEL. QUEM AINDA NÃO TEM CONFIANÇA EM RECONHECER INDEPENDENTEMENTE OS NÚMEROS 1 A 10 EM INGLÊS TRABALHA 1 A 10, QUEM JÁ DOMINA 1 A 10 TRABALHA 11 A 20 E QUEM JÁ IDENTIFICA 1 A 20 AO OUVIR FORA DA ORDEM TRABALHA OS NÚMEROS ATÉ 100. NA PÁGINA DOS NÚMEROS TEM TRÊS LINKS PARA ESTE FIM.  
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) [1 a 10 (12)] páginas 40, 41, 6, 7, 8, 9; [1 a 20] páginas 40, 10, 42, 43, 44
+**Extensão opcional:** para trabalhar e escrita e números até 100 - páginas 45, 46, 47
+
+***  
+
 ***02/02/2023 - Quinta-feira dia 2 de fevereiro*** Para fazer até quinta-feira dia 9 de fevereiro  
 **Material de estudo:** [Introducção ao verbo 'ter'](https://tangerina-pt.github.io/English/To_Have_Got)[![pet2](https://1blockatatime.github.io/English/images/pet2.PNG){:height="30px"}](https://tangerina-pt.github.io/English/To_Have_Got)    
 **Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas **32**, 33, 34
