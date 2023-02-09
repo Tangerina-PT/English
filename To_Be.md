@@ -2,7 +2,9 @@
 
 #### Learn the words - aprende as palavras
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/T7pDCaLfqmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="220" height="124" src="https://www.youtube.com/embed/T7pDCaLfqmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[Vê aqui a letra da canção e a tradução](https://tangerina-pt.github.io/English/IAH)  
 
 #### Sing the song - canta a canção
 
