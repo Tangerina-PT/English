@@ -11,7 +11,7 @@ Se já sabes os números de 1 a 20, para contares até 100, só falta aprender a
 <iframe width="220" height="124" src="https://www.youtube.com/embed/7umJhewqSAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->  
 
 Agora clica e ouve o nome de cada número...  
-[![lvwknum20](https://1blockatatime.github.io/English/images2/lvwknum20.jpg){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Numbers/Numbers_from_1_to_100_xf1099466ml)  
+[![lvwknum20](https://1blockatatime.github.io/English/images2/lvwknum20.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Numbers/Numbers_from_1_to_100_xf1099466ml)  
 
 ### Jogo
 
