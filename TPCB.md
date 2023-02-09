@@ -1,8 +1,5 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
-Vídeo para os pais re: TPC e como evitar dificuldades/frustrações com o uso do caderno digital.  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/EStAfJGn6n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ***  
 
 ***09/02/2023 - quinta-feira dia 9 de fevereiro*** Para fazer até quinta-feira dia 16 de fevereiro  
@@ -37,7 +34,12 @@ Vídeo para os pais re: TPC e como evitar dificuldades/frustrações com o uso d
 **Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 1, 2, 3, 4, 5  
 Nota: o desenho de linhas na página 1 não está a funcionar para todos. Agradecia se pudessem esquecer a página 1 se não está a funcionar e experimentar a fazer página 33. Houve quem teve problemas com a página 1 mas não com a página 33, que também requer desenhar linhas. Obrigada.  
 
-***
+***  
+
+Vídeo para os pais re: TPC e como evitar dificuldades/frustrações com o uso do caderno digital.  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/EStAfJGn6n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+***  
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
 ***
