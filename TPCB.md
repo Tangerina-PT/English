@@ -5,8 +5,8 @@
 ***09/02/2023 - quinta-feira dia 9 de fevereiro*** Para fazer até quinta-feira dia 16 de fevereiro  
 **Material de estudo:** [Introdução ao verbo 'ser'/'estar' + pronomes pessoais](https://tangerina-pt.github.io/English/To_Be)[![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be) e  
 [Adjetivos](https://tangerina-pt.github.io/English/ADJ1)[![adj1](https://1blockatatime.github.io/English/images2/sh_tall.jpg){:height="30px"}](https://tangerina-pt.github.io/English/ADJ1)  
-**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 50, 51, 52, 53, 54  
-**Extensão opcional:** 55
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 49, 50, 51, 52, 53
+**Extensão opcional:** 54
 
 ***  
 
@@ -14,9 +14,9 @@
 **Material de estudo: [Os números](https://tangerina-pt.github.io/English/Number_B)[![pmno](https://1blockatatime.github.io/English/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_B) Nota** TRABALHA AO TEU NÍVEL. JÁ RECONHECES 1 A 10? TRABALHA 11 A 20. JÁ IDENTIFICAS 1 A 20 AO OUVIR FORA DA ORDEM? TRABALHA ATÉ 100.  
 **Nota:** Verifica se já sabes antes de fazer os exercícios jogando Bingo: [![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo)(Game by ABCYA)  
 **Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)  
-[1 a 10] páginas 40, 41, 6, 7, 8, 9;  
-[1 a 20] páginas 40, 10, 42, 43, 44  
-**Extensão opcional:** para trabalhar a escrita e números até 100 - páginas 45, 46, 47, 48, 49  
+[1 a 10] páginas 39, 40, 6, 7, 8, 9;  
+[1 a 20] páginas 39, 10, 41, 42, 43  
+**Extensão opcional:** para trabalhar a escrita e números até 100 - páginas 44, 45, 46, 47, 48
 
 ***  
 
