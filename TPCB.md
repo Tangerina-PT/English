@@ -2,10 +2,15 @@
 
 ***  
 
+**Nota re: caderno digital:**  
+* Devido a um problema técnica com a inclusão, ordem e enumeração das páginas no caderno, de vez em quando é necessário a actualização dos números das páginas a completar. Por enquanto, a situação já está corrigida mas haverá uma atenção redobrada de verificar todos os dias esta situação para assegurar que a indicação das páginas aqui mantém-se correcta.  
+
+***  
+
 ***09/02/2023 - quinta-feira dia 9 de fevereiro*** Para fazer até quinta-feira dia 16 de fevereiro  
 **Material de estudo:** [Introdução ao verbo 'ser'/'estar' + pronomes pessoais](https://tangerina-pt.github.io/English/To_Be)[![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be) e  
 [Adjetivos](https://tangerina-pt.github.io/English/ADJ1)[![adj1](https://1blockatatime.github.io/English/images2/sh_tall.jpg){:height="30px"}](https://tangerina-pt.github.io/English/ADJ1)  
-**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 49, 50, 51, 52, 53
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 49, 50, 51, 52, 53  
 **Extensão opcional:** 54
 
 ***  
