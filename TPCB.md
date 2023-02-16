@@ -5,8 +5,8 @@
 ***16/02/2023 - quinta-feira dia 16 de fevereiro*** Para fazer até quinta-feira dia 2 de março  
 **Material de estudo:** [Continuação do trabalho com o verbo 'ser'/'estar'](https://tangerina-pt.github.io/English/To_Be)[![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be)  
 (VER NOVO MATERIAL NA PÁGINA)    
-**Exercícios:** Após rever o material de estudo, faz os exercícos no caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 58, 59, 60, 61, 62, 63  
-**Extensão opcional:** 64, 65, 66  
+**Exercícios:** Após rever o material de estudo, faz os exercícos no caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 58, 59, 60, 61, 62  
+**Extensão opcional:** 63, 64, 65   
 
 ***
 
