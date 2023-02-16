@@ -1,6 +1,6 @@
-### Introduction to the verb to be - 'I am happy' song   
+### Introduction to the verb to be   
 
-#### Aprende as palavras / Canta a canção
+#### Canção 'I am happy'- Aprende as palavras / Canta a canção
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/T7pDCaLfqmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/IjVxe7X5FpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
 
@@ -20,7 +20,9 @@ Exercícios - Na ordem aqui indicada, clica nos rectângulos castanhos com escri
 **Extensão**  
 4). Trabalhar a escrita/ortografia. Escreve a palavra correcta a beira de cada imagem: ![lcfi](https://1blockatatime.github.io/English/images/lcfi.PNG); Clica no altifalante e escreve a palavra: ![lcdi](https://1blockatatime.github.io/English/images/lcdi.PNG)   
 
-#### Verifica se já sabes o verbo 'to be' 
+#### Trabalha o verbo 'to be' 
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/8axlfeQ1naA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 **No affirmativo**    
 
@@ -33,6 +35,8 @@ Arrasta as palavras a direita para as imagens correspondentes. No fim, clica no 
 Preenche com as contracções. No fim, clica no 'Check' em baixo para ver a correcção.  
 
 **No negativo**  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/ZimezwjN6Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
 
 [![awbeneg](https://1blockatatime.github.io/English/images2/awbeneg.png){:height="60px"}](https://agendaweb.org/exercises/verbs/to-be/present-negative-1)  
 Escolha a forma negativa correcta. No fim, clica no 'Check' em baixo para ver a correcção.  
