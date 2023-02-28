@@ -35,7 +35,13 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/aT9tORbbvsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/03hrZ7W8PZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-  
+ 
+E agora algumas canções ridículas que ajudam-nos a aprender como perguntar uns aos outros se gostamos de algo específico e como responder. Podes aprender os nomes de mais algumas comidas e bebidas também...    
+
+**Pergunta:** ***'Do you like broccoli?'/'Gosta(s) de brócolo?'***  
+**Resposta:** ***'Yes, I do.'/'Sim, gosto.'; 'No, I don't.'/'Não, não gosto.'***
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/YCf-PGu55Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/ddDN30evKPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/Mfb--R1fhtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
