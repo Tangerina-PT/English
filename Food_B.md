@@ -40,7 +40,8 @@
 
 [![lvwkfd4](https://1blockatatime.github.io/English/images/lvwkfd4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_Read_and_match_js38355du) [![lvwkfd4b](https://1blockatatime.github.io/English/images/lvwkfd4_pt.png){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_Read_and_match_js38355du)   
 
-<!--![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
+[![lvwkfd0a](https://1blockatatime.github.io/English/images2/lvwkfd0a.png){:height="75px"}](https://www.liveworksheets.com/ia1786733zo)  
+Ouve os quatro meninos, (1) a (4), a descreverem o que gostam. Escreve o número do menino na caixa a beira da imagem da comida que gosta. Ao acabar, clica no 'Finish' e a seguir na lupa para ver a correcção.   
 
 ![circ_like_plate](https://1blockatatime.github.io/English/images/circ_like_plate.gif){:height="215px"} ![circ_dont_plate](https://1blockatatime.github.io/English/images/circ_dont_plate.gif){:height="215px"}  
 
