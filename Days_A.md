@@ -6,7 +6,7 @@
 Canta a canção dos dias da semana. (Song by Dream English)    
 Nota: Nesta canção ouve-se a pronúncia Americana de 'Tuesday'.
 
-Escuta a pronúncia Británica dos dias da semana, em especial a proníuncia diferente de 'Tuesday'.  
+Escuta a pronúncia Británica dos dias da semana, em especial a pronúncia diferente de 'Tuesday'.  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/qUTjlZpXois" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 (Video de ESL and Popular Culture)   
