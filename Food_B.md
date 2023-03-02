@@ -43,7 +43,7 @@
 [![lvwkfd0a](https://1blockatatime.github.io/English/images2/lvwkfd0a.png){:height="75px"}](https://www.liveworksheets.com/ia1786733zo)  
 Ouve os quatro meninos, (1) a (4), a descreverem o que gostam. Escreve o número do menino na caixa a beira da imagem da comida que gosta. Ao acabar, clica no 'Finish' e a seguir na lupa para ver a correcção.   
 
-![circ_like_plate](https://1blockatatime.github.io/English/images/circ_like_plate.gif){:height="215px"} ![circ_dont_plate](https://1blockatatime.github.io/English/images/circ_dont_plate.gif){:height="215px"}  
+<!--![circ_like_plate](https://1blockatatime.github.io/English/images/circ_like_plate.gif){:height="215px"} ![circ_dont_plate](https://1blockatatime.github.io/English/images/circ_dont_plate.gif){:height="215px"}  
 
 ![fdin1](https://1blockatatime.github.io/English/images/fdin1_pt.png){:height="60px"}  
 
