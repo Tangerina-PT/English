@@ -50,7 +50,13 @@ E agora algumas canções ridículas que nos ajudam a aprender como perguntar un
 **Pergunta:** ***'Do you like broccoli?'/'Gosta(s) de brócolo?'***  
 **Resposta:** ***'Yes, I do.'/'Sim, gosto.'; 'No, I don't.'/'Não, não gosto.'***
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/YCf-PGu55Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/ddDN30evKPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/Mfb--R1fhtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+<iframe width="220" height="124" src="https://www.youtube.com/embed/YCf-PGu55Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/ddDN30evKPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/Mfb--R1fhtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+**Notas re: vocabulário**:    
+* Não há uma expectativa de que os alunos saibam de repente muitos nomes para diferentes comidas. Há algumas palavras já conhecidas: (nome igual ou quase igual em inglês e português) banana, pizza, donut, **ch**ocolate, sushi, **h**amburger, sandwich; (nomes já trabalhados noutros tópicos) fish (peixe), orange (laranja)  
+* Além disto, o objectivo durante as próximas semanas é aprender mais alguns nomes. Vocabulário adicional mínimo: apple (maça), chips/French fries (batata frita), chicken (frango), cake (bolo), water (água), ice cream (gelado), bread (pão), rice (arroz), egg (ovo), cheese (queijo)   
+* Os alunos costumam perguntar por querer saber/aprender dizer outras comidas particulares de que gostam para poderem praticar a conversar sobre comida.   
+
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
