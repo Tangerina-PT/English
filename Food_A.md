@@ -28,7 +28,7 @@
 
 ***
 
-**Exercícios**
+**Já sabes o nome de algumas comidas em inglês? Então experimenta fazer os exercícios.**  
 
 [![lvwkfd00a](https://1blockatatime.github.io/English/images2/lvwkfd00a.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Listening_comprehension/I_like_(food)_-_Bright_Ideas_1_Unit_5_vm2291223nz)  
 
@@ -53,9 +53,10 @@ E agora algumas canções ridículas que nos ajudam a aprender como perguntar un
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YCf-PGu55Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/ddDN30evKPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/Mfb--R1fhtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 **Notas re: vocabulário**:    
-* Não há uma expectativa de que os alunos saibam de repente muitos nomes para diferentes comidas. Há algumas palavras já conhecidas: (nome igual ou quase igual em inglês e português) banana, pizza, donut, **ch**ocolate, sushi, **h**amburger, sandwich; (nomes já trabalhados noutros tópicos) fish (peixe), orange (laranja)  
-* Além disto, o objectivo durante as próximas semanas é aprender mais alguns nomes. Vocabulário adicional mínimo: apple (maça), chips/French fries (batata frita), chicken (frango), cake (bolo), water (água), ice cream (gelado), bread (pão), rice (arroz), egg (ovo), cheese (queijo)   
-* Os alunos costumam perguntar por querer saber/aprender dizer outras comidas particulares de que gostam para poderem praticar a conversar sobre comida.   
+* Não há uma expectativa de que os alunos saibam de repente muitos mais nomes para comidas diferentes.   
+* Há algumas palavras já conhecidas pela maioria dos alunos que têm: nomes iguais ou quase iguais em inglês e português - p.ex. banana, pizza, donut, **ch**ocolate, sushi, **h**amburger, sandwich, waffle, tart, cola (Coca Cola); nomes já trabalhados noutros tópicos - p.ex. fish (peixe), orange (laranja); e também algumas cujos nomes são quase iguais - p.ex. spaghetti, tangerine, tomato, yoghurt, salad, fruit, pork, salmon.  
+* Além destas palavras que já podem usar para praticar as estruturas, o objectivo durante as próximas semanas é aprender mais alguns nomes. Vocabulário adicional - comida: apple (maça), chips/French fries (batata frita), chicken (frango), cake (bolo), ice cream (gelado), bread (pão), rice (arroz), egg (ovo), cheese (queijo), meat (carne). Vocabulário adicional - bebidas: water (água), tea (chá), juice (sumo), milk (leite), coffee (café).   
+* Os alunos também costumam perguntar por querer saber/aprender dizer outras comidas particulares de que gostam para poderem praticar a conversar.    
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
