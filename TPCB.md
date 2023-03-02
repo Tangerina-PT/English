@@ -1,5 +1,7 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
+***02/03/2023*** Note: Os TPC para esta semana serão publicados amanhã 03/03/2023. A actividade em sala de aula hoje demorou mais tempo de que previsto e não deu tempo para explicar os TPC. A explicação será dada na aula amanhã, sexta-feira dia 03/03/2023.***  
+
 ***  
 
 ***16/02/2023 - quinta-feira dia 16 de fevereiro*** Para fazer até quinta-feira dia 2 de março  
