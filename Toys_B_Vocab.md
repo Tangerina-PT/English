@@ -10,25 +10,21 @@
 ####  Verfica se já sabes os nomes dos brinquedos.
 
 
-##### Jogos -'Listening'/ Compreensão do Oral
+##### Jogos de memória
 
-[![toyslvwk1](https://1blockatatime.github.io/English/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](https://1blockatatime.github.io/English/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
+<!--[![toyslvwk1](https://1blockatatime.github.io/English/images/toyslvwk1.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](https://1blockatatime.github.io/English/images/toyslvwk1b.PNG){:height="50px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)-->   
 
 [![mety](https://1blockatatime.github.io/English/images2/mety.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](https://1blockatatime.github.io/English/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
 
-##### Trabalhar a leitura
+##### Extensão - trabalhar a leitura e a escrita
 
-[![toyslvwk5](https://1blockatatime.github.io/English/images/toyslvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu) [![toyslvwk5b](https://1blockatatime.github.io/English/images/toyslvwk5b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)   
+<!--[![toyslvwk5](https://1blockatatime.github.io/English/images/toyslvwk5.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu) [![toyslvwk5b](https://1blockatatime.github.io/English/images/toyslvwk5b.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/My_toys_-_matching_dt7062cu)   
 
 [![toyslvwk4](https://1blockatatime.github.io/English/images/toyslvwk4.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li) [![toyslvwk4b](https://1blockatatime.github.io/English/images/toyslvwk4b.PNG){:height="56px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_Vocabulary_ty74li)  
 
-[![toyslvwk2](https://1blockatatime.github.io/English/images/toyslvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud) [![toyslvwk4b](https://1blockatatime.github.io/English/images/toyslvwk4b.PNG){:height="58px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud)  
+[![toyslvwk2](https://1blockatatime.github.io/English/images/toyslvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud) [![toyslvwk4b](https://1blockatatime.github.io/English/images/toyslvwk4b.PNG){:height="58px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud)-->  
 
-[![tyqz1](https://1blockatatime.github.io/English/images/tyqz1.PNG){:height="60px"}](http://www.english-4kids.com/quizzes/toys.htm) [Take a quiz](http://www.english-4kids.com/quizzes/toys.htm)  
-
-##### Extensão
-
-[![atsc](https://1blockatatime.github.io/English/images/atsc.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysSpelling.htm) [Rearrange the letters to spell the words](http://www.anglomaniacy.pl/toysSpelling.htm)^^  
+[![atsc](https://1blockatatime.github.io/English/images/atsc.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysSpelling.htm) [Trabalhar a ortografia](http://www.anglomaniacy.pl/toysSpelling.htm)^^  
 
 [![lcty](https://1blockatatime.github.io/English/images/lcty.PNG){:height="60px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1](https://1blockatatime.github.io/English/images/lcgen1.PNG){:height="40px"}](http://www.learningchocolate.com/content/childrens-toys)   
 Lê cada palavra. Depois clica na imagem do altifalante para verificar a tua pronûncia.  
@@ -37,7 +33,7 @@ Exercício de 'listening' (compreensão oral): Clica em ![lcmu3](https://1blocka
 Desafio opcional extra: Queres experimentar as outras actividades de leitura e escrita? Clica em:  
 ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG), ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG), ![lcfi](https://1blockatatime.github.io/English/images/lcfi.PNG) e ![lcdi](https://1blockatatime.github.io/English/images/lcdi.PNG)  
 
-[![hmty](https://1blockatatime.github.io/English/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm) [![hmtyb](https://1blockatatime.github.io/English/images/hmtyb.PNG){:height="40px"}](http://www.anglomaniacy.pl/toysHangman.htm)  
+<!--[![hmty](https://1blockatatime.github.io/English/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm) [![hmtyb](https://1blockatatime.github.io/English/images/hmtyb.PNG){:height="40px"}](http://www.anglomaniacy.pl/toysHangman.htm)-->  
 
 ^^ Funciona utilizando Internet Explorer. Infelizmente não funciona com todos os browsers.  
 
