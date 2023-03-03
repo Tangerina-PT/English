@@ -1,8 +1,7 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
 ***03/03/2023 - sexta-feira dia 3 de março*** Para fazer até quinta-feira dia 9 de março  
-**Material de estudo:** [Preposições de lugar](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)  
-**Nota:** Vê o material de estudo. Aprende a cantar a canção com as acções. Trabalha ao teu nível. Para quem a canção é nova, aprende as primeiras 6 preposições. Quem está pronto para o desafio - trabalha as 10 preposições da versão estendida da canção. Escolha entre os materias de estudo para reforçar o teu conhecimento das preposições.     
+**Material de estudo:** [Preposições de lugar](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B) Vê o material de estudo. Aprende a cantar a canção com as acções. Trabalha ao teu nível. Para quem a canção é nova, aprende as primeiras 6 preposições. Quem está pronto para o desafio, trabalha todas. Escolha entre os materias de estudo para reforçar o teu conhecimento das preposições.     
 **Exercícios:** Faz os exercícos no caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 28, 29, 30, 31, 32  
 
 ***Extensão opcional - falar dos brinquedos - cruzamento com preposições de lugar e verbo TER***  
