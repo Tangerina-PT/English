@@ -24,8 +24,6 @@
 
 [![toyslvwk2](https://1blockatatime.github.io/English/images/toyslvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud) [![toyslvwk4b](https://1blockatatime.github.io/English/images/toyslvwk4b.PNG){:height="58px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(label_the_pictures)_vy1371ud)-->  
 
-[![atsc](https://1blockatatime.github.io/English/images/atsc.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysSpelling.htm) [Trabalhar a ortografia](http://www.anglomaniacy.pl/toysSpelling.htm)^^  
-
 [![lcty](https://1blockatatime.github.io/English/images/lcty.PNG){:height="60px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1](https://1blockatatime.github.io/English/images/lcgen1.PNG){:height="40px"}](http://www.learningchocolate.com/content/childrens-toys)   
 Lê cada palavra. Depois clica na imagem do altifalante para verificar a tua pronûncia.  
 Exercício de 'listening' (compreensão oral): Clica em ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG). Clica no altifalante para ouvir a palavra. Arrasta a altifalante para a imagem correcta. Ao acabar, clica em 'Check Answers'.  
@@ -34,6 +32,8 @@ Desafio opcional extra: Queres experimentar as outras actividades de leitura e e
 ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG), ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG), ![lcfi](https://1blockatatime.github.io/English/images/lcfi.PNG) e ![lcdi](https://1blockatatime.github.io/English/images/lcdi.PNG)  
 
 <!--[![hmty](https://1blockatatime.github.io/English/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm) [![hmtyb](https://1blockatatime.github.io/English/images/hmtyb.PNG){:height="40px"}](http://www.anglomaniacy.pl/toysHangman.htm)-->  
+
+[![atsc](https://1blockatatime.github.io/English/images/atsc.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysSpelling.htm) [Trabalhar a ortografia](http://www.anglomaniacy.pl/toysSpelling.htm)^^  
 
 ^^ Funciona utilizando Internet Explorer. Infelizmente não funciona com todos os browsers.  
 
