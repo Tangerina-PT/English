@@ -1,14 +1,21 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
-***02/03/2023*** Note: Os TPC para esta semana serão publicados amanhã 03/03/2023. A actividade em sala de aula hoje demorou mais tempo de que previsto e não deu tempo para explicar os TPC. A explicação será dada na aula amanhã, sexta-feira dia 03/03/2023.***  
+***03/03/2023 - sexta-feira dia 3 de março*** Para fazer até quinta-feira dia 9 de março  
+**Material de estudo:** [Preposições de lugar](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)  
+**Exercícios:** Após rever o material de estudo, faz os exercícos no caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 28, 29, 30, 31, 32  
+
+***Extensão opcional - falar dos brinquedos - cruzamento com preposições de lugar e verbo TER***  
+**Material de estudo:** [Talking about toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)  
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
+páginas 69, 70, 71, 72  
 
 ***  
 
 ***16/02/2023 - quinta-feira dia 16 de fevereiro*** Para fazer até quinta-feira dia 2 de março  
 **Material de estudo:** [Continuação do trabalho com o verbo 'ser'/'estar'](https://tangerina-pt.github.io/English/To_Be)[![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be)  
 (VER NOVO MATERIAL NA PÁGINA)    
-**Exercícios:** Após rever o material de estudo, faz os exercícos no caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 58, 59, 60, 61, 62  
-**Extensão opcional:** 63, 64, 65   
+**Exercícios:** Após rever o material de estudo, faz os exercícos no caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 58, 59, 60, 61, 62, 63  
+**Extensão opcional:** 64, 65, 66     
 
 ***
 
@@ -20,8 +27,8 @@
 ***09/02/2023 - quinta-feira dia 9 de fevereiro*** Para fazer até quinta-feira dia 16 de fevereiro  
 **Material de estudo:** [Introdução ao verbo 'ser'/'estar' + pronomes pessoais](https://tangerina-pt.github.io/English/To_Be)[![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be) e  
 [Adjetivos](https://tangerina-pt.github.io/English/ADJ1)[![adj1](https://1blockatatime.github.io/English/images2/sh_tall.jpg){:height="30px"}](https://tangerina-pt.github.io/English/ADJ1)  
-**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 49, 50, 51, 52, 53  
-**Extensão opcional:** 54
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 50, 51, 53, 54  
+**Extensão opcional:** 55
 
 ***  
 
@@ -29,16 +36,16 @@
 **Material de estudo: [Os números](https://tangerina-pt.github.io/English/Number_B)[![pmno](https://1blockatatime.github.io/English/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_B) Nota** TRABALHA AO TEU NÍVEL. JÁ RECONHECES 1 A 10? TRABALHA 11 A 20. JÁ IDENTIFICAS 1 A 20 AO OUVIR FORA DA ORDEM? TRABALHA ATÉ 100.  
 **Nota:** Verifica se já sabes antes de fazer os exercícios jogando Bingo: [![nobi1](https://1blockatatime.github.io/English/images2/nobi1.jpg){:height="75px"}](https://www.abcya.com/games/number-bingo)(Game by ABCYA)  
 **Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)  
-[1 a 10] páginas 39, 40, 6, 7, 8, 9;  
-[1 a 20] páginas 39, 10, 41, 42, 43  
-**Extensão opcional:** para trabalhar a escrita e números até 100 - páginas 44, 45, 46, 47, 48
+[1 a 10] páginas 40, 41, 6, 7, 8, 9;  
+[1 a 20] páginas 40, 10, 42, 43, 44, 45    
+**Extensão opcional:** para trabalhar a escrita e números até 100 - páginas 46, 47, 48, 49  
 
 ***  
 
 ***02/02/2023 - Quinta-feira dia 2 de fevereiro*** Para fazer até quinta-feira dia 9 de fevereiro  
 **Material de estudo:** [Introducção ao verbo 'ter'](https://tangerina-pt.github.io/English/To_Have_Got)[![pet2](https://1blockatatime.github.io/English/images/pet2.PNG){:height="30px"}](https://tangerina-pt.github.io/English/To_Have_Got)    
-**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas **32**, 33, 34
-**Extensão opcional:** páginas 35, 36
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 33, 34, 35  
+**Extensão opcional:** páginas 36, 37
 
 ***  
 
