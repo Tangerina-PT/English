@@ -5,7 +5,12 @@
 (1). Aprende as acções...  (2). Canta fazendo as acções...  (3). Canta vendo as imagens...     
 <iframe width="198" height="112" src="https://www.youtube.com/embed/NpIfvRw3zNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/z3kV1oEbZKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="198" height="112" src="https://www.youtube.com/embed/w0nOifIWHqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-(4). Corta as cartas com as imagens e as preposições. (5). Ordena as imagens de acordo com a canção ao cantar. (6). Canta a apondar para as imagens. (7). Coloca as palavras certas a beira das imagens (8). Canta e aponta para as palavras. (9). Joga o jogo de memória com as cartas. Diz a preposição em inglês cada vez que viras uma carta.    
+(4). Corta as cartas com as imagens e as preposições.  
+(5). Ordena as imagens de acordo com a canção ao cantar.  
+(6). Canta a apondar para as imagens.  
+(7). Coloca as palavras certas a beira das imagens.  
+(8). Canta e aponta para as palavras.  
+(9). Joga o jogo de memória com as cartas. Diz a preposição em inglês cada vez que viras uma carta.    
 
 #### Video-exercícios: tenta responder antes do vídeo dar a resposta...
 ![clocap](https://1blockatatime.github.io/English/images/clocap.png){:height="20px"} Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.  
@@ -31,6 +36,7 @@ Vídeos de Maple Leaf Learning: (1)./(2). on, in, under; (3). in front of, behin
 [![lvwkpp4](https://1blockatatime.github.io/English/images/lvwkpp4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll) [![lvwkpp4pt](https://1blockatatime.github.io/English/images2/lvwkpp4_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_of_place_yk241ll)  
 [![lvwkpp7](https://1blockatatime.github.io/English/images/lvwkpp7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf) [![lvwkpp7pt](https://1blockatatime.github.io/English/images2/lvwkpp7_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_oz188167bf)-->   
 [![ppeslgp](https://1blockatatime.github.io/English/images2/ppeslgp.png){:height="75px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html) [![ppeslgppt](https://1blockatatime.github.io/English/images2/ppeslgp_pt.png){:height="52px"}](http://eslgamesworld.com/members/games/grammar/memory%20game/prepositions%20of%20place/prepositions.html)  
+
 <!--[![lvwkpp5](https://1blockatatime.github.io/English/images/lvwkpp5.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx) [![lvwkpp5pt](https://1blockatatime.github.io/English/images2/lvwkpp5_pt.png){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions*_in,_on,_under._lt490735gx)  
 #### Jogos e exercícios - Queres trabalhar a escrita?
 [![lvwkpp8](https://1blockatatime.github.io/English/images/lvwkpp8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm) [![lvwkpp8pt](https://1blockatatime.github.io/English/images2/lvwkpp8_pt.png){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Prepositions_of_place/Prepositions_xo150145qm)-->  
