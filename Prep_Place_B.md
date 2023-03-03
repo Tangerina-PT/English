@@ -9,7 +9,7 @@
 (5). Ordena as imagens de acordo com a canção ao cantar.  
 (6). Canta a apontar para as imagens.  
 (7). Coloca as palavras certas a beira das imagens.  
-(8). Canta e aponta para as palavras.  
+(8). Canta a apontar para as palavras.  
 (9). Joga o jogo de memória com as cartas.    
 
 #### Video-exercícios: tenta responder antes do vídeo dar a resposta...
