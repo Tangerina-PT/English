@@ -7,10 +7,10 @@
 
 (4). Corta as cartas com as imagens e as preposições.  
 (5). Ordena as imagens de acordo com a canção ao cantar.  
-(6). Canta a apondar para as imagens.  
+(6). Canta a apontar para as imagens.  
 (7). Coloca as palavras certas a beira das imagens.  
 (8). Canta e aponta para as palavras.  
-(9). Joga o jogo de memória com as cartas. Diz a preposição em inglês cada vez que viras uma carta.    
+(9). Joga o jogo de memória com as cartas.    
 
 #### Video-exercícios: tenta responder antes do vídeo dar a resposta...
 ![clocap](https://1blockatatime.github.io/English/images/clocap.png){:height="20px"} Ao ver os vídeos, clica no botão 'CC' para ver as legendas em inglês.  
