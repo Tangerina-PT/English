@@ -22,7 +22,7 @@ Question: 'Have you got a ball?' (Tem/tens uma bola?)
 Vídeo exercício: Consegues dizer a frase que a personagem vai dizer antes do próprio falar?  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ibTiIaI6KsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-Exercício de compreensão oral  
+<!--Exercício de compreensão oral  
 
 Para cada criança, clica na seta/triângulo para ouvir que brinquedo tem. Arrasta a imagem correcta para dentro da caixa dele/dela. Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
 [![lvwktoyhvgt3](https://1blockatatime.github.io/English/images2/lvwktoyhvgt3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Have_you_got_a_toy$_ue3042184qr)  
@@ -33,7 +33,7 @@ Cada linha pergunta a uma das crianças se tem um determinado brinquedo. Vê a i
 [![lvwktoyhvgt2](https://1blockatatime.github.io/English/images2/lvwktoyhvgt2.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/KIDS_1_-_TOYS_%5E_HAVE_YOU_GOT_...$_hl2931087oy)  
 
 Lê o que as crianças estão a dizer. Para cada, clica em 'TRUE' (verdadeiro) ou 'FALSE' (falso). Ao acabar, clica na barra azul 'Finish' e na lupa para ver a correcção.  
-[![lvwktoyhvgt1](https://1blockatatime.github.io/English/images2/lvwktoyhvgt1.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Have_you_got_a_toy$2_dg648854ec)  
+[![lvwktoyhvgt1](https://1blockatatime.github.io/English/images2/lvwktoyhvgt1.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Have_you_got_a_toy$2_dg648854ec)-->  
 
 ***  
 
