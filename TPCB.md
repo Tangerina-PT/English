@@ -1,10 +1,5 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
-**Nota re: caderno digital:**  
-* O problema técnico com a desaparecência/não-aparecência temporária de uma ou outra página no caderno e, como consequência, uma mudança na enumeração das páginas continua. De vez em quando é necessário a actualização/correção dos números das páginas a completar no anúncio dos TPC. Por enquanto, a situação está outra vez corrigida mas podem notar de vez em quando uma mudança por esta motivo - que afecta uma ou outra página.    
-
-***  
-
 ***03/03/2023 - sexta-feira dia 3 de março*** Para fazer até quinta-feira dia 9 de março  
 **Material de estudo:** [Preposições de lugar](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B) Vê o material de estudo. Aprende a cantar a canção com as acções. Trabalha ao teu nível. Para quem a canção é nova, aprende as primeiras 6 preposições. Quem está pronto para o desafio, trabalha todas. Escolha entre os materias de estudo para reforçar o teu conhecimento das preposições.     
 **Exercícios:** Faz os exercícos no caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 27, 28, 29, 30, 31  
@@ -13,6 +8,11 @@
 **Material de estudo:** [Talking about toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)  
 **Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
 páginas 68, 69, 70, 71  
+
+***  
+
+**Nota re: caderno digital:**  
+* Surgiu outro vez o problema técnico com a não-aparecência temporária de uma página no caderno e, como consequência, uma mudança na enumeração das páginas. Já foram actualizados os números das páginas a completar no anúncio dos TPC. Parece estar resolvido, por isso não deve de surgir outra vez.  
 
 ***  
 
