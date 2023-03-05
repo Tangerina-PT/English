@@ -1,5 +1,10 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
+**Nota re: caderno digital:**  
+* O problema técnico com a desaparecência/não-aparecência temporária de uma ou outra página no caderno e, como consequência, uma mudança na enumeração das páginas continua. De vez em quando é necessário a actualização/correção dos números das páginas a completar no anúncio dos TPC. Por enquanto, a situação está outra vez corrigida mas podem notar de vez em quando uma mudança por esta motivo - que afecta uma ou outra página.    
+
+***  
+
 ***03/03/2023 - sexta-feira dia 3 de março*** Para fazer até quinta-feira dia 9 de março  
 **Material de estudo:** [Preposições de lugar](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B) Vê o material de estudo. Aprende a cantar a canção com as acções. Trabalha ao teu nível. Para quem a canção é nova, aprende as primeiras 6 preposições. Quem está pronto para o desafio, trabalha todas. Escolha entre os materias de estudo para reforçar o teu conhecimento das preposições.     
 **Exercícios:** Faz os exercícos no caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 27, 28, 29, 30, 31  
@@ -18,11 +23,6 @@ páginas 68, 69, 70, 71
 **Extensão opcional:** 63, 64, 65     
 
 ***
-
-**Nota re: caderno digital:**  
-* Devido a um problema técnica com a inclusão, ordem e enumeração das páginas no caderno, de vez em quando é necessário a actualização dos números das páginas a completar. Por enquanto, a situação já está corrigida mas haverá uma atenção redobrada de verificar todos os dias esta situação para assegurar que a indicação das páginas aqui mantém-se correcta.  
-
-***  
 
 ***09/02/2023 - quinta-feira dia 9 de fevereiro*** Para fazer até quinta-feira dia 16 de fevereiro  
 **Material de estudo:** [Introdução ao verbo 'ser'/'estar' + pronomes pessoais](https://tangerina-pt.github.io/English/To_Be)[![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be) e  
