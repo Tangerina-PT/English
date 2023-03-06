@@ -35,8 +35,9 @@ Year 1 English
 ### [Topic 13 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)  
 ### [Topic 14 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_A) [![pp6](https://1blockatatime.github.io/English/images/pp_6.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_A)  
 ### [Topic 15 - Food](https://tangerina-pt.github.io/English/Food_A) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)  
-### [Topic 16 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_A) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_A)
-### [Topic 17 - Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_A) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_A)
+### [Topic 16 - Days of the week](https://tangerina-pt.github.io/English/Days_A) [![days](https://1blockatatime.github.io/English/images/days.png){:height="30px"}](https://tangerina-pt.github.io/English/Days_A)
+### [Topic 17 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_A) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_A)
+### [Topic 18 - Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_A) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_A)
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)   
