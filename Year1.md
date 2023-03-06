@@ -4,22 +4,6 @@ Year 1 English
 </p>
 </h2>
 
-<!--#### [Topic 12 - Shapes](https://tangerina-pt.github.io/English/Shapes_A) [![shape](https://1blockatatime.github.io/English/images/shape.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Shapes_A)
-### [Topic 11 - Feelings/needs](https://tangerina-pt.github.io/English/Feelings_A) [![prep](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_A)
-### [Topic 10 - Prepositions of Place](https://tangerina-pt.github.io/English/Prep_Place_A) [![prep](https://1blockatatime.github.io/English/images/prep.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_A)
-[![new](/images/new.gif){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)-->
-
-<!--     
-### [Topic 11 - Food](https://tangerina-pt.github.io/English/Food_A)  [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)     
-### [Topic 11 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)
-### [Topic 10 - Prepositions of Place](https://tangerina-pt.github.io/English/Prep_Place_A)  [![pp6](https://1blockatatime.github.io/English/images/pp_6.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_A)
-### [Topic 9 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_A) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_A)
-### [Topic 8 - Body parts](https://tangerina-pt.github.io/English/Body_Parts_A) [![body](https://1blockatatime.github.io/English/images/body.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_A)
-### [Topic 7 - Animals](https://tangerina-pt.github.io/English/Animals_A)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_A)
-### [Topic 6 - Actions](https://tangerina-pt.github.io/English/Actions_A) [![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_A)
-![csymbol](https://1blockatatime.github.io/English/images2/c_symbol.png){:height="10px"}
--->
-
 ### [Topic 1 - Greetings](https://tangerina-pt.github.io/English/Greetings_A) [![colmix](https://1blockatatime.github.io/English/images/wyn1.png){:height="30px"}](https://tangerina-pt.github.io/English/Greetings_A)
 ### [Topic 2 - Colours](https://tangerina-pt.github.io/English/Colours_A) [![colmix](https://1blockatatime.github.io/English/images/colmix.png){:height="30px" width="30px"}](https://tangerina-pt.github.io/English/Colours_A)
 ### [Topic 3 - Numbers 1-10](https://tangerina-pt.github.io/English/Number_A) [![pmno](https://1blockatatime.github.io/English/images/pmno.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Number_A)
@@ -35,7 +19,7 @@ Year 1 English
 ### [Topic 13 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)  
 ### [Topic 14 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_A) [![pp6](https://1blockatatime.github.io/English/images/pp_6.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_A)  
 ### [Topic 15 - Food](https://tangerina-pt.github.io/English/Food_A) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)  
-### [Topic 16 - Days of the week](https://tangerina-pt.github.io/English/Days_A) [![days](https://1blockatatime.github.io/English/images/days.png){:height="30px"}](https://tangerina-pt.github.io/English/Days_A)
+### [Topic 16 - Days of the week](https://tangerina-pt.github.io/English/Days_A) [![days](https://1blockatatime.github.io/English/images/days.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Days_A)
 ### [Topic 17 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_A) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_A)
 ### [Topic 18 - Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_A) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_A)
 
