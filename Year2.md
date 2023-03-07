@@ -18,7 +18,7 @@
 
 #### [Topic 8 - Introduction to the verb 'to be'](https://tangerina-pt.github.io/English/To_Be) [![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be)
 
-#### [Topic 9 - Adjetivos](https://tangerina-pt.github.io/English/ADJ1) [![adj1](https://1blockatatime.github.io/English/images2/sh_tall.JPG){:height="30px"}](https://tangerina-pt.github.io/English/ADJ1)  
+#### [Topic 9 - Adjetivos](https://tangerina-pt.github.io/English/ADJ1) [![adj1](https://1blockatatime.github.io/English/images2/sh_tall.jpg){:height="30px"}](https://tangerina-pt.github.io/English/ADJ1)  
 
 #### [Topic 10 - Talking about feelings](https://tangerina-pt.github.io/English/Feelings_B) [![prep](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)
 
