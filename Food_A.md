@@ -41,16 +41,14 @@ Ouve os quatro meninos, (1) a (4), a descreverem o que gostam. Escreve o número
 
 ![fdq1](https://1blockatatime.github.io/English/images/fdq1_pt.png){:height="80px"}
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/aT9tORbbvsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-<iframe width="220" height="124" src="https://www.youtube.com/embed/03hrZ7W8PZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="198" height="112" src="https://www.youtube.com/embed/aT9tORbbvsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="198" height="112" src="https://www.youtube.com/embed/03hrZ7W8PZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="198" height="112" src="https://www.youtube.com/embed/W_siaVSv3Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
  
 E agora algumas canções ridículas que nos ajudam a aprender como perguntar uns aos outros se gostamos de algo específico e como responder. Podes aprender os nomes de mais algumas comidas e bebidas também...    
 
 **Pergunta:** ***'Do you like broccoli?'/'Gosta(s) de brócolo?'***  
 **Resposta:** ***'Yes, I do.'/'Sim, gosto.'; 'No, I don't.'/'Não, não gosto.'***
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/YCf-PGu55Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/ddDN30evKPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="220" height="124" src="https://www.youtube.com/embed/Mfb--R1fhtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="198" height="112" src="https://www.youtube.com/embed/YCf-PGu55Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="198" height="112" src="https://www.youtube.com/embed/ddDN30evKPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="198" height="112" src="https://www.youtube.com/embed/Mfb--R1fhtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 **Notas re: vocabulário**:    
 * Não há uma expectativa de que os alunos saibam de repente muitos mais nomes para comidas diferentes.   
