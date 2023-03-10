@@ -1,4 +1,4 @@
-### Artes manuais/’ofícios’ (actividade extra-curricular)
+### Arts and Crafts - artes manuais/’ofícios’ (actividade extra-curricular)
 
 As crianças são orientadas a usar uma grande variedade de materiais naturais e sintéticos (tanto novos como reciclados) e media, incluindo: têxteis, produtos de papel, plástico reciclado, argila, tinta, pastél de óleo etc. para produzir uma vasta gama diversa de objectos e imagens artísticas em duas e três dimensões.  
 
