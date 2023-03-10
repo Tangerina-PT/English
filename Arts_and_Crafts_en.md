@@ -13,7 +13,7 @@ Whilst a potential sample output is shown for each session and all tasks have a 
 The arts and crafts afterschool activity is offered in a content and language integrated learning mode, that is, the instruction is entirely in English, with a secondary objective to expose the children to and, over the medium term, promote language learning and comprehension in English. Manual arts and crafts activities are particularly suited to CLIL instruction. The hands-on physical nature of activities means that clear demonstrations can be given to accompany English-language instructions and explanations, facilitating student comprehension and minimizing the cognitive load of processing the ‘other’ language.   
 
 
-[Portuguese](https://tangerina-pt.github.io/English/Arts_and_Crafts_pt) [![flag_pt](https://1blockatatime.github.io/English/images/flag_pt.png){:height="30px"}](https://tangerina-pt.github.io/English/Arts_and_Crafts_pt)  
+[Portuguese](https://tangerina-pt.github.io/English/Arts_and_Crafts_pt) [![flag_pt](https://1blockatatime.github.io/English/images2/flag_pt.png){:height="30px"}](https://tangerina-pt.github.io/English/Arts_and_Crafts_pt)  
 * Afterschool Arts and Crafts is run by: Sing, Play, Learn English - c21educator@gmail.com  
 <p align="center">
 <img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
