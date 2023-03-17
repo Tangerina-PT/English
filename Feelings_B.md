@@ -20,7 +20,7 @@
 
 ***
 
-***Extensão opcional - queres aprender mais?*** **'I'm sleepy.' (Estou sonolento.); 'I'm surprised.' (Estou supreendido.)'; 'I'm excited.' (Estou muito entusiasmado.); 'I'm bored.' (Estou aborrecido.); 'I'm shy.' (Estou tímido.); 'I'm worried' (Estou preocupado.)**  
+***Extensão opcional - queres aprender mais?*** **'bored' (entediado); 'funny' (engraçado); 'sleepy' (sonolento); 'surprised' (supreendido)'; 'excited' (muito entusiasmado); 'shy' (tímido); 'worried' (preocupado)**  
 
 [![emelf](/images/emelf.png){:height="60px"}](https://www.youtube.com/watch?v=xRlTTSpGUx4) ['Are you sad?'(Estás triste?); 'I'm so hungry.'(Tenho tanta fome.)](https://www.youtube.com/watch?v=xRlTTSpGUx4)  
 (I'm happy/sad/hungry/thirsty/hot/cold/tired/sleepy/surprised/scared/excited/bored.)  
