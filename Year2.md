@@ -20,7 +20,7 @@
 
 #### [Topic 9 - Adjetivos](https://tangerina-pt.github.io/English/ADJ1) [![adj1](https://1blockatatime.github.io/English/images2/sh_tall.jpg){:height="30px"}](https://tangerina-pt.github.io/English/ADJ1)  
 
-#### [Topic 10 - Talking about feelings](https://tangerina-pt.github.io/English/Feelings_B) [![prep](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)
+#### [Topic 10 - Talking about feelings](https://tangerina-pt.github.io/English/Feelings_B) [![hoyt](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)
 
 #### [Topic 11 - Family](https://tangerina-pt.github.io/English/Family_B) [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_B)
 
