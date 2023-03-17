@@ -14,7 +14,7 @@
 ***Respostas p.ex.:*** **'He is tired.' (Ele está cansado.); 'She is thirsty.' (Ela está com sede.)**    
 **’Is he hungry?’ (Ele está com fome?)**   
 **’Is she bored?’ (Ela está entediada?)**  
-***Respostas:*** **'Yes, he is.' (Sim, ele está.); ‘No, he isn’t.’ (Não, ele não está.);**
+***Respostas:*** **'Yes, he is.' (Sim, ele está.); ‘No, he isn’t.’ (Não, ele não está.);**  
 **'Yes, she is.' (Sim, ela está.); ‘No, she isn’t.’ (Não, ela não está.)**    
 <iframe width="220" height="124" src="https://www.youtube.com/embed/f8Xs9GziCek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
