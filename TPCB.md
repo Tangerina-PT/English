@@ -1,5 +1,18 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
+***17/03/2023 - sexta-feira dia 17 de março*** Para fazer até quinta-feira dia 23 de março
+**Material de estudo:** [He is.../She is...](https://tangerina-pt.github.io/English/to_be_he_she)  
+**Exercícios** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
+páginas 72,73,74,75,76  
+**Extensão opcional:** 77,78,79,80  
+
+***Revisão - se não te lembras como descrever os sentimentos em inglês ou quiseres aprender mais sentimentos...***  
+**Material de estudo:** [Feelings](https://tangerina-pt.github.io/English/Feelings_B)[![hoyt](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)  
+**Exercícios** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
+páginas 12,22,13,14,15 
+
+***  
+
 ***03/03/2023 - sexta-feira dia 3 de março*** Para fazer até quinta-feira dia 9 de março  
 **Material de estudo:** [Preposições de lugar](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B) Vê o material de estudo. Aprende a cantar a canção com as acções. Trabalha ao teu nível. Para quem a canção é nova, aprende as primeiras 6 preposições. Quem está pronto para o desafio, trabalha todas. Escolha entre os materias de estudo para reforçar o teu conhecimento das preposições.     
 **Exercícios:** Faz os exercícos no caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/) páginas 27, 28, 29, 30, 31  
