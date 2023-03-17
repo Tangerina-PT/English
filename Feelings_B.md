@@ -15,14 +15,7 @@
 4. [![wehay2](/images/wehay2.PNG){:height="60px"}](https://www.youtube.com/watch?v=WkswguWRJ5Q)  
 (I'm thirsty/sick/hungry.)
 
-***
-
-***Questions:*** **'How is he?'(Como está ele? -> Como é que ele está?);'How is she?'(Como está ela? -> Como é que ela está?)**  
-***Answers:*** **'He is happy.' (Ele está contente.); 'She is cold.' (Ela está com frio.)**  
-
-<iframe width="220" height="124" src="https://www.youtube.com/embed/yeTnlW2Y4b4?start=29&end=125" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-
-***
+***  
 
 ***Extensão opcional - queres aprender mais?*** **'bored' (entediado); 'funny' (engraçado); 'sleepy' (sonolento); 'surprised' (supreendido)'; 'excited' (muito entusiasmado); 'shy' (tímido); 'worried' (preocupado); 'so' (tão/tanto); 'very' (muito)**  
 
