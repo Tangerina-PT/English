@@ -1,14 +1,14 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
-***17/03/2023 - sexta-feira dia 17 de março*** Para fazer até quinta-feira dia 23 de março
+***17/03/2023 - sexta-feira dia 17 de março*** Para fazer até quinta-feira dia 23 de março  
 **Material de estudo:** [He is.../She is...](https://tangerina-pt.github.io/English/to_be_he_she)  
-**Exercícios** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
 páginas 72,73,74,75,76  
 **Extensão opcional:** 77,78,79,80  
 
 ***Revisão - se não te lembras como descrever os sentimentos em inglês ou quiseres aprender mais sentimentos...***  
 **Material de estudo:** [Feelings](https://tangerina-pt.github.io/English/Feelings_B)[![hoyt](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)  
-**Exercícios** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
 páginas 12,22,13,14,15 
 
 ***  
