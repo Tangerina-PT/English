@@ -10,16 +10,9 @@ Vê o vídeo, canta e faz as acções.
 ![clap](https://1blockatatime.github.io/English/images/clap.gif){:height="80px" width="80px"} ***clap*** / ![fly](https://1blockatatime.github.io/English/images/fly.gif){:height="80px" width="80px"} ***fly*** / ![stomp](https://1blockatatime.github.io/English/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![swim2](https://1blockatatime.github.io/English/images/swim2.gif){:height="80px" width="80px"} ***swim*** /  
 ![climb2](https://1blockatatime.github.io/English/images/climb2.gif){:height="80px" width="80px"} ***climb*** / ![run](https://1blockatatime.github.io/English/images/run.gif){:height="80px" width="80px"} ***run*** / ![sing2](https://1blockatatime.github.io/English/images/sing2.gif){:height="80px" width="80px"} ***sing*** / ![dance](https://1blockatatime.github.io/English/images/dance.gif){:height="80px" width="80px"} ***dance***  
 
-#### New song / Nova canção
-
-***Vocabulário novo:*** **left(esquerda); right(direita); turn left(vira a esquerda); turn right(vira a direita); move(mexer)**  
-
-<iframe width="220" height="124" src="https://www.youtube.com/embed/0Qrsaz1nxsI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
-Vê o vídeo, canta e faz as acções.  
-
 ***  
 
-Aprendemos outras acções a cantar no ano passado. Vê os vídeos, canta e faz as acções para te lembrares. A seguir, consegues apontar para cada imagem e dizer a acção em inglês? 
+Já aprendemos outra canção com acções. Vê os vídeos, canta e faz as acções para te lembrares. A seguir, consegues apontar para cada imagem e dizer a acção em inglês? 
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Vê o vídeo, canta e faz as acções.    
@@ -56,3 +49,7 @@ Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](htt
 * Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. / Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
 * Some resources seem only to work with particular browsers so if an activity doesn't load in your habitual browser, please try a different browser. / Alguns recursos parecem só funcionar com determinados 'browsers', por isso, se uma actividade não carregar no seu browser habitual, queira experimentar usar outro.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.  / Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
