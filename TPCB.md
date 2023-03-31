@@ -1,5 +1,14 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
+***31/03/2023 - sexta-feira dia 31 de março*** Para fazer até quinta-feira dia 20 de abril  
+**Jogo:** Jogar o jogo de adivinhas levado para casa: 'What am I?'  
+**Material de estudo:** [There is.../There are...](https://tangerina-pt.github.io/English/there_is_there_are) e [My house](https://tangerina-pt.github.io/English/House_B)  
+**Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
+páginas 85, 86, 87, 88, 89, 90, 91, 92  
+**Extensão opcional:** páginas 93, 94, 95, 96  
+
+***
+
 ***17/03/2023 - sexta-feira dia 17 de março*** Para fazer até quinta-feira dia 23 de março  
 **Material de estudo:** [He is.../She is...](https://tangerina-pt.github.io/English/to_be_he_she)  
 **Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
