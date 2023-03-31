@@ -17,7 +17,8 @@ Silly song (Canção brincalhona)
 <iframe width="220" height="124" src="https://www.youtube.com/embed/EECsZ034E-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 Video/song by Cambridge University Press   
 
-[Lyrics(letra com tradução)](https://tangerina-pt.github.io/English/tita)    
+[Lyrics(letra com tradução)](https://tangerina-pt.github.io/English/tita)   
+Nota: There is = There's
 
 ***
 
@@ -32,6 +33,12 @@ Video/song by Cambridge University Press
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ZjhOgnROluo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
 
 Nota re 'a'/'an': 'a' (quando o nome/substantivo começa com o som de um consoante) ou 'an' (quando o substantivo começa com o som de um vogal) são usados para o singular quando o propósito não é indicar quantidade. p.ex. 'What is it?' -'It's a cat.'  
+
+#### Extensão - perguntar...
+***Question (singular):*** **'Is there a pencil in your pencil case?' (Há um lápis no teu estojo?)**  
+***Answer:*** **'Yes.' (Sim.);'Yes, there is.' (Sim, há.);'No.' (Não.); 'No there isn't.'(Não, não há.)**    
+***Question (plural):*** **'Are there any coloured pencils?' (Há lápis de cor?)**  
+***Answer:*** **'Yes, there are.' (Sim, há.); 'No, there aren't.' (Não, não há.)**  
 
 ***  
 
