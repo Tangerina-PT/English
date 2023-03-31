@@ -3,27 +3,35 @@
 #### Indicar quantidade
 
 ***Question:*** **'How many monkeys are there?' (Quantos macacos há?)**  
-***Simple answer:*** **'...Number..'(..Número..)**   
-***New - full-sentence answer (resposta em frase inteira):***   
-**[There is one ..../There are {2 or more} ...s.' (Há um.../Há (2 ou mais)...)]**  
+***Simple answer (resposta simples):*** **'...Number..'(..Número..)**   
+***Full-sentence answer (Resposta em frase inteira):***   
+**'There is one ....' (Há um...);'There are {2 or more} ...s.' (Há {2 ou mais}...)**  
 p.ex. There is one monkey. There are two monkeys.  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/bUvbOtOGeUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/bUvbOtOGeUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+Video/song by Natural Genius  
 
 ***  
 
 Silly song (Canção brincalhona)  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/EECsZ034E-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-Song by Cambridge University Press  
- 
+Video/song by Cambridge University Press   
+
+[Lyrics(letra com tradução)](https://tangerina-pt.github.io/English/tita)    
+
 ***
+
 #### Observações/descrições gerais
 
-***Questions:*** **'What can you see?' (O que é que vês?); 'What's in the box?' (O que é que está dentro da caixa?); etc.**  
-***Answers:*** **'There is a/an ... ' (Há um/uma ... ); There are ... (Há - plural); There are lots of ... (Há muitos ...)**  
-Nota: 'a' (quando o nome/substantivo começa com o som de um consoante) ou 'an' (quando o substantivo começa com o som de um vogal) é usado para o singular quando o propósito não é contar/indicar a quantidade de 'um'  
+***Potential questions:*** **'What is it?' (O que é?); 'What can you see?' (O que é que vês?);**  
+**'What's in the box?' (O que é que está dentro da caixa?); etc.**  
+***Answers:*** **'There is a/an ... ' (Há um/uma ... );**
+**There are ... (Há - plural);**  
+**There are lots of ... (Há muitos ...)**  
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/ZjhOgnROluo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/ZjhOgnROluo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+
+Nota re 'a'/'an': 'a' (quando o nome/substantivo começa com o som de um consoante) ou 'an' (quando o substantivo começa com o som de um vogal) são usados para o singular quando o propósito não é indicar quantidade. p.ex. 'What is it?' -'It's a cat.'  
 
 ***  
 
