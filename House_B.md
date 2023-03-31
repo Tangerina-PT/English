@@ -6,6 +6,8 @@ Aprender os nomes das divisões em casa:
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/1lqZmMu5wkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
+Vocabulário adicional: garden (jardim); hall (hall de entrada)   
+
 #### Household objects (objectos da casa)
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/L3nigtEU7rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
