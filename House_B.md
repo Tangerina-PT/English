@@ -1,4 +1,4 @@
-### In the house... (na casa...) 
+### In my house... (Na minha casa...) 
 
 #### Rooms of the house (divisões da casa)  
 
@@ -8,9 +8,16 @@ Aprender os nomes das divisões em casa:
 
 Vocabulário adicional: garden (jardim); hall (hall de entrada)   
 
+#### Basic house and garden vocabulary (vocabulário casa e jardim)  
+
+<iframe width="220" height="124" src="https://www.youtube.com/embed/mTSUSkSgvE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
 #### Household objects (objectos da casa)
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/L3nigtEU7rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+Vídeo para aprender os nomes de alguns objectos em casa. Depois de ouvir os nomes dos objectos para cada divisão da casa, consegues identificar o que falta?   
+<iframe width="220" height="124" src="https://www.youtube.com/embed/L3nigtEU7rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+
+Nota: Isto é só uma introdução. Não há uma expectativa de aprender já todas as palavras. Iremos continuar a trabalhar o vocabulário depois das férias.    
 
 ***  
 
