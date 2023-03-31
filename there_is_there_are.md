@@ -4,7 +4,7 @@
 
 ***Question:*** **'How many monkeys are there?' (Quantos macacos há?)**  
 ***Simple answer (resposta simples):*** **'...Number..'(..Número..)**   
-***Full-sentence answer (Resposta em frase inteira):***   
+***Full-sentence answer (resposta em frase inteira):***   
 **'There is one ....' (Há um...);'There are {2 or more} ...s.' (Há {2 ou mais}...)**  
 p.ex. There is one monkey. There are two monkeys.  
 
@@ -18,7 +18,7 @@ Silly song (Canção brincalhona)
 Video/song by Cambridge University Press   
 
 [Lyrics(letra com tradução)](https://tangerina-pt.github.io/English/tita)   
-Nota: There is = There's
+**Nota:** 'There is' = 'There's'
 
 ***
 
@@ -32,7 +32,7 @@ Nota: There is = There's
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ZjhOgnROluo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
 
-Nota re 'a'/'an': 'a' (quando o nome/substantivo começa com o som de um consoante) ou 'an' (quando o substantivo começa com o som de um vogal) são usados para o singular quando o propósito não é indicar quantidade. p.ex. 'What is it?' -'It's a cat.'  
+**Nota re 'a'/'an':** 'a' (quando o nome/substantivo começa com o som de um consoante) ou 'an' (quando o nome/substantivo começa com o som de um vogal) são usados para o singular quando o propósito não é indicar quantidade. p.ex. 'What is it?' -'It's a cat.'  
 
 #### Extensão - perguntar...
 ***Question (singular):*** **'Is there a pencil in your pencil case?' (Há um lápis no teu estojo?)**  
