@@ -8,6 +8,8 @@
 * [![clean](https://1blockatatime.github.io/English/images/clean.png){:height="60px"}](https://www.youtube.com/watch?v=RmNCryV6G_M)  ![p_away](https://1blockatatime.github.io/English/images/clean.gif){:height="80px" width="80px"} ***clean up*** (arruma)  / ![p_away](https://1blockatatime.github.io/English/images/p_away.gif){:height="80px" width="80px"} ***put away*** (guarda)    
 * ![t_out](https://1blockatatime.github.io/English/images/t_out.png){:height="80px" width="80px"} ***take out*** (tira)    
 
+* [![bptch](https://1blockatatime.github.io/English/images/bptch.png){:height="60px"}](https://www.youtube.com/watch?v=3ZWtDfBoU-E)  ***Touch*** your head. (Toca na tua cabeça.)  
+
 #### Vê e ouve as expressões no vídeo:  
 
 * [![lcca0](https://1blockatatime.github.io/English/images/lcca0.png){:height="60px"}](https://www.youtube.com/watch?v=UIGD9uFY-C4)
