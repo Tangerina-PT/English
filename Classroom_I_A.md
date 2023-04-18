@@ -6,7 +6,7 @@
 ![stand_up](https://1blockatatime.github.io/English/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](https://1blockatatime.github.io/English/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](https://1blockatatime.github.io/English/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** / ![hand_up](https://1blockatatime.github.io/English/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop***  
 * <iframe width="220" height="124" src="https://www.youtube.com/embed/-jBfb33_KHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  ***put on your jacket***    
 * [![clean](https://1blockatatime.github.io/English/images/clean.png){:height="60px"}](https://www.youtube.com/watch?v=RmNCryV6G_M)  ![p_away](https://1blockatatime.github.io/English/images/clean.gif){:height="80px" width="80px"} ***clean up*** (arruma)  / ![p_away](https://1blockatatime.github.io/English/images/p_away.gif){:height="80px" width="80px"} ***put away*** (guarda)    
-* ![t_out](https://1blockatatime.github.io/English/images/t_out.png){:height="80px" width="80px"} ***take out*** (tira)    
+* ![t_out](https://1blockatatime.github.io/English/images2/t_out.png){:height="80px" width="80px"} ***take out*** (tira)    
 
 #### Vê e ouve as expressões no vídeo:  
 
@@ -19,9 +19,12 @@ Instruções para as atividades de vocabulário de Learning Chocolate: ![spkr2](
 * [![lcca1](https://1blockatatime.github.io/English/images/lcca1.PNG){:height="60px"}](http://www.learningchocolate.com/content/lets-go-class)    
 
 * [![lcca2](https://1blockatatime.github.io/English/images/lcca2.PNG){:height="60px"}](http://www.learningchocolate.com/content/classroom-instructions)    
+
 * [![lvwkclin3}(https://1blockatatime.github.io/English/images2/lvwkclin3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_Instructions/Classroom_language_vg2881548vt)
-* [![lvwkclin3}(https://1blockatatime.github.io/English/images2/lvwkclin3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_instructions/In_the_classroom_gh1714585vr)  
-* [![lvwkclin6}(https://1blockatatime.github.io/English/images2/lvwkclin6.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_Instructions/Classroom_commands_mb3218840zy) 
+
+* [![lvwkclin3}(https://1blockatatime.github.io/English/images2/lvwkclin3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_instructions/In_the_classroom_gh1714585vr)
+
+* [![lvwkclin6}(https://1blockatatime.github.io/English/images2/lvwkclin6.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_Instructions/Classroom_commands_mb3218840zy)
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
