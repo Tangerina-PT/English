@@ -8,25 +8,19 @@
 * [![clean](https://1blockatatime.github.io/English/images/clean.png){:height="60px"}](https://www.youtube.com/watch?v=RmNCryV6G_M)  ![p_away](https://1blockatatime.github.io/English/images/clean.gif){:height="80px" width="80px"} ***clean up*** (arruma)  / ![p_away](https://1blockatatime.github.io/English/images/p_away.gif){:height="80px" width="80px"} ***put away*** (guarda)    
 * ![t_out](https://1blockatatime.github.io/English/images/t_out.png){:height="80px" width="80px"} ***take out*** (tira)    
 
-#### Watch the video flashcards / Vê e ouve as expressões no vídeo:  
+#### Vê e ouve as expressões no vídeo:  
 
 * [![lcca0](https://1blockatatime.github.io/English/images/lcca0.png){:height="60px"}](https://www.youtube.com/watch?v=UIGD9uFY-C4)
+**Vocabulário:** ‘come in’ - entra; ‘open your books’ - abrem os vossos livros; ’close your books’ - fechem os vossas livros; ‘read’ - ler; ‘listen’ - escuta; ‘repeat’ - repete; ‘write’ - escreve; ‘be quiet’ – sê pouco barulhento - > não faças barulho; ‘go out’ - sai   
 
 #### [![bccifc](https://1blockatatime.github.io/English/images/bccifc.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf) Print flashcards to play memory/Imprime cartas para jogar memória   
 
 #### Match the words, pictures and sounds  
 
-Instruções para as actividades de vocabulário de Learning Chocolate: ![spkr2](https://1blockatatime.github.io/English/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Se quiseres um desafio, experimenta com as actividades: ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG), ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG) and ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG). Se não consegues ouvir o som, experimenta com Internet Explorer. / Click on the speaker to hear each expression then do the activities. If you can't hear the sound - please try Internet Explorer.  
-
+Instruções para as actividades de vocabulário de Learning Chocolate: ![spkr2](https://1blockatatime.github.io/English/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Se quiseres um desafio, experimenta com as actividades: ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG), ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG) and ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG). Se não consegues ouvir o som, experimenta com outro browser. / Click on the speaker to hear each expression then do the activities. If you can't hear the sound - please try a different browser.  
 * [![lcca1](https://1blockatatime.github.io/English/images/lcca1.PNG){:height="60px"}](http://www.learningchocolate.com/content/lets-go-class)    
 
 * [![lcca2](https://1blockatatime.github.io/English/images/lcca2.PNG){:height="60px"}](http://www.learningchocolate.com/content/classroom-instructions)  
-
-Instruções para as actividades de vocabulário do British Council de ligar as palavras às imagens: para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento abaixo da imagem correcta. / Instructions: for each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture.
-
-* [![bcca1](https://1blockatatime.github.io/English/images/bcca1.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1) [Classroom actions 1](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-1)  
-
-* [![bcca2](https://1blockatatime.github.io/English/images/bcca2.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2) [Classroom actions 2](https://learnenglishkids.britishcouncil.org/en/word-games/classroom-actions-2)
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
