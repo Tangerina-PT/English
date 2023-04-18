@@ -1,7 +1,7 @@
 ### Classroom instructions
 
-#### Vê as instruções de sala de aula que já trabalhámos nas canções...
-  https://1blockatatime.github.io/English/images/
+#### Vê as instruções de sala de aula que já trabalhámos...
+ 
 * [![stand](https://1blockatatime.github.io/English/images/stand.png){:height="60px"}](https://www.youtube.com/watch?v=WsiRSWthV1k)[Vê o vídeo, canta e faz as acções.](https://www.youtube.com/watch?v=WsiRSWthV1k)   
 ![stand_up](https://1blockatatime.github.io/English/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](https://1blockatatime.github.io/English/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](https://1blockatatime.github.io/English/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** / ![hand_up](https://1blockatatime.github.io/English/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![stop](https://1blockatatime.github.io/English/images/stop.gif){:height="80px" width="80px"} ***stop***  
 
@@ -12,7 +12,6 @@
 #### Watch the video flashcards / Vê e ouve as expressões no vídeo:  
 
 * [![lcca0](https://1blockatatime.github.io/English/images/lcca0.png){:height="60px"}](https://www.youtube.com/watch?v=UIGD9uFY-C4)
-
 
 #### [![bccifc](https://1blockatatime.github.io/English/images/bccifc.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf) Print flashcards to play memory/Imprime cartas para jogar memória   
 
