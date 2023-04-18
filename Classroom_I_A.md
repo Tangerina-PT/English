@@ -23,7 +23,7 @@ Instruções para as atividades de vocabulário de Learning Chocolate: ![spkr2](
 
 * [![lvwkclin3](https://1blockatatime.github.io/English/images2/lvwkclin3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_Instructions/Classroom_language_vg2881548vt)
 
-* [![lvwkclin3](https://1blockatatime.github.io/English/images2/lvwkclin3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_instructions/In_the_classroom_gh1714585vr)
+* [![lvwkclin4](https://1blockatatime.github.io/English/images2/lvwkclin3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_instructions/In_the_classroom_gh1714585vr)
 
 * [![lvwkclin6](https://1blockatatime.github.io/English/images2/lvwkclin6.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_Instructions/Classroom_commands_mb3218840zy)
 
