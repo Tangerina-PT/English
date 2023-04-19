@@ -11,20 +11,22 @@
 
 #### Vê e ouve as expressões no vídeo:  
 
-* [![lcca0](https://1blockatatime.github.io/English/images/lcca0.png){:height="60px"}](https://www.youtube.com/watch?v=UIGD9uFY-C4)
+* [![lcca0](https://1blockatatime.github.io/English/images/lcca0.png){:height="60px"}](https://www.youtube.com/watch?v=UIGD9uFY-C4)   
 **Vocabulário adicional:** ‘come in’ - entra; ‘open your books’ - abrem os vossos livros; ’close your books’ - fechem os vossas livros; ‘read’ - ler; ‘listen’ - escuta; ‘repeat’ - repete; ‘write’ - escreve; ‘be quiet’ – sê pouco barulhento - > não faças barulho; ‘go out’ - sai   
 
-#### Match the words, pictures and sounds  
+#### Listening exercises: match the pictures and the sounds  
 
-Instruções para as atividades de vocabulário de Learning Chocolate: ![spkr2](https://1blockatatime.github.io/English/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Faz a actividade 3: ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG). Se não consegues ouvir o som, experimenta com outro browser. / Click on the speaker to hear each expression. Do activity 3. If you can't hear the sound - please try a different browser.   
+Instruções para as atividades no 'Learning Chocolate': ![spkr2](https://1blockatatime.github.io/English/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Faz a actividade 3: ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG). Se não consegues ouvir o som, experimenta com outro browser. / Click on the speaker to hear each expression. Do activity 3. If you can't hear the sound - please try a different browser.   
 * [![lcca1](https://1blockatatime.github.io/English/images/lcca1.PNG){:height="60px"}](http://www.learningchocolate.com/content/lets-go-class)    
 
 * [![lcca2](https://1blockatatime.github.io/English/images/lcca2.PNG){:height="60px"}](http://www.learningchocolate.com/content/classroom-instructions)    
-
+ 
+Instruções para atividades no 'Liveworksheets': clica no altifalante para ouvir a expressão. Arrasta a imagem correta para dentro da caixa. É preciso encontrar o sítio na caixa onde a imagem 'cola' como um íman para fixá-la. Ao acabar, clica no 'finish' (fim) e na lupa para ver a correcção.   
 * [![lvwkclin3](https://1blockatatime.github.io/English/images2/lvwkclin3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_Instructions/Classroom_language_vg2881548vt)
 
 * [![lvwkclin4](https://1blockatatime.github.io/English/images2/lvwkclin3.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_instructions/In_the_classroom_gh1714585vr)
 
+Extensão - desafio: clica em cada número da parte da baixo para ouvir a expressão. Escreve o número na caixa a beira da imagem correspondente.  
 * [![lvwkclin6](https://1blockatatime.github.io/English/images2/lvwkclin6.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Classroom_Instructions/Classroom_commands_mb3218840zy)
 
 ***
@@ -40,5 +42,4 @@ Instruções para as atividades de vocabulário de Learning Chocolate: ![spkr2](
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
 <p align="center">
 <img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
-</p> 
-
+</p>
