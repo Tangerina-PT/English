@@ -22,8 +22,8 @@ Consegues apontar para cada imagem e dizer a acção associada?
 #### Jogos e actividades   
 
 Instrucções para Wordwall: Seleciona um jogo do painel branco a direita e clica no 'START'. Escolha o número de expressões que queres trabalhar:  
-Nivel 1 (6 expressões) Nível 2 (9 expressões) Nível 3 (12 expressões)       
-[![wwclin4](https://1blockatatime.github.io/English/images2/wwclin4.png){:height="60px"}](https://wordwall.net/resource/22157086/english/classroom-instructions)[![wwclin6](https://1blockatatime.github.io/English/images2/wwclin6.png){:height="60px"}](https://wordwall.net/resource/53924750/classroom-instructions)[![wwclin8](https://1blockatatime.github.io/English/images2/wwclin8.png){:height="60px"}](https://wordwall.net/resource/34794988/classroom-instructions)    
+(1). 6 expressões; (2). 9 expressões; (3) 12 expressões       
+(1).[![wwclin4](https://1blockatatime.github.io/English/images2/wwclin4.png){:height="60px"}](https://wordwall.net/resource/22157086/english/classroom-instructions)(2).[![wwclin6](https://1blockatatime.github.io/English/images2/wwclin6.png){:height="60px"}](https://wordwall.net/resource/53924750/classroom-instructions)(3).[![wwclin8](https://1blockatatime.github.io/English/images2/wwclin8.png){:height="60px"}](https://wordwall.net/resource/34794988/classroom-instructions)    
 
 #### [![bccifc](https://1blockatatime.github.io/English/images/bccifc.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf) [Gostas de jogar o jogo de memória? Imprime cartas aqui](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf)  
 
