@@ -1,8 +1,13 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
+***Nota:*** A grande maioria está a aderir aos trabalhos para casa, está a fazer um muito bom trabalho, e tem impulsionado as actividades e um ritmo de trabalho ótimo nas aulas. Muito de vez em quando há um problema técnica com uma ou outra página que faz com que respostas certas são indicadas como erradas. Foi explicado esta falha potencial ocasional aos alunos e foi-lhes dito para não se preocuparem se a nota de uma página seja muito mais baixa de que nas outras. Ou pode ser um problema técnica ou pode ser que a página abordou conteúdo insuficientemente abordada em sala de aula. Em ambos os casos a responsabilidade não é dos alunos, evidentemente, por isso um resultado estranho é para não preocupar. Mas qualquer dúvida ou problema, pedia que me enviem um email por favor. Agradecendo, desde já, todo e qualquer feedback - o maior o número de comentários negativos, o mais bem-ajustado ficará o programa aos alunos. Com os melhores cumprimentos, Sally Teh (c21educator@gmail.com)   
+
+***
+
 ***20/04/2023 - quinta-feira dia 20 de abril***   
-**Material de estudo:** [Instrucções da sala de aula/Classroom instructions](https://tangerina-pt.github.io/English/Classroom_I_B)  
-Caderno digital número 2: páginas 1 e 2 - confirma a pronúncia e aprende mais instrucções/acções - clica na imagem para cada instrucção/acção para ouvir a pronúncia.   
+**Material de estudo:**   
+* [Instrucções da sala de aula/Classroom instructions](https://tangerina-pt.github.io/English/Classroom_I_B) Há varías jogos e actividades propostas para investigar e escolher.  
+* Caderno digital número 2: páginas 1 e 2 - confirma a pronúncia e aprende mais instrucções/acções - clica na imagem para cada instrucção/acção para ouvir a pronúncia.   
 **Exercícios:** Caderno digital número 2: páginas 3, 4, 5, 6   
 **Extensão opcional:** Caderno digital número 2: páginas 7 e 8    
 
