@@ -12,6 +12,8 @@
 
 #### Vê e ouve as expressões no vídeo:  
 
+* [![wwclin4](https://1blockatatime.github.io/English/images2/wwclin4.png)]{:height="80px" width="80px"}(https://wordwall.net/resource/22157086/english/classroom-instructions)  
+
 * [![lcca0](https://1blockatatime.github.io/English/images/lcca0.png){:height="60px"}](https://www.youtube.com/watch?v=UIGD9uFY-C4)
 **Vocabulário:** ‘come in’ - entra; ‘open your books’ - abrem os vossos livros; ’close your books’ - fechem os vossas livros; ‘read’ - ler; ‘listen’ - escuta; ‘repeat’ - repete; ‘write’ - escreve; ‘be quiet’ – sê pouco barulhento - > não faças barulho; ‘go out’ - sai   
 
