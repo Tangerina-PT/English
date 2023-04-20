@@ -11,11 +11,12 @@ Consegues apontar para cada imagem e dizer a acção associada?
 
 * [![bptch](https://1blockatatime.github.io/English/images/bptch.png){:height="60px"}](https://www.youtube.com/watch?v=3ZWtDfBoU-E)  ***Touch*** your head. (Toca na tua cabeça.)   
 
-* <iframe width="220" height="124" src="https://www.youtube.com/embed/-jBfb33_KHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  ![put_on_jack](https://1blockatatime.github.io/English/images2/put_on_jack.png){:height="80px" width="80px"} ***put on*** your jacket (põe/veste o teu casaco)  / ![go_outside](https://1blockatatime.github.io/English/images2/go_outside.png){:height="80px" width="80px"} ***go outside*** (sair para fora)      
+* <iframe width="220" height="124" src="https://www.youtube.com/embed/-jBfb33_KHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  ![put_on_jack](https://1blockatatime.github.io/English/images2/put_on_jack.png){:height="80px" width="80px"} ***put on*** your jacket (põe/veste o teu casaco)  /   
+![go_outside](https://1blockatatime.github.io/English/images2/go_outside.png){:height="80px" width="80px"} ***go outside*** (sair para fora)      
 
 #### Vê e ouve as expressões no vídeo:  
 
-* [![lcca0](https://1blockatatime.github.io/English/images/lcca0.png){:height="60px"}](https://www.youtube.com/watch?v=UIGD9uFY-C4)
+* [![lcca0](https://1blockatatime.github.io/English/images/lcca0.png){:height="60px"}](https://www.youtube.com/watch?v=UIGD9uFY-C4)   
 **Vocabulário:** ‘come in’ - entra; ‘open your books’ - abrem os vossos livros; ’close your books’ - fechem os vossas livros; ‘read’ - ler; ‘listen’ - escuta; ‘repeat’ - repete; ‘write’ - escreve; ‘be quiet’ – sê pouco barulhento - > não faças barulho; ‘go out’ - sai   
 
 #### Jogos e actividades   
@@ -33,7 +34,7 @@ ou
 * Jogar com 12 expressões:  
 [![wwclin8](https://1blockatatime.github.io/English/images2/wwclin8.png){:height="80px" width="80px"}](https://wordwall.net/resource/34794988/classroom-instructions)    
 
-#### [![bccifc](https://1blockatatime.github.io/English/images/bccifc.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf) Print flashcards to play memory/Imprime cartas para jogar memória   
+#### [![bccifc](https://1blockatatime.github.io/English/images/bccifc.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf) [Gostas de jogar o jogo de memória? Imprime cartas aqui](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf)  
 
 Instruções para as actividades de vocabulário de Learning Chocolate: ![spkr2](https://1blockatatime.github.io/English/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Se quiseres um desafio, experimenta com as actividades: ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG), ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG) and ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG). Se não consegues ouvir o som, experimenta com outro browser. / Click on the speaker to hear each expression then do the activities. If you can't hear the sound - please try a different browser.  
 * [![lcca1](https://1blockatatime.github.io/English/images/lcca1.PNG){:height="60px"}](http://www.learningchocolate.com/content/lets-go-class)    
