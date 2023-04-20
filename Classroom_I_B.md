@@ -9,7 +9,9 @@ Consegues apontar para cada imagem e dizer a acção associada?
 * [![clean](https://1blockatatime.github.io/English/images/clean.png){:height="60px"}](https://www.youtube.com/watch?v=RmNCryV6G_M)  ![p_away](https://1blockatatime.github.io/English/images/clean.gif){:height="80px" width="80px"} ***clean up*** (arruma)  / ![p_away](https://1blockatatime.github.io/English/images/p_away.gif){:height="80px" width="80px"} ***put away*** (guarda)    
 * ![t_out](https://1blockatatime.github.io/English/images2/t_out.png){:height="80px" width="80px"} ***take out*** (tira)    
 
-* [![bptch](https://1blockatatime.github.io/English/images/bptch.png){:height="60px"}](https://www.youtube.com/watch?v=3ZWtDfBoU-E)  ***Touch*** your head. (Toca na tua cabeça.)  
+* [![bptch](https://1blockatatime.github.io/English/images/bptch.png){:height="60px"}](https://www.youtube.com/watch?v=3ZWtDfBoU-E)  ***Touch*** your head. (Toca na tua cabeça.)   
+
+* <iframe width="220" height="124" src="https://www.youtube.com/embed/-jBfb33_KHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  ![put_on_jack](https://1blockatatime.github.io/English/images2/put_on_jack.png){:height="80px" width="80px"} ***put on*** your jacket (põe/veste o teu casaco)  / ![go_outside](https://1blockatatime.github.io/English/images2/go_outside.png){:height="80px" width="80px"} ***go outside*** (sair para fora)      
 
 #### Vê e ouve as expressões no vídeo:  
 
