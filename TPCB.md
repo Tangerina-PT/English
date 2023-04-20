@@ -1,6 +1,6 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
-***20/04/2023 - quinta-feira dia 20 de abril***
+***20/04/2023 - quinta-feira dia 20 de abril***   
 **Material de estudo:** [Instrucções da sala de aula/Classroom instructions](https://tangerina-pt.github.io/English/Classroom_I_B)  
 Caderno digital número 2: páginas 1 e 2 - confirma a pronúncia e aprende mais instrucções/acções - clica na imagem para cada instrucção/acção para ouvir a pronúncia.   
 **Exercícios:** Caderno digital número 2: páginas 3, 4, 5, 6   
