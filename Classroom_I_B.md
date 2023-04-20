@@ -21,17 +21,15 @@ Consegues apontar para cada imagem e dizer a acção associada?
 
 #### Jogos e actividades   
 
-Instrucções para actividades no Wordwall: Seleciona um jogo do painel branco a direita e clica no 'START'. Escolha o número de expressões que queres trabalhar:  
+* Instrucções para actividades no Wordwall: Seleciona um jogo do painel branco a direita e clica no 'START'. Escolha o número de expressões que queres trabalhar:  
 (1). 6 expressões; (2). 9 expressões; (3) 12 expressões       
 [![wwclin4](https://1blockatatime.github.io/English/images2/wwclin4.png){:height="60px"}](https://wordwall.net/resource/22157086/english/classroom-instructions)[![wwclin6](https://1blockatatime.github.io/English/images2/wwclin6.png){:height="60px"}](https://wordwall.net/resource/53924750/classroom-instructions)[![wwclin8](https://1blockatatime.github.io/English/images2/wwclin8.png){:height="60px"}](https://wordwall.net/resource/34794988/classroom-instructions)    
 
-#### [![bccifc](https://1blockatatime.github.io/English/images/bccifc.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf) Gostas de jogar o jogo de memória? Imprime cartas aqui.  
+* [![bccifc](https://1blockatatime.github.io/English/images/bccifc.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-language.pdf) Gostas de jogar o jogo de memória? Imprime cartas aqui.  
 
-Instruções para actividades no Learning Chocolate: ![spkr2](https://1blockatatime.github.io/English/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Clica no ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG). Clica em cada altifalante preto em baixo. Arrasta o altifalante para a beira da imagem correta. Se quiseres um desafio de leitura, experimenta com: ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG) e ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG). Se não consegues ouvir o som, experimenta com outro browser.  
+* Instruções para actividades no Learning Chocolate: ![spkr2](https://1blockatatime.github.io/English/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Clica no ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG). Clica em cada altifalante preto em baixo. Arrasta o altifalante para a beira da imagem correta. Se quiseres um desafio de leitura, experimenta com: ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG) e ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG). Se não consegues ouvir o som, experimenta com outro browser.  
 
-* [![lcca1](https://1blockatatime.github.io/English/images/lcca1.PNG){:height="60px"}](http://www.learningchocolate.com/content/lets-go-class)    
-
-* [![lcca2](https://1blockatatime.github.io/English/images/lcca2.PNG){:height="60px"}](http://www.learningchocolate.com/content/classroom-instructions)  
+[![lcca1](https://1blockatatime.github.io/English/images/lcca1.PNG){:height="60px"}](http://www.learningchocolate.com/content/lets-go-class) ![lcca2](https://1blockatatime.github.io/English/images/lcca2.PNG){:height="60px"}](http://www.learningchocolate.com/content/classroom-instructions)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
