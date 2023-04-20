@@ -29,7 +29,7 @@ Consegues apontar para cada imagem e dizer a acção associada?
 
 * Instruções para actividades no Learning Chocolate: ![spkr2](https://1blockatatime.github.io/English/images/spkr2.PNG) Clica no altifalante para ouvir cada expressão. Clica no ![lcmu3](https://1blockatatime.github.io/English/images/lcmu3.PNG). Clica em cada altifalante preto em baixo. Arrasta o altifalante para a beira da imagem correta. Se quiseres um desafio de leitura, experimenta com: ![lcmu1](https://1blockatatime.github.io/English/images/lcmu1.PNG) e ![lcmu2](https://1blockatatime.github.io/English/images/lcmu2.PNG). Se não consegues ouvir o som, experimenta com outro browser.  
 
-[![lcca1](https://1blockatatime.github.io/English/images/lcca1.PNG){:height="60px"}](http://www.learningchocolate.com/content/lets-go-class) ![lcca2](https://1blockatatime.github.io/English/images/lcca2.PNG){:height="60px"}](http://www.learningchocolate.com/content/classroom-instructions)  
+[![lcca1](https://1blockatatime.github.io/English/images/lcca1.PNG){:height="60px"}](http://www.learningchocolate.com/content/lets-go-class)[![lcca2](https://1blockatatime.github.io/English/images/lcca2.PNG){:height="60px"}](http://www.learningchocolate.com/content/classroom-instructions)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
