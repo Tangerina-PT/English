@@ -21,7 +21,7 @@ Year 1 English
 ### [Topic 15 - Food](https://tangerina-pt.github.io/English/Food_A) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)  
 ### [Topic 16 - Days of the week](https://tangerina-pt.github.io/English/Days_A) [![days](https://1blockatatime.github.io/English/images/days.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Days_A)
 ### [Topic 17 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_A) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_A)
-### [Topic 18 - Introduction to the verb 'to be'](https://tangerina-pt.github.io/English/Classroom_Q_A) [![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be_A)
+### [Topic 18 - Introduction to the verb 'to be'](https://tangerina-pt.github.io/English/To_Be_A) [![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be_A)
 ### [Topic 19 - Classroom instructions](https://tangerina-pt.github.io/English/Classroom_I_A) [![hand_up](https://1blockatatime.github.io/English/images/hand_up.gif){:height="40px" width="40px"}](https://tangerina-pt.github.io/English/Classroom_I_A)  
 ### [Topic 20 - Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_A) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_A)
 
