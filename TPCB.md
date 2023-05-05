@@ -1,5 +1,7 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
+**Nota:** Foi-me comunicado (obrigada pelo feedback) que seria mais prático haver alguma forma de saber directamente quando há novos TPC. Se o utilizador registar um endereço email na conta de liveworksheets, recebe uma notificação por email por cada página de TPC que é 'dado'/'indicado' a partir do momento do registo. Não é ideal - vai um email por página. Mas é uma forma de receber uma notificação.     
+
 ***05/05/2023 - sexta-feira dia 5 de maio*** Para fazer até quinta-feira dia 12 de maio   
 Não houve aulas esta semana devido ao teste de aferição e o dia da mãe. Os exercícios consiste me trabalhar a leitura revendo conteúdo para preparar para as avaliações. Integra objectos de sala de aula, cores e o verbo 'to be'.  
 **Material de estudo:** Tenta ler as palavras em voz alta. Clica nas imagens para ouvir a pronúncia. Caderno dígital, páginas: 17 e 18  
