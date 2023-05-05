@@ -1,8 +1,11 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
-
-
-***
+***05/05/2023 - sexta-feira dia 5 de maio***
+**Revisões em preparação para avaliações**  
+Como não houve aulas esta semana devido ao teste de aferição e o dia da mãe, o material é revisão de estruturas já trabalhadas durante o ano para preparar para as avaliações do final do ano. Integra objectos de sala de aula, cores e o verbo 'to be'.  
+**Material de estudo:** Tenta ler as palavras em voz alta. Clica nas imagens para ouvir a pronúncia. Caderno dígital, páginas: 17 e 18  
+**Exercícios:** Caderno digital número 2: páginas 19,20,21,22    
+**Extensão opcional:** Caderno digital número 2: páginas 23 e 24   
 
 ***20/04/2023 - quinta-feira dia 20 de abril***   
 **Material de estudo:**   
