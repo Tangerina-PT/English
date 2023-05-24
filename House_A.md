@@ -7,9 +7,8 @@
 [![lvwkhse00](https://1blockatatime.github.io/English/images2/lvwkhse00.png){:height="75px"}](https://www.liveworksheets.com/zh1425649jp)[Clica e ouve os nomes das divisões e objetos em casa](https://www.liveworksheets.com/zh1425649jp)   
 Nota: Não é um exercício. Permite ouvir um por um os nomes das divisões e objetos da casa.     
 
-**Exercício:**   
-[![lvwkhse02](https://1blockatatime.github.io/English/images2/lvwkhse02.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Rooms_in_the_house/Parts_of_the_house_tp18820nz)   
-Nota: p.1 Clica e ouve; p.2: Clica, ouve e escreve o número a beira da imagem correcta  
+**Exercício:** p.1 Clica e ouve; p.2 Clica, ouve e escreve o número a beira da imagem correcta  
+[![lvwkhse02](https://1blockatatime.github.io/English/images2/lvwkhse02.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Rooms_in_the_house/Parts_of_the_house_tp18820nz)     
 
 ***  
 
