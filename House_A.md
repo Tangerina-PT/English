@@ -8,7 +8,8 @@
 Nota: Não é um exercício. Permite ouvir um por um os nomes das divisões e objetos da casa.     
 
 **Exercício:**   
-[![lvwkhse02](https://1blockatatime.github.io/English/images2/lvwkhse02.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Rooms_in_the_house/Parts_of_the_house_tp18820nz)[página 1: Clica e ouve os nomes das divisões; página 2: Clica, ouve e escreve o número a beira da imagem correcta](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Rooms_in_the_house/Parts_of_the_house_tp18820nz)   
+[![lvwkhse02](https://1blockatatime.github.io/English/images2/lvwkhse02.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Rooms_in_the_house/Parts_of_the_house_tp18820nz)
+Nota: p.1 Clica e ouve; p.2: Clica, ouve e escreve o número a beira da imagem correcta  
 
 ***  
 
@@ -26,9 +27,7 @@ Nota: Não é um exercício. Permite ouvir um por um os nomes das divisões e ob
 
 **Exercícios:** Clica na altifalante para ouvir e arrasta cada membro da família para a divisão correcta   
 
-[![lvwkhse08](https://1blockatatime.github.io/English/images2/lvwkhse08.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Where_is_the_family$_nu1098209nz)   
-
-[![lvwkhse09](https://1blockatatime.github.io/English/images2/lvwkhse09.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Rooms_in_the_house/My_House_my_family_(Listen_and_drag)_je1100602mz)  
+[![lvwkhse08](https://1blockatatime.github.io/English/images2/lvwkhse08.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/The_family/Where_is_the_family$_nu1098209nz) [![lvwkhse09](https://1blockatatime.github.io/English/images2/lvwkhse09.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Rooms_in_the_house/My_House_my_family_(Listen_and_drag)_je1100602mz)  
 
 ***  
 
