@@ -1,9 +1,9 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
 ***25/05/2023 - quinta-feira dia 25 de maio*** Para fazer até quinta-feira dia 1 de junho  
-**Material de estudo:** Continuamos a trabalhar o verbo 'to have got' - estamos a trabalhar: 'he has got' - ele tem; 'she has got' - ela tem; 'it has got' - aquilo (a coisa ou animal) tem. Para quem quiser rever o vídeo da conjugação total: https://youtu.be/OeKRRwkMLIk?t=15  ; clica para ouvir/relembrar os nomes das partes do corpo no caderno digital número 2 páginas 29
+**Material de estudo:** Continuamos a trabalhar o verbo 'to have got' - estamos a trabalhar: 'he has got' - ele tem; 'she has got' - ela tem; 'it has got' - aquilo (a coisa ou animal) tem. Para quem quiser ver, clica n[o vídeo da conjugação total](https://youtu.be/OeKRRwkMLIk?t=15) ; clica para ouvir/relembrar os nomes das partes do corpo no caderno digital número 2 pág. 29  
 **Exercícios:** Caderno digital número 2: páginas 31,32,33,34,35 e 36  
-**Extensão opcional:** Caderno digital número 2: páginas 37,38 e 39   
+**Extensão opcional:** Caderno digital número 2: páginas 37,38,39 e 40   
 
 *** 
 
