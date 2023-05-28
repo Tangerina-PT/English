@@ -12,3 +12,7 @@ Which is your favourite season of all? (Qual é a tua estação preferida de tod
 Winter, Spring, Summer or Fall? (O inverno, a primavera, o verão e o outono)  
 There are four seasons and I like them all! (Há quatro estações e eu gosto de todos eles!)   
 
+***
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
+
+***
