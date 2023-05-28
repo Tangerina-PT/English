@@ -5,7 +5,7 @@
 Song and video by Rockin' English  [Click here for song lyrics and translation](https://tangerina-pt.github.io/English/seas)  
 
 **Ouve e repete:** Clica na altifalante para ouvir o nome de cada estação em inglês.   
-[![lvwkseas00](https://1blockatatime.github.io/English/images2/lvwkseas00.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Listening_and_remembering/Seasons_gz1657103ur)[![lvwkseas01](https://1blockatatime.github.io/English/images2/lvwkseas01.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_lj1843204yq)[![lvwkseas02](https://1blockatatime.github.io/English/images2/lvwkseas02.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_vb2925602ua)  
+[![lvwkseas00](https://1blockatatime.github.io/English/images2/lvwkseas00.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Listening_and_remembering/Seasons_gz1657103ur)[![lvwkseas01](https://1blockatatime.github.io/English/images2/lvwkseas01.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_lj1843204yq)[![lvwkseas02](https://1blockatatime.github.io/English/images2/lvwkseas02.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_le2349622xo)  
 
 **Exercícios:**  
 Clica na altifalante para ouvir o nome da estação. Arrasta a imagem correcta para cima do quadrado colorido. Alinha o canto superior esquerdo da imagem com o canto superior esquerdo do quadrado colorido.       
