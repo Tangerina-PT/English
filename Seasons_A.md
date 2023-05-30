@@ -4,8 +4,10 @@
 
 Song and video by Rockin' English  [Click here for song lyrics and translation](https://tangerina-pt.github.io/English/seas)  
 
-**Vocabulário novo:** seasons (estação), winter (inverno), spring (primavera), summer (verão), fall/autumn (outono)   
-**Question:** ***What is your favourite ... ? (O que é o teu/seu ... preferido?)***  
+**Vocabulário - novo:** seasons (estação), winter (inverno), spring (primavera), summer (verão), fall/autumn (outono), flowers (flores), leaves (folhas)   
+**Vocabulário - revisão**  snowy (com neve), rainy (com chuva), sunny (com sol), hot (quente), cloudy (com núvens)  
+
+**Question:** ***What/which is your favourite ... ? (O que/qual é o teu/seu ... preferido?)***  
 **Answers:** ***...; My favourite ... is ...?; I like ...***  
 
 **Ouve e repete:** Clica na altifalante para ouvir o nome de cada estação em inglês.   
