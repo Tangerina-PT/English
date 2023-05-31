@@ -35,7 +35,7 @@ Nota: Não é um exercício. Permite ouvir um por um os nomes das divisões e ob
 Vídeo para aprender os nomes de alguns objectos em casa. Depois de ouvir os nomes dos objectos para cada divisão da casa, consegues identificar o que falta?   
 <iframe width="220" height="124" src="https://www.youtube.com/embed/RivVBeC68aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
 
-Nota: Isto é uma introdução. Não há uma expectativa de aprender de cor já todas as palavras. Iremos continuar a trabalhar este tópico depois das férias.    
+Nota: Isto é uma introdução. Não há uma expectativa de aprender de cor já todas as palavras.   
 
 ***  
 
