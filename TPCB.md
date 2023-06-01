@@ -3,7 +3,8 @@
 ***01/06/2023 - quinta-feira dia 01 de junho*** Para fazer até quinta-feira dia 16 de junho  
 **Preparação para o teste final oral** O TPC principal esta semana é praticar para o teste final oral de sexta-feira dia 09 de junho. O papel com as perguntase respostas a trabalhar foi para casa hoje com os alunos. 
 **Material de estudo - novo conteúdo:** [The seasons](https://tangerina-pt.github.io/English/Seasons_B)  
-**Exercícios:** Caderno digital número 2: páginas   
+**Exercícios:** Caderno digital número 2: páginas 41, 42, 43, 44    
+Note: 'What's the weather like?' (Como é que parece o tempo?) = 'How's the weather?'. A palavra 'like' tem dois significados em inglês = 'gostar de' E 'parece/é parecido com'.   
 
 ***  
 
