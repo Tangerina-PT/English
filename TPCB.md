@@ -1,5 +1,12 @@
 ### Trabalhos para casa - Inglês 2º ano - 2022-2023
 
+***01/06/2023 - quinta-feira dia 01 de junho*** Para fazer até quinta-feira dia 16 de junho  
+**Preparação para o teste final oral** O TPC principal esta semana é praticar para o teste final oral de sexta-feira dia 09 de junho. O papel com as perguntase respostas a trabalhar foi para casa hoje com os alunos. 
+**Material de estudo - novo conteúdo:** [The seasons](https://tangerina-pt.github.io/English/Seasons_B)  
+**Exercícios:** Caderno digital número 2: páginas   
+
+***  
+
 ***25/05/2023 - quinta-feira dia 25 de maio*** Para fazer até quinta-feira dia 1 de junho  
 **Material de estudo:** Continuamos a trabalhar o verbo 'to have got' - estamos a trabalhar: 'he has got' - ele tem; 'she has got' - ela tem; 'it has got' - aquilo (a coisa ou animal) tem. Para quem quiser ver, clica n[o vídeo da conjugação total](https://youtu.be/OeKRRwkMLIk?t=15) ; clica para ouvir/relembrar os nomes das partes do corpo no caderno digital número 2 pág. 29  
 **Exercícios:** Caderno digital número 2: páginas 31,32,33,34,35 e 36  
