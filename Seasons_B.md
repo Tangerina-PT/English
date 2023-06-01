@@ -4,11 +4,11 @@
 
 Song and video by Rockin' English  [Click here for song lyrics and translation](https://tangerina-pt.github.io/English/seas)  
 
-**Vocabulário - novo:** seasons (estação), winter (inverno), spring (primavera), summer (verão), fall/autumn (outono), flowers (flores), leaves (folhas)   
-**Vocabulário - revisão**  snowy (com neve), rainy (com chuva), sunny (com sol), hot (quente), cloudy (com núvens)  
+**Vocabulário - novo:** seasons (estação), winter (inverno), spring (primavera), summer (verão), fall/autumn (outono), flowers (flores), to arrive (chegar), leaves (folhas), to fall (cair)   
+**Vocabulário - revisão:**  snowy (com neve), white (branco), rainy (com chuva), sunny (com sol), hot (quente), cloudy (com núvens)  
 
 **Question:** ***What/which is your favourite ... ? (O que/qual é o teu/seu ... preferido?)***  
-**Answers:** ***...; My favourite ... is ...?; I like ...***  
+**Answers:** ***...; I like ...; My favourite ... is ...?***  
   
 **Ouve e repete:** Clica na altifalante para ouvir o nome de cada estação em inglês.   
 [![lvwkseas00](https://1blockatatime.github.io/English/images2/lvwkseas00.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Listening_and_remembering/Seasons_gz1657103ur)[![lvwkseas01](https://1blockatatime.github.io/English/images2/lvwkseas01.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_lj1843204yq)[![lvwkseas02](https://1blockatatime.github.io/English/images2/lvwkseas02.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_le2349622xo)  
