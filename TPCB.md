@@ -15,8 +15,6 @@
 
 *** 
 
-**Nota:** Foi-me comunicado (obrigada pelo feedback) que seria mais prático haver alguma forma de saber directamente quando há novos TPC. Se o utilizador registar um endereço email na conta de liveworksheets, recebe uma notificação por email por cada página de TPC que é 'dado'/'indicado' a partir do momento do registo. Não é ideal - vai um email por página. Mas é uma forma de receber uma notificação.     
-
 ***05/05/2023 - sexta-feira dia 5 de maio*** Para fazer até quinta-feira dia 12 de maio   
 Não houve aulas esta semana devido ao teste de aferição e o dia da mãe. Os exercícios consiste me trabalhar a leitura revendo conteúdo para preparar para as avaliações. Integra objectos de sala de aula, cores e o verbo 'to be'.  
 **Material de estudo:** Tenta ler as palavras em voz alta. Clica nas imagens para ouvir a pronúncia. Caderno dígital, páginas: 17 e 18  
@@ -33,10 +31,6 @@ Não houve aulas esta semana devido ao teste de aferição e o dia da mãe. Os e
 **Extensão opcional:** Caderno digital número 2: páginas 7 e 8    
 
 ***  
-
-***Nota:*** A grande maioria está a aderir aos trabalhos para casa, está a fazer um muito bom trabalho, e tem impulsionado as actividades e um ritmo de trabalho ótimo nas aulas. Muito de vez em quando há um problema técnica com uma ou outra página que faz com que respostas certas são indicadas como erradas. Foi explicado esta falha potencial ocasional aos alunos e foi-lhes dito para não se preocuparem se a nota de uma página seja muito mais baixa de que nas outras. Ou pode ser um problema técnica ou pode ser que a página abordou conteúdo insuficientemente abordada em sala de aula. Em ambos os casos a responsabilidade não é dos alunos, evidentemente, por isso um resultado estranho é para não preocupar. Mas qualquer dúvida ou problema, pedia que me enviem um email por favor. Agradecendo, desde já, todo e qualquer feedback - o maior o número de comentários negativos, o mais bem-ajustado ficará o programa aos alunos. Com os melhores cumprimentos, Sally Teh (c21educator@gmail.com)   
-
-***
 
 ***31/03/2023 - sexta-feira dia 31 de março*** Para fazer até quinta-feira dia 20 de abril  
 **Jogo:** Jogar o jogo de adivinhas levado para casa: 'What am I?'  
@@ -68,11 +62,6 @@ páginas 12,22,13,14,15
 **Material de estudo:** [Talking about toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)  
 **Exercícios:** Caderno digital [https://www.liveworksheets.com/](https://www.liveworksheets.com/workbooks/)   
 páginas 68, 69, 70, 71  
-
-***  
-
-**Nota re: caderno digital:**  
-* Surgiu outro vez o problema técnico com a não-aparecência temporária de uma página no caderno e, como consequência, uma mudança na enumeração das páginas. Já foram actualizados os números das páginas a completar no anúncio dos TPC. Parece estar resolvido, por isso não deve de surgir outra vez.  
 
 ***  
 
