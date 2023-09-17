@@ -14,7 +14,7 @@
 
 #### [Topic 6 - Days of the week/Months of the year](https://tangerina-pt.github.io/English/Calendar_B)[![days](https://1blockatatime.github.io/English/images/days.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Calendar_B)
 
-#### [Topic 7 - Seasons](https://tangerina-pt.github.io/English/Seasons_B)[![days](https://1blockatatime.github.io/English/images/seas.png){:height="30px"}](https://tangerina-pt.github.io/English/Seasons_B)
+#### [Topic 7 - Seasons](https://tangerina-pt.github.io/English/Seasons_B)[![seasons](https://1blockatatime.github.io/English/images2/seas.png){:height="30px"}](https://tangerina-pt.github.io/English/Seasons_B)
 
 #### [Topic 8 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)  
 
@@ -38,7 +38,8 @@
 
 #### [Topic 18 - Talking about toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)  
 
-#### [Topic 19 - Rooms of the House](https://tangerina-pt.github.io/English/House_B) [![toys](https://1blockatatime.github.io/English/images/housex.png){:height="30px"}](https://tangerina-pt.github.io/English/House_B)  
+#### [Topic 19 - Rooms of the House](https://tangerina-pt.github.io/English/House_B) [![house](https://1blockatatime.github.io/English/images2/housex.png){:height="30px"}](https://tangerina-pt.github.io/English/House_B)  
+
 #### [Topic 20 - Food](https://tangerina-pt.github.io/English/Food_B) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_B)  
 
 #### [Topic 21 - Actions](https://tangerina-pt.github.io/English/Actions_B)[![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_B)  
