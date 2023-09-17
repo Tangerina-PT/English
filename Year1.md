@@ -18,7 +18,7 @@ Year 1 English
 ### [Topic 12 - Family](https://tangerina-pt.github.io/English/Family_A) [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_A)
 ### [Topic 13 - Toys](https://tangerina-pt.github.io/English/Toys_A) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_A)  
 ### [Topic 14 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_A) [![pp6](https://1blockatatime.github.io/English/images/pp_6.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_A)  
-### [Topic 15 - Rooms of the house](https://tangerina-pt.github.io/English/House_A) [![food](https://1blockatatime.github.io/English/images/housex.png){:height="30px"}](https://tangerina-pt.github.io/English/House_A) 
+### [Topic 15 - Rooms of the house](https://tangerina-pt.github.io/English/House_A) [![food](https://1blockatatime.github.io/English/images2/housex.png){:height="30px"}](https://tangerina-pt.github.io/English/House_A) 
 ### [Topic 16 - Food](https://tangerina-pt.github.io/English/Food_A) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_A)  
 ### [Topic 17 - Calendar](https://tangerina-pt.github.io/English/Calendar_A) [![days](https://1blockatatime.github.io/English/images/days.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Days_A)
 ### [Topic 18 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_A) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_A)
