@@ -14,33 +14,36 @@
 
 #### [Topic 6 - Days of the week/Months of the year](https://tangerina-pt.github.io/English/Calendar_B)[![days](https://1blockatatime.github.io/English/images/days.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Calendar_B)
 
-#### [Topic 7 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)  
+#### [Topic 7 - Seasons](https://tangerina-pt.github.io/English/Seasons_B)[![days](https://1blockatatime.github.io/English/images/seas.png){:height="30px"}](https://tangerina-pt.github.io/English/Seasons_B)
 
-#### [Topic 8 - Introduction to the verb 'to be'](https://tangerina-pt.github.io/English/To_Be) [![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be)
+#### [Topic 8 - Classroom objects](https://tangerina-pt.github.io/English/Classroom_Objects_B) [![classo](https://1blockatatime.github.io/English/images/classo.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Objects_B)  
 
-#### [Topic 9 - Adjetivos](https://tangerina-pt.github.io/English/ADJ1) [![adj1](https://1blockatatime.github.io/English/images2/sh_tall.jpg){:height="30px"}](https://tangerina-pt.github.io/English/ADJ1)  
+#### [Topic 9 - Introduction to the verb 'to be'](https://tangerina-pt.github.io/English/To_Be) [![tobe](https://1blockatatime.github.io/English/images2/vtobe.JPG){:height="30px"}](https://tangerina-pt.github.io/English/To_Be)
 
-#### [Topic 10 - Talking about feelings](https://tangerina-pt.github.io/English/Feelings_B) [![hoyt](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)
+#### [Topic 10 - Adjetivos](https://tangerina-pt.github.io/English/ADJ1) [![adj1](https://1blockatatime.github.io/English/images2/sh_tall.jpg){:height="30px"}](https://tangerina-pt.github.io/English/ADJ1)  
 
-#### [Topic 11 - Family](https://tangerina-pt.github.io/English/Family_B) [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_B)
+#### [Topic 11 - Talking about feelings](https://tangerina-pt.github.io/English/Feelings_B) [![hoyt](https://1blockatatime.github.io/English/images/hoyt.png){:height="30px"}](https://tangerina-pt.github.io/English/Feelings_B)
 
-#### [Topic 12 - Introducing and talking about others](https://tangerina-pt.github.io/English/Intro_B) [![friend1](https://1blockatatime.github.io/English/images2/friend1.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Intro_B)
+#### [Topic 12 - Family](https://tangerina-pt.github.io/English/Family_B) [![elffm1](https://1blockatatime.github.io/English/images/elffm1.png){:height="30px"}](https://tangerina-pt.github.io/English/Family_B)
 
-#### [Topic 13 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)[![hsktbw](https://1blockatatime.github.io/English/images/hsktbw.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_B)
+#### [Topic 13 - Introducing and talking about others](https://tangerina-pt.github.io/English/Intro_B) [![friend1](https://1blockatatime.github.io/English/images2/friend1.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Intro_B)
 
-#### [Topic 14 - Talking about animals](https://tangerina-pt.github.io/English/Animals_B)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_B)
+#### [Topic 14 - Talking about me](https://tangerina-pt.github.io/English/Body_Parts_B)[![hsktbw](https://1blockatatime.github.io/English/images/hsktbw.jpg){:height="30px"}](https://tangerina-pt.github.io/English/Body_Parts_B)
 
-#### [Topic 15 - Introduction to the verb 'to have got'](https://tangerina-pt.github.io/English/To_Have_Got)[![pet2](https://1blockatatime.github.io/English/images/pet2.PNG){:height="30px"}](https://tangerina-pt.github.io/English/To_Have_Got)
+#### [Topic 15 - Talking about animals](https://tangerina-pt.github.io/English/Animals_B)[![anim](https://1blockatatime.github.io/English/images/anim.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Animals_B)
 
-#### [Topic 16 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)
+#### [Topic 16 - Introduction to the verb 'to have got'](https://tangerina-pt.github.io/English/To_Have_Got)[![pet2](https://1blockatatime.github.io/English/images/pet2.PNG){:height="30px"}](https://tangerina-pt.github.io/English/To_Have_Got)
 
-#### [Topic 17 - Talking about toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)  
+#### [Topic 17 - Talking about position/location](https://tangerina-pt.github.io/English/Prep_Place_B) [![prep](https://1blockatatime.github.io/English/images/prep_y2.png){:height="30px"}](https://tangerina-pt.github.io/English/Prep_Place_B)
 
-#### [Topic 18 - Food](https://tangerina-pt.github.io/English/Food_B) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_B)  
+#### [Topic 18 - Talking about toys](https://tangerina-pt.github.io/English/Toys_B) [![toys](https://1blockatatime.github.io/English/images/toys.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Toys_B)  
 
-#### [Topic 19 - Actions](https://tangerina-pt.github.io/English/Actions_B)[![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_B)  
+#### [Topic 19 - Rooms of the House](https://tangerina-pt.github.io/English/House_B) [![toys](https://1blockatatime.github.io/English/images/housex.png){:height="30px"}](https://tangerina-pt.github.io/English/House_B)  
+#### [Topic 20 - Food](https://tangerina-pt.github.io/English/Food_B) [![food](https://1blockatatime.github.io/English/images/food.PNG){:height="30px"}](https://tangerina-pt.github.io/English/Food_B)  
 
-#### [Topic 20 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_B) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_B)
+#### [Topic 21 - Actions](https://tangerina-pt.github.io/English/Actions_B)[![stand](https://1blockatatime.github.io/English/images/stand.png){:height="30px"}](https://tangerina-pt.github.io/English/Actions_B)  
+
+#### [Topic 22 - Language of play - carnival games](https://tangerina-pt.github.io/English/Carnival_B) [![throw](https://1blockatatime.github.io/English/images2/throw.png){:height="30px"}](https://tangerina-pt.github.io/English/Carnival_B)
 
 #### [Classroom questions](https://tangerina-pt.github.io/English/Classroom_Q_B) [![toilet](https://1blockatatime.github.io/English/images/toilet.png){:height="30px"}](https://tangerina-pt.github.io/English/Classroom_Q_B)
 
