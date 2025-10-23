@@ -9,7 +9,6 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 
 ***
 
-#### Notes/Notas
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
 <p align="center">
 <img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
