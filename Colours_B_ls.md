@@ -29,8 +29,8 @@
 ***Question:*** **'What colour are the pencils?' (De que cor são os lápis?)**  
 ***Answer:*** **'The pencils are red.' (Os lápis são vermelhos.)**    
 
-***
+<!---***
 
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
 
-***
+***-->
