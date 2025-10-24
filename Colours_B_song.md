@@ -18,7 +18,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 <audio src="audio/y2_v2.mp3" controls preload></audio> <audio src="audio/y2_v2.mp3" controls preload></audio>   
 ![colmix2](https://1blockatatime.github.io/English/images/colmix2.png)
 
-***
+<!---***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
 
-***
+***-->
