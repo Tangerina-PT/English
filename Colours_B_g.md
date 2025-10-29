@@ -7,9 +7,9 @@
 <!-- - 
 ![readtxt](https://1blockatatime.github.io/English/images/readtxt.png)![read](/images/read.jpg)
 [![bcol](https://1blockatatime.github.io/English/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours)  
-Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./Click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. -->  
+Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./Click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. 
 
-- [![clmtch1](https://1blockatatime.github.io/English/images2/clmtch1.JPG){:height="60px"}](https://fromabcstoacts.com/online-color-matching-game/) Escolha ![clmtch2](https://1blockatatime.github.io/English/images2/clmtch2.jpg){:height="40px"}
+- [![clmtch1](https://1blockatatime.github.io/English/images2/clmtch1.JPG){:height="60px"}](https://fromabcstoacts.com/online-color-matching-game/) Escolha ![clmtch2](https://1blockatatime.github.io/English/images2/clmtch2.jpg){:height="40px"} -->  
 
 NB: Aceder este jogo de forma gratuita utilizando um PC ou um laptop. As vezes aparece pedidos de se inscrever ou pagar usando um tablet ou um telemóvel.   
 
