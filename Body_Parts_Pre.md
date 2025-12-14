@@ -40,8 +40,9 @@ Arms, legs, feet and hands, feet and hands.
 (3). Desafio: canta e aponta quando as imagens estão fora de ordem.     
 ![nose](https://1blockatatime.github.io/English/images/nose.png){:height="70px"}![legs](https://1blockatatime.github.io/English/images/legs.PNG){:height="70px"}![hands](https://1blockatatime.github.io/English/images/hands.PNG){:height="70px"}![mout](https://1blockatatime.github.io/English/images/mout.png){:height="70px"}  
 ![ears](https://1blockatatime.github.io/English/images/ears.png){:height="70px"}![arms](https://1blockatatime.github.io/English/images/arms.PNG){:height="70px"}![eyes](https://1blockatatime.github.io/English/images/eyes.png){:height="70px"}![feet](https://1blockatatime.github.io/English/images/feet.PNG){:height="70px"}  
-<!--
-### Classroom game
+
+
+<!--### Classroom game
 
 ***Language:***  
 **'Touch your ... ' (Toca no(s)/na(s) teu(s)/tua(s) ... )**  
