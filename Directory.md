@@ -4,7 +4,7 @@ Online English reading directory for English as an additional language learners)
 
 ![spkr](https://1blockatatime.github.io/English/images/spkr.PNG){:height="20px"} Read and listen./Ler e ouvir.      
 
-### Levelled reading collections (leitura nivelada)
+### Levelled reading collections (coleções de leitura nivelada)
 
 #### [Scholastic Sight Word Readers](https://1blockatatime.github.io/English/schol_swr) ![spkr](https://1blockatatime.github.io/English/images/spkr.PNG){:height="20px"}  
 #### [United for Learning](https://1blockatatime.github.io/English/ufl_readers) ![spkr](https://1blockatatime.github.io/English/images/spkr.PNG){:height="20px"} 
