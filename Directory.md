@@ -1,8 +1,5 @@
 
-Tangerina Reading Club - Year 3 and Year 4       
-Online English reading directory for English as an additional language learners)   
-
-![spkr](https://1blockatatime.github.io/English/images/spkr.PNG){:height="20px"} Read and listen./Ler e ouvir.      
+Tangerina Reading Club - online English reading directory (![spkr](https://1blockatatime.github.io/English/images/spkr.PNG){:height="20px"} Read and listen./Ler e ouvir.)   
 
 ### Levelled reading collections (coleções de leitura nivelada)
 
