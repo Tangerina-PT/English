@@ -1,5 +1,5 @@
 
-Tangerina Reading Club - online English reading directory (![spkr](https://1blockatatime.github.io/English/images/spkr.PNG){:height="15px"} Read and listen./Ler e ouvir.)   
+***Tangerina Reading Club - online English reading directory*** (![spkr](https://1blockatatime.github.io/English/images/spkr.PNG){:height="15px"} Read and listen./Ler e ouvir.)   
 
 #### Levelled reading collections (coleções de leitura nivelada)
 
