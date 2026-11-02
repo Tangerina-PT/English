@@ -1,13 +1,30 @@
-Bem vindo à pagina internet de inglês da escola - um site sob desenvolvimento para facilitar o reforço da aprendizagem de inglês. Encontrarão aqui, organizados por tópicos, os links para as canções e os vídeos usados e indicações das estruturas trabalhadas nas aulas de inglês. Quando disponível, também aparecem jogos lúdicos e exercícios que permitem aos alunos trabalhar o vocabulário e as estruturas fora das aulas.   
+Purpose
+Welcome to the Tangerina Preschool English website. On these pages, you will find links to:
+- songs used in the classroom to help children learn the pronunciation and meaning of particular words in English;
+- suggested activities to practice (both the vocabulary and language structures used in the classroom) at home 
+- online games, when available, that further reinforce language acquisition and retention 
+Screen use
+- Understandably, some families do not wish their children to be on or using screens. There is absolutely no need for children to be accessing the websites directly. The links provided can alternatively be used by families to familiarise themselves with and accompany practising classroom songs and activities.
+Free access
+- Only links to resources available without charge are included. In principle, all links are accessible (in some cases only using a PC or laptop) without creating an account and without payment. However, in the past when some families tried to access occasional links with a telephone or tablet, it was necessary to create an account and payment was requested. If this occurs, please try again using a PC or laptop.
+Individual readiness
+- All children develop at their own rhythm and are ready for/interested in particular types of activities at different ages and stages. Any activity that is too difficult or leads to excessive frustration should be discontinued.
 
-Antes de mais, é preciso sublinhar que só são selecionados e incluídos recursos de acesso gratuito. Devem ser acessíveis (pelo menos a partir de um PC ou laptop) sem criar conta e sem pagar para aceder. Já aconteceu, infrequentemente, que ao tentar aceder a uma ou outra actividade (pelos vistos a partir de um telemóvel ou tablet) ser exigido a criação de conta ou um pagamento. Se acontecer, pedia que desistissem por essa via e que tentem aceder usando um computador ou laptop. Não é suposto pagar para qualquer actividade indicada no site.  
+Please get in touch regarding any problems, doubts or suggestions:
+c21educator@gmail.com
+Objetivo
 
-É também importante ter em atenção que todos os alunos são diferentes, desenvolvem-se ao seu próprio ritmo e estão prontos para/interessados em determinadas actividades em alturas/idades diferentes. Qualquer actividade que seja difícil de mais ou leve a frustração deve ser descontinuada de imediato (com a excepção da frustração advindo de uma das dificuldades logísticas descritas abaixo).  
-
-Um dos sites usados frequentemente é o liveworksheets.com. Tem a vantagem da incorporação de componentes auditivas permitindo aos alunos de fazer actividades de compreensão oral, tão importantes na aprendizagem de línguas. Nestes exercícios, qualquer sítio onde, passando o rato por cima aparece um altifalante, permite clicar para ouvir o inglês. Mas este site tem alguns inconvenientes. Estão descritas aqui as dificuldades típicas que os alunos têm e como resolvê-las, na esperança de prevenir e evitar dificuldades e frustrações. Havendo interesse de fazer estas actividades, pedia que ajudassem os vossos filhos com os seguintes elementos.    
-
-Em primeiro lugar, a maioria das fichas no site, carregados por diferentes professores/utilizadores são em formato vertical, o que dificulta a visibilidade da página toda num ecrã de computador (que tem orientação horizontal). As vezes é preciso fazer ‘zoom’ e diminuir o tamanho da página para que sejam visíveis todas as componentes a trabalhar. As outras duas dificuldades comuns são: arrastar elementos (p.ex. imagens) e desenhar linhas para fazer correspondências. Arrasta-se um elemento pondo o rato em cima, clicando e mantendo a pressão no botão esquerdo do rato enquanto se arrasta para o lugar desejado. O crítico é que é preciso encontrar o sítio onde ‘cola’ antes de o largar. O alvo pode parecer uma área grande mas há um sítio – uma parte do alvo - que age como um íman e atrai o elemento arrastado. Largando noutro sítio, volta ao sítio inicial. Encontrando o sítio onde cola, fica lá no sítio ao largar. Para outras actividades, p. ex. onde é possível clicar no altifalante para ouvir o inglês, depois têm de desenhar uma linha para a imagem correspondente. É preciso ter em atenção que só se pode iniciar ou acabar uma linha dentro de uma das zonas onde aparece o lápis ao passar por cima. Antes de desenhar a linha, é preciso explorar com o rato para identificar as zonas exatas onde aparecem o lápis. Começando fora de uma destas zonas, não se consegue iniciar uma linha. E tendo começado a desenhar, acabando fora de uma destas zonas, a linha desaparece. Só ao acertarmos começando e acabando a linha nas zonas próprias é que fica registado.    
-
-Para evitar frustrações, as vezes alguma ajuda ou orientação é necessário no princípio para conseguirem fazer os zoom, arrastar elementos e desenhar linhas. Não funciona de forma perfeita, mas vale a pena o esforço de ultrapassar as dificuldades de operação para poder aproveitar as actividades de reforço da aprendizagem. O site também permite aos alunos de ver de imediato a correção. Ao acabar o exercício, só têm de clicar no ‘FINISH’ em baixo e clicar a seguir na lupa para ver a verde o que está bem e a cor-de-rosa ou vermelho o que está mal. Se quiserem, podem tentar outra vez por seguir o link para a mesma página de novo.   
-
-Quaisquer dúvidas, problemas ou sugestões, enviem por favor uma mensagem por email: c21educator@gmail.com   
+Bem-vindos ao site de inglês do Jardim de Infância da Tangerina. Nestas páginas, irão encontrar links para:
+- canções utilizadas em sala de aula para ajudar as crianças a aprender a pronúncia e
+o significado de palavras específicas em inglês;
+- atividades sugeridas para praticar (tanto o vocabulário como as estruturas linguísticas utilizadas na sala de aula) em casa 
+- jogos online, quando disponíveis, que reforçam ainda mais a aquisição e a retenção da língua 
+Utilização de ecrãs
+- Compreensivelmente, algumas famílias não desejam que os seus filhos estejam em frente a ecrãs ou a utilizá-los. Não há absolutamente nenhuma necessidade de as crianças acederem diretamente aos sites. Os links fornecidos podem, em alternativa, ser utilizados pelas famílias para se familiarizarem com as canções e atividades usadas em sala de aula para acompanharem em casa.
+Acesso gratuito
+- Apenas estão incluídos links para recursos disponíveis gratuitamente. Em princípio, todos os links são acessíveis (em alguns casos, apenas através de um computador ou portátil) sem necessidade de criar uma conta e sem pagamento. No entanto, no passado, quando algumas famílias tentaram aceder a determinados links através de um telemóvel ou tablet, foi necessário criar uma conta e foi solicitado um pagamento. Se isso acontecer, por favor, tente novamente utilizando um computador ou portátil.
+Individual readiness
+- Todas as crianças são diferentes, desenvolvem-se ao seu próprio ritmo e estão preparadas para/interessadas em tipos específicos de atividades em diferentes idades e fases. Qualquer atividade que seja demasiado difícil ou que provoque frustração excessiva deve ser interrompida.
+Quaisquer dúvidas, problemas ou sugestões, enviem por favor uma mensagem por email: 
+c21educator@gmail.com
+ 
