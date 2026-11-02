@@ -18,7 +18,8 @@ Cantar ao apontar para as cores na altura certa? Na escola, saltamos para cima d
 Quando já há confiança a nomear as cores, tentar cantar ao apontar para as cores quando estão fora de ordem.  
 
 ***  
-[Important notes/Notas importantes](https://tangerina-pt.github.io/English/Intro_P)
+[Important notes/Notas importantes](https://tangerina-pt.github.io/English/Intro_P)  
+
 ***  
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
 <p align="center">
