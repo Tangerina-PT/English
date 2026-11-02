@@ -20,8 +20,8 @@ Quando já há confiança a nomear as cores, tentar cantar ao apontar para as co
 ***  
 [Important notes/Notas importantes](https://tangerina-pt.github.io/English/Intro_P)  
 
-***  
-* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+***   
+Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
 <p align="center">
 <img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
 </p>
