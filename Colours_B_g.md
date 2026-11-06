@@ -1,7 +1,5 @@
 ### Colours - Games
 
-- [![cobi](https://1blockatatime.github.io/English/images2/cobi1.JPG){:height="120px"}](https://www.abcya.com/games/shapes-colors-bingo) Escolha ![cobi2](https://1blockatatime.github.io/English/images2/cobi2.JPG){:height="60px"}   
-
 
 
 <!-- - 
@@ -9,9 +7,11 @@
 [![bcol](https://1blockatatime.github.io/English/images/bcol.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/colours) [Match colours and their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours)  
 Clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta./Click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. 
 
-- [![clmtch1](https://1blockatatime.github.io/English/images2/clmtch1.JPG){:height="60px"}](https://fromabcstoacts.com/online-color-matching-game/) Escolha ![clmtch2](https://1blockatatime.github.io/English/images2/clmtch2.jpg){:height="40px"} -->  
+- [![cobi](https://1blockatatime.github.io/English/images2/cobi1.JPG){:height="120px"}](https://www.abcya.com/games/shapes-colors-bingo) Escolha ![cobi2](https://1blockatatime.github.io/English/images2/cobi2.JPG){:height="60px"}   
 
-NB: Aceder este jogo de forma gratuita utilizando um PC ou um laptop. As vezes aparece pedidos de se inscrever ou pagar usando um tablet ou um telemóvel.   
+- [![clmtch1](https://1blockatatime.github.io/English/images2/clmtch1.JPG){:height="60px"}](https://fromabcstoacts.com/online-color-matching-game/) Escolha ![clmtch2](https://1blockatatime.github.io/English/images2/clmtch2.jpg){:height="40px"}  
+
+NB: Aceder este jogo de forma gratuita utilizando um PC ou um laptop. As vezes aparece pedidos de se inscrever ou pagar usando um tablet ou um telemóvel.    -->
 
 - [![comenew](https://1blockatatime.github.io/English/images2/comenew.JPG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) Play [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html)    
    Play twice to cover all colours./Joga duas vezes para ver todas as cores.    
