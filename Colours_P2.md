@@ -1,9 +1,6 @@
 ### Song 1: I can sing a rainbow (Eu consigo cantar um arco-iris)  
 
-Red and yellow and pink and green, purple and orange and blue.  
-I can sing a rainbow, sing a rainbow, sing a rainbow too.  
-
-(1). (1). Cantar a nossa canção:   
+(1). Cantar a nossa canção:   
 
 <video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video> (Video by AprenderYdivertirse)    
 
@@ -18,7 +15,7 @@ Cantar ao apontar para as cores na altura certa? Na escola, saltamos para cima d
 
 (3). ![colmix](https://1blockatatime.github.io/English/images/colmix.png)
 
-Quando já há confiança a nomear as cores, tentar cantar ao apontar para as cores quando estão fora de ordem.  
+Quando já há confiança a nomear as cores, tentar cantar ao apontar para (ou apanhar objetos d)as cores quando estão fora de ordem.  
 
 ***
 ### Song 2: What colour is it? (De que cor é?)
@@ -27,26 +24,23 @@ Quando já há confiança a nomear as cores, tentar cantar ao apontar para as co
 ***Answer:*** **'It's red.' (É vermelho.)**   
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-song by Dream English Kids 
+Song by Dream English Kids 
 
 ### Jogar o nosso jogo de sala de aula: What colour is it? (De que cor é?)  
 
-Cortar uma caixa para o jogador principal não poder ver os objetos a cores. Colocar um objeto de cada cor na caixa: vermelho, amarelo, cor-de-rosa, verde, roxo, laranja e azul. O jogador principal escolha uma cor. Para identificar o objeto da cor correta, pergunta em inglês aos outros jogadores 'What colour is it?'. Os outros jogadores respondem 'It's (colour name).' Video demonstração:   
 <iframe width="220" height="124" src="https://www.youtube.com/embed/53e-BFXy_do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-Amateur home video    
+Tacky, amateur home video    
+Cortar uma caixa para o jogador principal não poder ver os objetos. Colocar um objeto de cada cor na caixa: vermelho, amarelo, cor-de-rosa, verde, roxo, laranja e azul. O jogador principal escolha uma cor. Para identificar o objeto da cor correta, levanta visivelmente um objeto para os outros jogadores verem e pergunta-lhes em inglês:'What colour is it?'. Os outros jogadores respondem 'It's (colour name).'    
 
-***
-### Colour game (Jogo para trabalhar as cores)
-
-<!---(1). Joga [![cobi](https://1blockatatime.github.io/English/images2/cobi1.JPG){:height="120px"}](https://www.abcya.com/games/shapes-colors-bingo) [colour bingo](https://www.abcya.com/games/shapes-colors-bingo) / [bingo das cores](https://www.abcya.com/games/shapes-colors-bingo) (Game by ABCYA)  
-Escolhe o jogo ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/images2/cobi2.JPG){:height="60px"}  --->
+### Colour game (Jogo online para trabalhar as cores)
 
 [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) (Game by ESLgamesworld)  
-(Queira assegurar que o som está ligado. Não é preciso poder ler para jogar este jogo - só ouvir com atenção e tentar lembrar.)  
+(Certifique-se de que o som está ligado. Não precisa de saber ler para jogar – basta ouvir com atenção e tentar memorizar.  
 
 ***
+[Important notes/Notas importantes](https://tangerina-pt.github.io/English/Intro_P)  
+***   
 
-#### Notes/Notas
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
 <p align="center">
 <img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
