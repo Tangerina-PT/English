@@ -12,6 +12,8 @@ Welcome to the Tangerina Preschool English website. On these pages, you will fin
 #### Individual readiness
 - All children develop at their own rhythm and are ready for/interested in particular types of activities at different ages and stages. Any activity that is too difficult or leads to excessive frustration should be discontinued.   
 
+#### Choice of resources
+- Most links are to resources produced for young children. They have been selected for use due to the slow, clear pronunciation of the target language or the easily memorable tune and/or lyrics (withholding judgement on the sometimes strange nature of the video content).  
 Please get in touch regarding any problems, doubts or suggestions: c21educator@gmail.com  
 
 ***  
@@ -31,6 +33,12 @@ o significado de palavras específicas em inglês;
 #### Individual readiness
 - Todas as crianças são diferentes, desenvolvem-se ao seu próprio ritmo e estão preparadas para/interessadas em tipos específicos de atividades em diferentes idades e fases. Qualquer atividade que seja demasiado difícil ou que provoque frustração excessiva deve ser interrompida.  
 
-Quaisquer dúvidas, problemas ou sugestões, enviem por favor uma mensagem por email: c21educator@gmail.com
+#### Escolha de recursos
+- A maioria dos 'links' são a recursos produzidos para crianças pequenas. Foram selecionados devido à pronuncia lenta e clara da linguagem alvo ou a música e/ou palavras facilmente decoradas. (desvalorizando maneiras as vezes estranhas de apresentar o conteúdo).
+- 
+Quaisquer dúvidas, problemas ou sugestões, enviem por favor uma mensagem por email: c21educator@gmail.com  
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
 
 ***
