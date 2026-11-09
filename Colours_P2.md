@@ -38,7 +38,8 @@ Cortar uma caixa para o jogador principal não poder ver os objetos. Colocar um 
 (Certifique-se de que o som está ligado. Não precisa de saber ler para jogar – basta ouvir com atenção e tentar memorizar.  
 
 ***
-[Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
+[Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)   
+
 ***   
 
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina:  
