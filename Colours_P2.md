@@ -33,11 +33,6 @@ Quando já há confiança a nomear as cores, tentar cantar ao apontar para (ou a
 [Tacky, amateur home video]   
 Cortar uma caixa para o jogador principal não poder ver os objetos. Colocar um objeto de cada cor na caixa: vermelho, amarelo, cor-de-rosa, verde, roxo, laranja e azul. O jogador principal escolha uma cor. Para identificar o objeto da cor correta, levanta visivelmente um objeto para os outros jogadores verem e pergunta-lhes em inglês:'What colour is it?'. Os outros jogadores respondem 'It's (colour name).'    
 
-### Online games and activities (Jogos e atividades online)
-
-[![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) (Game by ESLgamesworld)  
-(Certifique-se de que o som está ligado. Não precisa de saber ler para jogar – basta ouvir com atenção e tentar memorizar.  
-
 ***
 [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)   
 
