@@ -1,6 +1,6 @@
 ### Actions
 
-Já começamos a aprender algumas acções a cantar. Canta e faz as acções para te lembrares.  
+Já começamos a aprender algumas acções a cantar.  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Vê o vídeo, canta e faz as acções.  
@@ -32,8 +32,10 @@ Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](htt
 
 ***
 
-#### Notes/Notas
-* Any activity that is too difficult or leads to frustration should be discontinued immediately. / Qualquer actividade que seja difícil demais ou leve à frustraçao deve ser descontinuada imediatamente.  
+***  
+[Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
+
+***   
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
 <p align="center">
 <img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
