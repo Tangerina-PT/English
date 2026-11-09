@@ -53,6 +53,12 @@ Cortar uma caixa para o jogador principal não poder ver os objetos. Colocar um 
 [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)   
 
 ***   
+Feedback re: Sing, Play, Learn English @Tangerina:  
+c21educator@gmail.com  
+
+<p align="center">
+<img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
+</p>
 
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina:  
 c21educator@gmail.com
