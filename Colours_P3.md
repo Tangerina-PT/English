@@ -1,22 +1,30 @@
 ### Song 1: I can sing a rainbow (Eu consigo cantar um arco-iris)  
 
-(1). Cantar a nossa canção:   
+(1). Cantar a nossa canção do ano passado ao apontar para as cores na altura certa:   
 
-<video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video>  
-[Video by AprenderYdivertirse]    
+<video src="video/rainbow_colour_song_edited.mp4" width="220" height="124" controls preload></video> (Video by AprenderYdivertirse)   
 
 Red and yellow and pink and green, purple and orange and blue.  
 (Vermelho e amarelo e cor-de-rosa e verde, roxo e laranja e azul.)  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 (Eu consigo cantar um arco-iris, cantar um arco-iris, cantar um arco-iris também.)  
 
-(2). ![colbbbc](https://1blockatatime.github.io/English/images2/colbbbc.png) 
+![colbbbc](https://1blockatatime.github.io/English/images2/colbbbc.png) 
 
-Cantar ao apontar para as cores na altura certa? Na escola, saltamos para cima das cores enquanto cantávamos. Podem ser usados quaisquer objetos coloridos.  
+(2). Cantar o segundo verso ao apontar para as cores na altura certa. Na escola, saltamos para cima das cores enquanto cantávamos. Podem ser usados quaisquer objetos coloridos.  
 
-(3). ![colmix](https://1blockatatime.github.io/English/images/colmix.png)
+<audio src="audio/y2_v2.mp3" controls preload></audio>  
 
-Quando já há confiança a nomear as cores, tentar cantar ao apontar para (ou apanhar objetos d)as cores quando estão fora de ordem.  
+![colbbbc2](https://1blockatatime.github.io/English/images/colbbbc2.png){:height="60px"}  
+
+Gold and silver and brown and beige, black and white and grey.  
+(Dourado e prateado e castando e bege, preto e branco e cinzento.)  
+I can sing a rainbow, sing a rainbow, sing a rainbow today.
+(Eu consigo cantar um arco-iris, cantar um arco-iris, cantar um arco-iris hoje.)  
+
+(3). Desafio - cantar e apontar os dois versos.   
+<audio src="audio/v1.mp3" controls preload></audio> <audio src="audio/y2_v2.mp3" controls preload></audio>   
+![colmix2](https://1blockatatime.github.io/English/images/colmix2.png)  
 
 ***
 ### Song 2: What colour is it? (De que cor é?)
@@ -39,7 +47,7 @@ Cortar uma caixa para o jogador principal não poder ver os objetos. Colocar um 
 (Clique em «Start». Ouça e, começando pela coluna mais à esquerda do favo de mel, clique no círculo correto para cada cor que ouvir, de modo a formar um percurso contínuo de células adjacentes até chegar ao lado direito. Se cometer um erro, após uma breve pausa, ouvirá a cor novamente e poderá escolher outra opção. ) 
 
 [![colmem](https://1blockatatime.github.io/English/images2/colmem.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) (Game by ESLgamesworld)  
-(Certifique-se de que o som está ligado. Não precisa de saber ler para jogar – basta ouvir com atenção e tentar memorizar.  
+(Certifique-se de que o som está ligado. Não precisa de saber ler para jogar – basta ouvir com atenção e tentar memorizar.)  
 
 ***
 [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)   
