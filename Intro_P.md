@@ -1,7 +1,7 @@
 Welcome to the Tangerina Preschool English website. On these pages, you will find links to:
 - songs used in the classroom to help children learn the pronunciation and meaning of particular words in English;
-- suggested activities to practice (both the vocabulary and language structures used in the classroom) at home 
-- online games, when available, that further reinforce language acquisition and retention.    
+- suggested activities to practice (both the vocabulary and language structures used in the classroom) at home; 
+- online games, where available, that further reinforce language acquisition and retention.    
 
 #### Screen use
 - Understandably, some families do not wish their children to be on or using screens. There is absolutely no need for children to be accessing the websites directly. The links provided can alternatively be used by families to familiarise themselves with and accompany practising classroom songs and activities.  
@@ -13,7 +13,7 @@ Welcome to the Tangerina Preschool English website. On these pages, you will fin
 - All children develop at their own rhythm and are ready for/interested in particular types of activities at different ages and stages. Any activity that is too difficult or leads to excessive frustration should be discontinued.   
 
 #### Choice of resources
-- Most links are to resources produced for young children. They have been selected for use due to the slow, clear pronunciation of the target language or the easily memorable tune and/or lyrics (withholding judgement on the sometimes strange nature of the video content).  
+- Most links are to resources produced for young children. They have been selected for use due to the slow, clear pronunciation of the target language, an easily memorable tune and/or lyrics and ease of accompanying actions (withholding judgement on the sometimes strange nature of the video content).  
 Please get in touch regarding any problems, doubts or suggestions: c21educator@gmail.com  
 
 ***  
@@ -21,7 +21,7 @@ Please get in touch regarding any problems, doubts or suggestions: c21educator@g
 Bem-vindos ao site de inglês do Jardim de Infância da Tangerina. Nestas páginas, irão encontrar links para:
 - canções utilizadas em sala de aula para ajudar as crianças a aprender a pronúncia e
 o significado de palavras específicas em inglês;
-- atividades sugeridas para praticar (tanto o vocabulário como as estruturas linguísticas utilizadas na sala de aula) em casa 
+- atividades sugeridas para praticar (tanto o vocabulário como as estruturas linguísticas utilizadas na sala de aula) em casa;  
 - jogos online, quando disponíveis, que reforçam ainda mais a aquisição e a retenção da língua.   
 
 #### Utilização de ecrãs
@@ -34,7 +34,7 @@ o significado de palavras específicas em inglês;
 - Todas as crianças são diferentes, desenvolvem-se ao seu próprio ritmo e estão preparadas para/interessadas em tipos específicos de atividades em diferentes idades e fases. Qualquer atividade que seja demasiado difícil ou que provoque frustração excessiva deve ser interrompida.  
 
 #### Escolha de recursos
-- A maioria dos 'links' são a recursos produzidos para crianças pequenas. Foram selecionados devido à pronuncia lenta e clara da linguagem alvo ou a música e/ou palavras facilmente decoradas. (desvalorizando maneiras as vezes estranhas de apresentar o conteúdo).
+- A maioria dos 'links' são a recursos produzidos para crianças pequenas. Foram selecionados devido à pronuncia lenta e clara da linguagem alvo, a música e/ou palavras facilmente decoradas e facilidade de acompanhamento por ações. (desvalorizando maneiras as vezes estranhas de apresentar o conteúdo).
 - 
 Quaisquer dúvidas, problemas ou sugestões, enviem por favor uma mensagem por email: c21educator@gmail.com  
 <p align="center">
