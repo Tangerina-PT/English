@@ -46,7 +46,10 @@ Cortar uma caixa para o jogador principal não poder ver os objetos. Colocar um 
 [![col_ck](https://1blockatatime.github.io/English/images2/col_ck.png){:height="50px"}](https://www.cokogames.com/colors-listening/play/) [Listen and click](https://www.cokogames.com/colors-listening/play/)/ [Ouvir e clicar](https://www.cokogames.com/colors-listening/play/) (Game by Cokogames)  
 (Clique em «Start». Ouça e, começando pela coluna mais à esquerda do favo de mel, clique no círculo correto para cada cor que ouvir, de modo a formar um percurso contínuo de células adjacentes até chegar ao lado direito. Se cometer um erro, após uma breve pausa, ouvirá a cor novamente e poderá escolher outra opção. ) 
 
-[![clmemp](https://1blockatatime.github.io/English/images2/clmemp.png){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [colour memory](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) / [memória - cores](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/colours/index.html) [Game courtesy of Wordwall]  
+[![clmemp](https://1blockatatime.github.io/English/images2/clmemp.png){:height="50px"}](https://wordwall.net/resource/65231703/memory-game-colors-sound) [colour memory](https://wordwall.net/resource/65231703/memory-game-colors-sound) / [jogo de memória - cores](https://wordwall.net/resource/65231703/memory-game-colors-sound) [Game courtesy of Wordwall]  
+
+
+[![clmem2](https://1blockatatime.github.io/English/images2/clmem2.png){:height="50px"}](https://wordwall.net/pt/resource/94050396/artes/colors-memory-game) [colour memory](https://wordwall.net/pt/resource/94050396/artes/colors-memory-game) / [jogo de memória nível 2 - cores](https://wordwall.net/pt/resource/94050396/artes/colors-memory-game) [Game courtesy of Wordwall]  
 
 ***
 [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)   
