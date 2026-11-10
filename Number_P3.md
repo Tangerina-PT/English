@@ -22,7 +22,7 @@ Para ouvir a contagem, mas desativar o som da resposta barulhenta do macaco, ![b
     ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG){:height="75px"} Agora consegues contar para baixo? (Game by Shepphard Software)-->  
 
 * Clique em cada animal e conte-os em voz alta. Escolha o número correto.  
-[![thplg](https://1blockatatime.github.io/English/images2/thplg.png){:height="40px"}](https://tinyhandsplay.com/) [Counting Critters](https://tinyhandsplay.com/) Desça a página e clique no botão laranja 'Play' por baixo de 'Counting Critters': ![thpcc](https://1blockatatime.github.io/English/images2/thpcc.png){:height="75px"}  
+[![thplg](https://1blockatatime.github.io/English/images2/thplg.png){:height="40px"}](https://tinyhandsplay.com/) [Counting Critters](https://tinyhandsplay.com/) Desça a página e clique no botão laranja 'Play' por baixo de 'Counting Critters'. A seguir escolha 'Level 1': ![thpcc](https://1blockatatime.github.io/English/images2/thpcc.png){:height="75px"}  
 Bug: Se for cometido um erro na seleção do número contado, é necessário selecionar o número correto para poder avançar, uma vez que não é iniciada/não permite uma recontagem.  
 
 ***  
