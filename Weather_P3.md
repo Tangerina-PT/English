@@ -12,9 +12,7 @@ Cantar a nossa canção fazendo as ações.
 [Song by Maple Leaf Learning]
 
 ### Listening activities (exercícios de compreensão oral)
-Ao acabar, clica na barra vermelha 'Finish' em baixo e a seguir em 'Check my answers' para ver a correção.  
-
-Clica na imagem ou na altifalante para ouvir como está o tempo. Escolha a imagem correcta. Nota: partly cloudy - parcialmente nublado     
+Ao acabar, clica na barra vermelha 'Finish' em baixo e a seguir em 'Check my answers' para ver a correção. Clicar na imagem ou na altifalante para ouvir como está o tempo. Escolher a imagem correcta. Nota: partly cloudy - parcialmente nublado   
 [![lvwkwth2](https://1blockatatime.github.io/English/images2/lvwkwth2.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/What-s_the_weather_fh426619jp)[![lvwkwth8](https://1blockatatime.github.io/English/images2/lvwkwth8.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/The_weather_ra639277ui)[![lvwkwth10](https://1blockatatime.github.io/English/images2/lvwkwth10.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Weather/How's_the_weather$_eu1630513qb)  
 [Online worksheets courtesy of Liveworksheets.com]  
 
