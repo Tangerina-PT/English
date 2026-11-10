@@ -37,7 +37,7 @@ Cortar uma caixa para o jogador principal não poder ver os objetos. Colocar um 
 
 [![clchk1](https://1blockatatime.github.io/English/images2/clchk1.png){:height="50px"}](https://wordwall.net/resource/103109841/colours-red-yelloworange-blue-pink-greenpurple) [Colour check](https://wordwall.net/resource/103109841/colours-red-yelloworange-blue-pink-greenpurple) / [Verificar](https://wordwall.net/resource/103109841/colours-red-yelloworange-blue-pink-greenpurple) [Game courtesy of Wordwall]  
 
-[![clmemp](https://1blockatatime.github.io/English/images2/clmemp.png){:height="50px"}](https://wordwall.net/resource/65231703/memory-game-colors-sound) [colour memory](https://wordwall.net/resource/65231703/memory-game-colors-sound) / [jogo de memória - cores](https://wordwall.net/resource/65231703/memory-game-colors-sound) [Game courtesy of Wordwall]  
+[![clmemp](https://1blockatatime.github.io/English/images2/clmemp.png){:height="50px"}](https://wordwall.net/resource/65231703/memory-game-colors-sound) [Colour memory](https://wordwall.net/resource/65231703/memory-game-colors-sound) / [Jogo de memória - cores](https://wordwall.net/resource/65231703/memory-game-colors-sound) [Game courtesy of Wordwall]  
  
 ***
 [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)   
