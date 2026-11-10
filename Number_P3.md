@@ -24,7 +24,7 @@ Para ouvir a contagem, mas desativar o som da resposta barulhenta do macaco, cli
 
 * Click on and count each animal then choose the correct number / Clique em cada animal e conte-os, depois escolha o número correto.  
 [![thplg](https://1blockatatime.github.io/English/images2/thplg.png){:height="75px"}](https://tinyhandsplay.com/) [Counting Critters](https://tinyhandsplay.com/)  
-Scroll down and click on: / Desça a página e clique em: ![thpcc](https://1blockatatime.github.io/English/images2/thplg.png){:height="75px"}  
+Scroll down and click on: / Desça a página e clique em: ![thpcc](https://1blockatatime.github.io/English/images2/thpcc.png){:height="75px"}  
 
 
 
