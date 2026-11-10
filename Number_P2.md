@@ -20,7 +20,7 @@ Para ouvir a contagem, mas desativar o som da resposta barulhenta do macaco, ![b
 * [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG){:height="75px"}](https://www.sheppardsoftware.com/math/early-math/count-to-10/) [Balloon pop](https://www.sheppardsoftware.com/math/early-math/count-to-10/) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG){:height="75px"}  
 
 * Clique em cada animal e conte-os em voz alta. Escolha o número correto.  
-[![thplg](https://1blockatatime.github.io/English/images2/thplg.png){:height="40px"}](https://tinyhandsplay.com/) [Counting Critters](https://tinyhandsplay.com/) Desça a página e clique no botão laranja 'Play' por baixo de 'Counting Critters'. A seguir escolha 'Level 1': ![thpcc](https://1blockatatime.github.io/English/images2/thpcc.png){:height="75px"}  
+[![thplg](https://1blockatatime.github.io/English/images2/thplg.png){:height="40px"}](https://tinyhandsplay.com/) [Counting Critters](https://tinyhandsplay.com/) Desça a página e clique no botão laranja 'Play' por baixo de 'Counting Critters'. A seguir escolha Level 1: ![thpcc](https://1blockatatime.github.io/English/images2/thpcc.png){:height="75px"}  
 Bug: Se for cometido um erro na seleção do número contado, é necessário selecionar o número correto para poder avançar, uma vez que não é iniciada/não permite uma recontagem.  
 
 <!-- Conta em voz alta em inglês. Clica no balão certo depois de dizer cada número para verificar.  
