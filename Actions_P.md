@@ -1,15 +1,14 @@
 ### Actions
 
-Já começamos a aprender algumas acções a cantar.  
+Já começamos a aprender algumas acções a cantar. Praticar a cantar fazendo as ações. 
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Vê o vídeo, canta e faz as acções.  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/WsiRSWthV1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 ![stand_up](/images/stand_up.gif){:height="80px" width="80px"} ***stand up*** / ![sit_down](/images/sit_down.gif){:height="80px" width="80px"} ***sit down*** / ![turn_around](/images/turn_around.gif){:height="80px" width="80px"} ***turn around*** /  
 ![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="80px" width="80px"} ***jump*** /  
 ![hop](/images/hop.gif){:height="80px" width="80px"} ***hop*** /![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***  
 
-* 'Hop' tem dois significados em inglês: no contexto do movimento humano quer dizer 'saltar ao pé coxinho' e no contexto dos animais é o tipo de salto/locomoção característico dos cangurus e dos coelhos.
-* 
+* 'Hop' tem dois significados em inglês: no contexto do movimento humano quer dizer 'saltar ao pé coxinho' e no contexto dos animais é o tipo de salto/locomoção característico dos cangurus e dos coelhos.  
+ 
 <!--<iframe width="220" height="124" src="https://www.youtube.com/embed/GoSq-yZcJ-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](https://tangerina-pt.github.io/English/witj)   
 
@@ -30,7 +29,7 @@ Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](htt
 ![climb2](/images/climb2.gif){:height="80px" width="80px"} ***climb*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![sing2](/images/sing2.gif){:height="80px" width="80px"} ***sing*** / ![dance](/images/dance.gif){:height="80px" width="80px"} ***dance***-->  
 
 ***  
-[Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
+#### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
 
 ***   
 * Feedback re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
