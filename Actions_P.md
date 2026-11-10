@@ -27,11 +27,6 @@ Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](htt
 ![clap](/images/clap.gif){:height="80px" width="80px"} ***clap*** / ![fly](/images/fly.gif){:height="80px" width="80px"} ***fly*** / ![stomp](/images/stomp.gif){:height="80px" width="80px"} ***stomp*** / ![swim2](/images/swim2.gif){:height="80px" width="80px"} ***swim*** /  
 ![climb2](/images/climb2.gif){:height="80px" width="80px"} ***climb*** / ![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![sing2](/images/sing2.gif){:height="80px" width="80px"} ***sing*** / ![dance](/images/dance.gif){:height="80px" width="80px"} ***dance***-->  
 
-***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)  
-
-***
-
 ***  
 [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
 
