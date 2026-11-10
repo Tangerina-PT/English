@@ -15,15 +15,13 @@ Extensão - contar e mostrar o número nos dedos
    
 #### Games and activities
 * Pop the bubbles and listen and count / Estoura as bolhas, ouve e conta  
-[![b* Pop the bubbles and listen and count / Estoura as bolhas, ouve e conta  
-[![bppbs](https://1blockatatime.github.io/English/images2/bppbs.png){:height="75px"}](https://pbskids.org/games/play/bubble-pop/18984) [Bubble pop](https://pbskids.org/games/play/bubble-pop/18984)  
-Para ouvir a contagem, mas desativar o som da resposta barulhenta do macaco, ![bpset1](https://1blockatatime.github.io/English/images2/bpset1.png){:height="25px"} clica na roda de configurações no canto superior direito, mantém o «som principal» ativado e desativa os «efeitos sonoros». ![bpset2](https://1blockatatime.github.io/English/images2/bpset2.png){:height="40px"}   
+[![bppbs](https://1blockatatime.github.io/English/images2/bppbs.png){:height="75px"}](https://pbskids.org/games/play/bubble-pop/18984) [Bubble pop](https://pbskids.org/games/play/bubble-pop/18984) (Para ouvir a contagem, mas desativar o som da resposta barulhenta do macaco, ![bpset1](https://1blockatatime.github.io/English/images2/bpset1.png){:height="25px"} clica na roda de configurações no canto superior direito,  mantém o «Main Sound» ativado e desativa os «Sound Effects». ![bpset2](https://1blockatatime.github.io/English/images2/bpset2.png){:height="40px"})      
 
 * [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG){:height="75px"}](https://www.sheppardsoftware.com/math/early-math/count-to-10/) [Balloon pop](https://www.sheppardsoftware.com/math/early-math/count-to-10/) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG){:height="75px"}  
 
 * Click on and count each animal then choose the correct number / Clique em cada animal e conte-os, depois escolha o número correto.  
-[![thplg](https://1blockatatime.github.io/English/images2/thplg.png){:height="75px"}](https://tinyhandsplay.com/) [Counting Critters](https://tinyhandsplay.com/)  
-Scroll down and click on: / Desça a página e clique em: ![thpcc](https://1blockatatime.github.io/English/images2/thpcc.png){:height="75px"}  
+[![thplg](https://1blockatatime.github.io/English/images2/thplg.png){:height="40px"}](https://tinyhandsplay.com/) [Counting Critters](https://tinyhandsplay.com/) Scroll down and click on: / Desça a página e clique no botão verde 'Play' por baixo de 'Counting Critters': ![thpcc](https://1blockatatime.github.io/English/images2/thpcc.png){:height="75px"}  
+Bug: Se for cometido um erro na seleção do número contado, é necessário selecionar o número correto para poder avançar, uma vez que não é iniciada/não permite uma recontagem.  
 
 <!-- Conta em voz alta em inglês. Clica no balão certo depois de dizer cada número para verificar.  
     ![bapo7](https://1blockatatime.github.io/English/images/bapo7.PNG){:height="75px"} Agora consegues contar para baixo? (Game by Shepphard Software)-->  
