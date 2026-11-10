@@ -7,7 +7,7 @@ Já começamos a aprender algumas acções a cantar. Praticar a cantar fazendo a
 ![hand_up](/images/hand_up.gif){:height="80px" width="80px"} ***put*** one hand up (***put*** your hand up) / ![jump](/images/jump.gif){:height="80px" width="80px"} ***jump*** /  
 ![hop](/images/hop.gif){:height="80px" width="80px"} ***hop*** /![run](/images/run.gif){:height="80px" width="80px"} ***run*** / ![stop](/images/stop.gif){:height="80px" width="80px"} ***stop***  
 
-* 'Hop' tem dois significados em inglês: no contexto do movimento humano quer dizer 'saltar ao pé coxinho' e no contexto dos animais é o tipo de salto/locomoção característico dos cangurus e dos coelhos.  
+Nota: 'Hop' tem dois significados em inglês: no contexto do movimento humano quer dizer 'saltar ao pé coxinho' e no contexto dos animais é o tipo de salto/locomoção característico dos cangurus e dos coelhos.  
  
 <!--<iframe width="220" height="124" src="https://www.youtube.com/embed/GoSq-yZcJ-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](https://tangerina-pt.github.io/English/witj)   
