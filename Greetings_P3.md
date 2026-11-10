@@ -3,7 +3,7 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/nADEef0Z7Ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-Abridged version of song by Tom Simek, Rockin’ English    
+[Abridged version of song by Tom Simek, Rockin’ English]    
 
 ![grtxt](https://1blockatatime.github.io/English/images2/grtxt2.JPG){:height="120px"}   
 
@@ -16,7 +16,7 @@ Abridged version of song by Tom Simek, Rockin’ English
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/Uv1JkBL5728" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="220" height="124" src="https://www.youtube.com/embed/9R5-W3bMX4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-Song by Maple Leaf Learning; Gogo’s Adventures(1) by K. Methold et al (ed.Pearson)   
+[Song by Maple Leaf Learning; Gogo’s Adventures(1) by K. Methold et al (ed.Pearson)]   
 
 <!--<iframe width="220" height="124" src="https://www.youtube.com/embed/Z2ePENbnwus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 [Amateur home video]  
@@ -34,8 +34,7 @@ Song by Cambridge University Press
 ***Answer:*** **'I'm 5.' ('Sou 5.' -> Tenho 5.) OR 'I'm 5 years old.' ('Sou 5 anos velho.' -> Tenho 5 anos.)**  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/x2cI4ZgsYU4?si=XJRrmdgR8MfiXJxe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-
-Song by English Tree TV  
+[Song by English Tree TV]  
 
 <!--<iframe width="220" height="124" src="https://www.youtube.com/embed/7KZenkUM8nA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 Jogaste o nosso jogo de sala de aula (onde fingimos ter diferentes idades) em casa?  
