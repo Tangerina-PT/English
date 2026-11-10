@@ -44,8 +44,7 @@ Cortar uma caixa para o jogador principal não poder ver os objetos. Colocar um 
 
 ***   
 
-* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina:  
-c21educator@gmail.com
+* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina: c21educator@gmail.com   
 
 <p align="center">
 <img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
