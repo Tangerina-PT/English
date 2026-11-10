@@ -1,7 +1,7 @@
-Welcome to the Tangerina Preschool English website. On these pages, you will find links to:
-- songs used in the classroom to help children learn the pronunciation and meaning of particular words in English;
-- suggested activities to practice (both the vocabulary and language structures used in the classroom) at home; 
-- online games, where available, that further reinforce language acquisition and retention.    
+Welcome to the Tangerina Preschool English website, built to provide links to:
+- songs used in the classroom to help children learn the pronunciation and meaning of particular words in English [Abordagem à aprendizagem de vocabulário](https://tangerina-pt.github.io/English/AAV);
+- suggested activities to practice (both the vocabulary and language structures introduced in the classroom) at home; 
+- online activities and games, where available, that further reinforce language acquisition and retention.    
 
 #### Screen use
 - Understandably, some families do not wish their children to be on or using screens. There is absolutely no need for children to be accessing the websites directly. The links provided can alternatively be used by families to familiarise themselves with and accompany practising classroom songs and activities.  
@@ -18,11 +18,11 @@ Please get in touch regarding any problems, doubts or suggestions: c21educator@g
 
 ***  
 
-Bem-vindos ao site de inglês do Jardim de Infância da Tangerina. Nestas páginas, irão encontrar links para:
+Bem-vindos ao site de inglês do Jardim de Infância da Tangerina criado para disponibilizar ligações para:
 - canções utilizadas em sala de aula para ajudar as crianças a aprender a pronúncia e
-o significado de palavras específicas em inglês;
-- atividades sugeridas para praticar (tanto o vocabulário como as estruturas linguísticas utilizadas na sala de aula) em casa;  
-- jogos online, quando disponíveis, que reforçam ainda mais a aquisição e a retenção da língua.   
+o significado de palavras específicas em inglês [Abordagem à aprendizagem de vocabulário](https://tangerina-pt.github.io/English/AAV);
+- atividades sugeridas para praticar (tanto o vocabulário como as estruturas linguísticas introduzidas na sala de aula) em casa;  
+- atividades e jogos online, quando disponíveis, que reforçam ainda mais a aquisição e a retenção da língua.   
 
 #### Utilização de ecrãs
 - Compreensivelmente, algumas famílias não desejam que os seus filhos estejam em frente a ecrãs ou a utilizá-los. Não há absolutamente nenhuma necessidade de as crianças acederem diretamente aos sites. Os links fornecidos podem, em alternativa, ser utilizados pelas famílias para se familiarizarem com as canções e atividades usadas em sala de aula para acompanharem em casa.  
