@@ -6,8 +6,7 @@ Cantar a nossa canção fazendo as ações.
 ![wthactions](https://1blockatatime.github.io/English/images2/wth_actions.png){:height="165px"}
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/I8GeA3anPdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-[Song by Maple Leaf Learning](https://www.youtube.com/embed/I8GeA3anPdo)  
+[Song by Maple Leaf Learning]  
 
 ***
 #### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
