@@ -15,8 +15,7 @@ Extensão - contar e mostrar o número nos dedos
    
 #### Games and activities
 * Pop the bubbles and listen and count / Estoura as bolhas, ouve e conta  
-[![bppbs](https://1blockatatime.github.io/English/images2/bppbs.png){:height="75px"}](https://pbskids.org/games/play/bubble-pop/18984) [Bubble pop](https://pbskids.org/games/play/bubble-pop/18984)  
-Para ouvir a contagem, mas desativar o som da resposta barulhenta do macaco, clica na roda de configurações no canto superior direito ![bpset1](https://1blockatatime.github.io/English/images2/bpset1.png), mantém o «som principal» ativado e desativa os «efeitos sonoros». ![bpset2](https://1blockatatime.github.io/English/images2/bpset2.png)    
+[![bppbs](https://1blockatatime.github.io/English/images2/bppbs.png){:height="75px"}](https://pbskids.org/games/play/bubble-pop/18984) [Bubble pop](https://pbskids.org/games/play/bubble-pop/18984) (Para ouvir a contagem, mas desativar o som da resposta barulhenta do macaco, ![bpset1](https://1blockatatime.github.io/English/images2/bpset1.png){:height="25px"} clica na roda de configurações no canto superior direito,  mantém o «Main Sound» ativado e desativa os «Sound Effects». ![bpset2](https://1blockatatime.github.io/English/images2/bpset2.png){:height="40px"})          
 
 * [![bapo5](https://1blockatatime.github.io/English/images/bapo5.PNG){:height="75px"}](https://www.sheppardsoftware.com/math/early-math/count-to-10/) [Balloon pop](https://www.sheppardsoftware.com/math/early-math/count-to-10/) Escolha ![bapo6](https://1blockatatime.github.io/English/images/bapo6.PNG){:height="75px"}  
  Conta em voz alta em inglês. Clica no balão certo depois de dizer cada número para verificar.  
