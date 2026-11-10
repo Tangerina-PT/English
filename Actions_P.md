@@ -36,7 +36,7 @@ Vê o vídeo, canta e faz as acções.  [Lyrics for parents/Letra para pais](htt
 [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
 
 ***   
-* Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
+* Feedback re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
 <p align="center">
 <img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
 </p>  
