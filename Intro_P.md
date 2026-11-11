@@ -34,15 +34,17 @@ Para uma breve apresentação da abordagem de ensino/aprendizagem, consulte:
 - Compreensivelmente, algumas famílias não desejam que os seus filhos estejam em frente a ecrãs ou a utilizá-los. Não há absolutamente nenhuma necessidade de as crianças acederem diretamente aos sites. Os links fornecidos podem, em alternativa, ser utilizados pelas famílias para se familiarizarem com as canções e atividades usadas em sala de aula para acompanharem em casa.  
 
 #### Acesso gratuito
-- Apenas estão incluídos links para recursos disponíveis gratuitamente. Em princípio, todos os links são acessíveis (em alguns casos, apenas através de um computador ou portátil) sem necessidade de criar uma conta e sem pagamento. No entanto, no passado, quando algumas famílias tentaram aceder a determinados links através de um telemóvel ou tablet, foi necessário criar uma conta e foi solicitado um pagamento. Se isso acontecer, por favor, tente novamente utilizando um computador ou portátil.  
+- Apenas estão incluídos links para recursos disponíveis gratuitamente. Em princípio, todos os links são acessíveis sem necessidade de criar uma conta e sem pagamento. No passado, algumas tentativas de aceder a determinados links através de um telemóvel ou tablet levaram a uma solicitação de pagamento. Se acontecer, por favor, tente novamente utilizando um computador ou portátil.  
  
 #### Individual readiness
 - Todas as crianças são diferentes, desenvolvem-se ao seu próprio ritmo e estão preparadas para/interessadas em tipos específicos de atividades em diferentes idades e fases. Qualquer atividade que seja demasiado difícil ou que provoque frustração excessiva deve ser interrompida.  
 
 #### Escolha de recursos
 - A maioria dos 'links' são a recursos produzidos para crianças pequenas. Foram selecionados devido à pronuncia lenta e clara da linguagem alvo, a música e/ou palavras facilmente decoradas e facilidade de acompanhamento por ações. (desvalorizando maneiras as vezes estranhas de apresentar o conteúdo).
-- 
-Quaisquer dúvidas, problemas ou sugestões, enviem por favor uma mensagem por email: c21educator@gmail.com  
+
+***  
+
+* Quaisquer dúvidas, problemas ou sugestões, enviem por favor uma mensagem por email: c21educator@gmail.com  
 <p align="center">
 <img width="120" src="https://1blockatatime.github.io/English/images2/spl_logo.png" alt="SPLlogo">
 </p>
