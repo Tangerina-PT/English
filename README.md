@@ -6,7 +6,7 @@ English
 
 <h4>
 <p align="center">
-  <a>Preschool  -  Jardim de Infância</a>
+  Preschool  -  Jardim de Infância
   <br>
 </p>
 <p align="center">
