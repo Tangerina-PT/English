@@ -42,7 +42,7 @@ Jogaste o nosso jogo de sala de aula (onde fingimos ter diferentes idades) em ca
 
 ***  
 
-#### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
+##### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
 
 ***   
 * Feedback re: Sing, Play, Learn English @Tangerina:  
