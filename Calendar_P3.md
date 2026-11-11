@@ -14,7 +14,8 @@ Escutar a pronúncia Británica dos dias da semana, em especial a pronúncia dif
 #### Story - The Very Hungry Caterpillar
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/75NQK-Sm1YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-[Animated film version by Illuminated Films]
+[Animated film version by Illuminated Films]  
+
 <!---#### Story - Seven Blind Mice
 <iframe width="220" height="124" src="https://www.youtube.com/embed/N3qvq91W25o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--->  
 
@@ -35,23 +36,23 @@ Cantar a canção dos meses do ano de Boney M. (Ainda não trabalhada em sala de
 **Question:** ***What/which is your favourite ... ? (O que/qual é o teu/seu ... preferido?)***  
 **Answers:** ***...; My favourite ... is ...?; I like ...***  
 
-**Ouvir e repetir:** Clicar em cada imagem para ouvir o nome de cada estação em inglês e repetir.   
-[![lvwkseas00](https://1blockatatime.github.io/English/images2/lvwkseas00.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Listening_and_remembering/Seasons_gz1657103ur)  
+**Ouvir e repetir:** Clicar na imagem para ouvir o nome da estação e repetir. [![lvwkseas00](https://1blockatatime.github.io/English/images2/lvwkseas00.png){:height="30px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Listening_and_remembering/Seasons_gz1657103ur)  
 <!--[![lvwkseas01](https://1blockatatime.github.io/English/images2/lvwkseas01.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_lj1843204yq)-->  
 
 **Exercícios:**  
-1). Ao acabar, clica na barra vermelha 'Finish' em baixo e a seguir em 'Check my answers' para ver a correção.  
-Clicar na altifalante para ouvir o nome da estação. Arrastar a imagem correcta para cima do quadrado colorido. Alinha o canto superior esquerdo da imagem com o canto superior esquerdo do quadrado colorido. (Usa o nome Americano para outono - 'fall')   
-[![lvwkseas04](https://1blockatatime.github.io/English/images2/lvwkseas04.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_vb2925602ua)  
+1). [![lvwkseas04](https://1blockatatime.github.io/English/images2/lvwkseas04.png){:height="30px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_vb2925602ua)  
+Ao acabar, clica na barra vermelha 'Finish' em baixo e a seguir em 'Check my answers' para ver a correção. Clicar na altifalante para ouvir o nome da estação. Arrastar a imagem correcta para cima do quadrado colorido. Alinhar o canto superior esquerdo da imagem com o canto superior esquerdo do quadrado colorido.   
+(Usa o nome Americano para outono - 'fall')   
 
-2).  página 1: Clicar na altifalante para ouvir o nome da estação.   
+2). [![lvwkseas05](https://1blockatatime.github.io/English/images2/lvwkseas05.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_for_kids_hp1326192qb)   
+página 1: Clicar na altifalante para ouvir o nome da estação.   
 página 2: Clicar na palavra para ouvir o nome da estação. Clicar na imagem correcta.
 (Usa a palavra inglesa para outono - autumn)  
-[![lvwkseas05](https://1blockatatime.github.io/English/images2/lvwkseas05.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_for_kids_hp1326192qb)
     
 ***  
 
-##### Notes/Notas
+##### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
+
 ***  
 
 * Feedback/dúvidas re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
