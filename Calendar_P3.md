@@ -44,7 +44,7 @@ Cantar a canção dos meses do ano de Boney M. (Ainda não trabalhada em sala de
 Ao acabar, clica na barra vermelha 'Finish' em baixo e a seguir em 'Check my answers' para ver a correção. Clicar na altifalante para ouvir o nome da estação. Arrastar a imagem correcta para cima do quadrado colorido. Alinhar o canto superior esquerdo da imagem com o canto superior esquerdo do quadrado colorido.   
 (Usa o nome Americano para outono - 'fall')   
 
-2). [![lvwkseas05](https://1blockatatime.github.io/English/images2/lvwkseas05.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_for_kids_hp1326192qb)   
+2). [![lvwkseas05](https://1blockatatime.github.io/English/images2/lvwkseas05.png){:height="30px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Seasons/Seasons_for_kids_hp1326192qb)   
 página 1: Clicar na altifalante para ouvir o nome da estação.   
 página 2: Clicar na palavra para ouvir o nome da estação. Clicar na imagem correcta.
 (Usa a palavra inglesa para outono - autumn)  
