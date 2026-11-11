@@ -25,7 +25,7 @@ Rever o vocabulário acrescentando: It's stormy. (Está tempestuoso.-> Há uma t
 [![weme3](https://1blockatatime.github.io/English/images2/weme3.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jogo de memória](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html)-->     
 
 ***
-#### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
+##### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
 
 ***   
 * Feedback re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
