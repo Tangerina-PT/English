@@ -20,10 +20,10 @@
 
 ***  
 
-[Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
+##### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
 
 ***   
-Feedback re: Sing, Play, Learn English @Tangerina:  
+* Feedback re: Sing, Play, Learn English @Tangerina:  
 c21educator@gmail.com  
 
 <p align="center">
