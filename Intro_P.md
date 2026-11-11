@@ -3,7 +3,7 @@ Welcome to the Tangerina Preschool English website, built to provide links to:
 - suggested activities to practice (both the vocabulary and language structures introduced in the classroom) at home; 
 - online activities and games, where available, that further reinforce language acquisition and retention.    
 For a brief overview of the teaching/learning approach, please see:  
-[Processo/cíclo de aprendizagem]((https://tangerina-pt.github.io/English/PCA)   
+[Processo/cíclo de aprendizagem](https://tangerina-pt.github.io/English/PCA)   
 [Abordagem à aprendizagem de vocabulário](https://tangerina-pt.github.io/English/AAV)   
 
 #### Screen use
@@ -27,7 +27,7 @@ o significado de palavras e expressões específicas em inglês;
 - atividades sugeridas para praticar (tanto o vocabulário como as estruturas linguísticas introduzidas na sala de aula) em casa;  
 - atividades e jogos online, quando disponíveis, que reforçam ainda mais a aquisição e a retenção da língua.   
 Para uma breve apresentação da abordagem de ensino/aprendizagem, consulte:  
-[Processo/cíclo de aprendizagem]((https://tangerina-pt.github.io/English/PCA)   
+[Processo/cíclo de aprendizagem](https://tangerina-pt.github.io/English/PCA)   
 [Abordagem à aprendizagem de vocabulário](https://tangerina-pt.github.io/English/AAV)   
 
 #### Utilização de ecrãs
