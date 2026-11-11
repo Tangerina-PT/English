@@ -26,7 +26,7 @@ Para ouvir a contagem, mas desativar o som da resposta barulhenta do macaco, ![b
 Bug: Se for cometido um erro na seleção do número contado, é necessário selecionar o algoritmo correto para poder avançar, uma vez que não é re-iniciada a contagem/não permite uma recontagem.  
 
 ***  
-#### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
+##### [Notes/Notas](https://tangerina-pt.github.io/English/Intro_P)  
 
 ***   
 * Feedback re: Sing, Play, Learn English @Tangerina - c21educator@gmail.com  
