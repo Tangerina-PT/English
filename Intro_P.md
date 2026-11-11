@@ -1,13 +1,16 @@
 Welcome to the Tangerina Preschool English website, built to provide links to:
-- songs used in the classroom to help children learn the pronunciation and meaning of particular words in English [Abordagem à aprendizagem de vocabulário](https://tangerina-pt.github.io/English/AAV);
+- songs used in the classroom to help children learn the pronunciation and meaning of particular words and expressions in English;
 - suggested activities to practice (both the vocabulary and language structures introduced in the classroom) at home; 
 - online activities and games, where available, that further reinforce language acquisition and retention.    
+For a brief overview of the teaching/learning approach, please see:  
+[Processo/cíclo de aprendizagem]((https://tangerina-pt.github.io/English/PCA)   
+[Abordagem à aprendizagem de vocabulário](https://tangerina-pt.github.io/English/AAV)   
 
 #### Screen use
 - Understandably, some families do not wish their children to be on or using screens. There is absolutely no need for children to be accessing the websites directly. The links provided can alternatively be used by families to familiarise themselves with and accompany practising classroom songs and activities.  
 
 #### Free access
-- Only links to resources available without charge are included. In principle, all links are accessible (in some cases only using a PC or laptop) without creating an account and without payment. However, in the past when some families tried to access occasional links with a telephone or tablet, it was necessary to create an account and payment was requested. If this occurs, please try again using a PC or laptop.  
+- Only links to resources available without charge are included. In principle, all links are accessible (in some cases only using a PC or laptop) without creating an account and without payment. In the past, attempts to access some links with a telephone or tablet led to a request to create an account and make payment. If this occurs, please try again using a PC or laptop.  
 
 #### Individual readiness
 - All children develop at their own rhythm and are ready for/interested in particular types of activities at different ages and stages. Any activity that is too difficult or leads to excessive frustration should be discontinued.   
@@ -20,9 +23,12 @@ Please get in touch regarding any problems, doubts or suggestions: c21educator@g
 
 Bem-vindos ao site de inglês do Jardim de Infância da Tangerina criado para disponibilizar ligações para:
 - canções utilizadas em sala de aula para ajudar as crianças a aprender a pronúncia e
-o significado de palavras específicas em inglês [Abordagem à aprendizagem de vocabulário](https://tangerina-pt.github.io/English/AAV);
+o significado de palavras e expressões específicas em inglês;  
 - atividades sugeridas para praticar (tanto o vocabulário como as estruturas linguísticas introduzidas na sala de aula) em casa;  
 - atividades e jogos online, quando disponíveis, que reforçam ainda mais a aquisição e a retenção da língua.   
+Para uma breve apresentação da abordagem de ensino/aprendizagem, consulte:  
+[Processo/cíclo de aprendizagem]((https://tangerina-pt.github.io/English/PCA)   
+[Abordagem à aprendizagem de vocabulário](https://tangerina-pt.github.io/English/AAV)   
 
 #### Utilização de ecrãs
 - Compreensivelmente, algumas famílias não desejam que os seus filhos estejam em frente a ecrãs ou a utilizá-los. Não há absolutamente nenhuma necessidade de as crianças acederem diretamente aos sites. Os links fornecidos podem, em alternativa, ser utilizados pelas famílias para se familiarizarem com as canções e atividades usadas em sala de aula para acompanharem em casa.  
