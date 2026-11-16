@@ -18,7 +18,12 @@ Rever o vocabulário acrescentando: It's stormy. (Está tempestuoso.-> Há uma t
 <iframe width="220" height="124" src="https://www.youtube.com/embed/lWQgDJIZc_Y?si=4EjOZI7FEsmQU3-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 [Video by Maple Leaf Learning]
 
-### Game - jogo de memória
+### Jogar ao jogo do “quente e frio” em inglês em casa
+
+Cada jogador esconde um objeto num local da casa. O objetivo é que os outros jogadores o encontrem, seguindo apenas estas instruções em inglês: “cold” (frio) quando estão longe ou a ir na direção errada, “warm” (morno) ao irem na direção certa e “hot” (quente) ao aproximarem-se.  
+
+### Online game
+
 [![wwwme1](https://1blockatatime.github.io/English/images2/wwwme1.png){:height="60px"}](https://wordwall.net/resource/32678883/memory-game-weather-preschool)  
 [Game courtesy of Wordwall]
 <!--***Extensão - vocabulário adicional:*** **It's hot. (Está calor.); It's cold. (Está frio.); It's foggy. (Está nevoeiro.); It's stormy. (Há tempestade.); It's a rainbow. (É um arco-iris.); It's dry. (Está seco.); It's wet. (Está molhado.)**  
